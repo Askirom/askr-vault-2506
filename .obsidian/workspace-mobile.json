@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "82115a8433ce36eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0449570234b342f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358c2273a21483df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Atlas/Personal Productivity Framework v2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Productivity Framework v2"
+            }
+          },
+          {
+            "id": "ddedf1b6b2ac5a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Atlas/⚡️ ASKIROM v8.0 — THE LIGHTNING PATH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚡️ ASKIROM v8.0 — THE LIGHTNING PATH"
+            }
+          },
+          {
+            "id": "39b041de7dfbe3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡️Askirom v9 - Shadow Bolt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚡️Askirom v9 - Shadow Bolt"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a747ebf692aa0d6d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8ae3cb11a065953",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "339df56782f63a26",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f4bf3e081b9e2f75",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "050ebd70c13a29e5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b66d1f5c0c1c7cc8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5224b2afd92883be",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "47551e5858a5f446",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "525bd62543ddabdf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "39b041de7dfbe3dc",
+  "lastOpenFiles": [
+    "30 Atlas/⚡️ ASKIROM v8.0 — THE LIGHTNING PATH.md",
+    "⚡️Askirom v9 - Shadow Bolt.md",
+    "30 Atlas/Personal Productivity Framework v2.md",
+    "30 Atlas/Baldurs Gate 3  v7.3 Build Checklist.md",
+    "Character Sheet Robin.md",
+    "10 Library/PROFESSIONAL/20250624_BvD-Positionspapier-zur-Reform-der-DSGVO.pdf",
+    "Untitled.md",
+    "20 Workshop/NETWORK/BvD RG Nürnberg/Was würdet ihr an der DSGVO ändern.md",
+    "20 Workshop/HIVE",
+    "20 Workshop/PERSONAL",
+    "20 Workshop/PROFESSIONAL",
+    "20 Workshop/NETWORK",
+    "20 Workshop",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (5)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_13 (2)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (1)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (4)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (2)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_13_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (3)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_12 (6)_jpeg_preview.png",
+    "10 Library/NETWORK/Inserat Vater/WhatsApp Image 2025-03-15 at 15_36_13 (1)_jpeg_preview.png",
+    "10 Library/TEMPLATES/Template Project Hub.md",
+    "10 Library/TEMPLATES/Template Daily Log.md",
+    "10 Library/PERSONAL/attachments",
+    "10 Library/PERSONAL/KIA Niro EV Schaden 2025-06-17.md",
+    "10 Library/PERSONAL/Sublime Text - Merge License.md",
+    "10 Library/PERSONAL/Dionysos Bacchus.md",
+    "10 Library/PERSONAL/Navigating the Gridlock Finding the Best Traffic App for Your Smartphone in 2025.md",
+    "10 Library/PROFESSIONAL/2022-BlnBDI_Checkliste-Pruefung-AVV_v1.0_Ausfuellhinweise.pdf",
+    "10 Library/PROFESSIONAL/Neuer Referentenentwurf von 02.06.2025.md",
+    "10 Library/PROFESSIONAL/ISO 27701.2 InfoSec Cyber Privacy Management.pdf",
+    "10 Library/PROFESSIONAL/2022-BlnBDI_Checkliste-Pruefung-AVV_v1.0-1.pdf",
+    "10 Library/NETWORK/Fabian Lauterbach.md",
+    "02 Daily/2025-05-26.md"
+  ]
+}
