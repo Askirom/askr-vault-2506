@@ -1,51 +1,52 @@
-#Operation/ #decision #op-hub #meeting #evidence #Intel #control
-#client/ #source
-
 # Vault System Overview
 
-A concise reference for folders, tags, and linking—nothing more.
+Simple folder structure and direct linking - minimal overhead, maximum clarity.
 
 ---
 
-## 1 Folder Layout
+## 1 Folder Layout
 
 ```
-0  Inbox/
-02 Daily/
-10 Operations/
-   11 Operation Hubs/
-   12 Operation Files/
-20 Intel/
-	21 Personal/
-	22 Work/
-	23 Hive/
-	24 SkillDev/
-	25 Network/
-98 Archive/
-99 Meta/
-Clippings/          (optional)
-Mails/              (optional)
+0  Inbox/           - Temporary staging
+02 Daily/           - Daily logs (YYYY-MM-DD.md)
+10 Library/         - Reference materials
+   NETWORK/         - Person notes
+   PERSONAL/        - Personal reference
+   PROFESSIONAL/    - Work reference
+   TEMPLATES/       - Note templates
+20 Workshop/        - Active work
+   PROFESSIONAL/    - Client work by folder
+   NETWORK/         - Professional network activities
+   HIVE/           - Personal projects
+30 Atlas/           - System documentation
 ```
 
 ---
 
-## 2 Tag Conventions
+## 2 Linking Strategy
 
-| Tag class           | Pattern                                          | Purpose                                  |
-| ------------------- | ------------------------------------------------ | ---------------------------------------- |
-| **Anchor**          | `#operation/<client>/<codename>`                 | On every project‑related note            |
-|                     | `#intel/<domain>/<topic>`                        | On reusable reference notes              |
-| **type (optional)** | `#meeting`  `#decision`  `#evidence`  `#contact` | Add only when you’ll filter by that role |
+**Person references**: Use `[[Name]]` format
+- Creates bidirectional connections automatically
+- Store person notes in `10 Library/NETWORK/`
+
+**Document references**: Use `[[filename]]` for related files
+- No complex tagging needed
+- Folder structure provides organization
 
 ---
 
-## 3 Linking Basics
+## 3 Core Principles
 
-- **Operation → Intel:** use `[[Note]]` or `![[Note#Section]]` from the operation side.
-    
-- **Backlinks connect both directions automatically.** No need to tag intel with the operation tag.
-    
-- **Canvas:** drag notes onto the project canvas if a visual overview helps.
-    
+- **Direct linking** over complex tagging
+- **Folder organization** handles categorization
+- **Minimal thinking** required when creating notes
+- **Date-based naming** for time-sensitive work (YYYY-MM-DD format)
 
-_(This overview purposely omits templates, Dataview examples, and maintenance tips—refer to other docs only if you choose to add them later.)_
+---
+
+## 4 Daily Workflow
+
+1. Capture in `0 Inbox/` or directly in appropriate folder
+2. Link to people using `[[Name]]` format
+3. Link to related documents when relevant
+4. Let folder structure handle organization

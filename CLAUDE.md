@@ -16,10 +16,11 @@ The vault uses a numerical prefix system for organization:
 - `20 Workshop/` - Active working files organized by category
 - `30 Atlas/` - High-level system documentation and personal framework files
 
-### Tagging System
-Uses two main tag patterns:
-- **Anchor tags**: `#operation/<client>/<codename>` for project-related notes, `#intel/<domain>/<topic>` for reference materials
-- **Type tags**: `#meeting`, `#decision`, `#evidence`, `#contact` for filtering specific content types
+### Linking Strategy
+Uses simple wikilinks for connections:
+- **Person references**: `[[Name]]` format for all people mentioned
+- **Direct file linking**: `[[filename]]` for related documents
+- **No complex tagging**: Folder structure provides organization
 
 ### Active Plugins
 - `dataview` - Database-like queries for dynamic content

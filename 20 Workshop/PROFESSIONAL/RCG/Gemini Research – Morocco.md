@@ -2,6 +2,8 @@
 
 ### Prepared for: RealCore Maintenance GmbH on behalf of ALDI Nord
 
+Related: [[2025-05-15 TIA Marocco]]
+
 # 📌 Introduction
 This Transfer Impact Assessment (TIA) evaluates the legal and practical implications of transferring personal data from Germany (EU) to a data importer in **Morocco**, under the **GDPR** using **Standard Contractual Clauses (SCCs)**.
 
@@ -142,4 +144,3 @@ Key Findings:
 ⠀
 # 📌 Final Note
 This TIA was prepared as of the current understanding of Moroccan law and practice. Surveillance and legal environments evolve — continuous monitoring is required.
-#Intel/Privacy/TIA #Intel/Privacy/Morocco

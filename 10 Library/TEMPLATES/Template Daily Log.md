@@ -1,4 +1,3 @@
-#daily
 # Day Log — {{DATE}}
 
 ## Professional Log
