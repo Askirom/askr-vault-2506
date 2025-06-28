@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Atlas/XP_Log.md",
+                "file": "20 Quests/PERSONAL/QUEST - Personal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "XP_Log"
+              "title": "QUEST - Personal"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Atlas/XP_Log.md",
+                "file": "20 Quests/PERSONAL/QUEST - Personal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XP_Log"
+              "title": "Outline of QUEST - Personal"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "30 Atlas/XP_Log.md"
+                "file": "20 Quests/PERSONAL/QUEST - Personal.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,6 +254,7 @@
   },
   "active": "2baa16ec09c6aad2",
   "lastOpenFiles": [
+    "30 Atlas/XP_Log.md",
     "10 Library/TEMPLATES/Template Daily Log.md",
     "01 Daily/2025-06-28.md",
     "10 Library/PERSONAL/The Science of Expert Intuition.md",
@@ -275,7 +276,6 @@
     "20 Quests/HIVE/QUEST - HIVE.md",
     "20 Quests/PERSONAL/QUEST - Personal.md",
     "30 Atlas/GUILD - The Secudor Charter.md",
-    "30 Atlas/XP_Log.md",
     "20 Quests/PROFESSIONAL/RCG/Milestone - RLE Stellvertreter Consultation.md",
     "20 Quests/PROFESSIONAL/SECUD/Milestone - Vertraulichkeit 2025 Audit Package.md",
     "20 Quests/PROFESSIONAL/FDFRI/Milestone - Datenschutzformular Package.md",
