@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Atlas/Askirom Obsidian Vault System Overview.md",
+                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom Obsidian Vault System Overview"
+              "title": "Askirom v2506 - Shadow Bolt"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Atlas/Askirom Obsidian Vault System Overview.md",
+                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom Obsidian Vault System Overview"
+              "title": "Outline of Askirom v2506 - Shadow Bolt"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "30 Atlas/Askirom Obsidian Vault System Overview.md"
+                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,23 +254,25 @@
   },
   "active": "2baa16ec09c6aad2",
   "lastOpenFiles": [
-    "10 Library/NETWORK/Silke.md",
-    "10 Library/NETWORK/Uwe Kirchgessner.md",
-    "10 Library/NETWORK/Thomas Häckel.md",
-    "10 Library/NETWORK/Thomas Fuchs.md",
-    "10 Library/NETWORK/Andrea Ibisch.md",
-    "CLAUDE.md",
     "30 Atlas/Askirom Setup.md",
     "30 Atlas/Askirom v2506 - Shadow Bolt.md",
-    "30 Atlas/Baldurs Gate 3  v7.3 Build Checklist.md",
-    "30 Atlas/Askirom Gear Inventory v2506.md",
     "30 Atlas/Askirom Obsidian Vault System Overview.md",
+    "30 Atlas/Askirom Gear Inventory v2506.md",
+    "0 Inbox/Test/Test GitHub.md",
+    "0 Inbox/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
+    "10 Library/NETWORK/Fabian Lauterbach.md",
+    "10 Library/NETWORK/Andrea Ibisch.md",
+    "10 Library/NETWORK/Silke.md",
+    "10 Library/NETWORK/Thomas Fuchs.md",
+    "10 Library/NETWORK/Thomas Häckel.md",
+    "10 Library/NETWORK/Uwe Kirchgessner.md",
+    "30 Atlas/Personal Productivity Framework v2.md",
+    "CLAUDE.md",
+    "30 Atlas/Baldurs Gate 3  v7.3 Build Checklist.md",
     "30 Atlas/⚡️ ASKIROM v7.0 — THE SHADOW BOLT.md",
     "30 Atlas/⚡️ ASKIROM v7.1 — THE FLOWING CURRENT.md",
     "30 Atlas/⚡️ ASKIROM v7.3 — THE CLEAR CURRENT.md",
     "30 Atlas/⚡️ ASKIROM v8.0 — THE LIGHTNING PATH.md",
-    "0 Inbox/Test/Test GitHub.md",
-    "0 Inbox/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
     "Untitled.md",
     "⚡️Askirom v8.1 - Shadow Bolt.md",
     "10 Library/PROFESSIONAL/Neuer Referentenentwurf von 02.06.2025.md",
@@ -282,8 +284,6 @@
     "99 Archive/RCS - Vorwerk Cybersicherheit Sharepoint/RCS - Vorwerk Cybersicherheit Sharepoint.md",
     "20 Workshop/PROFESSIONAL/VGALT/Vorbereitung 2025-06-11 Meeting VGALT.md",
     "20 Workshop/PROFESSIONAL/VEDES/2025-06-09 VEDES VdS 10000.md",
-    "20 Workshop/PROFESSIONAL/SECUD/Prozess AV-Prüfung.md",
-    "20 Workshop/PROFESSIONAL/SECUD/Produkte secudor 2025.md",
     "Clippings",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",

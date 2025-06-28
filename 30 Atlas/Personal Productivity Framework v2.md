@@ -131,7 +131,7 @@ Todoist is used for lightweight reminders and actions. Structure mirrors Obsidia
 
 ## Future Considerations
 
-- 🔁 **Backup Strategy** — Regular Obsidian vault backups  
+- 🔁 **Backup Strategy** — Regular Obsidian vault backups  -> as of 2025-06-28 done with GitHub
 - 🔍 **Reflection Cadence** — Weekly or monthly reviews focused on `Insights`  
 - 🔄 **Evolvability** — Tools are temporary. The structure and clarity are permanent
 
