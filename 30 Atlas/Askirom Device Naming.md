@@ -1,9 +1,0 @@
-- **Obsidian-Vault:** Ravenmind.OS
-- **MacBook:** ASKR.Mac
-- **iPhone:** ASKR.iPhone
-- **iPad:** ASKR.iPad
-- **AirPods:** ASKR.AirPods
-- **1Password-Vault:** ASKR.Vault
-- **Apple Watch:** ASKR.Watch
-- **PS5:** ASKR.PS5
-- **Xbox Series X:** ASKR.XSX

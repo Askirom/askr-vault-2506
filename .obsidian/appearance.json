@@ -1,4 +1,9 @@
 {
-  "accentColor": "#059e9c",
-  "cssTheme": "Catppuccin"
+  "accentColor": "#018e8c",
+  "cssTheme": "",
+  "interfaceFontFamily": "Inter Variable",
+  "textFontFamily": "Inter Variable",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": true,
+  "translucency": true
 }
