@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md",
+                "file": "10 Library/NETWORK/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v2506 - Shadow Bolt"
+              "title": "Making Medical Education Courses Visible Theory-Based Development of a National Database"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md",
+                "file": "10 Library/NETWORK/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v2506 - Shadow Bolt"
+              "title": "Outline of Making Medical Education Courses Visible Theory-Based Development of a National Database"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md"
+                "file": "10 Library/NETWORK/Making Medical Education Courses Visible Theory-Based Development of a National Database.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,14 +252,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2baa16ec09c6aad2",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
-    "30 Atlas/Askirom Setup.md",
     "30 Atlas/Askirom v2506 - Shadow Bolt.md",
+    "11 Attachments",
+    "30 Atlas/Askirom Setup.md",
     "30 Atlas/Askirom Obsidian Vault System Overview.md",
     "30 Atlas/Askirom Gear Inventory v2506.md",
     "0 Inbox/Test/Test GitHub.md",
-    "0 Inbox/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
+    "10 Library/NETWORK/Making Medical Education Courses Visible Theory-Based Development of a National Database.md",
     "10 Library/NETWORK/Fabian Lauterbach.md",
     "10 Library/NETWORK/Andrea Ibisch.md",
     "10 Library/NETWORK/Silke.md",
@@ -283,7 +284,6 @@
     "20 Workshop/NETWORK/BvD RG Nürnberg/untitled folder",
     "99 Archive/RCS - Vorwerk Cybersicherheit Sharepoint/RCS - Vorwerk Cybersicherheit Sharepoint.md",
     "20 Workshop/PROFESSIONAL/VGALT/Vorbereitung 2025-06-11 Meeting VGALT.md",
-    "20 Workshop/PROFESSIONAL/VEDES/2025-06-09 VEDES VdS 10000.md",
     "Clippings",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
@@ -300,7 +300,6 @@
     "99 Archive/1 Personal/Personal Projects/PERS - MoCs/PS5 Blue Prince Overview.canvas",
     "99 Archive/1 Personal/Personal Projects/PERS - Anzeige Sebastian Günther.assets/Image_png_preview.png",
     "99 Archive/1 Personal/Personal Projects/PERS - Anzeige Sebastian Günther.assets/Image.png",
-    "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets",
-    "99 Archive/2 Work/Work Projects/ifb - Assess D365"
+    "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets"
   ]
 }
