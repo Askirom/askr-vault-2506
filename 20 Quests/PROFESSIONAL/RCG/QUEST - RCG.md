@@ -27,6 +27,10 @@ SORT file.mtime desc
 
 ## 📝 Action Log & Tasks
 
+### Active Tasks from Todoist Migration
+- [ ] Stellvertreter Benennung prüfen für RLE @AdrianHofmann 📅 23 Jun 18:30 ⏱️ 25min
+- [ ] Chrstian Strebel zu Datenschutz und InfoSec ansprechen (DSK Adrian und DSB RLE)
+
 
 ---
 ## 💬 Meeting Notes & Communication

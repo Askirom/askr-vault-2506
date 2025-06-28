@@ -21,6 +21,9 @@ SORT file.mtime desc
 
 ## 📝 Action Log & Tasks
 
+### Active Tasks from Todoist Migration
+- [ ] Warten auf Rückmeldung zu Risikoanalyse von @JohannesEitenbichler 📅 2025-07-04
+
 
 ---
 ## 💬 Meeting Notes & Communication

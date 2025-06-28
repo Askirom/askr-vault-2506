@@ -21,6 +21,13 @@ SORT file.mtime desc
 
 ## 📝 Action Log & Tasks
 
+### Active Tasks from Todoist Migration
+- [ ] Prüfe die Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter und Vertraulichkeit-2025-Externe
+  - [ ] Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter prüfen
+  - [ ] Artikel / Paragraphen in der Vertraulichkeit-2025-Externe prüfen
+- [ ] Material für Mory Schulung senden (from Inbox)
+- [ ] Vertraulichkeit 2025 an Mory senden (from Inbox)
+
 
 ---
 ## 💬 Meeting Notes & Communication
