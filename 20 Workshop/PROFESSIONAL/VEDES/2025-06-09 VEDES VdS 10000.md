@@ -1,1 +1,0 @@
-%%This note is also available in Apple Notes.%%
