@@ -179,6 +179,32 @@
               "icon": "lucide-list",
               "title": "Outline of Making Medical Education Courses Visible Theory-Based Development of a National Database"
             }
+          },
+          {
+            "id": "dde5b635ea8a6dee",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "0 Inbox/Making Medical Education Courses Visible Theory-Based Development of a National Database.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "986d78479436f955",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -195,10 +221,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "25aa0c707cf62cf8",
   "lastOpenFiles": [
     "⚡️Askirom v9 - Shadow Bolt.md",
     "Untitled.md",
