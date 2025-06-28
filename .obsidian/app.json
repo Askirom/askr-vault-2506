@@ -1,5 +1,6 @@
 {
   "showInlineTitle": true,
   "attachmentFolderPath": "11 Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

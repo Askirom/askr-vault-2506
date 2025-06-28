@@ -18,7 +18,7 @@ SORT certificationTarget asc
 ### Assessment Phase
 ```dataview
 TABLE 
-  parentQuest as "Client",
+  parentQuest as "Quest",
   winCondition as "Objective",
   status as "Status",
   estimatedValue as "Value (€)"
