@@ -1,1 +1,1 @@
-![[2025-06-10 EHFREI Abstimmung Risiko.pdf]]
+%%This note is also available in Apple Notes.%%

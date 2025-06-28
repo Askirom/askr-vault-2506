@@ -1,3 +1,3 @@
 
 
-![[Vorbereitung 2025-06-11 Meeting VGALT.pdf]]
+%%This note is also available in Apple Notes.%%
