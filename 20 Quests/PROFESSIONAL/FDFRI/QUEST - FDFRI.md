@@ -28,8 +28,8 @@ SORT file.mtime desc
 ## 📝 Action Log & Tasks
 
 ### Immediate Actions
-- [ ] Datenschutzformular für '2025-03-11' fertigstellen @FabianLauterbach
-- [ ] Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach
+- [ ] TODO Datenschutzformular für '2025-03-11' fertigstellen @FabianLauterbach 📅 2025-06-30
+- [ ] TODO Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach 📅 2025-06-30
 
 ---
 
