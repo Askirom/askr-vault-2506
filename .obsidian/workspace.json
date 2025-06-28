@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PERSONAL/QUEST - Personal.md",
+                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUEST - Personal"
+              "title": "QUEST - EMPIC"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Quests/PERSONAL/QUEST - Personal.md",
+                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QUEST - Personal"
+              "title": "Outline of QUEST - EMPIC"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "20 Quests/PERSONAL/QUEST - Personal.md"
+                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,6 +254,16 @@
   },
   "active": "2baa16ec09c6aad2",
   "lastOpenFiles": [
+    "11 Attachments/EMPIC-VdS10000 Audit.csv",
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - VdS 10000 Gap Analysis.md",
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Risk Management Framework.md",
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Documentation & Certification Prep.md",
+    "20 Quests/PERSONAL/QUEST - Personal.md",
+    "30 Atlas/VdS 10000 Certification Overview.md",
+    "10 Library/TEMPLATES/Template VdS 10000 Milestone.md",
+    "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
+    "20 Quests/PROFESSIONAL/EMPIC",
+    "10 Library/PROFESSIONAL/vds-10000.pdf",
     "30 Atlas/XP_Log.md",
     "10 Library/TEMPLATES/Template Daily Log.md",
     "01 Daily/2025-06-28.md",
@@ -272,14 +282,6 @@
     "20 Quests/NETWORK/BvD RG Nürnberg/3. Rundmail RG Nürnberg im Juli.md",
     "10 Library/TEMPLATES/Template Personal Milestone.md",
     "20 Quests/NETWORK/Maibaum/QUEST - Maibaum.md",
-    "20 Quests/HIVE/KI Ausgaben Schnitzeljagd Hummel Geschenk.md",
-    "20 Quests/HIVE/QUEST - HIVE.md",
-    "20 Quests/PERSONAL/QUEST - Personal.md",
-    "30 Atlas/GUILD - The Secudor Charter.md",
-    "20 Quests/PROFESSIONAL/RCG/Milestone - RLE Stellvertreter Consultation.md",
-    "20 Quests/PROFESSIONAL/SECUD/Milestone - Vertraulichkeit 2025 Audit Package.md",
-    "20 Quests/PROFESSIONAL/FDFRI/Milestone - Datenschutzformular Package.md",
-    "20 Quests/PROFESSIONAL/FITS/Milestone - Löschkonzept v1.0 Completion.md",
     "20 Quests/PROFESSIONAL/FDFRI",
     "20 Quests/PROFESSIONAL/FITS",
     "11 Attachments/Todoist backup 2025-06-27 2320 UTC/EHFREI [6cFVrR2JxWprh9rm].csv",
@@ -288,8 +290,6 @@
     "11 Attachments/Todoist backup 2025-06-27 2320 UTC/FDFRI [6c3p2wcJPh8X4mF5].csv",
     "11 Attachments/Todoist backup 2025-06-27 2320 UTC/❤️ HIVE [6c3p363WvFwccR6c].csv",
     "11 Attachments/Todoist backup 2025-06-27 2320 UTC/Inbox [6HhfQ8CjVXQXFX3j].csv",
-    "11 Attachments/Todoist backup 2025-06-27 2320 UTC/POLFI [6c3p2jrMp9HjPMQG].csv",
-    "11 Attachments/Todoist backup 2025-06-27 2320 UTC/⚡️ PERSONAL [6c3p348rv3CXhJ39].csv",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
