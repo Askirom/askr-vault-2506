@@ -2,5 +2,6 @@
   "showInlineTitle": true,
   "attachmentFolderPath": "11 Attachments",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

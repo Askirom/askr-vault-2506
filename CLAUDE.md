@@ -33,6 +33,7 @@ Uses simple wikilinks for connections:
 ### Active Plugins
 - `dataview` - Database-like queries for dynamic content
 - `obsidian-tasks-plugin` - Task management with scheduling
+- `quickadd` - Fast task capture and content routing with smart automation
 - `table-editor-obsidian` - Enhanced table editing
 - `obsidian-icon-folder` - Visual folder organization
 - `obsidian-git` - Git version control integration
@@ -55,6 +56,18 @@ Daily notes use the template from `10 Library/TEMPLATES/Template Daily Log.md` a
 ### Task Management
 Uses obsidian-tasks-plugin syntax with scheduling and due dates. Tasks are automatically aggregated in daily notes using dataview queries.
 
+#### QuickAdd Task Capture System
+The vault uses QuickAdd plugin for lightning-fast task capture with intelligent routing:
+- **⚡ Quick Task** - Smart routing based on client/keyword detection
+- **🏢 Client Task** - Structured capture for professional work
+- **📅 Today's Tasks** - Direct capture to current daily note
+- **🏠 Personal Task** - Routes to personal quest system
+- **📥 Quick Sort** - Temporary inbox for uncertain categorization
+
+Configuration files:
+- `quickadd-scripts/quick-task.js` - Smart routing logic with client detection
+- `10 Library/TEMPLATES/QuickAdd Client Task.md` - Template for complex client tasks
+
 ### Template Usage
 Templates are stored in `10 Library/TEMPLATES/` and include:
 - `Template Daily Log.md` - For daily notes
@@ -74,7 +87,9 @@ The vault uses obsidian-git plugin for automatic synchronization. Recent commits
 ## Important Files
 - `30 Atlas/Askirom v2506 - Shadow Bolt.md` - Personal productivity framework and character sheet
 - `30 Atlas/000 - Master Quest Log.md` - Central quest tracking with dataview queries
+- `20 Quests/PERSONAL/QUEST - Askirom Evolution.md` - Personal development quest with 4-stage evolution system
 - Templates in `10 Library/TEMPLATES/` - Standardized note structures
+- `quickadd-scripts/quick-task.js` - Smart task routing automation
 
 ## File Naming Conventions
 - Daily notes: `YYYY-MM-DD.md` (in `01 Daily/`)
@@ -105,8 +120,9 @@ The calendar is a sacred boundary tool, used to protect energy and honor commitm
 - **Structure**: `Library` (external knowledge) vs. `Quests` (active work) vs. `Atlas` (internal wisdom)
 
 ### Tasks & Projects
-- **System**: Todoist Pro for lightweight capture and reminders
+- **System**: QuickAdd plugin for lightning-fast capture with intelligent routing
 - **Deep work**: Managed within relevant notes in Obsidian's quest system
+- **Capture patterns**: 5 essential patterns covering 90% of task creation needs
 
 ## Special Considerations
 - Maintains personal and professional content separation
