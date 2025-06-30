@@ -1,16 +1,16 @@
 ---
 type: Quest
 questType: Guild
-status: completed
+status: active
 area: Professional
-client: ARA
-primaryContact: "[[Christian Wolf]] ]]"
+client: "CLIFO"
+primaryContact: ""
 ---
 
-# Quest: Untitled
+# Quest: CLIFO
 
 > [!info]
-> **Overall Goal:** 
+> **Overall Goal:** Professional consulting services for CLIFO client
 
 ---
 
@@ -18,7 +18,7 @@ primaryContact: "[[Christian Wolf]] ]]"
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests/PROFESSIONAL/Untitled"
+FROM "20 Quests/PROFESSIONAL/CLIFO"
 WHERE type = "Milestone" AND parentQuest = this.file.link
 SORT file.mtime desc
 ```
@@ -27,6 +27,7 @@ SORT file.mtime desc
 
 ## 📝 Action Log & Tasks
 
+- [ ] TODO Write questionnaire for Horn&Cosifan (IT provider) about Notfallplan 📅 2025-07-01 ⏫
 
 ---
 ## 💬 Meeting Notes & Communication

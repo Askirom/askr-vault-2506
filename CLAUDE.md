@@ -33,7 +33,6 @@ Uses simple wikilinks for connections:
 ### Active Plugins
 - `dataview` - Database-like queries for dynamic content
 - `obsidian-tasks-plugin` - Task management with scheduling
-- `quickadd` - Fast task capture and content routing with smart automation
 - `table-editor-obsidian` - Enhanced table editing
 - `obsidian-icon-folder` - Visual folder organization
 - `obsidian-git` - Git version control integration
@@ -54,19 +53,7 @@ Daily notes use the template from `10 Library/TEMPLATES/Template Daily Log.md` a
 - Date-based naming convention (YYYY-MM-DD.md)
 
 ### Task Management
-Uses obsidian-tasks-plugin syntax with scheduling and due dates. Tasks are automatically aggregated in daily notes using dataview queries.
-
-#### QuickAdd Task Capture System
-The vault uses QuickAdd plugin for lightning-fast task capture with intelligent routing:
-- **⚡ Quick Task** - Smart routing based on client/keyword detection
-- **🏢 Client Task** - Structured capture for professional work
-- **📅 Today's Tasks** - Direct capture to current daily note
-- **🏠 Personal Task** - Routes to personal quest system
-- **📥 Quick Sort** - Temporary inbox for uncertain categorization
-
-Configuration files:
-- `quickadd-scripts/quick-task.js` - Smart routing logic with client detection
-- `10 Library/TEMPLATES/QuickAdd Client Task.md` - Template for complex client tasks
+Uses obsidian-tasks-plugin syntax exclusively for task tracking. Tasks are captured quickly in the Inbox file (`00 To Sort/Inbox - Tasks.md`) and then organized as needed. Calendar is used for reminders and scheduling rather than additional task systems.
 
 ### Template Usage
 Templates are stored in `10 Library/TEMPLATES/` and include:
@@ -79,21 +66,21 @@ Templates are stored in `10 Library/TEMPLATES/` and include:
 The vault uses obsidian-git plugin for automatic synchronization. Recent commits show regular "vault backup" operations.
 
 ### Daily Workflow
-1. Capture content in `00 To Sort/` or directly in appropriate folder
+1. Capture tasks and notes quickly in `00 To Sort/Inbox - Tasks.md`
 2. Link to people using `[[Name]]` format  
 3. Link to related documents when relevant
 4. Let folder structure handle organization
+5. Use calendar for reminders and scheduling
 
 ## Important Files
 - `30 Atlas/Askirom v2506 - Shadow Bolt.md` - Personal productivity framework and character sheet
 - `30 Atlas/000 - Master Quest Log.md` - Central quest tracking with dataview queries
 - `20 Quests/PERSONAL/QUEST - Askirom Evolution.md` - Personal development quest with 4-stage evolution system
 - Templates in `10 Library/TEMPLATES/` - Standardized note structures
-- `quickadd-scripts/quick-task.js` - Smart task routing automation
 
 ## File Naming Conventions
-- Daily notes: `YYYY-MM-DD.md` (in `01 Daily/`)
-- Quest files: `QUEST - [Name].md` (in `20 Quests/` subfolders)
+- Daily notes: `YYYY-MM-DD.md` (in `02 Daily/`)
+- Quest files: `_QUEST - [Name].md` (in `20 Quests/` subfolders, `_` prefix for sorting)
 - Professional files often include dates: `YYYY-MM-DD Project Name.md`
 - Template files prefixed with "Template" (in `10 Library/TEMPLATES/`)
 - Atlas files contain version numbers (e.g., "v2506")
@@ -120,9 +107,9 @@ The calendar is a sacred boundary tool, used to protect energy and honor commitm
 - **Structure**: `Library` (external knowledge) vs. `Quests` (active work) vs. `Atlas` (internal wisdom)
 
 ### Tasks & Projects
-- **System**: QuickAdd plugin for lightning-fast capture with intelligent routing
+- **System**: Tasks plugin for task tracking, with quick capture in Inbox file
 - **Deep work**: Managed within relevant notes in Obsidian's quest system
-- **Capture patterns**: 5 essential patterns covering 90% of task creation needs
+- **Scheduling**: Calendar handles reminders and time-based organization
 
 ## Special Considerations
 - Maintains personal and professional content separation

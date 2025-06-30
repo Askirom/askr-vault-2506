@@ -79,7 +79,7 @@ This character's loadout is defined not by specific brands, but by core principl
 
 **Archetypal Gear:**
 * **The Deep Brain (Obsidian Vault):** An external mind palace for deep planning and connecting ideas. Cancels the `Aphantasia` debuff.
-* **The Surface Scanner (Todoist):** A low-friction, universal capture tool for fleeting tasks and reminders.
+* **The Inbox System (Obsidian Tasks):** Quick task capture in inbox file, organized within the vault system.
 * **The Biometric HUD (Garmin Fenix):** Provides real-time, actionable data on personal Energy (MP) and stress. Informs when to use abilities like `Intentional Boundaries`.
 * **The Sandbox (Steam Deck):** A dedicated zone for guilt-free play and experimentation, crucial for MP recovery.
 

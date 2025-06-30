@@ -21,7 +21,7 @@ SORT estimatedValue desc
 
 ---
 
-## Guild Quests (The Consultant's Ledger)
+## Guild Quests (secudor GmbH mainly)
 
 ```dataview
 TABLE status, client
