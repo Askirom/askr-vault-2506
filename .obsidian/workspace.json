@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/SECUD/_QUEST - SECUD.md",
+                "file": "00 To Sort/Time Tracking Analysis - June 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_QUEST - SECUD"
+              "title": "Time Tracking Analysis - June 2025"
             }
           }
         ]
@@ -211,11 +211,16 @@
   },
   "active": "96fb67956832bfd0",
   "lastOpenFiles": [
+    "00 To Sort/tasks_to_roundup.py",
+    "00 To Sort/detailed_roundup.py",
+    "20 Quests/PROFESSIONAL/SECUD/_QUEST - SECUD.md",
+    "00 To Sort/Time Tracking Analysis - June 2025.md",
+    "00 To Sort/undertracked.py",
+    "00 To Sort/analyze_time.py",
     "00 To Sort/clockodo_2025-06-30_1650.csv",
     "00 To Sort/clockodo_2025-06-30_1647.xlsx",
     "untitled folder",
     "20 Quests/PROFESSIONAL/SECUD/2025 BvD Verbandstage.md",
-    "20 Quests/PROFESSIONAL/SECUD/_QUEST - SECUD.md",
     "20 Quests/PROFESSIONAL/SECUD/2025-05-23 SECUD GL Meeting.md",
     "20 Quests/PROFESSIONAL/SECUD/AVV Prüfungen.md",
     "20 Quests/PROFESSIONAL/SECUD/Übergabe Liste August Urlaub.md",
@@ -229,10 +234,6 @@
     "11 Attachments/IS-200 - ISMS Richtlinie - Draft_8f17bd8a6c484fd9a560888bb1800a80-250625-2342-10.pdf",
     "11 Attachments/EKIBA-ITS-Konzept.txt",
     "11 Attachments/EKIBA-Informationssicherheitsleitlinie.txt",
-    "11 Attachments/EKIBA-ITS-Konzept.pdf",
-    "11 Attachments/~$IBA-ITS-Konzept.docx",
-    "11 Attachments/EKIBA-Informationssicherheitsleitlinie.pdf",
-    "11 Attachments/~$formationssicherheitsleitlinie.docx",
     "20 Quests/PROFESSIONAL/RBOMN/2025-06-30 Jour Fixe Preparation.md",
     "00 To Sort/Inbox - Tasks.md",
     "20 Quests/PROFESSIONAL/CLIFO/_QUEST - CLIFO.md",
@@ -246,7 +247,6 @@
     "01 Nexus/GEAR - Askirom Inventory v2506.md",
     "01 Nexus/GUILD - secudor GmbH.md",
     "20 Quests/PROFESSIONAL/EKIBA/_QUEST - EKIBA.md",
-    "30 Atlas/Askirom Setup.md",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
