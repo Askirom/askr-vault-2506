@@ -123,23 +123,4 @@ Erstelle eine individuelle Kundenantwort:
 
 **Gesamtbearbeitungszeit: ca. 60-80 Minuten**
 # Ergebnis
-## Antwortmail an [[Christian Wolf]] [[2025-06-30]]
-Guten Tag Herr Wolf,
-
-ich habe die Unterlagen geprüft. Der Vertrag ist grundsätzlich solide strukturiert, benötigt aber noch einige Anpassungen:
-
-  
-
-## **Wichtigste Punkte:**
-
-**1. USA-Datentransfers (Ziff. 4 Abs. 2)**: Kiwus nutzt mehrere US-Unterauftragnehmer ohne gültige Rechtsgrundlage. Lösung: Entweder Data Privacy Framework-Nachweis ([https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)) oder EU-Standardvertragsklauseln beifügen.
-
-**2. Datenkategorien unklar (Anlage 1)**, da Hauptzweck auch eine statistische Analyse der Empfehlungen ist:
-
-- Brauchen Empfehler einen Account?
-- Welche Empfehler-Daten werden verarbeitet?
-  
-## **Weitere Anpassungen:**
-
-- **Audit-Kosten (Ziff. 9 Abs. 3)**: Kostenerstattung nur für Routineprüfungen, nicht bei begründeten Kontrollen
-- **Unterauftragnehmer-Liste (Anlage 2)**: Vollständige Firmierungen der US-Partner ergänzen
+[[Antwortmail an Christian Wolf 2025-06-30]]
