@@ -1,3 +1,5 @@
+Reference Notes:
+- 
 # Richtlinie zur Funktionsweise des Informationssicherheits-Managementsystems (ISMS) nach ISO 27001
 
 ## 1. Zweck und Geltungsbereich
