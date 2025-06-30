@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 To Sort/Inbox - Tasks.md",
+                "file": "20 Quests/PROFESSIONAL/RBOMN/2025-06-30 Jour Fixe Preparation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inbox - Tasks"
+              "title": "2025-06-30 Jour Fixe Preparation"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96fb67956832bfd0",
+  "active": "129d4c7d16d9ea9b",
   "lastOpenFiles": [
+    "00 To Sort/Inbox - Tasks.md",
     "20 Quests/PROFESSIONAL/RBOMN/2025-06-30 Jour Fixe Preparation.md",
     "20 Quests/PROFESSIONAL/CLIFO/_QUEST - CLIFO.md",
     "20 Quests/PROFESSIONAL/RBOMN/_QUEST - RBOMN.md",
@@ -237,7 +238,6 @@
     "02 Daily/2025-06-19.md",
     "02 Daily/2025-06-16.md",
     "02 Daily/2025-06-15.md",
-    "02 Daily/2025-06-11.md",
     "02 Daily",
     "01 Nexus",
     "20 Quests/PROFESSIONAL/ARA/Prüfung Tellscale AVV",

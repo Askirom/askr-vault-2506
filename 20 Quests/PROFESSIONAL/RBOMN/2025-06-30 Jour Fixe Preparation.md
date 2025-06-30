@@ -12,49 +12,21 @@
 ## 📋 Agenda Structure (15 min)
 
 ### Opening (2 min)
-- [ ] Overview of today's discussion points
+
 
 ### Art. 26 DSGVO Contract Review (8 min)
-- [ ] Current status update
-- [ ] Key findings/considerations identified
-- [ ] Specific questions for clarification
-- [ ] Compliance recommendations ready to present
+- Status: 
+	- Art. 26 Vertrag ist abgestimmt und nun Unterschriftsbereit
+	- Art. 26 Vertrag Anhang C aktualisiert
+- Im VVT fehlen zwei Einträge: Compliance & IT-Systemverwaltung
+- **Frage: Gibt es einen bevorzugten Zeitplan für die GF-Unterschriften?**
 
 ### Next Steps & Planning (4 min)
-- [ ] Immediate action items with timelines
+- Unterzeichnen des Vertrag mit den GFs der jeweiligen Gesellschaften
+- **DSI-Update:** Prüfung der bestehenden DSI-Beschäftigte, Anpassungen falls nötig 
 
-### Closing (1 min)
-- [ ] Summary of agreed actions
-- [ ] Confirm understanding
-- [ ] Professional closing
 
 ---
-
-## 🔍 Pre-Meeting Research
-- [ ] Review Art. 26 DSGVO requirements thoroughly
-- [ ] Prepare 2-3 specific technical questions
-- [ ] Research RBOMN/RB Omnishore background
-- [ ] Prepare compliance framework overview
-
----
-
-## 💼 Materials to Have Ready
-- [ ] Art. 26 analysis notes
-- [ ] Relevant DSGVO compliance checklist
-- [ ] Professional consulting framework
-- [ ] Follow-up timeline proposal
-
----
-
-## 🎯 Competence Signals
-- [ ] Use precise DSGVO terminology
-- [ ] Reference specific article requirements
-- [ ] Demonstrate proactive compliance thinking
-- [ ] Show structured approach to deliverables
-- [ ] Ask strategic questions, not just clarifying ones
-
----
-
 ## 📝 Follow-up Actions Template
 *Ready to capture during meeting:*
 - [ ] 
