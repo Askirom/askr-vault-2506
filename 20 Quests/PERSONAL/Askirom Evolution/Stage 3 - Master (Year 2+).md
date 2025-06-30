@@ -1,3 +1,8 @@
+---
+type: Stage
+parentQuest: "[[_QUEST - Askirom Evolution]]"
+---
+
 > [!note] **Askirom Stage 3 – The Master (Year 2 +)**
 > *Effortless Integration & Generosity – the system disappears and your impact compounds.*
 

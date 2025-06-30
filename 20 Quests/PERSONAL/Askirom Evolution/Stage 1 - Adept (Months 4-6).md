@@ -1,3 +1,8 @@
+---
+type: Stage
+parentQuest: "[[_QUEST - Askirom Evolution]]"
+---
+
 > [!note] **Askirom Stage 1 – The Adept (Months 4 – 6)**
 > *Consistency & Consolidation – cement the tutorial habits and start adding light structure.*
 

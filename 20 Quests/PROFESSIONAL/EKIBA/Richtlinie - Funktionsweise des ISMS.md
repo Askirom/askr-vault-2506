@@ -1,6 +1,8 @@
 Reference Notes:
-- [[EKIBA-ITS-Konzept.docx]]
-- [[Informationssicherheitsleitlinie.docx]]
+- [[EKIBA-ITS-Konzept.pdf]]
+- [[EKIBA-Informationssicherheitsleitlinie.pdf]]
+
+> [!info] **Update:** Spezifische EKIBA-Implementierung siehe [[ISMS Funktionsweise - EKIBA Spezifisch]]
 # Richtlinie zur Funktionsweise des Informationssicherheits-Managementsystems (ISMS) nach ISO 27001
 
 ## 1. Zweck und Geltungsbereich

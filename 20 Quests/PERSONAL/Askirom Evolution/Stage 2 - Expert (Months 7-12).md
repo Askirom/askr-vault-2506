@@ -1,3 +1,8 @@
+---
+type: Stage
+parentQuest: "[[_QUEST - Askirom Evolution]]"
+---
+
 > [!note] **Askirom Stage 2 – The Expert (Months 7 – 12)**
 > *Strategic Application & Influence – move from personal productivity to outward impact.*
 
@@ -15,7 +20,7 @@
 
 ---
 
-### 2 · Daily Ritual — “Creator Mode”
+### 2 · Daily Rhythm — “Creator Mode”
 
 1. **DECLARE** your Most-Leveraged Task (MLT) – the action that compounds (e.g., draft blog outline, stakeholder plan).  
 2. **RUN** two 50-min deep-work sprints (morning + afternoon).  

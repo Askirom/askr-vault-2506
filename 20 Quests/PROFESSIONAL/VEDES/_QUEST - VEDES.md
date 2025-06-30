@@ -4,6 +4,7 @@ questType: Guild
 status: active
 area: Professional
 client: "VEDES"
+primaryContact: ""
 ---
 
 # Quest: VEDES
@@ -12,7 +13,7 @@ client: "VEDES"
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests/PROFESSIONAL/VEDES"
+FROM "20 Quests"
 WHERE type = "Milestone" AND parentQuest = this.file.link
 SORT file.mtime desc
 ```

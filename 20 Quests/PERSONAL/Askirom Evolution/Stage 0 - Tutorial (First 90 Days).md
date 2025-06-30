@@ -1,3 +1,8 @@
+---
+type: Stage
+parentQuest: "[[_QUEST - Askirom Evolution]]"
+---
+
 [!note] Askirom Quick-Start (First 90 Days)
 
 Tutorial-Level Checklist – pin this at the top of your vault. Complete every item at least once before you “unlock” the Adept stage.
@@ -29,7 +34,7 @@ Tutorial-Level Checklist – pin this at the top of your vault. Complete every i
 1. Declare One Objective (e.g., “Finish evidence list for Client X”).
 2. Clear the Deck – all non-essential apps closed, phone out of reach.
 3. Cue Your Senses – start “Focus 01” playlist or white-noise loop.
-4. 25 min Sprint → 5 min Break – jot interruptions in scratchpad; resume.
+4. 25 min Sprint → 5 min break – jot interruptions in scratchpad; resume.
 5. Micro-Energiser – 1 min stretch or 100 steps before the break ends.
 
   

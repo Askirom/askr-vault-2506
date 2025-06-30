@@ -3,6 +3,7 @@ type: Quest
 questType: Main
 status: active
 area: Personal
+winCondition: ""
 ---
 
 # Quest: HIVE
@@ -11,7 +12,7 @@ area: Personal
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests/HIVE"
+FROM "20 Quests"
 WHERE type = "Milestone" AND parentQuest = this.file.link
 SORT file.mtime desc
 ```

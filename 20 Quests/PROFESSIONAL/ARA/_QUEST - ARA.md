@@ -18,7 +18,7 @@ primaryContact: ""
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests/PROFESSIONAL/ARA"
+FROM "20 Quests"
 WHERE type = "Milestone" AND parentQuest = this.file.link
 SORT file.mtime desc
 ```
