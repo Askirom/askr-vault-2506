@@ -1,5 +1,6 @@
 Reference Notes:
-- 
+- [[EKIBA-ITS-Konzept.docx]]
+- [[Informationssicherheitsleitlinie.docx]]
 # Richtlinie zur Funktionsweise des Informationssicherheits-Managementsystems (ISMS) nach ISO 27001
 
 ## 1. Zweck und Geltungsbereich
