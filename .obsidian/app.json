@@ -3,5 +3,6 @@
   "attachmentFolderPath": "11 Attachments",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }

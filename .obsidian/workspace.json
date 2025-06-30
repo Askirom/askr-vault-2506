@@ -8,96 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44ce5703cfddf0aa",
+            "id": "96fb67956832bfd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Library/PROFESSIONAL/Neuer Referentenentwurf von 02.06.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neuer Referentenentwurf von 02.06.2025"
-            }
-          },
-          {
-            "id": "80e4c4b017b05deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Quests/PERSONAL/QUEST - Askirom Evolution.md",
+                "file": "20 Quests/PROFESSIONAL/ARA/Ausgabe von Gemini ARA Tellscale 2025-06-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUEST - Askirom Evolution"
-            }
-          },
-          {
-            "id": "25aa0c707cf62cf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Atlas/Askirom v2506 - Shadow Bolt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Askirom v2506 - Shadow Bolt"
-            }
-          },
-          {
-            "id": "2baa16ec09c6aad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
-            }
-          },
-          {
-            "id": "b1758a62a11baf67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Daily/2025-06-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-30"
-            }
-          },
-          {
-            "id": "180a7436e8e9bd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Quests/PROFESSIONAL/ARCD/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Prüfung AVV Tellscale Kiwus Consulting 2025-06-26"
+              "title": "Ausgabe von Gemini ARA Tellscale 2025-06-26"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,16 +209,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180a7436e8e9bd65",
+  "active": "96fb67956832bfd0",
   "lastOpenFiles": [
+    "20 Quests/PROFESSIONAL/ARA/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
+    "20 Quests/PROFESSIONAL/ARA/Ausgabe von Gemini ARA Tellscale 2025-06-26.md",
+    "20 Quests/PERSONAL/QUEST - Askirom Evolution.md",
+    "10 Library/PROFESSIONAL/Neuer Referentenentwurf von 02.06.2025.md",
+    "30 Atlas/Askirom v2506 - Shadow Bolt.md",
+    "00 To Sort/Inbox - Tasks.md",
+    "20 Quests/PROFESSIONAL/ARA",
+    "quickadd-scripts/Untitled.md",
+    "quickadd-scripts/Inbox-Task.js",
+    "10 Library/PERSONAL/attachments/Migrated Todoist Tasks.md",
+    "CLAUDE.md",
+    "00 To Sort/Character Sheet Robin.md",
+    "20 Quests/PROFESSIONAL/ARCD/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
     "11 Attachments/TOM_TellScale.pdf",
     "11 Attachments/Auftragsverarbeitungsvertrag Tellscale-1.pdf",
     "20 Quests/PROFESSIONAL/ARCD/Ausgabe von Gemini ARCD Tellscale 2025-06-26.md",
-    "20 Quests/PERSONAL/QUEST - Askirom Evolution.md",
-    "20 Quests/PROFESSIONAL/ARCD/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
     "20 Quests/PROFESSIONAL/ARCD",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 0 - Tutorial (First 90 Days).md",
-    "CLAUDE.md",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 3 - Master (Year 2+).md",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 2 - Expert (Months 7-12).md",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 1 - Adept (Months 4-6).md",
@@ -308,20 +243,10 @@
     "20 Quests/PROFESSIONAL/EMPIC/Milestone - Risk Management Framework.md",
     "20 Quests/PROFESSIONAL/EMPIC/Milestone - VdS 10000 Gap Analysis.md",
     "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
-    "00 To Sort/Character Sheet Robin.md",
-    "00 To Sort/Migrated Todoist Tasks.md",
     "00 To Sort",
     "Askirom Guide Stage 3.md",
     "Askirom Guide Stage 2.md",
-    "Untitled.md",
-    "01 Daily/2025-06-29.md",
     "11 Attachments/EMPIC-VdS10000 Audit.csv",
-    "20 Quests/PERSONAL/QUEST - Personal.md",
-    "30 Atlas/VdS 10000 Certification Overview.md",
-    "10 Library/TEMPLATES/Template VdS 10000 Milestone.md",
-    "20 Quests/PROFESSIONAL/EMPIC",
-    "10 Library/PROFESSIONAL/vds-10000.pdf",
-    "20 Quests/PROFESSIONAL/FDFRI",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",

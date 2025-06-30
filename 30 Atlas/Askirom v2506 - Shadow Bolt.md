@@ -1,4 +1,4 @@
-k# ASKIROM v2506 — THE SHADOW PATH
+# ASKIROM v2506 — THE SHADOW PATH
 
 > [!quote]
 > **“What you become when you stop fighting your nature and start channeling it.”**

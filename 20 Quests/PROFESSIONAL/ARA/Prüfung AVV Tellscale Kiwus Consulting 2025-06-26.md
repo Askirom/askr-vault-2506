@@ -78,7 +78,7 @@ Der zu prüfende AVV wird als separates Dokument beigefügt.
 - Bei **Verweisen auf externe Dokumente**: Stelle sicher, dass diese beigefügt oder verlinkt sind
 ```
 
-## [[Ausgabe von Gemini ARCD Tellscale 2025-06-26]]
+## [[Ausgabe von Gemini ARA Tellscale 2025-06-26]]
 
 ### Fehlerbehandlung bei KI-Problemen:
 Sollte die KI abbrechen oder offensichtlich fehlerhafte Ergebnisse liefern, nutze folgenden alternativen Ansatz:
@@ -122,7 +122,4 @@ Erstelle eine individuelle Kundenantwort:
 ---
 
 **Gesamtbearbeitungszeit: ca. 60-80 Minuten**
-
-**Offene Aufgaben:**
-
-- [ ] Ablagestruktur für Prüfdokumentation festlegen
+# Ergebnis
