@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUEST - EMPIC"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QUEST - EMPIC"
+              "title": "Outline of CLAUDE"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md"
+                "file": "CLAUDE.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -254,6 +254,10 @@
   },
   "active": "2baa16ec09c6aad2",
   "lastOpenFiles": [
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Documentation & Certification Prep.md",
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Risk Management Framework.md",
+    "20 Quests/PROFESSIONAL/EMPIC/Milestone - VdS 10000 Gap Analysis.md",
+    "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
     "01 Daily/2025-06-30.md",
     "00 To Sort/Character Sheet Robin.md",
     "00 To Sort/Migrated Todoist Tasks.md",
@@ -265,13 +269,9 @@
     "Askirom Guide Stage 0.md",
     "01 Daily/2025-06-29.md",
     "11 Attachments/EMPIC-VdS10000 Audit.csv",
-    "20 Quests/PROFESSIONAL/EMPIC/Milestone - VdS 10000 Gap Analysis.md",
-    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Risk Management Framework.md",
-    "20 Quests/PROFESSIONAL/EMPIC/Milestone - Documentation & Certification Prep.md",
     "20 Quests/PERSONAL/QUEST - Personal.md",
     "30 Atlas/VdS 10000 Certification Overview.md",
     "10 Library/TEMPLATES/Template VdS 10000 Milestone.md",
-    "20 Quests/PROFESSIONAL/EMPIC/QUEST - EMPIC.md",
     "20 Quests/PROFESSIONAL/EMPIC",
     "10 Library/PROFESSIONAL/vds-10000.pdf",
     "30 Atlas/XP_Log.md",

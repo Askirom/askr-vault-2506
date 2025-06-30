@@ -3,10 +3,10 @@ type: Quest
 questType: Guild
 status: active
 area: Professional
-client: "EMPIC"
-primaryContact: ""
-vdsStandard: "VdS 10000"
-certificationTarget: ""
+client: EMPIC
+primaryContact: "[[Dennis Poetz]] [[Uwe Flaton]]"
+Standard: VdS 10000
+certificationTarget: Oktober 2025
 ---
 
 # Quest: EMPIC VdS 10000 Implementation
