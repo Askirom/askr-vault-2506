@@ -87,13 +87,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PERSONAL/QUEST - Askirom Evolution.md",
+                "file": "20 Quests/PROFESSIONAL/ARCD/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUEST - Askirom Evolution"
+              "title": "Prüfung AVV Tellscale Kiwus Consulting 2025-06-26"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tellscale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +286,12 @@
   },
   "active": "180a7436e8e9bd65",
   "lastOpenFiles": [
+    "11 Attachments/TOM_TellScale.pdf",
+    "11 Attachments/Auftragsverarbeitungsvertrag Tellscale-1.pdf",
+    "20 Quests/PROFESSIONAL/ARCD/Ausgabe von Gemini ARCD Tellscale 2025-06-26.md",
     "20 Quests/PERSONAL/QUEST - Askirom Evolution.md",
+    "20 Quests/PROFESSIONAL/ARCD/Prüfung AVV Tellscale Kiwus Consulting 2025-06-26.md",
+    "20 Quests/PROFESSIONAL/ARCD",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 0 - Tutorial (First 90 Days).md",
     "CLAUDE.md",
     "20 Quests/PERSONAL/Askirom Evolution/Stage 3 - Master (Year 2+).md",
@@ -316,12 +321,7 @@
     "10 Library/TEMPLATES/Template VdS 10000 Milestone.md",
     "20 Quests/PROFESSIONAL/EMPIC",
     "10 Library/PROFESSIONAL/vds-10000.pdf",
-    "30 Atlas/XP_Log.md",
-    "10 Library/TEMPLATES/Template Daily Log.md",
-    "01 Daily/2025-06-28.md",
     "20 Quests/PROFESSIONAL/FDFRI",
-    "20 Quests/PROFESSIONAL/FITS",
-    "11 Attachments/Todoist backup 2025-06-27 2320 UTC/EHFREI [6cFVrR2JxWprh9rm].csv",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
