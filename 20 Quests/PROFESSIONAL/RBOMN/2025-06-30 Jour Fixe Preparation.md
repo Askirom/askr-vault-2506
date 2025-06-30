@@ -3,9 +3,9 @@
 **Meeting:** 15 minutes with [[Jan-Phillip Scheller]]  
 
 ## 🎯 Meeting Objectives
-- [ ] Review Art. 26 DSGVO contract progress
-- [ ] Identify next actionable steps
-- [ ] Set clear expectations for deliverables
+- [x] Review Art. 26 DSGVO contract progress
+- [x] Identify next actionable steps
+- [x] Set clear expectations for deliverables
 
 ---
 
@@ -34,4 +34,21 @@
 - [ ] 
 
 ## Meeting Notes
-*Space for live notes during call*
+### Zeiterfassung soll aktualisiert werden
+- Externe sollen dort Abwesenheiten eintragen
+	- DSB: Auch das ist in Ordnung
+- Interne Mitarbeiter sollen Abwesenheiten sehen
+	- DSB: ist in Ordnung
+- Interne Mitarbeiter sollen Geburtstage sehen (Tag und Monat)
+	- DSB: Einwilligung des Mitarbeiters, DSI dazu müsste erstellt werden
+		- vielleicht Teil der DSI-Beschäftigte
+- interne Beraterprofile für Tätigkeiten in der RBOMN / RBDACH
+	- soll am Mitarbeiterprofil angehängt werden
+	- nur der Mitarbeiter + Personen, welche das Mitarbeiter-CV sehen müssen für Projektverwaltung haben Zugriff darauf
+	- DSB: Wo ist die Zeiterfassung / Logbuch gehostet?
+		- [ ] TODO [[Jan-Phillip Scheller]] klärt dies bis Donnerstag 📅 2025-07-03
+		- wahrscheinlich geht es hier nur um eine Speicherort-Änderung, was kein Problem darstellt
+### Art. 26 Personal
+- Unterzeichnen durch [[Florian Gehre]]
+	- [ ] TODO Zeitplan: bis Ende der KW27 2025 📅 2025-07-04
+- Ablage bei RBOMN intern im Vertragsmanagement -> Text-Datei im Teams-Ordner Datenschutz 06 Verträge mit Beschreibung auf tatsächlichen Ablageort
