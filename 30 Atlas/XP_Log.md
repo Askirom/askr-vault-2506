@@ -5,6 +5,8 @@
 | ---------- | --------- | -------- | --------------------------------- |
 | 2025-06-28 | +15 XP    | Pro      | Invoiced RCG for VdS Milestone 1 |
 | 2025-06-29 | +10 XP    | Personal | Completed Genki I Chapter 3 Test |
+| 2025-07-01 | +18 XP    | Pro      | €9,186 billed - Major client deliverables |
+| 2025-07-01 | +2 XP     | System   | Vault organization & quest system refinement |
 
 ---
 
@@ -28,3 +30,26 @@
 - Creative milestones: 2-5 XP (projects, side ventures)
 
 **Focus:** Progress and achievement rather than time tracking
+
+---
+
+## Total XP: 45 XP (Current Level: ?)
+
+**XP Breakdown:**
+- Professional: 33 XP (€16,500+ billed)
+- Personal: 10 XP (learning & development)
+- System: 2 XP (optimization & organization)
+
+## Level System (To Be Defined)
+**Questions for consideration:**
+- How much XP per level? (50 XP? 100 XP? Monthly targets?)
+- What unlocks at each level? (Skills, abilities, rewards?)
+- How complex should attributes/skills be?
+
+**Potential Level Thresholds:**
+- Level 1: 0-50 XP (Tutorial Stage)
+- Level 2: 51-150 XP (Adept Stage) 
+- Level 3: 151-300 XP (Expert Stage)
+- Level 4: 301+ XP (Master Stage)
+
+**Keep it simple vs. add complexity?**
