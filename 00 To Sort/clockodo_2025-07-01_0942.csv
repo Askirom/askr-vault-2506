@@ -1,0 +1,634 @@
+Kunde;Leistung;Abrechenbar;Abgerechnet;Beschreibung;Stunden;"Umsatz in EUR"
+10077;CONS;1;0;"Status Aufnahme";0.75;97.50
+10077;DS-Pauschale;1;0;"Anfrage zu Datenschutzstatus";1.00;0
+"ARA GmbH Auto und Reise Assistance";CONS;1;0;"J. Siedler | Abstimmung Personal Löschfristen";0.50;60.00
+"ARA GmbH Auto und Reise Assistance";CONS;1;0;"Prüfung AV-Vertrag Tellscale + Telefonat Wolf";1.00;120.00
+"ARA GmbH Auto und Reise Assistance";CONS;1;0;"Prüfung AXA AI Compliance, BCR und Data Privacy";1.25;150.00
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Bewertung AXA Standards insbesondere BCR (welcher neu hinzugefügt wurde)";1.00;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Datenschutzverstoß/Schadennummer 942410089780";0.50;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"InfoSec Jour Fixe";1.25;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Jour fixe";0.25;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Jour Fixe Cybersicherheit & Datenschutz";0.50;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Vorbereitung Jour fixe";0.25;0
+"ARA GmbH Auto und Reise Assistance";DS-Pauschale;1;0;"Vorbereitung JourFixe";0.50;0
+"ARCD e.V.";CONS;1;1;"Erstellung KI-Richtlinie Vorgabe";2.00;240.00
+"ARCD e.V.";CONS;1;1;"Prüfung Ablage zu KI-Richtlinie und Terminvereinbarung";0.50;60.00
+"ARCD e.V.";CONS;1;1;"Prüfung AV-Vertrag";1.50;180.00
+"ARCD e.V.";CONS;1;0;"J. Siedler | Abstimmung Personal Löschfristen";0.50;60.00
+"ARCD e.V.";DS-Pauschale;1;0;"Bereitstellung AV-Vertrag für ARCD & ARA Interaktion";0.50;0
+"ARCD e.V.";DS-Pauschale;1;0;"InfoSec Jour Fixe";1.25;0
+"ARCD e.V.";DS-Pauschale;1;0;"Jour fixe";0.25;0
+"ARCD e.V.";DS-Pauschale;1;0;"Jour Fixe Cybersicherheit & Datenschutz";0.50;0
+"ARCD e.V.";DS-Pauschale;1;0;Terminvereinbarung;0.50;0
+"ARCD e.V.";DS-Pauschale;1;0;"Update VVT bzgl. Zusammenarbeit ARA / ARCD";0.50;0
+"ARCD e.V.";DS-Pauschale;1;0;"Vorbereitung Jour fixe";0.25;0
+"Auto & Reise GmbH Verlag und Wirtschaftsdienst";CONS;1;1;"M.Reuther | Ausfüllen AV-Vertrag";0.50;60.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;1;"Bewertung Risikoanalyse";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;1;"M. Gall  | Offene Punkte Datenschutz";0.25;27.50
+"Clientfocus GmbH";DSB_Ber_Sen;1;1;"M.Gall | Erste Sichtung Notfallkonzept";1.75;192.50
+"Clientfocus GmbH";DSB_Ber_Sen;1;1;"Vorstellung Jahresbericht 2024";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;0;"Bereitstellung neue Risikomatrix + Vertraulichkeitserklärung";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;0;"M.Gall | CLIFO - Fortsetzung Risiko";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;0;"M.Gall | CLIFO - Risikobewertung";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;0;"M.Gall | CLIFO - Risikobewertung 3 + Erstellung Fragen für H&C";1.00;110.00
+"Clientfocus GmbH";DSB_Ber_Sen;1;0;"Prüfung Webseiten Datenschutzerklärung und Webseite";0.50;55.00
+"Clientfocus GmbH";DS-Pauschale;1;0;"Prüfung Jahresbericht und Update";1.00;0
+"Clientfocus GmbH";DS-Pauschale;1;0;"Test-Zugang Sharepoint";0.25;0
+"Clientfocus GmbH";DS-Pauschale;1;0;"Vorbereitung + Datenschutz Besprechung Notfallkonzept & VVT";1.00;0
+"Digital Innovation AG";DS-Pauschale;1;0;"Aufnahme Status: was wurde in den letzten Jahren getan";0.50;0
+"EMPIC GmbH";CONS;1;1;"Auswertung Audit für nächste ToDos und Lücken";2.00;275.00
+"EMPIC GmbH";CONS;1;1;"Auswertung Audit und Vorbereitung Risikoanalyse";2.25;309.38
+"EMPIC GmbH";CONS;1;1;"Bearbeitung Risikoanalyse";2.00;275.00
+"EMPIC GmbH";CONS;1;1;"Bewertung Assets nach Update";4.50;618.75
+"EMPIC GmbH";CONS;1;1;"Durchführung Audit nach VdS 10000";6.00;825.00
+"EMPIC GmbH";CONS;1;1;"Erarbeitung Richtlinien Incident und Notfall";2.50;343.75
+"EMPIC GmbH";CONS;1;1;"Erstellung Fragenkatalog nach VdS 10000";3.00;412.50
+"EMPIC GmbH";CONS;1;1;"Erstellung Vorgehen Risikobewertung + Terminvereinbarung";2.00;275.00
+"EMPIC GmbH";CONS;1;1;Risikobewertung;1.50;206.25
+"EMPIC GmbH";CONS;1;1;"Sichtung und erste Notizen für Confluence";4.00;550.00
+"EMPIC GmbH";CONS;1;1;"Update Risikobewertung";1.50;206.25
+"EMPIC GmbH";CONS;1;1;"Vorbereitung Jour Fixe + Jour Fixe";0.50;68.75
+"EMPIC GmbH";CONS;1;0;"Prüfen Status der Maßnahmen aus VdS 10000";1.50;206.25
+"EMPIC GmbH";CONS;1;0;"Prüfung Dokumente zu Notfallmanagement";1.50;206.25
+"EMPIC GmbH";CONS;1;0;"Update Richtlinien";2.00;275.00
+"EMPIC GmbH";CONS;1;0;"Vorbereitung Termin + Abstimmung bisherige Tätigkeiten und nächste Schritte";2.00;275.00
+"EMPIC GmbH";DSB_Ber_Sen;1;0;"Prüfung IS Richtlinien";3.00;0.33
+"EMPIC GmbH";"Int. Organisation";0;0;"Fertigstellung Angebot";1.50;0
+"EMPIC GmbH";"Int. Organisation";0;0;"Vorbereitung und Abstimmung Angebot";1.00;0
+"EMPIC GmbH";IS-Pauschale;1;0;"Bearbeitung Risikoanalyse";2.00;0
+"EMPIC GmbH";IS-Pauschale;1;0;"Bearbeitung Risikoanalyse + Vorstellung";2.00;0
+"EMPIC GmbH";IS-Pauschale;1;0;"Prüfung Dokumente IS-204 205 und 206 sowie Prüfung und Update IS-207";2.00;0
+"EMPIC GmbH";IS-Pauschale;1;0;"Update IS-100 IS-200 und Prüfung IS-300 Dokumente";2.00;0
+"EMPIC GmbH";Reisezeit;0;0;"Fahrt zu Kunde";1.00;0
+"EMPIC GmbH";Reisezeit;0;0;"Rückfahrt + Nachbesprechung intern";1.25;0
+"Evangelische Hochschule Freiburg";CONS;1;1;"Abstimmung ISMS + Vorbereitung Risikobewertung";2.50;312.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"Anpassung SoA nach Termin";1.00;125.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"Bewertung Prozesse Vorfall und Meldung";1.00;125.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"Ergänzung Punkt 14 Anwenderrichtlinie und SoA sowie Updatebedarf weiterer Dokumente";2.50;312.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"Erstellung Risikobewertung";3.75;468.75
+"Evangelische Hochschule Freiburg";CONS;1;1;"Formulierung Anpassung Anwenderrichtlinie";2.00;250.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"ISMS-Besprechung / Leitner";1.50;187.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"IST-Aufnahme der Dokumente der EKIBA für EH-Freiburg";0.75;93.75
+"Evangelische Hochschule Freiburg";CONS;1;1;"Prüfung Aufgaben und notwendige Anpassungen der Adminrichtlinie";2.00;250.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"Update Anwenderrichtlinie und SoA sowie Updatebedarf weiterer Dokumente";1.50;187.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"Update Aufgaben aus SoA";1.75;218.75
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung + Termin SoA + Nachbereitung";2.25;281.25
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung Risikobewertung";0.50;62.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung Risikobewertung + neues SoA Template + Kommentare zu Punkten in Anwenderrichtlinie";1.50;187.50
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung SoA Termin";1.00;125.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung Termin SoA";1.00;125.00
+"Evangelische Hochschule Freiburg";CONS;1;1;"Vorbereitung und Vorausfüllen der SoA";2.00;250.00
+"Evangelische Hochschule Freiburg";CONS;1;0;"Erstellung Funktionsweise des ISMS";1.25;156.25
+"Evangelische Hochschule Freiburg";CONS;1;0;"J. Eitenbichler | ISMS Risikobewertung";1.25;156.25
+"Evangelische Hochschule Freiburg";CONS;1;0;"J. Eitenbichler-Hoelzle | Abstimmung Risikobewertung";0.50;62.50
+"Evangelische Hochschule Freiburg";CONS;1;0;"Terminplanung und Abstimmung zu Vorgehen mit Hr. Eitenbichler sowie Fr. Dinkelaker";0.50;62.50
+"Evangelische Hochschule Freiburg";CONS;1;0;"Update Anwenderrichtlinie und Adminrichtlinie. Prüfung Risikobewertung EKIBA auf Anwendbarkeit auf EH Freiburg";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Ohne Beschreibung";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Absprache Risikobewertung Copilot Web";1.58;196.88
+"Evangelische Landeskirche in Baden";CONS;1;1;"Aktualisierung ToDos und Dokumente für Notfall";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Anfrage Status Notfallkonzept + Bewertung CoPilot Agents";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Maßnahmen KI";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Maßnahmen KI Gefährdungen";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Maßnahmen Risiko KI";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Notfallkonzept";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Notfallprozesse";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung Software-Liste IT";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung und Aktualisierung Auditrichtlinie";0.50;62.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Bewertung und Erstellung Risikoanalyse CoPilot Web";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Erarbeitung Notfallplan";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Erstellung Gefährdungsanalyse KI";3.50;437.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Erstellung Risikobewertung CoPilot Web";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Erstellung Risikobewertungsvorlage ISMS und KI";1.25;156.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"JF ISMS EKIBA";0.75;93.75
+"Evangelische Landeskirche in Baden";CONS;1;1;"Jour fixe";2.25;281.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"Jour ISMS EKIBA";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"KI Richtlinie erstellen";2.50;312.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Nachbearbeitung Termin";1.25;156.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung Auditplan";0.50;62.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung ausgefüllte Daten für Notfallmanagement";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung Backup-Richtlinie";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung Change-Richtlinie, Prüfung Auditrichtlinie, Prüfung SoA";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung KI-Richtlinie und CoPilot Web Maßnahmen";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Prüfung Software-Liste";0.25;31.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"Risikobewertung Copilot Web";1.25;156.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"Risikobewertung KI";3.00;375.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Termin KI Risikobewertung";1.75;218.75
+"Evangelische Landeskirche in Baden";CONS;1;1;"Termin Risikobewertung";2.25;281.25
+"Evangelische Landeskirche in Baden";CONS;1;1;"Umsetzung Maßnahmen Risikobewertung Copilot";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"UMZIEHEN!!
+Prüfung vorliegende Dokumente mit Bewertung der Anwendbarkeit für EH Freiburg";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Update der SoA";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Update der ToDos aus SoA und Bearbeitung offener Tasks";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Update Maßnahmen M365";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Update Notfallplan";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Vorbereitung - Umsetzung Maßnahmen Risikobewertung Copilot";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;1;"Vorbereitung Abstimmung";1.48;184.38
+"Evangelische Landeskirche in Baden";CONS;1;1;"Vorbereitung Moderation zu Notfallkonzept";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;1;"Vorbereitung und Moderation Notfall-Szenarien";3.00;375.00
+"Evangelische Landeskirche in Baden";CONS;1;0;"Anpassung Löschkonzept";2.00;250.00
+"Evangelische Landeskirche in Baden";CONS;1;0;"Erstellung Funktionsweise des ISMS";2.25;281.25
+"Evangelische Landeskirche in Baden";CONS;1;0;"Erstellung ISMS Beschreibung";0.75;93.75
+"Evangelische Landeskirche in Baden";CONS;1;0;"Erstellung Richtlinie ""Funktionsweise ISMS"" sowie Update SoA";1.50;187.50
+"Evangelische Landeskirche in Baden";CONS;1;0;"JF ISMS EKIBA";0.50;62.50
+"Evangelische Landeskirche in Baden";CONS;1;0;"Prüfung Vertraulichkeitserklärung (NDA)";1.00;125.00
+"Evangelische Landeskirche in Baden";CONS;1;0;"Vorbereitung Notfallplan";1.00;125.00
+"FD Friedrich";CONS;1;1;"Bearbeitung Meldung an Behörde und Erstellung Formular für intern";2.25;315.00
+"FD Friedrich";CONS;1;0;"Erstellung Formular 2025-03-11";0.50;70.00
+"FD Friedrich";CONS;1;0;"Erstellung Formular 2025-04-04";0.50;70.00
+"Gemeinde Langenaltheim";DS-Pauschale;1;1;"Anzeige Sebastian Günther";1.50;0
+"Gemeinde Langenaltheim";DS-Pauschale;1;1;"Prüfung Status Datenschutz";1.00;0
+"Gemeinde Polsingen";DSB_Ber;1;1;"Anpassung der DSI-Wahlhelfer nach Abstimmung";0.50;50.00
+"Gemeinde Polsingen";DSB_Ber;1;1;"Erstellung DSI-Bauamt";1.00;100.00
+"Gemeinde Polsingen";DSB_Ber;1;1;"Erstellung DSI-Standesamt";1.00;100.00
+"Gemeinde Polsingen";DSB_Ber;1;1;"Wahlhelfer und Wählerverzeichnis-Vorstellung";1.00;100.00
+"Gemeinde Polsingen";DSB_Ber;1;0;"Erstellung Dienstanweisung DS / IS";1.50;150.00
+"Gemeinde Polsingen";DSB_Ber;1;0;"Erstellung Vertraulichkeitserklärung";1.00;100.00
+"Gemeinde Polsingen";DS-Pauschale;1;0;"Anpassung Wahlhelfer und Wählerverzeichnis DSI";1.00;0
+"Gemeinde Polsingen";DS-Pauschale;1;0;"Erarbeitung Arbeitsanweisung Datenschutz";1.00;0
+"Gemeinde Polsingen";DS-Pauschale;1;0;"Prüfung Status Datenschutz";1.00;0
+"Gemeinde Polsingen";Reisezeit;1;1;"Fahrt zu Polsingen";1.00;40.00
+"Gemeinde Solnhofen";DS-Pauschale;1;0;"Erarbeitung Arbeitsanweisung Datenschutz";1.00;0
+"Gemeinde Solnhofen";DS-Pauschale;1;0;"Jahresbericht + offene DSI + Stellungnahme BfDI zu Social Media";1.00;0
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | A.Körner | Prüfung und Update Stand VVT zu Vertrieb";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | A.Körner | Terminanfrage";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | G.Frisch | Prüfung Konstellation AVV Audius und GMS zu Webshop nach Aussage von Hrn. Zürn";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | I. Kilicoglu | Bewertung EmpowerGPT + Telefonat";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M. Ritzer-Volland | Antwort zu Easyfeedback";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Gleißner | Abstimmung VoiceLine";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Iberl | Prüfung Prozess Webinaranmeldung";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Ritzer-Volland | Bewertung easyfeedback";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung Datenschutz bei Vertragsdatenbank";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung DS-Auditplan 2025/2026";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung DSB -  Recht zu Webshop sowie Nachbearbeitung des Termins";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung Status";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung und Termin MeasureMind und EmpowerGPT";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung Vertragswerke";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Abstimmung zu Vorgehen Cognism";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Allgemeine Prüfung VVT Einträge und Definition von Handlungsbedarf";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Anfrage H. Zürn formulieren";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Anpassung DSI Geschäftspartner";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Anpassung DSI Geschäftspartner sowie Prüfung DSI Webseite und Webinar-Einbindung";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Anpassungsbedarf DSI Geschäftspartner hinsichtlich Cognism/CRM";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Audit E-Mail Postfach auf Privatnutzung";2.00;210.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Aufarbeitung offene Tasks, Anschreiben von Ansprechpartnern und Nachfrage zu offenen Themen";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Anfragen";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Anfragen + Telefonat";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Aufgaben nach Liste + Jour fixe";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Aufgaben zu Webseite, Instagram, Webinar";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Tasks Datenschutzstatus Q1 2025, Prüfung VoiceLine Dokumente";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bearbeitung Tasks und Planung Termine aus Jour Fixe";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Beginn der Arbeit zu Bewerberprozess, Prüfung VVT-Eintrag";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Bewertung Webinar, Prüfung Instagram-Einbindung, Prüfung GoToWebinar";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Erstellung Stellungnahme zu S.Baumann Anfrage Teams";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Erstellung Zwecke für Datenverarbeitung";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Jour Fixe sbDSB / Recht";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Jour sbDSB / Recht";1.95;204.69
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Meeting Kundinger + Thallinger";0.67;70.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Planung und Organisation offene ToDos, Bearbeitung AV-Liste, Prüfung vorhandener Dokumente (Anlass: Art. 26 Geschäftspartner)";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Prüfung Datenschutzanforderungen in IZYTRONIQ";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Prüfung Mails zu OneDrive";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Termin Domainliste + Bewertung VoiceLine Dokumente sowie Prüfung Vertrag AV";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Termin DSI Geschäftspartner";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Unternehmensübergreifende Nutzung von Software: Betriebsverfassungsrecht und Datenschutz";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Update DSI Beschäftigte und Geschäftspartner";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Vorbereitung Art. 26 Vertrag; Abstimmung und Termin ""Joint Controllership Agreement, Data Protection Information (business partners and employees), letters/wording for persons concerned""";2.50;262.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | M.Thallinger | Vorbereitung Audit des E-Mail-Archivs mit Testfragen und Ergebnissen letztes Jahr + Ankündigung";2.00;210.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Bereitstellung und Überprüfung Zwecke Art. 26";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Bewertung guidde";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Cognism Bewertung";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Empfehlung zur Nutzung der deepseek AI";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Empfehlung zur Nutzung von Onedrive";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Prüfung DEKRA Katalog";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Prüfung und erste Handlungsempfehlung Cognism";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | R.Kölle | Vorbereitung Audit E-Mail-Archiv sowie Definition der Anfragen für das Audit";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | S.Baumann | Abstimmung DeepL Wiki Artikel";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | S.Baumann | Abstimmung publer und Webseite";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | S.Baumann | Bearbeitung Folgefragen";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | S.Baumann | Bewertung Anfrage S.Baumann";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | S.Baumann | Fortsetzung Tätigkeiten zu publer.io";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | T.Rupprecht | Abstimmung Tests";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | T.Rupprecht | Rücksprache/Test ESS";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | T.Rupprecht | Test ESS MTP";3.75;393.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | T.Rupprecht | Tests ESS im Service";1.08;113.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GM | T.Rupprecht | Tests ESS im Service (nicht erfolgreich)";0.75;78.75
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GMS | G.Frisch | Datenschutzstatus Q1 2025";2.50;262.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GMS | G.Frisch | Unterweisung 2025";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GMS | I.Gross | Abstimmung Datenschutz Personal";2.25;236.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"GMS | T.Klaus | Abstimmung Webshop";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | K.Hennig | Abstimmung nächste Themen und Arbeiten";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | K.Hennig | Unterweisung 2025";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | K.Hennig | Vorbereitung Unterweisung 2025";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | M.Diehl | Abstimmung Einsichtnahme Laptop";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | M.Diehl | Einblick S.Weiß";2.00;210.00
+"GMC-Instruments GmbH";DSB_Ber;1;1;"MTP | M.Diehl | Vorbereitung Einblick S.Weiß";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GM | R.Kölle | Durchführung Status Q2 2025";1.25;131.25
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GM | R.Kölle | Erstellung Bericht E-Mail-Archiv";1.50;157.50
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GM | R.Kölle | Vereinbarung verschiedener Termine mit Personal, Webseitenbetreuung und GMS";0.50;52.50
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GM | R.Kölle | Vorbereitung Status Q2 2025";2.00;210.00
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GM | S.Baumann | Bereitstellung und Prüfung letzte Tasks publer.io Vertrag";0.25;26.25
+"GMC-Instruments GmbH";DSB_Ber;1;0;"GMS | Herr Hanschke | Bewertung und Beantwortung Datenschutzinformation";1.00;105.00
+"GMC-Instruments GmbH";DSB_Ber_Sen;1;0;"GM | D.Mozgon | Vorbereitung Termin zu Bewerbermanagement Update VVT";1.50;180.00
+"GMC-Instruments GmbH";DSB_Ber_Sen;1;0;"GM | M.Nagel | Bewertung und Prüfung Domain-Liste";1.00;120.00
+"GMC-Instruments GmbH";DSB_Ber_Sen;1;0;"GMS | T.Klaus | Prüfung Umsetzung Webshop GMS";1.00;120.00
+"GMC-Instruments GmbH";"Int. Organisation";0;0;"Fahrt zum Kunden";1.25;0
+"GMC-Instruments GmbH";Reisezeit;1;1;"Fahrt nach Nbg.";0.75;0
+"GMC-Instruments GmbH";Reisezeit;0;0;"Ohne Beschreibung";2.00;0
+"GMC-Instruments GmbH";Reisezeit;0;0;"Fahrt zu MTP";0.75;0
+"GMC-Instruments GmbH";Reisezeit;0;0;"Fahrt züruck von MTP";0.75;0
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung + Prüfung TOMs von Microsoft zu Dynamics 365";1.50;206.25
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung M.Hilmer + Prüfung TOMs von Microsoft zu Dynamics 365";4.25;584.38
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung mit P.Hackner sowie Bereitstellung von Informationen";0.50;68.75
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung mit Stakeholder, Abstimmung zu OpenWebUI sowie Verwendungszwecke und Status Dynamics 365, Abstimmung zu Organisationsaufbau";1.25;171.88
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung Termine, Erstellung Zeitplan, Abstimmung Vorgehen";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Abstimmung und Vorstellung Risikobewertung Begehung";0.75;103.13
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Assessment Interviews";9.50;1306.25
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Dynamics 365 BC - Anforderungen definieren";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Dynamics 365 CRM - Anforderungen definieren";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Dynamics 365 HR - Anforderungen definieren";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Einlesen Business Central";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erarbeitung Management Summary mit Erklärung der Maßnahmen";1.25;171.88
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erarbeitung Risikomatrix aus CNIL Empfehlung";2.00;275.00
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erstellung Bericht und Risikomatrix";2.00;275.00
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erstellung Fragenkatalog sowie Prüfung von Use Cases für Key User in CRM, HR und BC";3.00;412.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erstellung Stakeholder Liste sowie D365 Fragen an IT";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Erstellung Vorgabe und Beschreibung Interview Assessment";2.00;275.00
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"ifb D365 | Jour Fixe";0.25;34.38
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Projektplan Anpassungen";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Prüfung Richtlinie Home-Office";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Risikoaufstellung und Analyse D365 nach aktuellen Stand";7.00;962.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Risikotabelle abschließen";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Termin Vorbereitungsphase";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Vorbereitung Fragen für KeyUser";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Vorbereitung Termine + Status Aufnahme";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Vorbereitung Termine mit Stakeholdern";3.00;412.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;1;"Zusammenfassung Maßnahmen aus Audit";1.00;137.50
+"ifb Institut zur Fortbildung von Betriebsräten GmbH & Co. KG";CONS;1;0;"Terminabstimmung, Optimierung Management Summary";1.00;137.50
+"Infrastor GmbH";DSB_Ber_Sen;1;0;"Erstellung Fragenkatalog";1.25;150.00
+"Infrastor GmbH";DSB_Ber_Sen;1;0;"Vorbereitung Audit";1.25;150.00
+"Infrastor GmbH";DSB_Ber_Sen;1;0;"Vorbereitung Schreiben an Dienstleister für Audit";1.00;120.00
+"Infrastor GmbH";DS-Pauschale;1;0;"Abstimmung Datenschutz Audit Dienstleister";1.25;0
+"Infrastor GmbH";DS-Pauschale;1;0;"Status Aufnahme sowie Jahresplanung";1.00;0
+"Infrastor GmbH";IS-Pauschale;1;1;"Erste Besprechung Audit IT-Endbenutzerrichtlinie";0.75;97.50
+"Infrastor GmbH";IS-Pauschale;1;1;"Infrastore Audit Vorbereitung";1.00;130.00
+"Infrastor GmbH";IS-Pauschale;1;1;"interne Abstimmung INSTO Audit";0.50;65.00
+"Infrastor GmbH";IS-Pauschale;1;0;"Abstimmung zu Audit";0.25;0
+"Infrastor GmbH";IS-Pauschale;1;0;"Durchführung des Audit IT-Endbenutzerrichtlinie";3.00;0
+"Infrastor GmbH";IS-Pauschale;1;0;"Erstellung Auditbericht IT-Endbenutzerrichtlinie";1.50;0
+"Mory GmbH";CONS;1;0;"Anfahrt CRC";0.25;0
+"Mory GmbH";CONS;1;0;"Durchführung CRC";2.00;0
+"Mory GmbH";CONS;1;0;"Rückfahrt Home Office";0.25;0
+"Mory GmbH";CONS;1;0;"Vorbereitung CRC";0.25;0
+"Mory GmbH";CONS;1;0;"Vorbereitung CyberRisikoCheck";1.00;0
+"Mory GmbH";DSB_Ber_Sen;1;1;"Jahresbericht Datenschutz 2024 SECUDOR";1.00;120.00
+"Mory GmbH";DSB_Ber_Sen;1;1;"Vorbereitung Jahresbericht  und Aufgaben DSMS";0.50;60.00
+"Mory GmbH";DSB_Ber_Sen;1;0;"Erstellung Vertraulichkeitserklärung v2025";1.00;120.00
+"Mory GmbH";DSB_Ber_Sen;1;0;"Unterweisung Social Hacking";1.75;210.00
+"Mory GmbH";DSB_Ber_Sen;1;0;"Update Vertraulichkeitserklärung";1.00;120.00
+"Mory GmbH";Reisezeit;0;0;"Ohne Beschreibung";1.00;0
+"Polstermöbel Fischer Max Fischer GmbH";DSB_Ber;1;1;"Erstellung Formulierung für Löschanfrage";0.50;65.00
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Abstimmugn zu Spam und Mails";0.50;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Abstimmung VVT";1.00;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Abstimmung VVT und Vorgehen zu Löschanfrage";0.75;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Bearbeitung Löschanfrage";0.75;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Bewertung Dokumente";1.00;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Erstellung neue Vertraulichkeitserklärung";1.50;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Update des VVTs mit Vorschlägen + Bearbeitung Löschanfrage";0.50;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Update Vertraulichkeitserklärung";1.00;0
+"Polstermöbel Fischer Max Fischer GmbH";DS-Pauschale;1;0;"Update VVT und Formulierung Anfrage an Ansprechpartner nach VVT";1.25;0
+"RA König";DSB_Ber;0;0;"Bereitstellung Vertraulichkeit 2025";1.00;0
+"RA König";DS-Pauschale;1;0;"Erstellung DSMS";4.00;0
+"RealCore Group GmbH";CONS;1;0;"BLOCKER: Vorgesprechung HAFTUNG Juristische Punkte zum Auftragsverarbeitungsvertrag";0.50;0
+"RealCore Group GmbH";CONS;1;0;"Erstellung RACI";1.50;0
+"RealCore Group GmbH";CONS;0;0;"Anpassung der Assetliste und RACI";1.00;0
+"RealCore Group GmbH";CONS;0;0;"Jour Fixe";0.50;0
+"RealCore Group GmbH";CONS;0;0;"Prüfung RACI und Löschkonzept";2.00;0
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"Erstellung KI-Richtlinie und entsprechendes Formular";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC BMT | C.Strebel | Abstimmung Datenschutz RC BMT sowie Nacharbeiten";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC BMT | C.Strebel | Bewertung DSI Pflichten des DSG (Schweiz)";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC CH | C.Strebel | Prüfung MC Schweiz Anforderungen";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC4C | L.Lonz | Abstimmung technische Umsetzung für Einsichtnahme";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC4C | L.Lonz | Einsichtnahme";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RC4C | L.Lonz | Vorbereitung und Fragen zu Vorgehen Einsicht Postfach";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCCH | C.Strebel | Abstimmung Richtlinie";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCCH | C.Strebel | Erstellung Vorschlag Datenschutzrichtlinie";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann / C.Strebel | Checkliste DSG-Anforderungen erstellen";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann |  Abstimmung Jahresbericht";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann |  Aprendor User Anpassungen und Fehlerbehebungen";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann |  Fertigstellung Anfrage Landgaard";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann |  Vorbereitung Anfrage Landgaard";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann |  Vorstellung Jahresbericht 2024 bei Ownerboard";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Abstimmung AVV";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Abstimmung Jour Fixe + Abstimmung TIA Vorgehen Albanien und Co";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Abstimmung KI Richtlinie";1.75;201.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Abstimmung TOMs";2.75;316.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Abstimmung Vorfall";1.25;143.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Anfrage Landgard Löschung";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Art. 26 Zentrale Dienste abstimmen";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Art. 26 Zentrale Dienste erstellen";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Beantwortung KI-Formular für CoPilot Web";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Betrachtung Phishing Tool";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Bewertung AVV";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Bewertung AV-Vertrag";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Bewertung Vorfälle im Ticketsystem";0.25;28.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | DSGVO-Versandregelung + Art. 26-Zentrale Dienste ergänzen";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung Art. 26 Vertrag zu Kundendaten";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung IKONE Richtlinie";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung Jahresbericht";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung KI-Formular";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung KI-Richtlinie";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Erstellung Richtlinie Zugriff auf Mitarbeitergeräte / Postfach";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Jour Fixe";3.00;345.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Jour Fixe + nachfolgende Prüfen Benennungsurkunde";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | JourFix";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | JourFix ISB/DSB";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | kurze Abstimmung";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | kurze Abstimmung zu Vorfall (Verlorenes Handy)";0.25;28.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Prüfung AV Partner";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Prüfung AV-Vertrag";1.25;143.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Prüfung AV-Vertrags Vorlage insbesondere mit Blick auf Partner";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Prüfung Law No. 124/2024";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Terminplanung mit CST zu RC BMT";0.25;28.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | TIA Albanien";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Update AV Partner";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Vorbereitung Art. 26 M365";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Vorbereitung Art. 26 Zentrale Dienste";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Vorbereitung Art. 26 Zentrale Dienste + Jahresbericht 2024";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | Vorbereitung TIA Marocco";1.25;143.75
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | A.Hofmann | VVTs Aktualisieren";5.00;575.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | C.Banner | Abstimmung Anfrage Auftragsverarbeitung";0.75;86.25
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | M.Thielecke |  AVV signavio";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | Prüfung AVV";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | S.Brandt | Abstimmung, Prüfung und Bearbeitung AVV EWE";2.00;230.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCG | T. Steinkretzer | Prüfung AVV";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | A.Hofmann | Einlesen in Datenschutzrecht Morocco";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | A.Hofmann | Erarbeitung + Abstimmung TIA Albanien";2.50;287.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | A.Hofmann | Erarbeitung + Abstimmung TIA Marocco";2.00;230.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | M.Pluntke | Bewertung Aldi Arbeit aus dem non-EU Ausland";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | M.Pluntke | Frage: Löschung von Sicherungsdaten";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | M.Pluntke | Status Aufnahme zu TIA Albania";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | M.Pluntke | Termin zu Aldi Arbeit aus dem non-EU Ausland";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"RCM | M.Pluntke | Vorstellung Zwischenergebnisse TIA";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"Stellungnahme und Abstimmung Vorfall";0.50;57.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;1;"Vorbereitung Landgard Löschung";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RC Media | B.Balog | Prüfung und Abstimmung TOMs";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Abstimmung Art. 26 Vertrag + Jour Fixe";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Abstimmung AV-Vertrag Schweiz";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Erstellung Richtlinie IKONE";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Erstellung Vertraulichkeit 2025";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Prüfung Benennung und Erstellung Benennungsurkunde für stellvertretender DSB";1.50;172.50
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCG | A.Hofmann | Prüfung und Abstimmung AV-Vertrag Thyssenkrupp";3.00;345.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCM | A.Hofmann | Abstimmung SCC";1.00;115.00
+"RealCore Group GmbH";DSB_Ber_Sen;1;0;"RCM | A.Hofmann | Erarbeitung SCC";1.50;172.50
+"RealCore Group GmbH";DS-Pauschale;1;1;"JourFix ISB/DSB";0.25;46.25
+"RealCore Group GmbH";DS-Pauschale;1;0;"Bearbeitung Meldung zu aprendor";0.50;0
+"RealCore Group GmbH";DS-Pauschale;1;0;"RCCH | C.Strebel | Abstimmung Richtlinie";0.50;0
+"RealCore Group GmbH";DS-Pauschale;1;0;"RCG | A.Hofmann | Jour Fixe";1.25;0
+"RealCore Maintenance GmbH";DSB_Ber_Sen;1;0;"Update des SCC Vertrags";1.00;115.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;1;"Jahresbericht Datenschutz";1.00;130.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;1;"Jour-Fix Datenschutz Omnishore";0.50;65.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;1;"Update VVT mit Datenmaskierung und Aktualisierung Löschfristen";1.25;162.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;1;"Vorbereitung Termin und JourFixe";1.00;130.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;0;"Erstellung Vertraulichkeit 2025";1.00;130.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;0;"Jour Fixe";0.25;32.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";CONS;1;0;"Prüfung und Fertigstellung Art. 26";1.50;195.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Abstimmung Art. 26 mit JPS";1.25;162.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Anpassung und Bereitstellung Art. 26 nach vorherigen Termin";1.00;130.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Bearbeitung Art. 26";1.00;130.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Erstellung Art. 26 Vertrag";1.50;195.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Jour Fixe";0.75;97.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Prüfung Status VVT";0.50;65.00
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;1;"Status Aufnahme, Planung nächste Aufgaben (nach Freigabe in Jahresbericht)";0.75;97.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;0;"Update Art. 26 nach neuer Stellungnahme der Behörden";0.75;97.50
+"RealCore Omnishore GmbH (a6e66b9f-7de9-4e26-9464-7d99eb91c7f9)";DSB_Ber;1;0;"Update Vertraulichkeitserklärung";1.00;130.00
+"RealCore RB Dach GmbH";DSB_Ber;1;0;"Update Vertraulichkeitserklärung";1.00;130.00
+"RealCore RB Dach GmbH";DSB_Ber;1;0;"Vorbereitung Termin + Jour Fixe";1.00;130.00
+secudor;CONS;1;1;"Präsentation Vorwerk Cybersicherheit in Sharepoint";1.00;0
+secudor;CONS;1;1;"Vorbereitung Präsentation Vorwerk";1.00;0
+secudor;CONS;0;0;"Information Security Officer - TÜV Süd - ISO 27001";40.00;0
+secudor;CONS;0;0;"ISO Foundation";2.00;0
+secudor;CONS;0;0;"TÜV Süd | ISO27001 Foundation";16.00;0
+secudor;DSB_Ber;0;0;"RG Nürnberg BvD Treffen";4.00;0
+secudor;"Int. Organisation";1;1;"2. Blocker für Podcast / Finalisierung";0.50;0
+secudor;"Int. Organisation";1;1;"Abstimming MA Führung";0.50;0
+secudor;"Int. Organisation";1;1;"Abstimmung  VEDES";1.00;0
+secudor;"Int. Organisation";1;1;"Abstimmung Abrechnung EMPIC";0.75;0
+secudor;"Int. Organisation";1;1;"Abstimmung Domains und DNS Server";0.50;0
+secudor;"Int. Organisation";1;1;"Abstimmung FBE";1.00;0
+secudor;"Int. Organisation";1;1;"Abstimmung Forecast + Abstimmung Löschkonzept Folien + Zeitenaufschreibung";1.50;0
+secudor;"Int. Organisation";1;1;"Abstimmung SLH";0.50;0
+secudor;"Int. Organisation";1;1;"Abstimmung Status ToDos sowie Schulungen";1.00;0
+secudor;"Int. Organisation";1;1;"Abstimmung TOMs secudor";1.00;0
+secudor;"Int. Organisation";1;1;"Abstimmung und Erstellung Angebot RA König";0.50;0
+secudor;"Int. Organisation";1;1;"Abstimmung und Terminvereinbarung Michael König";0.75;0
+secudor;"Int. Organisation";1;1;"Anfrage Angebot bbs (nicht erteilt)";0.50;0
+secudor;"Int. Organisation";1;1;"Aufarbeitung und Abstimmung Booking Preise";1.00;0
+secudor;"Int. Organisation";1;1;"Blocker GL";1.00;0
+secudor;"Int. Organisation";1;1;"BvD - RG Nürnberg";4.00;0
+secudor;"Int. Organisation";1;1;"Checkout + Abstimmung SoA + Zeitenaufschreibung";1.50;0
+secudor;"Int. Organisation";1;1;"Checkout der Woche";2.25;0
+secudor;"Int. Organisation";1;1;"Checkout der Woche +  NIS 2 Sprechstunde abstimmen";1.25;0
+secudor;"Int. Organisation";1;1;"Checkout der Woche und Dry Run Robin";1.25;0
+secudor;"Int. Organisation";1;1;"Dry Run - ISMS als Multitool";1.25;0
+secudor;"Int. Organisation";1;1;"Dry-Run Folien";1.00;0
+secudor;"Int. Organisation";1;1;"EH Freiburg";2.00;0
+secudor;"Int. Organisation";1;1;"Einarbeitung Silke: Risikobewertung Datenschutzvorfall";1.00;0
+secudor;"Int. Organisation";1;1;"Einlesen und Testen CRC Software";1.00;0
+secudor;"Int. Organisation";1;1;"EMPIC, Telefonat Sven";0.50;0
+secudor;"Int. Organisation";1;1;"Erarbeitung ISO27701";3.00;0
+secudor;"Int. Organisation";1;1;"Erarbeitung NIS2";1.00;0
+secudor;"Int. Organisation";1;1;"Erste Prüfung NIS2";2.00;0
+secudor;"Int. Organisation";1;1;"Erstellung 2-Pager Löschkonzept";1.50;0
+secudor;"Int. Organisation";1;1;"Erstellung Beschreibung ISMS-Vorgehen Social Media";1.00;0
+secudor;"Int. Organisation";1;1;"Erstellung Foliensatz Schweiz und Foliensatz ISMS";1.00;0
+secudor;"Int. Organisation";1;1;"Erstellung NIS2 Anforderungen";1.00;0
+secudor;"Int. Organisation";1;1;"Erstellung Produktbeschreibungen secudor";3.00;0
+secudor;"Int. Organisation";1;1;"Erstellung Produktbeschreibungen, Abstimmung Team zu Produktseite und Vorgehen";4.00;0
+secudor;"Int. Organisation";1;1;"Erstellung Unterweisung ISMS als Gesamtlösung";2.00;0
+secudor;"Int. Organisation";1;1;"Erstellung Update Dry-Run Folien";1.00;0
+secudor;"Int. Organisation";1;1;"Externern ISB EMPIC";1.00;0
+secudor;"Int. Organisation";1;1;"Flo Abstimmung";1.75;0
+secudor;"Int. Organisation";1;1;"Forecast secudor abschließen";0.50;0
+secudor;"Int. Organisation";1;1;"Gmd. Langenaltheim -> Angebot ISB";1.50;0
+secudor;"Int. Organisation";1;1;"Hinterlegen und Sortieren Vorträge Verbandstage";0.50;0
+secudor;"Int. Organisation";1;1;"InfoSec SoA";1.00;0
+secudor;"Int. Organisation";1;1;"InfoSec SoA Meeting";1.50;0
+secudor;"Int. Organisation";1;1;"Interne Abstimmung secudor";2.75;0
+secudor;"Int. Organisation";1;1;"Interne Abstimmung SLH, FBE, THA";1.50;0
+secudor;"Int. Organisation";1;1;"interne Abstimmung Text";0.75;0
+secudor;"Int. Organisation";1;1;"interne Abstimmung Vanessa & Thomas zu Home-Office Richtlinie";1.00;0
+secudor;"Int. Organisation";1;1;"interne Abstimmungen";1.00;0
+secudor;"Int. Organisation";1;1;"Kennenlernen Patrick Blocker";0.50;0
+secudor;"Int. Organisation";1;1;"Kurze Abstimmung";1.00;0
+secudor;"Int. Organisation";1;1;"Leadliste und Strategie";0.50;0
+secudor;"Int. Organisation";1;1;"Leadliste und Strategie + Hays Kontakt";1.50;0
+secudor;"Int. Organisation";1;1;"Meeting Planung und Abstimmung SLH";1.00;0
+secudor;"Int. Organisation";1;1;"NIS2 Sprechstunde - next steps";0.50;0
+secudor;"Int. Organisation";1;1;"Planung April";0.50;0
+secudor;"Int. Organisation";1;1;"Planung Audits";1.00;0
+secudor;"Int. Organisation";1;1;"Planung Kundenaudits, Abstimmung Social Media Posts";1.00;0
+secudor;"Int. Organisation";1;1;"Planung Tasks Datenschutz bei Kunden";1.25;0
+secudor;"Int. Organisation";1;1;"PreSales EMPIC";1.00;0
+secudor;"Int. Organisation";1;1;"PreSales FD Friedrich GmbH Vorfall";1.00;0
+secudor;"Int. Organisation";1;1;"Prüfung und Versand Angebot";0.50;0
+secudor;"Int. Organisation";1;1;"SECUD - NIS 2 Sprechstunde abstimmen";1.00;0
+secudor;"Int. Organisation";1;1;"Steuerung Flo und Abstimmung";1.00;0
+secudor;"Int. Organisation";1;1;"Strategie secudor";2.00;0
+secudor;"Int. Organisation";1;1;"Süket Abstimmung";1.00;0
+secudor;"Int. Organisation";1;1;"Update Audit Template";0.50;0
+secudor;"Int. Organisation";1;1;"Update Dry-Run Folien";0.50;0
+secudor;"Int. Organisation";1;1;"Update Joachim";1.00;0
+secudor;"Int. Organisation";1;1;"Update News - gemeinsame Zusammenarbeit";1.25;0
+secudor;"Int. Organisation";1;1;"VEDES Telefonat Abstimmung VDS 10000";0.75;0
+secudor;"Int. Organisation";1;1;"Vorbereitung 2-Pager Löschen";1.00;0
+secudor;"Int. Organisation";1;1;"Vorbereitung EMPIC";0.50;0
+secudor;"Int. Organisation";1;1;"Vorstellung ISMS Vortrag";1.00;0
+secudor;"Int. Organisation";1;1;"Webseite Abstimmung";1.00;0
+secudor;"Int. Organisation";1;1;Zeiterfassung;2.50;0
+secudor;"Int. Organisation";1;1;"Zeiterfassung und Projektsteuerung";0.25;0
+secudor;"Int. Organisation";1;0;"Ohne Beschreibung";1.00;0
+secudor;"Int. Organisation";1;0;"Abstimmung Artikel Podcast";1.00;0
+secudor;"Int. Organisation";1;0;"VEDES VdS 10000";5.00;0
+secudor;"Int. Organisation";0;0;"Ohne Beschreibung";3.25;0
+secudor;"Int. Organisation";0;0;Abstimmung;0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung Angebot";1.00;0
+secudor;"Int. Organisation";0;0;"Abstimmung Angebot randstadt und Weiterleitung";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung aprendor";1.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung Besuch LRat";1.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung intern";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung Jahresauftakt";0.75;0
+secudor;"Int. Organisation";0;0;"Abstimmung Leitbild";0.75;0
+secudor;"Int. Organisation";0;0;"Abstimmung neue Ordnerstruktur";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung SLH";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung solverest Aufgaben";0.25;0
+secudor;"Int. Organisation";0;0;"Abstimmung THA";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung verrechenbare Zeite JHA";1.00;0
+secudor;"Int. Organisation";0;0;"Abstimmung verrechenbare Zeiten";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung Zeiten";0.50;0
+secudor;"Int. Organisation";0;0;"Abstimmung zu Teams Umsetzung";1.00;0
+secudor;"Int. Organisation";0;0;"Abstimmung zu Themen und Heimfahrt";1.00;0
+secudor;"Int. Organisation";0;0;"Administrative Aufgaben RLE";1.25;0
+secudor;"Int. Organisation";0;0;"Anpassung Jahresbericht";1.00;0
+secudor;"Int. Organisation";0;0;"AS Prüfaufgaben des DSB";2.50;0
+secudor;"Int. Organisation";0;0;"AS Prüfaufgaben DSB -> BvD";2.50;0
+secudor;"Int. Organisation";0;0;"Aufnahme IST-Status und Einlesen in KI-Verordnung";3.00;0
+secudor;"Int. Organisation";0;0;"Aufräumen Teams-Ordner RLE Organisatorisch und Datenschutz";1.50;0
+secudor;"Int. Organisation";0;0;"Aufräumen Teams-Ordner RLE Organisatorisch und Datenschutz; Administrative Tätigkeiten RLE";1.50;0
+secudor;"Int. Organisation";0;0;"Ausschuss Prüfaufgaben DSB";6.75;0
+secudor;"Int. Organisation";0;0;"Bearbeitung Fragen Sepire";0.25;0
+secudor;"Int. Organisation";0;0;"Bereinigung eigene RLE-Team";0.50;0
+secudor;"Int. Organisation";0;0;"Besuch Landrat sowie interne Abstimmungen";7.50;0
+secudor;"Int. Organisation";0;0;"Biweekly Jour Fixe";1.00;0
+secudor;"Int. Organisation";0;0;"Biweekly Jourfixe";0.50;0
+secudor;"Int. Organisation";0;0;"BVD Verbandstage BERLIN";16.00;0
+secudor;"Int. Organisation";0;0;"Checkout der Woche";5.75;0
+secudor;"Int. Organisation";0;0;"Clockodo Abstimmung ""Rest-Zeiten 02/25""";0.50;0
+secudor;"Int. Organisation";0;0;EMPIC;0.75;0
+secudor;"Int. Organisation";0;0;"Erstellung Audit Leitfaden für secudor";1.25;0
+secudor;"Int. Organisation";0;0;"Erstellung Jahresplan RLE";2.00;0
+secudor;"Int. Organisation";0;0;"Erstellung Präsentationen";3.00;0
+secudor;"Int. Organisation";0;0;"Erstellung Preiskalkulation Aprendor";1.00;0
+secudor;"Int. Organisation";0;0;"Erstellung und Abstimmung Risikomatrix für Kunden mit SLH";2.00;0
+secudor;"Int. Organisation";0;0;Fahrt;2.00;0
+secudor;"Int. Organisation";0;0;"Foliensatz Landrat";2.50;0
+secudor;"Int. Organisation";0;0;"Freigabe Zeiten einholen";1.00;0
+secudor;"Int. Organisation";0;0;"Info Sec Teil 7";0.75;0
+secudor;"Int. Organisation";0;0;"InfoSec Abstimmung SOA";1.00;0
+secudor;"Int. Organisation";0;0;"InfoSec Teil 5";1.00;0
+secudor;"Int. Organisation";0;0;"InfoSec Teil 8";1.00;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung";1.50;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung & Vorbereitung";1.25;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung Ablage";0.50;0
+secudor;"Int. Organisation";0;0;"Interne Abstimmung da kurzfristig vorheriger Termin verkürzt";0.50;0
+secudor;"Int. Organisation";0;0;"Interne Abstimmung in Treuchtlingen";2.00;0
+secudor;"Int. Organisation";0;0;"Interne Abstimmung mit FBE";1.00;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung mit Silke";0.75;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung mit SLH";2.25;0
+secudor;"Int. Organisation";0;0;"Interne Abstimmung mit Team";1.00;0
+secudor;"Int. Organisation";0;0;"interne Abstimmung, Zeitaufschreibung";1.75;0
+secudor;"Int. Organisation";0;0;"interne Abstimmungen";3.00;0
+secudor;"Int. Organisation";0;0;"ISB EMPIC";1.50;0
+secudor;"Int. Organisation";0;0;"Jahreauftakt mit SLE";1.25;0
+secudor;"Int. Organisation";0;0;"Organisation Mails";1.00;0
+secudor;"Int. Organisation";0;0;"Planung BvD";0.50;0
+secudor;"Int. Organisation";0;0;"Prüfung DS-SoA";1.00;0
+secudor;"Int. Organisation";0;0;"Prüfung und Versand Hays und Co";1.00;0
+secudor;"Int. Organisation";0;0;"Red Castle Meeting";4.50;0
+secudor;"Int. Organisation";0;0;"Social Media Seite aktualisieren RLE";0.50;0
+secudor;"Int. Organisation";0;0;"Testen der KI Einbindung über OpenWebUI";0.50;0
+secudor;"Int. Organisation";0;0;"Thema ILM/Löschkonzept für Sales aufbereiten";1.00;0
+secudor;"Int. Organisation";0;0;"Unterstützung Umbau Büro";0.75;0
+secudor;"Int. Organisation";0;0;"Update Forecast";1.75;0
+secudor;"Int. Organisation";0;0;"Vereinbarung ILE Termin";1.00;0
+secudor;"Int. Organisation";0;0;"Vertriebsliste - Durchsprache & Updates Leads und Ops";1.00;0
+secudor;"Int. Organisation";0;0;"Vorbereitung Angebot und Abstimmung RCG Aprendor";1.50;0
+secudor;"Int. Organisation";0;0;"Vorbereitung ILM Löschkonzept";1.00;0
+secudor;"Int. Organisation";0;0;"Vorbereitung Landrat";0.50;0
+secudor;"Int. Organisation";0;0;"Vorbereitung und Abstimmung";1.75;0
+secudor;"Int. Organisation";0;0;"Vorbereitung und Berechnung Angebot RCG plus kurze Kommunikation mit AHO zu diesem";1.00;0
+secudor;"Int. Organisation";0;0;"Vorgehensmodell TIA erstellen";2.25;0
+secudor;"Int. Organisation";0;0;"Vorstellung Health-Check";0.50;0
+secudor;"Int. Organisation";0;0;"Vorstellung REDCASTLE";1.75;0
+secudor;"Int. Organisation";0;0;"Webinaraufzeichnung bechtle eGovernment";1.00;0
+secudor;"Int. Organisation";0;0;"Workshop Jahresauftakt";3.25;0
+secudor;"Int. Organisation";0;0;Zeiterfassung;0.50;0
+"Sepire GmbH";CONS_Sen;1;1;"Beratung zu Backup-Konzept und Sicherheit in Rechenzentren";1.00;115.00
+"solverest GmbH";CONS;1;1;"Erstellung DSI Videoüberwachung";0.75;101.25
+"solverest GmbH";CONS;1;1;"Erstellung DSI Webseite, sowie Hinterlegen DSI Glossar und Verbesserung VVT";1.75;236.25
+"solverest GmbH";CONS;1;1;"Erstellung VVT";3.25;438.75
+"solverest GmbH";CONS;1;1;"KickOff DSMS";1.00;135.00
+"solverest GmbH";CONS;1;1;"Notion: Hinterlegen und Anpassen DSR-Vorfall und DSR-Rechte Betroffene sowie Hinterlegen und konform Einrichten VVT";1.50;202.50
+"solverest GmbH";CONS;1;1;"solverst - VVT (Best Practice Applikationen)";0.50;67.50
+"solverest GmbH";DS-Pauschale;1;0;"Update VVT";1.00;0
+"Stadt Pappenheim";DSB_Ber;1;0;"Jahresbericht + offene DSI + Stellungnahme BfDI zu Social Media";1.00;0
+"Stadt Pappenheim";DS-Pauschale;1;0;"Erarbeitung Arbeitsanweisung Datenschutz";1.00;0
+"Stadt Pappenheim";DS-Pauschale;1;0;"Status Abstimmung, DSI Fürth Update, Dienstanweisung";2.50;0
+"Stadt Pappenheim";DS-Pauschale;1;0;"Überarbeitung DS-Handbuch";1.50;0
+"Stadt Treuchtlingen";DSB_Ber_Sen;1;0;"Bewertung Datenschutzvorfall und erste Dokumentation";1.50;0
+"Stadt Treuchtlingen";DSB_Ber_Sen;1;0;"interne Abstimmung zu Vorfall sowie Vorbereitung Schreiben zum Audit der Software";1.00;0
+"Stadt Treuchtlingen";DSB_Ber_Sen;1;0;"Prüfung AV-Vertrag plus Erstellung Stellungnahme";2.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Abstimmung DSI Wahlhelfer";1.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Abstimmung DSI-Wahlhelfer und DSI-Wählerverzeichnis";1.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Bewertung D-Trust Vorfall";0.50;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Dokumentation Vorfall";0.50;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Erarbeitung Arbeitsanweisung Datenschutz";1.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Jahresbericht + offene DSI + Stellungnahme BfDI zu Social Media";2.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Terminplanung ILE und Status Treuchtlingen";1.00;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Update VVT Tätigkeiten für Status";1.50;0
+"Stadt Treuchtlingen";DS-Pauschale;1;0;"Wiederaufnahme Kartenzahlgerät";0.50;0
+"The Project Group GmbH";DS-Pauschale;1;0;"Aufnahme Dokumente Datenschutz";1.25;4000.00
+"The Project Group GmbH";DS-Pauschale;1;0;"Übergabe TPG";0.50;1600.00
+"The Project Group GmbH";DS-Pauschale;1;0;"Vorbereitung Übergabe TPG";0.50;1600.00
+"VEDES AG";CONS;1;1;"Durchführung CRC";3.00;393.75
+"VEDES AG";CONS;1;1;"Erstellung CRC Management Review";1.00;131.25
+"VEDES AG";CONS;1;1;"Fertigstellung und Abstimmung Bericht";0.50;65.63
+"VEDES AG";CONS;1;1;"Vorbereitung CRC";2.50;328.13
+"VEDES AG";"Int. Organisation";1;0;"VDS 10000 Mapping";1.50;0
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"§8 (3 ) und §9 (2) aktualisieren und realistischer formulieren";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Abstimmung ISMS";2.50;290.63
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Aufnahme Status Tasks + Bearbeitung Kapitel 5";2.00;232.50
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Bearbeitung Kapitel 7, 8 und 9";2.00;232.50
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Erstellung einer Dokumentenmatrix (wo liegt was)";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Erstellung KI-Richtlinie und entsprechendes Formular";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Erstellung Passwortrichtlinie";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Mobiles Arbeiten anpassen & vereinfachen";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Prozess zur Meldung neuer Verfahren für Dienstanweisung formulieren";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Prüfung Aufgaben und Erarbeitung offene Todos";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Prüfung Dienstanweisung";1.50;174.38
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Termin zu Umsetzung Arbeitshilfe";2.00;232.50
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Update und Vorschlag Notfallplan";2.00;232.50
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Vor Ort Termin";4.00;465.00
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Vorbereitung Kapitel 6";1.25;145.31
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Vorbereitung Kapitel 7,8,9 + Anpassung Risiko + Notfallhandbuch Kapitel 6";1.50;174.38
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Vorbereitung Risikobewertung";1.25;145.31
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;1;"Vorbereitung Termin";1.00;116.25
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;0;"Arbeitshilfe v5 Termin 5";2.50;290.63
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;0;"Erstellung Formular OnBoarding";1.50;174.38
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;0;"Erstellung Passwortrichtlinie";0.50;0
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;0;"Update Notfallplan";1.50;174.38
+"Verwaltungsgemeinschaft Altmühltal";CONS;1;0;"Vorbereitung Arbeitshilfe v5 Termin 5";1.25;145.31
+"Verwaltungsgemeinschaft Altmühltal";DS-Pauschale;1;0;"Anpassung Wahlhelfer und Wählerverzeichnis DSI";1.00;0
+"Wasserzweckverband l. d. Altmühl";DS-Pauschale;1;1;"Aufnahme Status";1.00;0
+"Wasserzweckverband l. d. Altmühl";DS-Pauschale;1;1;"Vorbereitung Vor-Ort-Termin";0.50;0
+"Wasserzweckverband r. d. Altmühl";DS-Pauschale;1;0;"Aufnahme Status";1.00;0
+"Wasserzweckverband r. d. Altmühl";DS-Pauschale;1;0;"Vorbereitung Vor-Ort-Termin";0.50;0
+"Wilsch Power Hosting GmbH";CONS;1;0;"Erstellung und Bereitstellung Vertraulichkeit-Mitarbeiter & Vertraulichkeit-Externe";2.00;275.00
