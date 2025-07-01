@@ -12,9 +12,9 @@ primaryContact: ""
 ## 🚀 Major Milestones
 
 ```dataview
-TABLE status, winCondition as "Objective"
-FROM "20 Quests"
-WHERE type = "Milestone" AND parentQuest = this.file.link
+TABLE file.link as "Note", file.folder as "Folder"
+FROM ""
+WHERE contains(this.file.inlinks, file.link)
 SORT file.mtime desc
 ```
 
