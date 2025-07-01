@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde.md",
+                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde v2507.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NIS2 Sprechstunde"
+              "title": "NIS2 Sprechstunde v2507"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "81dcae194177647d",
   "lastOpenFiles": [
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde alt.md",
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde v2507.md",
     "QUEST - SECUD.md",
-    "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde.md",
     "20 Quests/PROFESSIONAL/SECUD/2025-05-23 SECUD GL Meeting.md",
     "20 Quests/PROFESSIONAL/ARA/Ausgabe von Gemini ARA Tellscale 2025-06-26.md",
     "20 Quests/PROFESSIONAL/ARA/_QUEST - ARA.md",
@@ -262,7 +263,6 @@
     "01 Nexus/000 - Master Quest Log.md",
     "10 Library/NETWORK/Jan-Phillip Scheller.md",
     "10 Library/PERSONAL/VIM QuickSheet.md",
-    "20 Quests/PROFESSIONAL/Untitled.md",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
