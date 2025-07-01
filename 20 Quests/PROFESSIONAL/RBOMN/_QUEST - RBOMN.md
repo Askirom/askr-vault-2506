@@ -25,8 +25,8 @@ path includes 20 Quests/PROFESSIONAL/RBOMN/
 
 ## 📝 Action Log & Tasks
 
-- [ ] TODO Prepare Jour Fixe meeting 📅 2025-06-30
-- [ ] TODO Complete Art. 26 DSGVO contract tasks 📅 2025-06-30
+- [x] TODO Prepare Jour Fixe meeting 📅 2025-06-30 ✅ 2025-07-01
+- [x] TODO Complete Art. 26 DSGVO contract tasks 📅 2025-06-30 ✅ 2025-07-01
 
 ---
 ## 💬 Meeting Notes & Communication
