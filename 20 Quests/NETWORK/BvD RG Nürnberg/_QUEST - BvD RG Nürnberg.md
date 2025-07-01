@@ -9,13 +9,11 @@ primaryContact: ""
 
 # Quest: BvD RG Nürnberg
 
-## 🚀 Major Milestones
+## ✔️ Tasks
 
-```dataview
-TABLE status, winCondition as "Objective"
-FROM "20 Quests"
-WHERE type = "Milestone" AND parentQuest = this.file.link
-SORT file.mtime desc
+```tasks
+not done
+path includes 20 Quests/NETWORK/BvD RG Nürnberg/
 ```
 
 ---

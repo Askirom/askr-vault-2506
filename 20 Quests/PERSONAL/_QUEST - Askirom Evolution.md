@@ -34,15 +34,11 @@ SORT file.name asc
 - [ ] TODO Implement weekly system review process
 - [ ] TODO Review and update stage progression criteria
 
-## Milestones
+## ✔️ Tasks
 
-## Stage Milestones
-
-```dataview
-TABLE estimatedXP as "XP", status, deadline, winCondition as "Win Condition"
-FROM "20 Quests"
-WHERE type = "Milestone" AND parentQuest = this.file.link
-SORT deadline asc
+```tasks
+not done
+path includes 20 Quests/PERSONAL/Askirom Evolution/
 ```
 
 ## Evolution Metrics

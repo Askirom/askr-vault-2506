@@ -9,13 +9,11 @@ primaryContact: ""
 
 # Quest: SECUD
 
-## 🚀 Major Milestones
+## ✔️ Tasks
 
-```dataview
-TABLE file.link as "Note", file.folder as "Folder"
-FROM ""
-WHERE contains(this.file.inlinks, file.link)
-SORT file.mtime desc
+```tasks
+not done
+path includes 20 Quests/PROFESSIONAL/SECUD/
 ```
 
 ---

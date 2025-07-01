@@ -14,13 +14,11 @@ primaryContact: "Fabian Lauterbach"
 
 ---
 
-## 🚀 Major Milestones
+## ✔️ Tasks
 
-```dataview
-TABLE status, winCondition as "Objective"
-FROM "20 Quests"
-WHERE type = "Milestone" AND parentQuest = this.file.link
-SORT file.mtime desc
+```tasks
+not done
+path includes 20 Quests/PROFESSIONAL/FDFRI/
 ```
 
 ---

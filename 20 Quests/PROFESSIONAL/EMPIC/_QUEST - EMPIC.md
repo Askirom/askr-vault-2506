@@ -16,13 +16,11 @@ certificationTarget: Oktober 2025
 
 ---
 
-## 🚀 Major Milestones
+## ✔️ Tasks
 
-```dataview
-TABLE status, winCondition as "Objective", vdsPhase as "VdS Phase", estimatedValue as "Value (€)"
-FROM "20 Quests"
-WHERE type = "Milestone" AND parentQuest = this.file.link
-SORT vdsPhase asc, file.mtime desc
+```tasks
+not done
+path includes 20 Quests/PROFESSIONAL/EMPIC/
 ```
 
 ---
