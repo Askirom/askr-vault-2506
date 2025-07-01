@@ -5,8 +5,8 @@
 ### Terminvorbereitung
 - [x] Terminbestätigung erhalten (Microsoft Booking)
 - [x] [[NIS2 Begrüßungs-E-Mail Template]] an Kunden versendet
-- [ ] [[NIS2 Vorbereitungs-Fragebogen]] als Anhang mitgesendet
-- [ ] Meeting-Link überprüft (Teams/Zoom)
+- [x] [[NIS2 Vorbereitungs-Fragebogen]] als Anhang mitgesendet
+- [x] Meeting-Link überprüft (Teams/Zoom)
 - [ ] secudor PowerPoint-Präsentation bereitgestellt
 
 ### Persönliche Vorbereitung

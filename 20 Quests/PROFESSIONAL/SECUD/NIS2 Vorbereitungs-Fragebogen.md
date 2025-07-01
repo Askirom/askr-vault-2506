@@ -2,22 +2,16 @@
 
 ## Unternehmensdaten
 
-**Firmenname**: _______________________________________________
-
-**Branche/Sektor**: ____________________________________________
-
-WZ-Kennung: _
-**Anzahl Mitarbeiter**: ________________________________________
-
-**Hauptgeschäftstätigkeit**: ___________________________________
-
-
+- Firma                                      Firmenname
+- Ansprechpartner                   Ansprechpartner
+- WZ-Codes                             WZ-Codes
+- Anzahl Mitarbeitende           Mitarbeiteranzahl
+- Jahresumsatz                       Jahresumsatz
+- Jahresbilanzsumme             Jahresbilanzsumme
 
 ---
 
 **Bitte senden Sie diesen ausgefüllten Fragebogen bis spätestens einen Tag vor unserem Termin zurück.**
-
-**Rücksendung an**: [BERATER-EMAIL]
 
 ---
 *Fragebogen erstellt: 2025-07-01*  
