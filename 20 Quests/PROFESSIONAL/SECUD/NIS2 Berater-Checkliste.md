@@ -3,8 +3,8 @@
 ## Vor dem Termin ✅
 
 ### Terminvorbereitung
-- [ ] Terminbestätigung erhalten (Microsoft Booking)
-- [ ] [[NIS2 Begrüßungs-E-Mail Template]] an Kunden versendet
+- [x] Terminbestätigung erhalten (Microsoft Booking)
+- [x] [[NIS2 Begrüßungs-E-Mail Template]] an Kunden versendet
 - [ ] [[NIS2 Vorbereitungs-Fragebogen]] als Anhang mitgesendet
 - [ ] Meeting-Link überprüft (Teams/Zoom)
 - [ ] secudor PowerPoint-Präsentation bereitgestellt
@@ -23,23 +23,23 @@
 - [ ] Agenda: NIS2 Überblick → Betroffenheitsanalyse → Nächste Schritte
 - [ ] Zeitrahmen: 20 Minuten
 
-### NIS2 Einführung (8 Min)
-- [ ] Was ist NIS2? (Richtlinie, Ziele, Hintergrund)
-- [ ] Kritische vs. Wichtige Sektoren erklären
-- [ ] Größenkriterien verdeutlichen
-- [ ] Compliance-Deadline: **17. Oktober 2024**
-- [ ] Sanktionen bei Nichteinhaltung
+### NIS2 Kompakt-Einführung (5 Min)
+- [ ] **Fokus**: Was ist NIS2? Wer ist betroffen?
+- [ ] Kritische vs. Wichtige Sektoren (Überblick)
+- [ ] Größenkriterien (schnell abhaken)
+- [ ] **Key Message**: Compliance-Deadline 17. Oktober 2024
 
-### Betroffenheitsanalyse (8 Min)
-- [ ] Unternehmensdaten abfragen (falls Fragebogen nicht zurück)
-- [ ] Sektorale Einordnung prüfen
-- [ ] Größenkriterien bewerten
+### Betroffenheitsanalyse (12 Min)
+- [ ] Fragebogen-Daten durchgehen (oder live abfragen)
+- [ ] Sektorale Einordnung - **Hauptfokus des Termins**
+- [ ] Größenkriterien anwenden
 - [ ] **Klare Aussage**: Betroffen JA/NEIN
+- [ ] Bei Betroffenheit: Welche Maßnahmen sind nötig?
 
-### Handlungsempfehlungen (2 Min)
-- [ ] Sofortmaßnahmen benennen
-- [ ] secudor-Services vorstellen
-- [ ] Nächste Schritte definieren
+### Wrap-up & Next Steps (3 Min)
+- [ ] Kurze Zusammenfassung des Ergebnisses
+- [ ] secudor-Services anbieten (nur wenn betroffen)
+- [ ] Schriftliche Dokumentation ankündigen
 
 ---
 
@@ -92,12 +92,15 @@
 ## Eskalation & Support
 
 **Bei fachlichen Fragen:**
-- Thomas Haeckel (Lead NIS2)
+- Thomas Häckel (Lead NIS2)
 - Vanessa Bartolovic (Compliance)
 
 **Bei technischen Problemen:**
 - IT-Support secudor
 - Microsoft Booking Support
+
+**Referenzmaterial:**
+- [[../../../11 Attachments/NIS2 - Referenten Entwurf - 2024-06-24.pdf|NIS2 Referentenentwurf Deutschland]]
 
 ---
 

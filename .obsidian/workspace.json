@@ -28,35 +28,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Ergebnis-Dokument Template.md",
+                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NIS2 Ergebnis-Dokument Template"
+              "title": "NIS2 Berater-Checkliste"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "b5b2b55d4dda2ab2",
+        "id": "4ed9a13e0ab50c29",
         "type": "tabs",
         "children": [
           {
-            "id": "eec77e7e89f55aeb",
+            "id": "06c1e6cbbb5054ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Vorbereitungs-Fragebogen.md",
+                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Begrüßungs-E-Mail Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NIS2 Vorbereitungs-Fragebogen"
+              "title": "NIS2 Begrüßungs-E-Mail Template"
             }
           }
         ]
@@ -248,15 +248,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81dcae194177647d",
+  "active": "06c1e6cbbb5054ad",
   "lastOpenFiles": [
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Begrüßungs-E-Mail Template.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2-Sprechstunden Hub.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Vorbereitungs-Fragebogen.md",
-    "20 Quests/PROFESSIONAL/SECUD/NIS2 Begrüßungs-E-Mail Template.md",
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Ergebnis-Dokument Template.md",
+    "11 Attachments/NIS2 - Referenten Entwurf - 2024-06-24.pdf",
+    "NIS2 - Referenten Entwurf - 2024-06-24.pdf",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde alt.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Sprechstunde v2507.md",
-    "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
-    "20 Quests/PROFESSIONAL/SECUD/NIS2 Ergebnis-Dokument Template.md",
     "tasks.md",
     "QUEST - SECUD.md",
     "20 Quests/PROFESSIONAL/SECUD/2025-05-23 SECUD GL Meeting.md",
@@ -271,8 +273,6 @@
     "00 To Sort/budget_analysis.py",
     "00 To Sort/updated_analysis.py",
     "00 To Sort/clockodo_2025-06-30_1724.csv",
-    "00 To Sort/tasks_to_roundup.py",
-    "00 To Sort/detailed_roundup.py",
     "20 Quests/PROFESSIONAL/SECUD/_QUEST - SECUD.md",
     "20 Quests/PROFESSIONAL/SECUD/2025 BvD Verbandstage.md",
     "20 Quests/PROFESSIONAL/SECUD/AVV Prüfungen.md",
@@ -285,7 +285,6 @@
     "20 Quests/PROFESSIONAL/EMPIC/ISMS Funktionsweise - VdS 10000 Praxis.md",
     "20 Quests/PROFESSIONAL/RBOMN/2025-06-30 Jour Fixe Preparation.md",
     "00 To Sort/Inbox - Tasks.md",
-    "20 Quests/PROFESSIONAL/CLIFO/_QUEST - CLIFO.md",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
