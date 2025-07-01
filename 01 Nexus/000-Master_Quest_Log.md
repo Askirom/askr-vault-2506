@@ -10,21 +10,30 @@ WHERE type = "Quest" AND questType = "Main"
 
 ---
 
-## Active Milestones (Revenue Tracking)
-
-```dataview
-TABLE estimatedValue as "Value", estimatedXP as "XP", status, contact, deadline
-FROM "20 Quests"
-WHERE type = "Milestone" AND status != "completed"
-SORT estimatedValue desc
-```
-
----
-
-## Guild Quests (secudor GmbH mainly)
+## Guild Quests (Professional Client Work)
 
 ```dataview
 TABLE status, client
 FROM "20 Quests"
 WHERE type = "Quest" AND questType = "Guild"
+```
+
+---
+
+## Side Quests (Network & Learning)
+
+```dataview
+TABLE status, area, client
+FROM "20 Quests"
+WHERE type = "Quest" AND questType = "Side"
+```
+
+---
+
+## Hive Quests (Relationship)
+
+```dataview
+TABLE status, winCondition as "Objective"
+FROM "20 Quests"
+WHERE type = "Quest" AND questType = "Hive"
 ```

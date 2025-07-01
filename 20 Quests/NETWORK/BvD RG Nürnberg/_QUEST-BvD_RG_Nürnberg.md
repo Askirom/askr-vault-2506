@@ -1,6 +1,6 @@
 ---
 type: Quest
-questType: Guild
+questType: Side
 status: active
 area: Professional
 client: "BvD"

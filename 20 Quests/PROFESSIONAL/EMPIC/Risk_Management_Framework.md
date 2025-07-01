@@ -1,15 +1,5 @@
----
-type: Milestone
-parentQuest: "[[QUEST - EMPIC]]"
-status: active
-winCondition: "Complete risk management framework with risk analysis for critical systems and documentation management"
-vdsPhase: "implementation"
-systemScope: "critical"
-estimatedValue: 3500
-certificationDeadline: ""
----
 
-# Milestone: Risk Management Framework
+# Risk Management Framework
 
 ## Win Condition
 Implement comprehensive risk management framework including risk analysis for critical systems, risk treatment decisions, and documentation management system.
@@ -37,6 +27,3 @@ Implement comprehensive risk management framework including risk analysis for cr
 
 ## Progress Notes
 
----
-
-**Completion:** Update status to "completed" and log XP in XP_Log.md

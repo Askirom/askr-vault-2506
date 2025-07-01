@@ -1,24 +1,12 @@
----
-type: Milestone
-parentQuest: "[[QUEST - EMPIC]]"
-status: pending
-winCondition: "Complete VdS 10000 documentation package and prepare for certification audit"
-vdsPhase: "certification"
-systemScope: "both"
-estimatedValue: 2000
-certificationDeadline: ""
----
+# EMPIC: Documentation & Certification Prep
 
-# Milestone: Documentation & Certification Prep
-
-## Win Condition
+## Project Overview
 Complete all VdS 10000 documentation requirements, validate implementation through internal audit, and prepare for VdS certification assessment.
 
 ## VdS 10000 Context
-**Phase:** `= this.vdsPhase` (assessment | implementation | certification)  
-**System Scope:** `= this.systemScope` (critical | non-critical | both)  
-**Estimated Value:** €`= this.estimatedValue`  
-**Certification Target:** `= this.certificationDeadline`
+- **Phase**: Certification
+- **System Scope**: Both critical and non-critical
+- **Estimated Value**: €2,000
 
 ## Action Items  
 - [ ] Confluence Dokumentation prüfen (Finalize and formally release IS-policies - 6.2.x requirements)
@@ -38,5 +26,3 @@ Complete all VdS 10000 documentation requirements, validate implementation throu
 ## Progress Notes
 
 ---
-
-**Completion:** Update status to "completed" and log XP in XP_Log.md

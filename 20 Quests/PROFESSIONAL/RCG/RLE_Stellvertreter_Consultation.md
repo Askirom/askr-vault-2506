@@ -1,22 +1,10 @@
----
-type: Milestone
-parentQuest: "[[QUEST - RCG]]"
-status: pending
-winCondition: "Complete deputy appointment consultation and documentation"
-estimatedValue: "1000€"
-estimatedXP: "2 XP"
-priority: medium
-contact: "Adrian Hofmann"
-scheduled: "2025-06-23 18:30"
-duration: "25 minutes"
----
 
-# Milestone: RLE Stellvertreter Consultation
+# RLE Stellvertreter Consultation
 
-## 🎯 Win Condition
+## Project Overview
 Complete consultation on deputy appointment procedures for RLE, create documentation template
 
-## 💰 Financial Impact
+## Financial Impact
 - **Estimated Value**: 1,000€ (2 XP)
 - **Contact**: [[Adrian Hofmann]]
 - **Scheduled**: 2025-06-23 18:30 (25 minutes)

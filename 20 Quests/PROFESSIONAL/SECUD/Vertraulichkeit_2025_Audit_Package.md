@@ -1,22 +1,11 @@
----
-type: Milestone
-parentQuest: "[[QUEST - SECUD]]"
-status: pending
-winCondition: "Complete audit of Vertraulichkeit-2025 documents and deliver to multiple clients"
-estimatedValue: "1500€"
-estimatedXP: "3 XP"
-priority: medium
----
+# SECUD: Vertraulichkeit 2025 Audit Package
 
-# Milestone: Vertraulichkeit 2025 Audit Package
-
-## 🎯 Win Condition
+## Project Overview
 Complete comprehensive audit of Vertraulichkeit-2025-Mitarbeiter and -Externe documents, standardize for reuse
 
-## 💰 Financial Impact
-- **Estimated Value**: 1,500€ (3 XP)
+## Financial Impact
+- **Estimated Value**: €1,500
 - **Scalability**: Template for multiple clients (Mory + others)
-- **Priority**: Medium
 
 ## 📋 Task Breakdown
 - [ ] Audit Artikel/Paragraphen in Vertraulichkeit-2025-Mitarbeiter

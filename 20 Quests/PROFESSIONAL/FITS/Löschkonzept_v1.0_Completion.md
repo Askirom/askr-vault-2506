@@ -1,20 +1,10 @@
----
-type: Milestone
-parentQuest: "[[QUEST - FITS]]"
-status: in_progress
-winCondition: "Complete review and finalization of Löschkonzept Version 0.9 → 1.0"
-estimatedValue: "2500€"
-estimatedXP: "5 XP"
-priority: high
-contact: "Elke Stapfer"
----
 
-# Milestone: Löschkonzept v1.0 Completion
+# Löschkonzept v1.0 Completion
 
-## 🎯 Win Condition
+## Project Overview
 Complete review of Version 0.9 and deliver finalized Löschkonzept Version 1.0 to FITS
 
-## 💰 Financial Impact
+## Financial Impact
 - **Estimated Value**: 2,500€ (5 XP)
 - **Priority**: HIGH (overdue from 2025-05-07)
 - **Contact**: Elke Stapfer

@@ -1,6 +1,6 @@
 ---
 type: Quest
-questType: Main
+questType: Hive
 status: active
 area: Personal
 winCondition: ""

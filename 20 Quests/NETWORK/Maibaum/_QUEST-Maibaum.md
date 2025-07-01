@@ -1,6 +1,6 @@
 ---
 type: Quest
-questType: Main
+questType: Side
 status: completed
 area: Personal
 winCondition: ""

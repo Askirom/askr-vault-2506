@@ -1,20 +1,10 @@
----
-type: Milestone
-parentQuest: "[[QUEST - FDFRI]]"
-status: pending
-winCondition: "Complete both 2025-03-11 and 2025-04-04 Datenschutzformulare"
-estimatedValue: "2000€"
-estimatedXP: "4 XP"
-priority: medium
-contact: "Fabian Lauterbach"
----
 
-# Milestone: Datenschutzformular Package Completion
+# Datenschutzformular Package Completion
 
-## 🎯 Win Condition
+## Project Overview
 Deliver completed Datenschutzformulare for both March and April 2025 periods
 
-## 💰 Financial Impact
+## Financial Impact
 - **Estimated Value**: 2,000€ (4 XP)
 - **Priority**: Medium
 - **Contact**: [[Fabian_Lauterbach]]
