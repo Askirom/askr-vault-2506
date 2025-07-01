@@ -25,9 +25,9 @@
 
 ### NIS2 Kompakt-Einführung (5 Min)
 - [ ] **Fokus**: Was ist NIS2? Wer ist betroffen?
-- [ ] Kritische vs. Wichtige Sektoren (Überblick)
+- [ ] Besonders wichtige vs. Wichtige Sektoren (Überblick)
 - [ ] Größenkriterien (schnell abhaken)
-- [ ] **Key Message**: Compliance-Deadline 17. Oktober 2024
+- [ ] **Key Message**: Compliance-Deadline noch unklar aber voraussichtlich 2026
 
 ### Betroffenheitsanalyse (12 Min)
 - [ ] Fragebogen-Daten durchgehen (oder live abfragen)
@@ -54,7 +54,6 @@
 ### Kundenversand
 - [ ] PDF-Dokument an Kunden versenden
 - [ ] Follow-up E-Mail mit Angebot (bei Betroffenheit)
-- [ ] CRM-System aktualisieren (falls vorhanden)
 
 ### Interne Dokumentation
 - [ ] Termin in Kalender abschließen
