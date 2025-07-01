@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
+                "file": "20 Quests/PROFESSIONAL/SECUD/NIS2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NIS2 Berater-Checkliste"
+              "title": "NIS2"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -232,13 +231,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81dcae194177647d",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
+    "20 Quests/PROFESSIONAL/SECUD/NIS2",
+    "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
+    "20 Quests/PROFESSIONAL/SECUD/NIS2.md",
     "02 Daily/2025-07-01.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Anforderungen.md",
     "11 Attachments/NIS-2-RefE_2025.pdf",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Begrüßungs-E-Mail Template.md",
-    "20 Quests/PROFESSIONAL/SECUD/NIS2 Berater-Checkliste.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Vorbereitungs-Fragebogen.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2-Sprechstunden Hub.md",
     "20 Quests/PROFESSIONAL/SECUD/NIS2 Ergebnis-Dokument Template.md",
@@ -268,8 +269,6 @@
     "20 Quests/PROFESSIONAL/EKIBA/ISMS Funktionsweise - Eine Seite Erklärung.md",
     "20 Quests/PROFESSIONAL/EKIBA/ISMS Funktionsweise - EKIBA Spezifisch.md",
     "20 Quests/PROFESSIONAL/EKIBA/Richtlinie - Funktionsweise des ISMS.md",
-    "20 Quests/PROFESSIONAL/EMPIC/ISMS Funktionsweise - VdS 10000 Praxis.md",
-    "20 Quests/PROFESSIONAL/RBOMN/2025-06-30 Jour Fixe Preparation.md",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-3-en-knowledgebases_pdf_preview.png",
     "99 Archive/2 Work/Work References/Privacy Impact Assessment.assets/cnil-pia-1-en-methodology_pdf_preview.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
