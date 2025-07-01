@@ -5,13 +5,14 @@
 ### 1. Governance & Management
 - [ ] **Cybersicherheitsrichtlinien** entwickeln und implementieren
 - [ ] **Geschäftsführung** für Cybersicherheit verantwortlich machen
-- [ ] **Cybersicherheitsbeauftragte/r** benennen
-- [ ] **Cybersicherheitsschulungen** für Mitarbeiter etablieren
+- [ ] **Informationssicherheitsbeauftragten** benennen
+- [ ] **Cybersicherheitsschulungen** für Mitarbeiter und besonders auch Führungskräfte (inklusive Geschäftsführung) etablieren
 
 ### 2. Risikomanagement
 - [ ] **Risikobewertung** der Netz- und Informationssysteme
-- [ ] **Risikomanagement-Maßnahmen** für Cybersicherheit
+- [ ] **Risikomanagement-Maßnahmen** für Cybersicherheit definieren
 - [ ] **Lieferantenrisiken** bewerten und verwalten
+	- [ ] dazu gehört auch eine Lieferantenverwaltung
 - [ ] **Beschaffungsverfahren** für Cybersicherheit anpassen
 
 ### 3. Incident Management
