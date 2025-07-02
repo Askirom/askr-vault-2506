@@ -104,9 +104,12 @@ This character's loadout is defined not by specific brands, but by core principl
 ---
 
 ### 🔹 XP & LEVEL-UP
+**Current Level: 1** (45/50 XP)
+
 * **Professional XP** — 500€ billable work = 1 XP (target: 24 XP/month = 12,000€)
 * **Ship XP** — Bonus XP when something is *publicly shipped* (client doc, invoice, blog)
 * **System XP** — Capped at 50% of weekly Professional XP to prevent grinding in wrong arena
+* **Level System** — D&D 1-20 progression, each level unlocks new capabilities
 
 ---
 

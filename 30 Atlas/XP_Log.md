@@ -33,23 +33,30 @@
 
 ---
 
-## Total XP: 45 XP (Current Level: ?)
+## Total XP: 45 XP
+
+**Current Level: 1** (45/50 XP to Level 2)
 
 **XP Breakdown:**
 - Professional: 33 XP (€16,500+ billed)
 - Personal: 10 XP (learning & development)
 - System: 2 XP (optimization & organization)
 
-## Level System (To Be Defined)
-**Questions for consideration:**
-- How much XP per level? (50 XP? 100 XP? Monthly targets?)
-- What unlocks at each level? (Skills, abilities, rewards?)
-- How complex should attributes/skills be?
+## Level System (D&D 1-20)
 
-**Potential Level Thresholds:**
-- Level 1: 0-50 XP (Tutorial Stage)
-- Level 2: 51-150 XP (Adept Stage) 
-- Level 3: 151-300 XP (Expert Stage)
-- Level 4: 301+ XP (Master Stage)
+| Level | XP Required | XP Total | Months* | Status |
+|-------|-------------|----------|---------|--------|
+| 1     | 50          | 50       | 2       | ⭐ **CURRENT** |
+| 2     | 75          | 125      | 5       | 🎯 Next (5 XP to go!) |
+| 3     | 125         | 250      | 10      | - |
+| 4     | 150         | 400      | 17      | - |
+| 5     | 175         | 575      | 24      | - |
+| 6     | 200         | 775      | 32      | - |
+| 7     | 225         | 1000     | 42      | - |
+| 8     | 250         | 1250     | 52      | - |
+| 9     | 275         | 1525     | 64      | - |
+| 10    | 300         | 1825     | 76      | - |
 
-**Keep it simple vs. add complexity?**
+*Approximate months at 24 XP/month target
+
+**Level Benefits:** Each level unlocks workflow improvements, rate increases, or system enhancements based on actual achievements.
