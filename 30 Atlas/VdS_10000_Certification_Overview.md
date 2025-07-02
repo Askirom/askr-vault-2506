@@ -1,5 +1,8 @@
 # VdS 10000 Certification Overview
 
+## Resources
+- **Standard:** [[11 Attachments/Professional/vds-10000.pdf]]
+
 ## Active VdS 10000 Engagements
 
 ```dataview
