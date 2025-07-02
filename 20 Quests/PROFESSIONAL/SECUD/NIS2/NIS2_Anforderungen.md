@@ -1,13 +1,9 @@
 ### Zentrale Pflichten für Unternehmen nach dem NIS-2-Umsetzungsgesetz
 
 - **Risikomanagementmaßnahmen ergreifen (§ 30)**
-    
     - Unternehmen müssen "geeignete, verhältnismäßige und wirksame technische und organisatorische Maßnahmen" treffen1. Die Einhaltung muss dokumentiert werden2. Diese Maßnahmen müssen auf einem "gefahrenübergreifenden Ansatz" beruhen 3 und umfassen mindestens:
-        
         - Konzepte zur "Risikoanalyse und... Sicherheit in der Informationstechnik"4.
-            
         - "Bewältigung von Sicherheitsvorfällen"5.
-            
         - "Aufrechterhaltung des Betriebs, wie Backup-Management und Wiederherstellung nach einem Notfall, und Krisenmanagement"6.
             
         - "Sicherheit der Lieferkette" 7, einschließlich der Beziehungen zu unmittelbaren Anbietern8.
@@ -67,3 +63,64 @@
 - **Zugang gewähren (für Domain-Registries, § 50)**
     
     - Sie müssen "berechtigten Zugangsnachfragern" auf Antrag "Zugang zu den Domain-Namen-Registrierungsdaten zu gewähren"29.
+
+# Gemini 2nd Output
+### **Anforderungen des NIS-2-Umsetzungsgesetzes**
+
+Das Gesetz unterscheidet zwischen zwei Hauptkategorien von Unternehmen: **besonders wichtige Einrichtungen** und **wichtige Einrichtungen**. Während viele grundlegende Pflichten für beide gelten, gibt es wesentliche Unterschiede bei der Intensität der Maßnahmen, der behördlichen Aufsicht und der Höhe der Bußgelder.
+
+---
+
+### **Gemeinsame Anforderungen für beide Kategorien**
+
+Die folgenden Kernpflichten gelten sowohl für besonders wichtige als auch für wichtige Einrichtungen:
+
+* **Risikomanagement und Sicherheitsmaßnahmen (§ 30)**
+    * **Grundsatz:** Es müssen "geeignete, verhältnismäßige und wirksame technische und organisatorische Maßnahmen" zum Schutz der IT-Systeme ergriffen werden.
+    * **Verhältnismäßigkeit:** Der Aufwand der Maßnahmen muss in einem angemessenen Verhältnis zur Größe des Unternehmens, den potenziellen Risiken und den möglichen gesellschaftlichen und wirtschaftlichen Auswirkungen eines Vorfalls stehen.
+    * **Mindestmaßnahmen:** Beide Kategorien müssen einen Katalog von mindestens zehn spezifischen Maßnahmen umsetzen. Dazu gehören unter anderem:
+        * Konzepte für Risikoanalyse und Incident Response
+        * Sicherheit der Lieferkette
+        * Notfallpläne und Krisenmanagement
+        * Regelmäßige Schulungen für Mitarbeiter
+        * Einsatz von Verschlüsselung und Multi-Faktor-Authentifizierung
+
+* **Meldepflichten bei erheblichen Sicherheitsvorfällen (§ 32)**
+    * **Mehrstufiges Verfahren:** Erhebliche Vorfälle müssen nach einem strengen Zeitplan an die zentrale Meldestelle gemeldet werden:
+        * **Erstmeldung:** Innerhalb von 24 Stunden nach Kenntniserlangung
+        * **Folgemeldung:** Innerhalb von 72 Stunden mit einer ersten Bewertung
+        * **Abschlussmeldung:** Spätestens nach einem Monat
+
+* **Registrierungspflicht bei der Behörde (§ 33)**
+    * **Frist:** Alle betroffenen Unternehmen müssen sich innerhalb von drei Monaten nach Inkrafttreten des Gesetzes bzw. ihrer Einstufung bei der zuständigen Behörde (BSI) registrieren und ihre Daten aktuell halten.
+
+* **Verantwortung der Geschäftsleitung (§ 38)**
+    * **Umsetzung und Überwachung:** Die Geschäftsleitung ist direkt dafür verantwortlich, die Risikomanagementmaßnahmen zu genehmigen und deren Umsetzung zu überwachen.
+    * **Schulungspflicht:** Die Mitglieder der Geschäftsleitung müssen regelmäßig an Cybersicherheits-Schulungen teilnehmen.
+    * **Haftung:** Bei schuldhafter Pflichtverletzung besteht ein persönliches Haftungsrisiko gegenüber dem eigenen Unternehmen.
+
+---
+
+### **Unterschiede und besondere Anforderungen**
+
+Hier liegen die entscheidenden Unterschiede zwischen den beiden Kategorien:
+
+#### **Besonders wichtige Einrichtungen**
+
+* **Aufsicht (proaktiv / "ex-ante")**
+    * Das BSI kann jederzeit und **ohne konkreten Anlass** die Einhaltung der Vorschriften überprüfen.
+    * Es können proaktiv Audits, Prüfungen oder die Vorlage von Nachweisen angeordnet werden.
+
+* **Zusatzpflichten für Betreiber kritischer Anlagen** *(eine Untergruppe der besonders wichtigen Einrichtungen)*
+    * **Systeme zur Angriffserkennung:** Der Einsatz solcher Systeme ist verpflichtend.
+    * **Regelmäßige Nachweispflicht:** Die Umsetzung der Sicherheitsmaßnahmen muss dem BSI alle drei Jahre durch Audits, Prüfungen oder Zertifizierungen nachgewiesen werden.
+
+* **Bußgelder (höher)**
+    * Bei Verstößen drohen Bußgelder von bis zu **10 Millionen Euro** oder **2 % des weltweiten Jahresumsatzes**, je nachdem, welcher Betrag höher ist.
+
+#### **Wichtige Einrichtungen**
+* **Aufsicht (reaktiv / "ex-post")**
+    * Das BSI wird nur dann tätig und prüft die Einhaltung der Vorschriften, **wenn Tatsachen die Annahme rechtfertigen**, dass eine Pflichtverletzung vorliegt. Es gibt also keine proaktiven Prüfungen ohne Anlass.
+
+* **Bußgelder (geringer)**
+    * Bei Verstößen drohen Bußgelder von bis zu **7 Millionen Euro** oder **1,4 % des weltweiten Jahresumsatzes**, je nachdem, welcher Betrag höher ist.
