@@ -15,7 +15,8 @@
 - Administrationsrichtlinie
 - Funktionsweise des ISMS besprochen -> EHFREI prüft das Dokument
 - Diensteliste zur Verfügung stellen
-- Diensterliste 
+- Diensterliste wird bereitgestellt
+- 
 
 
 
