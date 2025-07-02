@@ -1,1 +1,1 @@
-- lord of myster
+- lord of mysteries
