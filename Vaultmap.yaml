@@ -1,0 +1,135 @@
+# Askr.Vault-2506 Structure Map
+# This file provides structured navigation metadata for Claude Code
+# Last updated: 2025-07-02
+
+vault:
+  name: "Askr.Vault-2506"
+  type: "obsidian"
+  description: "Gamified personal knowledge management system using quest-based organization"
+  
+structure:
+  "00 To Sort":
+    purpose: "Temporary holding for unorganized content"
+    type: "inbox"
+    key_files:
+      - "Inbox-Tasks.md"
+    search_priority: "low"
+    
+  "01 Nexus": 
+    purpose: "Central command and high-level coordination"
+    type: "coordination"
+    key_files:
+      - "000-Master_Quest_Log.md"
+      - "GEAR-Askirom_Inventory_v2506.md"
+      - "GUILD-secudor_GmbH.md"
+    search_priority: "high"
+    
+  "02 Daily":
+    purpose: "Daily log files with date-based naming"
+    type: "temporal"
+    pattern: "YYYY-MM-DD.md"
+    archive_structure: "02 Daily/YYYY/YYYY-MM/"
+    current_location: "root for current/previous month"
+    search_priority: "medium"
+    
+  "10 Library":
+    purpose: "Organized reference materials"
+    type: "reference"
+    subfolders:
+      "Hive": "Relationship content"
+      "Network": "People and connections"
+      "Personal": "Personal reference materials"
+      "Professional": "Work-related reference and tools"
+      "Templates": "Note templates"
+    search_priority: "high"
+    
+  "11 Attachments":
+    purpose: "File attachments organized by content type"
+    type: "assets"
+    subfolders:
+      "Backups": "System and data backups"
+      "Personal": "Personal media and files"
+      "Professional": "Work documents and media"
+      "Templates": "Template files and structures"
+    search_priority: "low"
+    
+  "20 Quests":
+    purpose: "Quest-based project organization"
+    type: "projects"
+    subfolders:
+      "Hive": "Relationship projects (sacred category)"
+      "Network": "Community and networking projects"
+      "Personal": "Personal development and goals"
+      "Professional": "Client work organized by company"
+    key_pattern: "_QUEST-[Name].md for hub files"
+    search_priority: "high"
+    
+  "30 Atlas":
+    purpose: "High-level system documentation and personal framework"
+    type: "meta"
+    key_files:
+      - "Askirom_v2506-Shadow_Bolt.md"
+      - "XP_Log.md"
+      - "Personal_Productivity_Framework_v2.md"
+    search_priority: "high"
+
+search_shortcuts:
+  people: "10 Library/Network/"
+  clients: "20 Quests/Professional/[CLIENT]/"
+  templates: "10 Library/Templates/"
+  daily_notes: "02 Daily/YYYY-MM-DD.md"
+  reference: "10 Library/Professional/"
+  archived_dailies: "02 Daily/YYYY/YYYY-MM/"
+  quest_hubs: "20 Quests/*/\\_QUEST-*.md"
+  system_docs: "30 Atlas/"
+  inbox: "00 To Sort/"
+
+active_clients:
+  - "ARA"
+  - "CLIFO" 
+  - "EHFREI"
+  - "EKIBA"
+  - "EMPIC"
+  - "FDFRI"
+  - "FITS"
+  - "GOSME"
+  - "INSTO"
+  - "RBOMN"
+  - "RCG"
+  - "SECUD"
+  - "VEDES"
+  - "VGALT"
+
+file_patterns:
+  quest_files: "_QUEST-[Name].md"
+  daily_notes: "YYYY-MM-DD.md"
+  templates: "Template_[Type].md"
+  professional_docs: "YYYY-MM-DD_[Project].md"
+  person_files: "Firstname_Lastname.md"
+
+naming_conventions:
+  file_separator: "_"
+  date_format: "YYYY-MM-DD"
+  quest_prefix: "_QUEST-"
+  template_prefix: "Template_"
+  no_spaces: true
+  clean_dashes: true
+
+plugins:
+  - "dataview"
+  - "obsidian-tasks-plugin"
+  - "table-editor-obsidian"
+  - "obsidian-icon-folder"
+  - "obsidian-git"
+
+gamification:
+  xp_system:
+    professional: "500€ billable = 1 XP"
+    target: "24 XP/month = €12,000"
+    tracking_file: "30 Atlas/XP_Log.md"
+  character_sheet: "30 Atlas/Askirom_v2506-Shadow_Bolt.md"
+  quest_types:
+    - "Main Quests: Personal development"
+    - "Guild Quests: Professional client work"
+    - "Side Quests: Network and learning"
+    - "Hive Quests: Relationship projects"
