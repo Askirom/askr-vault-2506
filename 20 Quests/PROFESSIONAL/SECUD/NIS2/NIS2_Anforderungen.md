@@ -124,3 +124,88 @@ Hier liegen die entscheidenden Unterschiede zwischen den beiden Kategorien:
 
 * **Bußgelder (geringer)**
     * Bei Verstößen drohen Bußgelder von bis zu **7 Millionen Euro** oder **1,4 % des weltweiten Jahresumsatzes**, je nachdem, welcher Betrag höher ist.
+
+
+## V4
+
+**A) Besonders wichtige Einrichtungen (essential entities, § 30 NIS2)**
+
+Beispiele: Betreiber kritischer Infrastrukturen (KRITIS), große Unternehmen in sensiblen Sektoren wie Energie, Gesundheit, Finanzen.
+
+  
+
+**Regulatorische Anforderungen**
+
+- **Proaktive behördliche Aufsicht (§ 61)**
+    
+    Das BSI kann jederzeit, auch ohne konkreten Anlass, Prüfungen und Nachweise verlangen.
+    
+    Es besteht eine ständige Nachweispflicht über die Einhaltung der Anforderungen.
+    
+- **Pflicht zum Einsatz von Angriffserkennungssystemen (§ 39)**
+    
+    Betreiber müssen Systeme zur Angriffserkennung einsetzen und alle drei Jahre gegenüber dem BSI nachweisen, dass die Maßnahmen umgesetzt wurden.
+    
+- **Hohe Bußgelder (§ 65 Abs. 2)**
+    
+    Bis zu 10 Mio. Euro oder 2 % des weltweiten Jahresumsatzes.
+    
+    Geldbußen können auch gegen natürliche Personen verhängt werden (bei Vorsatz oder grober Fahrlässigkeit).
+    
+
+  
+
+**Folgen für Geschäftsleitungen**
+
+- Persönliche Haftung kann bestehen, insbesondere bei Verstößen gegen die Sorgfaltspflichten nach Gesellschaftsrecht.
+    
+- Dokumentierte Risikoanalysen, Sicherheitsmaßnahmen, Schulungen und Vorfallmanagement sind faktisch zwingend.
+    
+- Ein funktionierendes ISMS (z. B. nach ISO 27001 oder branchenspezifischen Standards) ist nahezu unverzichtbar, auch wenn keine Zertifizierung gesetzlich verlangt wird.
+    
+
+---
+
+**B) Wichtige Einrichtungen (important entities, § 30 NIS2)**
+
+Beispiele: Mittlere Unternehmen in regulierten Sektoren (z. B. Chemie, Maschinenbau, Postdienste, digitale Dienste).
+
+  
+
+**Regulatorische Anforderungen**
+
+- **Reaktive behördliche Aufsicht (§ 62)**
+    
+    Das BSI wird nur bei konkretem Verdacht auf eine Pflichtverletzung aktiv.
+    
+    Es gibt keine laufende Prüfungspflicht, aber bei Auffälligkeiten kann jederzeit kontrolliert werden.
+    
+- **Keine Pflicht zum Einsatz von Angriffserkennungssystemen**
+    
+    Es gelten jedoch allgemeine Sicherheitsanforderungen nach § 28 NIS2 (z. B. Risikomanagement, Incident Response, Business Continuity).
+    
+- **Bußgelder (§ 65 Abs. 3)**
+    
+    Bis zu 7 Mio. Euro oder 1,4 % des weltweiten Jahresumsatzes.
+    
+
+  
+
+**Folgen für Geschäftsleitungen**
+
+- Auch hier besteht potenziell eine persönliche Haftung über das Gesellschaftsrecht.
+    
+- Der Druck ist geringer, dennoch sollte ein ISMS bestehen – idealerweise pragmatisch, ressourcenschonend und an den tatsächlichen Risiken ausgerichtet.
+    
+- Compliance-Nachweise sollten vorbereitet und dokumentiert sein, um im Ernstfall auditfähig zu sein.
+    
+
+---
+
+**Zusammenfassung**
+
+Bei besonders wichtigen Einrichtungen besteht eine dauerhafte, nachweisbare Pflichtenlage mit aktivem Kontrollregime. Bei wichtigen Einrichtungen sind die Anforderungen ebenfalls verbindlich, aber die Kontrolle erfolgt nur bei konkretem Anlass. In beiden Fällen ergibt sich eine mögliche persönliche Haftung für Geschäftsleitungen über das jeweilige Gesellschaftsrecht – NIS2 ergänzt diese nur subsidiär.
+
+  
+
+Wenn du willst, kann ich dir daraus eine Management-PowerPoint-Folie oder ein zweiseitiges Handout für Mandanten erstellen.
