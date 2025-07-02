@@ -1,5 +1,3 @@
-Gerne, hier ist die Liste der zentralen Unternehmenspflichten mit Referenzen und in einer verkürzten Form, die sich am Wortlaut des Gesetzesentwurfs orientiert.
-
 ### Zentrale Pflichten für Unternehmen nach dem NIS-2-Umsetzungsgesetz
 
 - **Risikomanagementmaßnahmen ergreifen (§ 30)**
