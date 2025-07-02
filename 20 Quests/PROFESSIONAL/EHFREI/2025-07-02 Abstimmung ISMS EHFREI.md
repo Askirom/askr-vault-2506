@@ -13,7 +13,9 @@
 - Anwenderrichtlinie
 	- wird von EHFREI geprüft und abgeschlossen -> besonders Hr. Rolf
 - Administrationsrichtlinie
-	- 
+- Funktionsweise des ISMS besprochen -> EHFREI prüft das Dokument
+- Diensteliste zur Verfügung stellen
+- Diensterliste 
 
 
 
