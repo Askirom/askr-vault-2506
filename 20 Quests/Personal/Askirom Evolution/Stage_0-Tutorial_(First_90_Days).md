@@ -3,25 +3,19 @@ type: Stage
 parentQuest: "[[_QUEST-Askirom_Evolution]]"
 ---
 
-[!note] Askirom Quick-Start (First 90 Days)
-
+>[!note] Askirom Quick-Start (First 90 Days)
 Tutorial-Level Checklist – pin this at the top of your vault. Complete every item at least once before you “unlock” the Adept stage.
 
   
+# 1 Core Objectives (0 – 3 months)
 
-  
-
-1 · Core Objectives (0 – 3 months)
-
-  
-
-|   |   |   |
-|---|---|---|
-|Stat|Baseline Target|“Win” Condition|
-|Focus Blocks|≥ 1 × 25 min sprint per workday|5+ sprints/week for 2 straight weeks|
-|System Review|20 min every Friday|8 consecutive reviews completed|
-|Weight Trend|–1 kg/month|Reach 83 kg by Day 90|
-|ISO Study|3 micro-sessions/week (15 min)|Annex A clauses memorised through A.8|
+|               |                                 |                                       |
+| ------------- | ------------------------------- | ------------------------------------- |
+| Stat          | Baseline Target                 | “Win” Condition                       |
+| Focus Blocks  | ≥ 1 × 25 min sprint per workday | 5+ sprints/week for 2 straight weeks  |
+| System Review | 20 min every Friday             | 8 consecutive reviews completed       |
+| Weight Trend  | –1 kg/month                     | Reach 83 kg by Day 90                 |
+| ISO Study     | 3 micro-sessions/week (15 min)  | Annex A clauses memorised through A.8 |
 
   
 
