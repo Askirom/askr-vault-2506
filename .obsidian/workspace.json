@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Library/Personal/Sublime_Text-Merge_License.md",
+                "file": "20 Quests/Professional/SECUD/NIS2/_NIS2 Offene Themena.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sublime_Text-Merge_License"
+              "title": "_NIS2 Offene Themena"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -213,7 +212,10 @@
   },
   "active": "6d36f3bc488c9fe2",
   "lastOpenFiles": [
+    "20 Quests/Professional/SECUD/NIS2/NIS2_Begruessung_E-Mail_Template.md",
+    "20 Quests/Professional/RBOMN/2025-06-30_Jour_Fixe_Preparation.md",
     "02 Daily/2025-07-03.md",
+    "10 Library/Personal/Sublime_Text-Merge_License.md",
     "20 Quests/Professional/GOSME/2025-07-02 GOSME Personal.md",
     "01 Daily/2025-07-02.md",
     "01 Daily",
@@ -240,10 +242,7 @@
     "20 Quests/Professional/FDFRI/Datenschutzformular_Package.md",
     "20 Quests/Professional/RCG/RLE_Stellvertreter_Consultation.md",
     "20 Quests/Professional/FITS/Löschkonzept_v1.0_Completion.md",
-    "20 Quests/Professional/EMPIC/VdS_10000_Gap_Analysis.md",
-    "20 Quests/Professional/EMPIC/Risk_Management_Framework.md",
     "10 Library/Professional/Scripts/convert_milestones.sh",
-    "20 Quests/Professional/SECUD/Vertraulichkeit_2025_Audit_Package.md",
     "10 Library/Professional/Scripts/dash_cleanup.log",
     "10 Library/Professional/Scripts/fix_dash_spacing.sh",
     "20 Quests/Professional/RCG/2025-05-15_TIA_Marocco.md.bak",
