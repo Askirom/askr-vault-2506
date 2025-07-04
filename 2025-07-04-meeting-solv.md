@@ -22,6 +22,8 @@ tags: []
 
 ## Action Items
 
+- Prüfen des Vertrags "Zusatzvereinbarung IT-Sicherheit"
+
 ## Meeting Notes
 
 ### Verarbeitete Daten
@@ -41,4 +43,5 @@ tags: []
 
 - Fremddienstleister, welche eingekauft werden, werden nicht betrachtet
   - Solverest ist nur Vermittler nicht Service-Anbieter, der Externe miteinbezieht
-  -
+  - in der Signatur von Netto steht "im Auftrag von Solverest"
+  - haben aber keine Solverest-Adresse sondern nur Netto
