@@ -12,7 +12,7 @@ winCondition: ""
 
 ```tasks
 not done
-path includes 20 Quests/NETWORK/Maibaum/
+path includes 20_Quests/Network/Maibaum/
 ```
 
 ---

@@ -15,7 +15,7 @@ winCondition: ""
 
 ```tasks
 not done
-path includes 20 Quests/PERSONAL/
+path includes 20_Quests/Personal/
 ```
 
 ## Active Projects

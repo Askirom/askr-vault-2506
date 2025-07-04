@@ -18,7 +18,7 @@ primaryContact: ""
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/RCG/
+path includes 20_Quests/Professional/RCG/
 ```
 
 ---

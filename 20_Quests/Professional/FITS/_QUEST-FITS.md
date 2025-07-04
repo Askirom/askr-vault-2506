@@ -18,7 +18,7 @@ primaryContact: "Elke Stapfer"
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/FITS/
+path includes 20_Quests/Professional/FITS/
 ```
 
 ---

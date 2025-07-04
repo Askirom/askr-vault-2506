@@ -20,7 +20,7 @@ certificationTarget: Oktober 2025
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/EMPIC/
+path includes 20_Quests/Professional/EMPIC/
 ```
 
 ---

@@ -15,12 +15,12 @@ winCondition: ""
 
 ```tasks
 not done
-path includes 20 Quests/PERSONAL/{{title}}
+path includes 20_Quests/Personal/{{title}}
 ```
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests/PERSONAL/{{title}}"
+FROM "20_Quests/Personal/{{title}}"
 WHERE type = "Milestone" AND parentQuest = this.file.link
 SORT file.mtime desc
 ```
@@ -29,7 +29,7 @@ SORT file.mtime desc
 
 ```dataview
 TABLE status, winCondition as "Win Condition"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Project" AND parentQuest = this.file.link AND status = "active"
 SORT file.mtime desc
 ```
@@ -38,7 +38,7 @@ SORT file.mtime desc
 
 ```dataview
 TABLE status, winCondition as "Win Condition"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Project" AND parentQuest = this.file.link AND status = "completed"
 SORT file.mtime desc
 ```
@@ -48,7 +48,7 @@ SORT file.mtime desc
 
 ```dataview
 TABLE status, winCondition as "Win Condition"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Project" AND parentQuest = this.file.link AND status = "backlog"
 SORT file.mtime desc
 ```
@@ -68,7 +68,7 @@ SORT file.mtime desc
 
 ```dataview
 TABLE status, winCondition as "Win Condition"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Project" AND parentQuest = this.file.link AND status = "backlog"
 SORT file.mtime desc
 ```

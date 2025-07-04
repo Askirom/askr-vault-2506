@@ -18,7 +18,7 @@ primaryContact: "Fabian Lauterbach"
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/FDFRI/
+path includes 20_Quests/Professional/FDFRI/
 ```
 
 ---

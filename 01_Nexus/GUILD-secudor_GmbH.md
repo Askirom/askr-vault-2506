@@ -28,7 +28,7 @@ The resources and experience gained from these Guild Quests are the fuel for my 
 
 ```dataview
 TABLE status, client as "Client"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Guild" AND status = "active"
 SORT file.mtime desc
 ```
@@ -37,7 +37,7 @@ SORT file.mtime desc
 
 ```dataview
 TABLE status, client as "Client"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Guild" AND status = "completed"
 SORT file.mtime desc
 ```

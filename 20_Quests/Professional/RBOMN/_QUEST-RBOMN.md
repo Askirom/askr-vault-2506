@@ -18,7 +18,7 @@ primaryContact: "[[Jan-Phillip_Scheller]]"
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/RBOMN/
+path includes 20_Quests/Professional/RBOMN/
 ```
 
 ---

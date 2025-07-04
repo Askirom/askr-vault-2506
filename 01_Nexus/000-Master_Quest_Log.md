@@ -4,7 +4,7 @@
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Main"
 ```
 
@@ -14,7 +14,7 @@ WHERE type = "Quest" AND questType = "Main"
 
 ```dataview
 TABLE status, client
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Guild"
 ```
 
@@ -24,7 +24,7 @@ WHERE type = "Quest" AND questType = "Guild"
 
 ```dataview
 TABLE status, area, client
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Side"
 ```
 
@@ -34,6 +34,6 @@ WHERE type = "Quest" AND questType = "Side"
 
 ```dataview
 TABLE status, winCondition as "Objective"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Quest" AND questType = "Hive"
 ```

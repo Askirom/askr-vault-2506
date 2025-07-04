@@ -13,7 +13,7 @@ primaryContact: ""
 
 ```tasks
 not done
-path includes 20 Quests/PROFESSIONAL/INSTO/
+path includes 20_Quests/Professional/INSTO/
 ```
 
 ---

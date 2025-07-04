@@ -13,7 +13,7 @@ primaryContact: ""
 
 ```tasks
 not done
-path includes 20 Quests/NETWORK/BvD Prüfaufgaben/
+path includes 20_Quests/Network/BvD_Prüfaufgaben/
 ```
 
 ---

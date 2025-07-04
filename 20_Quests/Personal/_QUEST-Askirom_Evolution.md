@@ -16,7 +16,7 @@ winCondition: "Master the 4-stage evolution system for personal productivity and
 ### Current Progress
 ```dataview
 TABLE status, progress as "Progress", winCondition as "Objective"
-FROM "20 Quests"
+FROM "20_Quests"
 WHERE type = "Stage"
 SORT file.name asc
 ```
@@ -38,7 +38,7 @@ SORT file.name asc
 
 ```tasks
 not done
-path includes 20 Quests/PERSONAL/Askirom Evolution/
+path includes 20_Quests/Personal/Askirom_Evolution/
 ```
 
 ## Evolution Metrics
