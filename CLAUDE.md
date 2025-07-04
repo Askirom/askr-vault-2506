@@ -43,11 +43,25 @@ Uses simple wikilinks for connections:
 - `obsidian-icon-folder` - Visual folder organization
 - `obsidian-git` - Git version control integration
 
+### Technical Environment
+
+**Primary Tools:**
+
+- **Neovim**: Main environment for writing, thinking, and automation scripts
+- **obsidian.nvim**: Seamless vault access without leaving terminal
+- **WezTerm**: Terminal-first workflow for focused sessions
+
+**Use Cases:**
+
+- **Writing & Thinking**: Notes, daily logs, quest documentation (primary)
+- **Automation**: Scripts for workflow optimization, task management
+- **Integration**: Terminal-based tools (Taskwarrior, Git, custom scripts)
+
 ## Quest-Based Project Management ("The Campaign of My Life")
 
 The vault uses a gamified quest system for organizing all work and life activities:
 
-### Quest Types:
+### Quest Types
 
 - **Main Quests**: Personal development and core life objectives (Askirom Evolution)
 - **Guild Quests**: Professional client work organized by company (Professional folder)
