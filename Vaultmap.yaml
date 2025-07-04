@@ -8,14 +8,14 @@ vault:
   description: "Gamified personal knowledge management system using quest-based organization"
   
 structure:
-  "00 To Sort":
+  "00_To_Sort":
     purpose: "Temporary holding for unorganized content"
     type: "inbox"
     key_files:
       - "Inbox-Tasks.md"
     search_priority: "low"
     
-  "01 Nexus": 
+  "01_Nexus": 
     purpose: "Central command and high-level coordination"
     type: "coordination"
     key_files:
@@ -24,15 +24,15 @@ structure:
       - "GUILD-secudor_GmbH.md"
     search_priority: "high"
     
-  "02 Daily":
+  "02_Daily":
     purpose: "Daily log files with date-based naming"
     type: "temporal"
     pattern: "YYYY-MM-DD.md"
-    archive_structure: "02 Daily/YYYY/YYYY-MM/"
+    archive_structure: "02_Daily/YYYY/YYYY-MM/"
     current_location: "root for current/previous month"
     search_priority: "medium"
     
-  "10 Library":
+  "10_Library":
     purpose: "Organized reference materials"
     type: "reference"
     subfolders:
@@ -43,7 +43,7 @@ structure:
       "Templates": "Note templates"
     search_priority: "high"
     
-  "11 Attachments":
+  "11_Attachments":
     purpose: "File attachments organized by content type"
     type: "assets"
     subfolders:
@@ -53,7 +53,7 @@ structure:
       "Templates": "Template files and structures"
     search_priority: "low"
     
-  "20 Quests":
+  "20_Quests":
     purpose: "Quest-based project organization"
     type: "projects"
     subfolders:
@@ -64,7 +64,7 @@ structure:
     key_pattern: "_QUEST-[Name].md for hub files"
     search_priority: "high"
     
-  "30 Atlas":
+  "30_Atlas":
     purpose: "High-level system documentation and personal framework"
     type: "meta"
     key_files:
@@ -74,15 +74,15 @@ structure:
     search_priority: "high"
 
 search_shortcuts:
-  people: "10 Library/Network/"
-  clients: "20 Quests/Professional/[CLIENT]/"
-  templates: "10 Library/Templates/"
-  daily_notes: "02 Daily/YYYY-MM-DD.md"
-  reference: "10 Library/Professional/"
-  archived_dailies: "02 Daily/YYYY/YYYY-MM/"
-  quest_hubs: "20 Quests/*/\\_QUEST-*.md"
-  system_docs: "30 Atlas/"
-  inbox: "00 To Sort/"
+  people: "10_Library/Network/"
+  clients: "20_Quests/Professional/[CLIENT]/"
+  templates: "10_Library/Templates/"
+  daily_notes: "02_Daily/YYYY-MM-DD.md"
+  reference: "10_Library/Professional/"
+  archived_dailies: "02_Daily/YYYY/YYYY-MM/"
+  quest_hubs: "20_Quests/*/\\_QUEST-*.md"
+  system_docs: "30_Atlas/"
+  inbox: "00_To_Sort/"
 
 active_clients:
   - "ARA"
@@ -126,8 +126,8 @@ gamification:
   xp_system:
     professional: "500€ billable = 1 XP"
     target: "24 XP/month = €12,000"
-    tracking_file: "30 Atlas/XP_Log.md"
-  character_sheet: "30 Atlas/Askirom_v2506-Shadow_Bolt.md"
+    tracking_file: "30_Atlas/XP_Log.md"
+  character_sheet: "30_Atlas/Askirom_v2506-Shadow_Bolt.md"
   quest_types:
     - "Main Quests: Personal development"
     - "Guild Quests: Professional client work"
