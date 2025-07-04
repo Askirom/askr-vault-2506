@@ -1,11 +1,13 @@
 ---
-type: Guild Charter
-guildName: "secudor GmbH"
+id: GUILD-secudor_GmbH
+aliases: []
+tags: []
+guildName: secudor GmbH
 status: active
+type: Guild Charter
 ---
 
 # The secudor GmbH Guild Charter
-
 
 > [!quote]
 > We are the guardians of the digital frontier, the architects of resilience. We don't just manage risk; we build trust in a world of uncertainty.
