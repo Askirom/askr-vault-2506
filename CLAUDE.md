@@ -10,18 +10,18 @@ This is an Obsidian vault - a personal knowledge management system using markdow
 
 ### Folder Structure
 The vault uses a numerical prefix system for organization:
-- `00 To Sort/` - Temporary holding for unorganized content (Inbox for quick capture)
-- `01 Nexus/` - Central command and high-level coordination
-- `02 Daily/` - Daily log files with date-based naming (YYYY-MM-DD.md), archived monthly
-- `10 Library/` - Organized reference materials (Hive, Network, Personal, Professional, Templates)
-- `11 Attachments/` - File attachments organized by content type (Professional, Personal, Backups, Templates)
-- `20 Quests/` - Quest-based project organization (Hive, Network, Personal, Professional)
-- `30 Atlas/` - High-level system documentation and personal framework files
+- `00_To_Sort/` - Temporary holding for unorganized content (Inbox for quick capture)
+- `01_Nexus/` - Central command and high-level coordination
+- `02_Daily/` - Daily log files with date-based naming (YYYY-MM-DD.md), archived monthly
+- `10_Library/` - Organized reference materials (Hive, Network, Personal, Professional, Templates)
+- `11_Attachments/` - File attachments organized by content type (Professional, Personal, Backups, Templates)
+- `20_Quests/` - Quest-based project organization (Hive, Network, Personal, Professional)
+- `30_Atlas/` - High-level system documentation and personal framework files
 
 ### Linking Strategy
 Uses simple wikilinks for connections:
 - **Person references**: `[[Name]]` format creates bidirectional connections automatically
-- **Person notes**: Store in `10 Library/Network/` 
+- **Person notes**: Store in `10_Library/Network/` 
 - **Direct file linking**: `[[filename]]` for related documents
 - **No complex tagging**: Folder structure provides organization
 
@@ -57,18 +57,18 @@ The vault uses a gamified quest system for organizing all work and life activiti
 - No milestone system - direct project organization within quests
 
 ### Working with Daily Notes
-Daily notes use the template from `10 Library/Templates/Template_Daily_Log.md` and include:
+Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md` and include:
 - Professional and personal logging sections
 - Automated task queries showing overdue and scheduled items
-- Date-based naming convention (YYYY-MM-DD.md) in `02 Daily/`
-- Archived by year/month: `02 Daily/2025/2025-04/` for older notes
+- Date-based naming convention (YYYY-MM-DD.md) in `02_Daily/`
+- Archived by year/month: `02_Daily/2025/2025-04/` for older notes
 - Current and previous month stay in root for accessibility
 
 ### Task Management
-Uses obsidian-tasks-plugin syntax exclusively for task tracking. Tasks are captured quickly in the Inbox file (`00 To Sort/Inbox-Tasks.md`) and then organized as needed. Calendar is used for reminders and scheduling rather than additional task systems.
+Uses obsidian-tasks-plugin syntax exclusively for task tracking. Tasks are captured quickly in the Inbox file (`00_To_Sort/Inbox-Tasks.md`) and then organized as needed. Calendar is used for reminders and scheduling rather than additional task systems.
 
 ### Template Usage
-Templates are stored in `10 Library/Templates/` and include:
+Templates are stored in `10_Library/Templates/` and include:
 - `Template_Daily_Log.md` - For daily notes
 - `Template_Guild_Quest.md` - For professional client projects
 - `Template_Main_Quest.md` - For personal goals and projects
@@ -78,26 +78,26 @@ Templates are stored in `10 Library/Templates/` and include:
 The vault uses obsidian-git plugin for automatic synchronization. Regular "vault backup" operations maintain version history.
 
 ### Daily Workflow
-1. Capture tasks and notes quickly in `00 To Sort/Inbox-Tasks.md`
+1. Capture tasks and notes quickly in `00_To_Sort/Inbox-Tasks.md`
 2. Link to people using `[[Name]]` format  
 3. Link to related documents when relevant
 4. Let folder structure handle organization
 5. Use calendar for reminders and scheduling
 
 ## Important Files
-- `30 Atlas/Askirom_v2506-Shadow_Bolt.md` - Personal productivity framework and character sheet
-- `01 Nexus/000-Master_Quest_Log.md` - Central quest tracking with dataview queries
-- `20 Quests/Personal/_QUEST-Askirom_Evolution.md` - Personal development quest with 4-stage evolution system
-- `30 Atlas/XP_Log.md` - Experience point tracking (500€ billable = 1 XP)
-- Templates in `10 Library/Templates/` - Standardized note structures
+- `30_Atlas/Askirom_v2506-Shadow_Bolt.md` - Personal productivity framework and character sheet
+- `01_Nexus/000-Master_Quest_Log.md` - Central quest tracking with dataview queries
+- `20_Quests/Personal/_QUEST-Askirom_Evolution.md` - Personal development quest with 4-stage evolution system
+- `30_Atlas/XP_Log.md` - Experience point tracking (500€ billable = 1 XP)
+- Templates in `10_Library/Templates/` - Standardized note structures
 
 ## File Naming Conventions
 - **All files use underscores** instead of spaces: `File_Name.md`
 - **Clean dashes** for separators: `_QUEST-SECUD.md` (not `_QUEST_-_SECUD.md`)
-- Daily notes: `YYYY-MM-DD.md` (in `02 Daily/`)
-- Quest files: `_QUEST-[Name].md` (in `20 Quests/` subfolders, `_` prefix for sorting)
+- Daily notes: `YYYY-MM-DD.md` (in `02_Daily/`)
+- Quest files: `_QUEST-[Name].md` (in `20_Quests/` subfolders, `_` prefix for sorting)
 - Professional files often include dates: `YYYY-MM-DD_Project_Name.md`
-- Template files: `Template_[Type].md` (in `10 Library/Templates/`)
+- Template files: `Template_[Type].md` (in `10_Library/Templates/`)
 - Atlas files contain version numbers: `Askirom_v2506-Shadow_Bolt.md`
 - Person files: `Firstname_Lastname.md`
 
@@ -105,12 +105,12 @@ The vault uses obsidian-git plugin for automatic synchronization. Regular "vault
 
 ### Subfolder Organization
 - **Client projects** can have subfolders: `SECUD/NIS2/` for specific initiatives
-- **Daily notes** archived: `02 Daily/2025/2025-04/` for past months
-- **Attachments** by type: `11 Attachments/Professional/`, `Personal/`, `Backups/`, `Templates/`
+- **Daily notes** archived: `02_Daily/2025/2025-04/` for past months
+- **Attachments** by type: `11_Attachments/Professional/`, `Personal/`, `Backups/`, `Templates/`
 - Maximum 4 levels deep to maintain usability
 
 ### Quest Organization
-Each quest folder (`20 Quests/[Type]/[Project]/`) contains:
+Each quest folder (`20_Quests/[Type]/[Project]/`) contains:
 - One `_QUEST-[Name].md` hub file
 - Related project documents and notes
 - Optional subfolders for large initiatives
@@ -130,7 +130,7 @@ Each quest folder (`20 Quests/[Type]/[Project]/`) contains:
 ### Professional XP
 - **Rule**: 500€ billable work = 1 XP
 - **Target**: 24 XP/month = €12,000/month
-- **Tracking**: Logged in `30 Atlas/XP_Log.md`
+- **Tracking**: Logged in `30_Atlas/XP_Log.md`
 
 ### Personal XP
 - **Completion-based**: Variable XP for milestone achievements
@@ -167,12 +167,12 @@ The calendar is a sacred boundary tool, used to protect energy and honor commitm
 - Terminal-friendly file naming for cross-platform compatibility
 
 ## Search Shortcuts
-- **Find person**: `10 Library/Network/`
-- **Find client**: `20 Quests/Professional/[CLIENT]/`
-- **Find template**: `10 Library/Templates/`
-- **Find daily note**: `02 Daily/YYYY-MM-DD.md`
-- **Find reference**: `10 Library/Professional/`
-- **Find archived dailies**: `02 Daily/2025/YYYY-MM/`
+- **Find person**: `10_Library/Network/`
+- **Find client**: `20_Quests/Professional/[CLIENT]/`
+- **Find template**: `10_Library/Templates/`
+- **Find daily note**: `02_Daily/YYYY-MM-DD.md`
+- **Find reference**: `10_Library/Professional/`
+- **Find archived dailies**: `02_Daily/2025/YYYY-MM/`
 
 ---
 *Last updated: 2025-07-01 - System reflects current quest-based gamified organization*
