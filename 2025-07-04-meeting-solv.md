@@ -9,7 +9,8 @@ tags: []
 
 ## Agenda
 
-1. Klärung aktuelle Situation
+1. Netto Fragebogen abfragen
+2. Klärung aktuelle Situation
 
 - Welche Daten werden verarbeitet?
 - Welche Systeme werden genutzt?
