@@ -13,6 +13,7 @@ tags: []
 2. Klärung aktuelle Situation
 
 - Welche Daten werden verarbeitet?
+  - Mitarbeiterdaten
 - Welche Systeme werden genutzt?
 - Wer kontrolliert Zugänge?
 
@@ -22,3 +23,22 @@ tags: []
 ## Action Items
 
 ## Meeting Notes
+
+### Verarbeitete Daten
+
+- Dokumente
+  - Konzepte
+- Mitarbeiterdaten Netto
+  - Email Adresse
+
+### Verwendete Systeme
+
+- Laptops
+  - Infrastruktur kommt komplett von Netto
+- Kontrolliert durch Netto
+
+### Allgemeine Fragen
+
+- Fremddienstleister, welche eingekauft werden, werden nicht betrachtet
+  - Solverest ist nur Vermittler nicht Service-Anbieter, der Externe miteinbezieht
+  -
