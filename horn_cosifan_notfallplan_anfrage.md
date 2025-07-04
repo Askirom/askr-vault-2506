@@ -1,5 +1,5 @@
 ---
-id: horncosifannotfallplananfrage
+id: horn_cosifan_notfallplan_anfrage
 aliases:
   - Horn&Cosifan_Notfallplan_Anfrage
 tags: []

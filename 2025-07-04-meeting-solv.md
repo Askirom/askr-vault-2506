@@ -7,6 +7,11 @@ tags: []
 
 # 2025-07-04 Meeting SOLV
 
+## Attendees
+
+- [[Tobias_Krüger]]
+- [[Silke_Lilienberger-Hauke]]
+
 ## Agenda
 
 1. Netto Fragebogen abfragen
