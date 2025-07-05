@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Daily/2025-07-05.md",
+                "file": "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/_Quest-Japan-Trip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-05"
+              "title": "_Quest-Japan-Trip"
+            }
+          },
+          {
+            "id": "450b9b8df6778ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/Location-Infos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Location-Infos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "location",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,9 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fa8c8b05497e17a",
+  "active": "450b9b8df6778ae1",
   "lastOpenFiles": [
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/_Quest-Japan-Trip.md",
+    "00_To_Sort/Inbox-Tasks.md",
+    "00_To_Sort/macvsframeworkdilemma.md",
+    "02_Daily/2025-07-05.md",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/Location-Infos.md",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/_Quest-Japan-Trip.md~",
     "20_Quests/Professional/VGALT/_Quest-VGALT.md",
@@ -251,13 +270,10 @@
     "20_Quests/Professional/FDFRI/_Quest-FDFRI.md",
     "20_Quests/Personal/_Quest-Askirom_Evolution.md",
     "20_Quests/Professional/CLIFO/_Quest-CLIFO.md",
-    "02_Daily/2025-07-05.md",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/_Quest-Japan-Trip",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan-Trip",
-    "00_To_Sort/macvsframeworkdilemma.md",
     "20_Quests/Professional/FDFRI/_QUEST-FDFRI.md",
-    "02_Daily/2025-07-04.md",
     "10_Library/Personal/Attachments/C07BACC6-5B3B-4E0D-B0F6-6085BBABA9CF_1_102_o.jpeg",
     "10_Library/Personal/Attachments/F42F5DCE-B18B-48D0-897B-58F9211D773E_4_5005_c.jpeg",
     "10_Library/Personal/Attachments/F42F5DCE-B18B-48D0-897B-58F9211D773E_1_102_o.jpeg",

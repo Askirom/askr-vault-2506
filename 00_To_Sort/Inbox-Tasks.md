@@ -10,8 +10,8 @@ tags: []
 
 - [ ] #action Check Todoist for not-transfered tasks 🛫
 
-- [x] #action 123112312 ✅ 2025-07-05
-- [x] #action aS test 🛫 2025-07-04 ✅ 2025-07-05
+- [ ] #action 123112312
+- [ ] #action aS test 🛫 2025-07-04
 
 ```tasks
 not done
