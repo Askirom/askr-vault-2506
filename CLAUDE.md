@@ -99,6 +99,6 @@ _Note: As of 2025-07-04, experimenting with Taskwarrior integration._
 ## File Naming Conventions
 
 - **All files use underscores** instead of spaces: `File_Name.md`
-- **Clean dashes** for separators: `_QUEST-SECUD.md` (not `_QUEST_-_SECUD.md`)
+- **Clean dashes** for separators: `_QUEST-SECUD.md` (not `_Quest_-_SECUD.md`)
 - Daily notes: `YYYY-MM-DD.
 

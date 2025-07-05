@@ -9,4 +9,4 @@
 Primary contact for RBOMN client work.
 
 ## Related
-- [[_QUEST-RBOMN]]
+- [[_Quest-RBOMN]]

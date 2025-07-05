@@ -1,6 +1,6 @@
 ---
 type: Stage
-parentQuest: "[[_QUEST-Askirom_Evolution]]"
+parentQuest: "[[_Quest-Askirom_Evolution]]"
 ---
 > [!note] **Askirom Quick-Start (First 90 Days)**  
 > *Tutorial-Level Checklist – pin this at the top of your vault. Complete every item at least once before you “unlock” the Adept stage.*

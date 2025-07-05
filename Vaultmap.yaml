@@ -61,7 +61,7 @@ structure:
       "Network": "Community and networking projects"
       "Personal": "Personal development and goals"
       "Professional": "Client work organized by company"
-    key_pattern: "_QUEST-[Name].md for hub files"
+    key_pattern: "_Quest-[Name].md for hub files"
     search_priority: "high"
     
   "30_Atlas":
@@ -80,7 +80,7 @@ search_shortcuts:
   daily_notes: "02_Daily/YYYY-MM-DD.md"
   reference: "10_Library/Professional/"
   archived_dailies: "02_Daily/YYYY/YYYY-MM/"
-  quest_hubs: "20_Quests/*/\\_QUEST-*.md"
+  quest_hubs: "20_Quests/*/\\_Quest-*.md"
   system_docs: "30_Atlas/"
   inbox: "00_To_Sort/"
 
@@ -101,7 +101,7 @@ active_clients:
   - "VGALT"
 
 file_patterns:
-  quest_files: "_QUEST-[Name].md"
+  quest_files: "_Quest-[Name].md"
   daily_notes: "YYYY-MM-DD.md"
   templates: "Template_[Type].md"
   professional_docs: "YYYY-MM-DD_[Project].md"
@@ -110,7 +110,7 @@ file_patterns:
 naming_conventions:
   file_separator: "_"
   date_format: "YYYY-MM-DD"
-  quest_prefix: "_QUEST-"
+  quest_prefix: "_Quest-"
   template_prefix: "Template_"
   no_spaces: true
   clean_dashes: true

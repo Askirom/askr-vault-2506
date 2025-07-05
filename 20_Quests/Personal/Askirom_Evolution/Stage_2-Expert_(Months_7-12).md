@@ -1,6 +1,6 @@
 ---
 type: Stage
-parentQuest: "[[_QUEST-Askirom_Evolution]]"
+parentQuest: "[[_Quest-Askirom_Evolution]]"
 ---
 
 > [!note] **Askirom Stage 2 – The Expert (Months 7 – 12)**
