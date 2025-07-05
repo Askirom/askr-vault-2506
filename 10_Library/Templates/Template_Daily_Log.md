@@ -4,7 +4,7 @@
 
 ```tasks
 not done
-(scheduled before {{date:YYYY-MM-DD}}) OR (due before {{date:YYYY-MM-DD}})
+(scheduled before {{date:YYYY-MM-DD}}) OR (due before {{date:YYYY-MM-DD}}) (starts before tomorrow)
 short mode
 hide tags
 hide task count
@@ -16,7 +16,7 @@ sort by priority
 
 ```tasks
 not done
-(scheduled on 2025-07-05) OR (due on 2025-07-05) OR (starts before tomorrow)
+(scheduled on {{date:YYYY-MM-DD}}) OR (due on {{date:YYYY-MM-DD}}) OR (starts before tomorrow)
 short mode
 hide tags
 hide task count
@@ -30,6 +30,4 @@ sort by priority
 
 ## Personal Log
 
--
-
----
+- ***

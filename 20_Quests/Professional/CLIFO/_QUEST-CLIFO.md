@@ -25,7 +25,7 @@ path includes 20_Quests/Professional/CLIFO/
 
 ## 📝 Action Log & Tasks
 
-- [ ] #action Write questionnaire for Horn&Cosifan (IT provider) about Notfallplan ⏫ 📅 2025-07-06
+- [ ] #action Write questionnaire for Horn&Cosifan (IT provider) about Notfallplan ⏫ 🛫 2025-07-07 📅 2025-07-08
 
 ---
 ## 💬 Meeting Notes & Communication
