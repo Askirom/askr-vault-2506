@@ -4,4 +4,4 @@
 - [ ] Folgen aus NIS2-Anwendbarkeit zusammenfassend
 - [ ] Testen was der Admin von Booking ändern kann
 	- [ ] und welche Konsequenzen das hat
-- [ ] TODO Kernaussagen NIS2 definieren @RLE 📅 2025-07-04
+- [ ] #action #action Kernaussagen NIS2 definieren @RLE 📅 2025-07-04

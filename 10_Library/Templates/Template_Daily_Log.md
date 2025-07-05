@@ -1,6 +1,7 @@
 # {{date:YYYY-MM-DD}}
 
 ## ⚠️ Overdue Tasks
+
 ```tasks
 not done
 (scheduled before {{date:YYYY-MM-DD}}) OR (due before {{date:YYYY-MM-DD}})
@@ -12,9 +13,10 @@ sort by priority
 ```
 
 ## 📅 Today's Tasks
+
 ```tasks
 not done
-(scheduled on {{date:YYYY-MM-DD}}) OR (due on {{date:YYYY-MM-DD}})
+(scheduled on 2025-07-05) OR (due on 2025-07-05) OR (starts before tomorrow)
 short mode
 hide tags
 hide task count
@@ -23,9 +25,11 @@ sort by priority
 ```
 
 ## Professional Log
-- 
+
+-
 
 ## Personal Log
-- 
+
+-
 
 ---

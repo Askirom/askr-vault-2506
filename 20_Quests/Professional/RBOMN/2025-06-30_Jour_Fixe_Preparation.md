@@ -64,5 +64,5 @@ _Ready to capture during meeting:_
 ### Art. 26 Personal
 
 - Unterzeichnen durch [[Florian Gehre]]
-  - [ ] TODO Zeitplan: bis Ende der KW27 2025 📅 2025-07-05
+  - [ ] #action #action Zeitplan: bis Ende der KW27 2025 📅 2025-07-05
 - Ablage bei RBOMN intern im Vertragsmanagement -> Text-Datei im Teams-Ordner Datenschutz 06 Verträge mit Beschreibung auf tatsächlichen Ablageort

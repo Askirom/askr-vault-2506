@@ -29,7 +29,7 @@ SORT file.name asc
 
 ## Action Log & Tasks
 
-- [ ] TODO Complete Stage 0 baseline assessment 📅 2025-07-01
+- [ ] #action #action Complete Stage 0 baseline assessment 📅 2025-07-01
 - [ ] TODO Set up daily hyperfocus ritual tracking
 - [ ] TODO Implement weekly system review process
 - [ ] TODO Review and update stage progression criteria

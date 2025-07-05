@@ -27,7 +27,7 @@ path includes 20_Quests/Professional/FDFRI/
 
 ### Immediate Actions
 - [ ] TODO Datenschutzformular für '2025-03-11' fertigstellen @FabianLauterbach 📅 2025-06-30
-- [ ] TODO Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach 📅 2025-06-30
+- [ ] #action #action Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach 📅 2025-06-30
 
 ---
 
