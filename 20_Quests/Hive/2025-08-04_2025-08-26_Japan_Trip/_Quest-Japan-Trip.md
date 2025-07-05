@@ -23,18 +23,8 @@ winCondition: ""
     - [ ] Google Translate
     - [ ] DeepL
 
-## Active Projects
+## Related Docuements
 
-## Completed Projects
-
-## Backlog
-
----
-
-## Journal
-
-## Backlog
-
----
+- [[Location-Infos]]
 
 ## Journal
