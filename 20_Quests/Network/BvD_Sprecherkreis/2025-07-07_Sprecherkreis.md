@@ -35,15 +35,15 @@ tags: []
 
 - Herr Fuellhase ist Leiter der Geschaeftsstelle
 - BDSG-Novelle -> Neuansetzung erforderlich; im
-- Gegen das Beauftragtenwesen -> soll gegen Bundesbeauftragte gerichet sein. Nicht konsequent Datenschutz.
+- Gegen das Beauftragtenwesen -> soll gegen Bundesbeauftragte gerichet sein. Nicht konsequent Datenschutzbeauftragte.
   - Beauftragte sollen allgemein abgeschafft werden; nicht nur Datenschutzbeauftragte
 
 ## Zukunft DPOCert
 
-- l;aeuft seit 2019
+- läuft seit 2019
 - 20 Tausend EUR und 6500 Stunden Arbeit
 - 17 Versionen des Programms eingereicht
-- Akkreditierungsf;aehigkeit wurde festgestellt
+- Akkreditierungsfähigkeit wurde festgestellt
 - Frist zur Nachbesserung Juni
 - Antrag wurde abgelehnt. Personenzertifizierung braucht Studium
 
