@@ -38,13 +38,14 @@ tags: []
 - Gegen das Beauftragtenwesen -> soll gegen Bundesbeauftragte gerichet sein. Nicht konsequent Datenschutz.
   - Beauftragte sollen allgemein abgeschafft werden; nicht nur Datenschutzbeauftragte
 
-## Berichte aus Vorstand
-
 ## Zukunft DPOCert
 
 - l;aeuft seit 2019
 - 20 Tausend EUR und 6500 Stunden Arbeit
 - 17 Versionen des Programms eingereicht
+- Akkreditierungsf;aehigkeit wurde festgestellt
+- Frist zur Nachbesserung Juni
+- Antrag wurde abgelehnt. Personenzertifizierung braucht Studium
 
 # Tag 2 - [[2025-07-08]]
 
