@@ -26,13 +26,25 @@ tags: []
   - Unterstützung bei der Suche von Örtlichkeiten
   - Negativ: Themensuche. Gibt eigentlich immer von mir.
 - Stimmung Novellierungsvorhaben
+  - jeden betrifft es. Mich betrifft es nicht, ist eine schwache Aussage.
   - Gute Idee, viele haben kein Problem mit der Anpassung
   - BvD hat Ziel aber etwas verfehlt.
   - Wir können keine Gesetzesformulierungen machen
 
+## Bericht aus der Mitgliederversammlung
+
+- Herr Fuellhase ist Leiter der Geschaeftsstelle
+- BDSG-Novelle -> Neuansetzung erforderlich; im
+- Gegen das Beauftragtenwesen -> soll gegen Bundesbeauftragte gerichet sein. Nicht konsequent Datenschutz.
+  - Beauftragte sollen allgemein abgeschafft werden; nicht nur Datenschutzbeauftragte
+
 ## Berichte aus Vorstand
 
 ## Zukunft DPOCert
+
+- l;aeuft seit 2019
+- 20 Tausend EUR und 6500 Stunden Arbeit
+- 17 Versionen des Programms eingereicht
 
 # Tag 2 - [[2025-07-08]]
 
@@ -57,6 +69,8 @@ tags: []
 ## Ideen
 
 - Büchertisch
-  - gute B ücher; schlechte Bücher
-- kurzer Austausch -> Stammtisch
+  - gute Bücher; schlechte Bücher
+- kurzer Austausch -> andere machen auch einen Stammtisch
   - einmal im Monat; mind. 2 Mitglieder
+- TDDDG vorstellen
+- AI Act vorstellen
