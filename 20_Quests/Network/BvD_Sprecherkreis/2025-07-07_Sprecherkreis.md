@@ -57,6 +57,6 @@ tags: []
 ## Ideen
 
 - Büchertisch
-  -
+  - gute B ücher; schlechte Bücher
 - kurzer Austausch -> Stammtisch
   - einmal im Monat; mind. 2 Mitglieder
