@@ -45,3 +45,18 @@ tags: []
 ## Diskussionsrunde zum Positionspapier DSGVO
 
 ## Berichte aus den Germien - Teil 2
+
+# Allgemeines
+
+## Fragen
+
+- muss der DSB aktiv bei Audits beisteuern?
+  - mein Gef ühl: ja ABER
+  - es ist keine Pflicht, der DSB ist Berater. Als Berater würde ich jetzt sagen, dass ich keine verpflichtende Antwort geben KANN!
+
+## Ideen
+
+- Büchertisch
+  -
+- kurzer Austausch -> Stammtisch
+  - einmal im Monat; mind. 2 Mitglieder
