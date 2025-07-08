@@ -1,5 +1,5 @@
 {
   "autorun": true,
-  "folder": "02_Daily",
-  "template": "10_Library/Templates/Template_Daily_Log"
+  "folder": "journal/daily",
+  "template": "system/templates/Template_Daily_Log"
 }
