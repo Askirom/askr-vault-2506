@@ -6,59 +6,55 @@ tags: []
 
 # **Ihr optimierter Vortragstext**
 
-**(Folie 1: Neue Folie mit der Frage "Was ist Ihr wertvollstes Gut?")**
+## Folie 1 (Erweiterte Version für ca. 2-2,5 Min.)
 
 "Sehr geehrte Damen und Herren, liebe Mitglieder des BVMW,
 
-[kurze, bewusste Pause, Blick ins Publikum]
+ich möchte Sie bitten, für einen Moment die Augen zu schließen und sich eine Frage zu stellen... oder denken Sie einfach nur kurz darüber nach: Wenn Sie an das wertvollste Gut in Ihrem Unternehmen denken – was kommt Ihnen da in den Sinn?
 
-wenn Sie an das wertvollste Gut Ihres Unternehmens denken – was kommt Ihnen in den Sinn? Sind es Ihre Maschinen? Ihre Gebäude?
+Vielleicht denken Sie an Ihr Firmengebäude, das Sie über Jahre abbezahlt haben. An Ihren modernen Maschinenpark, der die Effizienz sichert. Oder ganz einfach an die schwarzen Zahlen in Ihrer Bilanz. All das ist wichtig. All das ist das sichtbare Ergebnis Ihrer harten Arbeit und Ihres unternehmerischen Mutes.
 
-Ich behaupte: Ihr wertvollstes Gut sind Ihre **Werte**. Und damit meine ich nicht nur Zahlen auf dem Konto. Ich meine das **Vertrauen Ihrer Kunden**. Die **Innovationskraft Ihrer Mitarbeiter**. Die **Geheimnisse Ihrer Produktion** und die **Zuverlässigkeit Ihrer Partner**.
+Aber ich möchte heute mit Ihnen über eine tiefere Ebene von Werten sprechen. Über die unsichtbaren, aber unbezahlbaren Güter, die das wahre Fundament Ihres Erfolgs sind.
 
-**(Folie 2: Ihre alte Folie 9 – Die Bedrohungslage)**
+Denken Sie zum Beispiel an das Vertrauen Ihrer langjährigsten Kunden. Dieses Vertrauen, das über Jahre, vielleicht sogar Jahrzehnte, in unzähligen Telefonaten, pünktlichen Lieferungen und durch verlässliche Qualität aufgebaut wurde. Dieses Vertrauen, das dafür sorgt, dass Ihre Kunden bei Ihnen bleiben, auch wenn ein Wettbewerber mal einen Euro günstiger ist.
 
-[cite_start]Genau diese fundamentalen Werte sind heute einer unsichtbaren, aber permanenten Gefahr ausgesetzt. Die Zahlen sprechen für sich: 2024 waren 81 % der deutschen Unternehmen von Angriffen betroffen[cite: 14]. [cite_start]Der volkswirtschaftliche Schaden ist auf über 178 Milliarden Euro gestiegen[cite: 14]. Das ist die Realität, in der wir wirtschaften.
+Denken Sie an die Innovationskraft Ihrer Belegschaft. Das Wissen in den Köpfen Ihrer Ingenieure. Die einzigartige Rezeptur Ihres Produkts oder der geheime Prozess in Ihrer Fertigung, der Ihnen den entscheidenden Vorsprung sichert. Das ist Ihr intellektuelles Kapital, Ihr 'geheimes Rezept'.
 
-**(Folie 3: Ihre alte Folie 1 – Titel "Multitool ISMS")**
+Und denken Sie an Ihr Ansehen in der Branche. Ihren guten Ruf, der Ihnen die besten Talente und die zuverlässigsten Partner sichert. Ein Ruf, der über Nacht zerstört werden kann, aber Jahre braucht, um wieder aufgebaut zu werden.
 
-Meine Aufgabe heute ist es, Ihnen zu zeigen, wie Sie nicht nur Ihre IT, sondern Ihr gesamtes Unternehmen mit einem einzigen strategischen Werkzeug schützen können. Wir nennen es das ISMS-Multitool. Ein Informationssicherheits-Management-System.
+Diese Dinge – Vertrauen, Wissen, Reputation – lassen sich nicht einfach in einer Bilanz beziffern. Aber sie sind es, die Ihr Unternehmen einzigartig und widerstandsfähig machen. Sie sind Ihr wahres Gold.
 
-**(Folie 4: Ihre alte Folie 4 – Die Funktionen / Treiber)**
+Und genau dieses Gold, diese fundamentalen Unternehmenswerte, steht heute unter einem Druck, wie wir ihn noch nie zuvor erlebt haben."--
 
-Sehen Sie es als das strategische Schweizer Taschenmesser für Geschäftsführer. Es hat verschiedene Funktionen, um Ihre Werte gezielt zu schützen:
+### **Folie 2: Die Bedrohung Ihrer Werte in Zahlen**
 
-- **Erstens sichert es Ihre Geschäftsprozesse gegen gesetzliche Risiken.** Es hilft Ihnen, die Anforderungen von NIS2 oder der DSGVO systematisch und nachweisbar zu erfüllen, was Sie vor empfindlichen Bußgeldern schützt.
-- **Zweitens sichert es Ihre Marktposition.** Stellen Sie sich vor, einer Ihrer wichtigsten Partner wird angegriffen und kann nicht mehr liefern. Plötzlich stehen bei Ihnen die Bänder still. Ein ISMS schafft verbindliche Sicherheitsstandards in Ihrer Lieferkette. So stellen Sie sicher, dass die Schwäche eines Einzelnen nicht zur Krise für alle wird und schützen den Wert Ihrer operativen Stabilität.
-- **Drittens sichert es Ihre Finanzen.** Ihre Cyber-Versicherung wird Sie nach Ihren Schutzmaßnahmen fragen. Mit einem ISMS weisen Sie diese professionell nach und können so Ihre Prämien positiv beeinflussen.
-- **Und viertens stärkt es Ihre interne Organisation.** Es schafft klare Strukturen und Verantwortlichkeiten. Es ist die stabile Basis, auf der ein funktionierendes Notfallmanagement überhaupt erst aufbauen kann. Ohne dieses Fundament bricht jedes Notfallkonzept im Ernstfall in sich zusammen.
+**Visuelle Gestaltung der Folie:**
+Sie verwenden hier Ihre **Original-Folie 9 ("Fazit und Weiterführendes")**. Sie ist datenreich, aber an dieser Stelle ist das genau richtig, da Sie die Zahlen direkt ansprechen und belegen.
 
-**(Folie 5: Ihre alte Folie 5 – Der Kern des Multitools)**
+**Ihr Sprechtext für diese Folie (ca. 2 - 2,5 Minuten):**
 
-Im Kern sorgt dieses Werkzeug dafür, dass Ihre Informationen drei Eigenschaften behalten: Vertraulichkeit, Integrität und Verfügbarkeit. Es geht darum, dass Ihre Entwicklungspläne geheim bleiben, Ihre Rechnungsdaten korrekt sind und Ihre Produktion jederzeit lauffähig ist.
+"[Sie haben auf der letzten Folie geendet mit: '...steht heute unter einem Druck, wie wir ihn noch nie zuvor erlebt haben.']
+Und dieser Druck, von dem ich spreche, ist keine abstrakte Theorie. Er lässt sich in harten, offiziellen Zahlen messen.
+[cite_start]Die Zahlen des BSI und des Digitalverbands Bitkom für das letzte Jahr sind alarmierend. Die Zahl der betroffenen Unternehmen ist auf 81 Prozent gestiegen[cite: 14]. Sehen Sie sich um. Statistisch gesehen waren vier von fünf Unternehmen in diesem Raum letztes Jahr im Visier von Angreifern. Es ist keine Frage mehr _ob_, es ist eine Frage des _wann_.
+Der volkswirtschaftliche Schaden in Deutschland allein? [cite_start]Fast 179 Milliarden Euro[cite: 14]. Eine unvorstellbare Summe. Aber was bedeutet das für ein einzelnes mittelständisches Unternehmen wie Ihres? [cite_start]Der durchschnittliche Schaden pro erfolgreichem Vorfall liegt bei 330.000 Euro[cite: 14].
 
-**(Folie 6: Ihre alte Folie 7 – Der ROI)**
+330.000 Euro. Das ist Geld, das in Innovation, in neue Mitarbeiter oder in das Wachstum Ihres Unternehmens hätte investiert werden können. Stattdessen wird es für Krisenmanagement, Wiederherstellung und Reputationsschäden verbrannt.
 
-Viele Investitionen, die wir tätigen, sind sichtbar. Ein ISMS ist eine unsichtbare, aber wertsteigernde Investition in die Widerstandsfähigkeit Ihres Unternehmens. [cite_start]Der ROI ist dabei klar messbar: Sie vermeiden Bußgelder, gewinnen Neugeschäft und senken Audit- und Versicherungskosten[cite: 12]. [cite_start]Wenn Sie in Studien von einer Empfehlung lesen, 20 % des IT-Budgets zu nutzen, dann ist damit genau diese ganzheitliche Betrachtung gemeint: die Investition in Prozesse, Organisation und Technik[cite: 12].
+[cite_start]Es ist daher keine Überraschung, dass das renommierte Allianz Risiko Barometer das Cyberrisiko auf Platz 1 der Unternehmensgefahren in Deutschland setzt[cite: 14]. Nicht die Konjunktur, nicht der Fachkräftemangel – sondern die Sicherheit der eigenen Informationen und Werte.
 
-**(Folie 7: Neue Folie – "Muss es immer die volle Zertifizierung sein?")**
+Und hier kommt der psychologisch gefährlichste Punkt, der sogenannte 'Irrglaube der Vorbereitung'. [cite_start]Laut der eco Kompetenzgruppe IT-Sicherheit glauben über die Hälfte der Unternehmen, sie seien sehr gut vorbereitet[cite: 14]. Das ist eine trügerische Sicherheit. [cite_start]Denn die Realität zeigt: Nur ein Fünftel dieser Unternehmen berichtet überhaupt über Sicherheitsvorfälle[cite: 14].
 
-Gerade für den Mittelstand ist wichtig: Ein ISMS ist kein starres Korsett. Es ist skalierbar. Nicht jedes Unternehmen braucht sofort eine vollumfängliche ISO-27001-Zertifizierung. Oft ist ein pragmatischer Aufbau, zum Beispiel angelehnt an anerkannte Standards wie VdS 10000, der genau passende und wirtschaftlich sinnvolle erste Schritt.
+Das bedeutet nicht, dass die anderen nicht betroffen sind. Es bedeutet, dass viele Angriffe unentdeckt bleiben. Sie sind wie ein Schwelbrand in der Wand – man bemerkt ihn erst, wenn das ganze Haus in Flammen steht.
 
-**(Folie 8: Neue Folie – "Zusammenfassung")**
+Es geht also nicht nur um die Abwehr von externen Bedrohungen. Es geht um die interne Organisation und die Fähigkeit, diese Risiken überhaupt erst zu erkennen und zu managen.
 
-Zusammengefasst ist ein ISMS Ihr strategisches Multitool, um:
+Und genau hier setzt unser strategisches Werkzeug an."
 
-- Ihre zentralen Unternehmenswerte wie Vertrauen und Reputation aktiv zu schützen.
-- Sich klare Wettbewerbsvorteile zu sichern, indem Sie Sicherheit nachweisen können.
-- Ihre internen Prozesse effizienter und Ihr Unternehmen widerstandsfähiger zu machen.
+---
 
-**(Folie 9: Ihre alte Folie 2 – Ihre Vorstellung)**
+**Warum das funktioniert:**
 
-Mein Name ist Robin Leitner von der secudor GmbH. Als Auditor und Leiter der Informationssicherheit ist es meine Aufgabe, gemeinsam mit mittelständischen Unternehmen die passende und pragmatische Lösung zu finden. [cite_start]Wir helfen seit über 10 Jahren dabei, diese strategischen Werkzeuge zu schmieden[cite: 3].
-
-**(Folie 10: Ihre alte Folie 10 – Vielen Dank)**
-
-Die Frage ist also nicht, ob Sie sich Sicherheit leisten können. Sondern, ob Sie bereits das richtige Werkzeug nutzen, um Ihre Werte und die Zukunft Ihres Unternehmens zu sichern.
-
-Vielen Dank für Ihre Aufmerksamkeit."
+- **Nahtloser Übergang:** Der Text knüpft direkt an Folie 1 an.
+- **Relevanz:** Sie übersetzen die großen Zahlen in eine konkrete Bedeutung für den einzelnen Mittelständler ("330.000 Euro", "vier von fünf Unternehmen").
+- [cite_start]**Glaubwürdigkeit:** Sie nennen Ihre Quellen (BSI, Bitkom, Allianz), was Ihre Aussagen untermauert[cite: 14].
+- **Spannungsbogen:** Der letzte Punkt des "Irrglaubens" schafft ein Gefühl der Dringlichkeit und leitet perfekt zur Vorstellung der Lösung auf der nächsten Folie über.
