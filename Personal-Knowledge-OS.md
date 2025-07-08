@@ -6,8 +6,8 @@ tags: []
 
 # PKM-OS: Design & Operations Manual
 
-**Last Updated:** 2025-07-09
-**Version:** 0.2
+**Last Updated:** 2025-07-08
+**Version:** 0.3
 
 ## 1. Core Philosophy
 
@@ -15,7 +15,7 @@ This system treats personal knowledge management like an operating system. The g
 
 ---
 
-## Layer 0: The Instruction Set (The Primitives)
+## 2. Layer 0: The Instruction Set (The Primitives)
 
 These are the five fundamental, atomic actions the OS can perform. Every task, personal or professional, is a sequence of these primitives. This list is intentionally minimal and complete.
 
@@ -27,7 +27,7 @@ These are the five fundamental, atomic actions the OS can perform. Every task, p
 
 ---
 
-## Layer 1: The System Call (The Log Entry)
+## 3. Layer 1: The System Call (The Log Entry)
 
 This is the standard format for recording any action performed by the OS. It is the fundamental unit of data capture, creating a chronological, auditable trail of work.
 
@@ -41,7 +41,7 @@ This is the standard format for recording any action performed by the OS. It is 
 
 ---
 
-## Layer 2: The Process File (The Container)
+## 4. Layer 2: The Process File (The Container)
 
 A Process File is the container for Log Entries. It is a single note dedicated to a single, cohesive topic, project, goal, or area of inquiry. Its purpose is to provide context for the actions being logged. It is the human-readable equivalent of an OS Process Control Block (PCB).
 
@@ -53,6 +53,8 @@ A template for a `project` type note. It must contain the necessary YAML frontma
 ---
 type: project
 status: active
+context:
+client:
 tags: []
 ---
 
@@ -71,11 +73,11 @@ tags: []
 
 ---
 
-## Layer 3: The File System
+## 5. Layer 3: The File System
 
 This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems. The filing of notes is not arbitrary; it is determined by the note's metadata.
 
-### 3.1. Top-Level Directory Structure
+### 5.1. Top-Level Directory Structure
 
 ```
 /
@@ -90,7 +92,7 @@ This layer defines where all notes are stored. It uses a purpose-driven structur
 └── scratchpad/       # Fleeting notes to be deleted.
 ```
 
-### 3.2. Library Organization
+### 5.2. Library Organization
 
 The `library/` directory is organized by **Context/Role** ("hats"). This prioritizes the application of knowledge.
 
@@ -101,21 +103,39 @@ The `library/` directory is organized by **Context/Role** ("hats"). This priorit
 
 To handle cross-cutting knowledge, this system uses **Maps of Content (MOCs)** as a form of "symbolic link," allowing a note that lives in one context (e.g., `professional/`) to be referenced in the MOC of another (e.g., `hive/`).
 
-### 3.3. Metadata-Driven Filing Logic
+### 5.3. Workbench Organization
 
-The OS uses YAML frontmatter to file notes deterministically. The core metadata fields are `type`, `context`, `topic`, and `status`.
+The `workbench/` directory is organized by **encapsulation**. Every non-trivial project gets its own dedicated folder to keep all related assets together. This structure is hierarchical to allow for Browse by context and client.
+
+The standard path for a project is: `workbench/projects/[context]/[client]/[ProjectName]/`
+
+**Example Structure:**
+
+```
+workbench/
+└── projects/
+    └── professional/
+        └── ARA/  <-- Folder for a specific client
+            └── ARA_Q3_Audit/  <-- The encapsulated project folder
+                ├── _Project_ARA_Q3_Audit.md  <-- Main Process File
+                └── Draft_Final_Report.md
+```
+
+### 5.4. Metadata-Driven Filing Logic
+
+The OS uses YAML frontmatter to file notes deterministically. The core metadata fields are `type`, `context`, `topic`, `client`, and `status`.
 
 **The Rules:**
 
 - **IF `type: reference` THEN** move to `library/[context]/[topic]/`
-- **IF `type: project` AND `status: active` THEN** move to `workbench/projects/`
-- **IF `type: project` AND `status: completed` THEN** move to `archive/projects/` (Note: `archive/` folder to be created as needed)
+- **IF `type: project` AND `status: active` THEN** move to `workbench/projects/[context]/[client]/` (as a new project folder).
+- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/projects/[context]/[client]/`.
 - **IF `type: daily_log` THEN** move to `journal/daily/`
 - **IF `type: template` THEN** move to `system/templates/`
 
 ---
 
-## Layer 4: The Scheduler (The Integration)
+## 6. Layer 4: The Scheduler (The Integration)
 
 This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist, Things).
 
