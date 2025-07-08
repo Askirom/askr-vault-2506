@@ -103,4 +103,4 @@ tags: []
 - AI Act vorstellen
 - Regularien Updates sollten an die Sprecher weitergeleitet werden
 - Ermäßigung für Sprecher bei Herbstkonferenz
-- HK: 525,00 Euro, Kombi HK + Behördentag 625,00 Euro
+  - HK: 525,00 Euro, Kombi HK + Behördentag 625,00 Euro
