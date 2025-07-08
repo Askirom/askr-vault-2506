@@ -6,8 +6,8 @@ tags: []
 
 # PKM-OS: Design & Operations Manual
 
-**Last Updated:** 2025-07-08
-**Version:** 0.3
+**Last Updated:** 2025-07-09
+**Version:** 0.4
 
 ## 1. Core Philosophy
 
@@ -35,7 +35,9 @@ This is the standard format for recording any action performed by the OS. It is 
 
 **Decision deferred.** The final syntax will be simple and low-friction. Current candidates include:
 
-- **Minimalist Style:** `-DRAFT.Wrote_the_project_outline.`
+- **Minimalist Style:** `- DRAFT: Wrote the project outline.`
+- **Tag-based Style:** `[2025-07-09] #review Read the new policy.`
+- **Emoji Style:** `✍️ Wrote the project outline.`
 
 ---
 
@@ -43,7 +45,7 @@ This is the standard format for recording any action performed by the OS. It is 
 
 A Process File is the container for Log Entries. It is a single note dedicated to a single, cohesive topic, project, goal, or area of inquiry. Its purpose is to provide context for the actions being logged. It is the human-readable equivalent of an OS Process Control Block (PCB).
 
-### Process File Template (v1.0):
+### Project File Template (v1.0):
 
 A template for a `project` type note. It must contain the necessary YAML frontmatter to be filed correctly by the system.
 
@@ -71,7 +73,7 @@ tags: []
 
 ---
 
-## 5. Layer 3: The File System
+## 5\. Layer 3: The File System
 
 This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems. The filing of notes is not arbitrary; it is determined by the note's metadata.
 
@@ -114,9 +116,9 @@ workbench/
 └── projects/
     └── professional/
         └── ARA/  <-- Folder for a specific client
-            └── ARA_Q3_Audit/  <-- The encapsulated project folder
-                ├── _Project_ARA_Q3_Audit.md  <-- Main Process File
-                └── Draft_Final_Report.md
+            └── ARA-Q3-Audit/  <-- The encapsulated project folder
+                ├── _Project-ARA-Q3-Audit.md  <-- Main Process File
+                └── Draft-Final-Report.md
 ```
 
 ### 5.4. Metadata-Driven Filing Logic
@@ -133,7 +135,7 @@ The OS uses YAML frontmatter to file notes deterministically. The core metadata 
 
 ---
 
-## 6. Layer 4: The Scheduler (The Integration)
+## 6\. Layer 4: The Scheduler (The Integration)
 
 This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist, Things).
 

@@ -1,13 +1,16 @@
 ---
-type: template
+id: Template_Daily_Log
+aliases: []
+tags: []
 created: 2025-07-08
+type: template
 ---
 
 # {{date:YYYY-MM-DD}}
 
 ## Tasks
 
-*Tasks are now managed externally - use dedicated task management tools*
+_Tasks are now managed externally - use dedicated task management tools_
 
 ## Professional Log
 
@@ -15,4 +18,4 @@ created: 2025-07-08
 
 ## Personal Log
 
-- ***
+- [ ] ***

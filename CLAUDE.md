@@ -32,6 +32,7 @@ This is an Obsidian vault using the PKM-OS (Personal Knowledge Management Operat
 ### Task Management
 
 **IMPORTANT**: Tasks are managed externally in Todoist (migrated 2025-07-08)
+
 - **No task syntax** in vault files (no `- [ ]` or `- [x]`)
 - **No task queries** in templates or files
 - **Focus**: Vault is for thinking, planning, and knowledge management only
@@ -39,7 +40,7 @@ This is an Obsidian vault using the PKM-OS (Personal Knowledge Management Operat
 ### Active Plugins
 
 - `dataview` - Database-like queries for dynamic content
-- `table-editor-obsidian` - Enhanced table editing  
+- `table-editor-obsidian` - Enhanced table editing
 - `obsidian-icon-folder` - Visual folder organization
 - `obsidian-git` - Git version control integration
 
@@ -55,6 +56,7 @@ This is an Obsidian vault using the PKM-OS (Personal Knowledge Management Operat
 ### Search Priority
 
 Use Vaultmap.yaml guidance for search priority:
+
 - **High Priority**: `workbench/projects/`, `library/`, `system/`
 - **Medium Priority**: `journal/daily/`, `inbox/`
 - **Low Priority**: `scratchpad/`
@@ -92,6 +94,7 @@ Active clients include: ARA, CLIFO, EHFREI, EKIBA, EMPIC, FDFRI, FITS, GOSME, IN
 ### Metadata Requirements
 
 All files must have proper YAML frontmatter based on type:
+
 - **Projects**: `type: project`, `status: active`, `context: [context]`, `created: YYYY-MM-DD`
 - **Reference**: `type: reference`, `topic: [topic]`, `created: YYYY-MM-DD`
 - **Daily**: `type: daily_log`, `date: YYYY-MM-DD`, `created: YYYY-MM-DD`
@@ -101,11 +104,13 @@ All files must have proper YAML frontmatter based on type:
 ### Technical Environment
 
 User primarily works in:
+
 - **Neovim** with obsidian.nvim plugin
 - **WezTerm** terminal
 - **Todoist** for task management (external)
 
 ---
 
-*For complete PKM-OS documentation, see: `system/Personal-Knowledge-OS.md`*
-*For system maps and MOCs, see: `system/maps/`*
+_For complete PKM-OS documentation, see: `system/Personal-Knowledge-OS.md`_
+_For system maps and MOCs, see: `system/maps/`_
+
