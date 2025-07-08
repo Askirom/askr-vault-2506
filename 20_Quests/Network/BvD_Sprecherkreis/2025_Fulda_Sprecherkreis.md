@@ -73,6 +73,7 @@ tags: []
 
 - DSGVO ist nicht perfekt
 - keine Erfolgsgarantie
+- Meinungsbildung aus Verband -> BvD als Ideengeber
 
 ## Diskussionsrunde zum Positionspapier DSGVO
 
