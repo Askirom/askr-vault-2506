@@ -71,6 +71,9 @@ tags: []
 
 ## Novellierung der Datenschutzgesetze
 
+- DSGVO ist nicht perfekt
+- keine Erfolgsgarantie
+
 ## Diskussionsrunde zum Positionspapier DSGVO
 
 ## Berichte aus den Germien - Teil 2
