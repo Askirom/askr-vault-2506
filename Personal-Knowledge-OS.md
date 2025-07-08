@@ -6,8 +6,8 @@ tags: []
 
 # PKM-OS: Design & Operations Manual
 
-**Last Updated:** 2025-07-08
-**Version:** 0.1
+**Last Updated:** 2025-07-09
+**Version:** 0.2
 
 ## 1. Core Philosophy
 
@@ -33,9 +33,11 @@ This is the standard format for recording any action performed by the OS. It is 
 
 ### Canonical Format:
 
-{{needs to be implemented yet}}
+**Decision deferred.** The final syntax will be simple and low-friction. Current candidates include:
 
-### Examples:
+- **Minimalist Style:** `- DRAFT: Wrote the project outline.`
+- **Tag-based Style:** `[2025-07-09] #review Read the new policy.`
+- **Emoji Style:** `✍️ Wrote the project outline.`
 
 ---
 
@@ -45,9 +47,35 @@ A Process File is the container for Log Entries. It is a single note dedicated t
 
 ### Process File Template (v1.0):
 
-{{not yet defined}}
+A template for a `project` type note. It must contain the necessary YAML frontmatter to be filed correctly by the system.
+
+```markdown
+---
+type: project
+status: active
+tags: []
+---
+
+# Project: [Descriptive Title]
+
+**Goal:**
+**Due Date:**
+**Key Stakeholder(s):**
+
+---
+
+### Action Log
+
+-
+```
+
+---
 
 ## Layer 3: The File System
+
+This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems. The filing of notes is not arbitrary; it is determined by the note's metadata.
+
+### 3.1. Top-Level Directory Structure
 
 ```
 /
@@ -58,5 +86,49 @@ A Process File is the container for Log Entries. It is a single note dedicated t
 │   └── projects/
 ├── library/          # Your reference knowledge base.
 ├── system/           # Your life's "configuration": goals, values, templates.
+│   └── templates/
 └── scratchpad/       # Fleeting notes to be deleted.
 ```
+
+### 3.2. Library Organization
+
+The `library/` directory is organized by **Context/Role** ("hats"). This prioritizes the application of knowledge.
+
+- `library/professional/`
+- `library/personal/`
+- `library/hive/`
+- `library/network/`
+
+To handle cross-cutting knowledge, this system uses **Maps of Content (MOCs)** as a form of "symbolic link," allowing a note that lives in one context (e.g., `professional/`) to be referenced in the MOC of another (e.g., `hive/`).
+
+### 3.3. Metadata-Driven Filing Logic
+
+The OS uses YAML frontmatter to file notes deterministically. The core metadata fields are `type`, `context`, `topic`, and `status`.
+
+**The Rules:**
+
+- **IF `type: reference` THEN** move to `library/[context]/[topic]/`
+- **IF `type: project` AND `status: active` THEN** move to `workbench/projects/`
+- **IF `type: project` AND `status: completed` THEN** move to `archive/projects/` (Note: `archive/` folder to be created as needed)
+- **IF `type: daily_log` THEN** move to `journal/daily/`
+- **IF `type: template` THEN** move to `system/templates/`
+
+---
+
+## Layer 4: The Scheduler (The Integration)
+
+This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist, Things).
+
+- **Principle:** The Scheduler's only job is to manage a prioritized list of tasks. The work itself is executed within the PKM-OS.
+- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `workbench/projects/` or elsewhere). This creates a frictionless, single-click handoff from deciding on a task to executing the work.
+
+---
+
+## Appendix A: Core Workflow
+
+1.  **Schedule:** Consult the **Scheduler** to choose a task.
+2.  **Activate:** Click the Obsidian URL in the task to open the corresponding **Process File**.
+3.  **Execute:** Perform the work using one of the five **Primitives**.
+4.  **Log:** Record the action by adding a new **Log Entry** to the Process File's Action Log.
+5.  **(Optional) File:** If working on a new note from the `inbox/`, update its YAML frontmatter and move it to its correct location according to the filing logic.
+6.  **Complete:** Mark the task as done in the Scheduler.
