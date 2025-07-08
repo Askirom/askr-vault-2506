@@ -74,6 +74,7 @@ tags: []
 - DSGVO ist nicht perfekt
 - keine Erfolgsgarantie
 - Meinungsbildung aus Verband -> BvD als Ideengeber
+- Herstellerhaftung
 
 ## Diskussionsrunde zum Positionspapier DSGVO
 
@@ -94,4 +95,4 @@ tags: []
 - kurzer Austausch -> andere machen auch einen Stammtisch
   - einmal im Monat; mind. 2 Mitglieder
 - TDDDG vorstellen
-- AI Act vorstellen
+- [ ] AI Act vorstellen
