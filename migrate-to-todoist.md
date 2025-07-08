@@ -373,4 +373,3 @@ _Generated: 2025-07-08_
 - Quest-based organization maintained
 - Daily notes templates updated (task queries removed)
 - Vault structure unchanged
-
