@@ -1,12 +1,17 @@
 ---
 id: Askirom_System_2025-07-08
-aliases: [System Documentation, Workflow Documentation]
-tags: [system, workflow, documentation]
+aliases:
+  - System Documentation
+  - Workflow Documentation
+tags:
+  - system
+  - workflow
+  - documentation
 ---
 
 # Askirom System Documentation v2025-07-08
 
-*Complete system documentation following task management migration to Todoist*
+_Complete system documentation following task management migration to Todoist_
 
 ## Repository Overview
 
@@ -98,6 +103,7 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 - **Clean Separation**: No task syntax in vault files
 
 **Migration Details:**
+
 - 71 tasks extracted from 34+ files
 - All incomplete tasks organized in `migrate-to-todoist.md`
 - Task-related queries and syntax removed from all files
@@ -112,7 +118,7 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 ## Active Clients (as of 2025-07-08)
 
 - **ARA** - Data processing assessments
-- **CLIFO** - IT security consulting  
+- **CLIFO** - IT security consulting
 - **EHFREI** - Risk analysis projects
 - **EKIBA** - ISMS documentation
 - **EMPIC** - VdS certification support
@@ -129,11 +135,13 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 ## Revenue Tracking System
 
 ### XP System
+
 - **Professional**: 500€ billable = 1 XP
 - **Target**: 24 XP/month = €12,000
 - **Tracking**: `30_Atlas/XP_Log.md`
 
 ### Character Sheet
+
 - **Location**: `30_Atlas/Askirom_v2506-Shadow_Bolt.md`
 - **Purpose**: Personal development tracking and gamification
 
@@ -148,12 +156,14 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 ## System Evolution Notes
 
 ### 2025-07-08 Task Migration
+
 - Migrated all task management to external Todoist system
 - Cleaned vault of task syntax and queries
 - Focused vault on strategic thinking and knowledge management
 - Maintained quest-based organization for high-level coordination
 
 ### Future Considerations
+
 - Continue terminal-first workflow with neovim/wezterm
 - Maintain clean separation between thinking (vault) and execution (todoist)
 - Preserve quest gamification for motivation and organization
@@ -162,11 +172,13 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 ## Integration Points
 
 ### With Todoist
+
 - **Strategic Planning**: Vault for long-term thinking and quest coordination
 - **Daily Execution**: Todoist for task tracking and scheduling
 - **Revenue Tracking**: XP system remains in vault for motivation
 
 ### With Development Environment
+
 - **Primary Editor**: Neovim with obsidian.nvim plugin
 - **Terminal**: WezTerm for focused sessions
 - **Version Control**: Git integration for backup and versioning
@@ -182,4 +194,5 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 
 ---
 
-*This documentation represents the current state of the Askirom personal productivity system as of 2025-07-08, following the major task management migration to external tools.*
+_This documentation represents the current state of the Askirom personal productivity system as of 2025-07-08, following the major task management migration to external tools._
+
