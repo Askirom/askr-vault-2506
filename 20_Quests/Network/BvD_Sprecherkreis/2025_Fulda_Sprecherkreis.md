@@ -33,6 +33,7 @@ tags: []
   - BvD hat Ziel aber etwas verfehlt.
   - Wir können keine Gesetzesformulierungen machen
 - Mitgliederinfo nutzen, dass auch Würzburg kommen darf
+- User sind durch Sprecher anlegbar.
 
 ## Bericht aus der Mitgliederversammlung
 
