@@ -15,7 +15,6 @@ ich möchte Sie bitten, für einen Moment die Augen zu schließen und sich eine 
 Vielleicht denken Sie an Ihr Firmengebäude, das Sie über Jahre abbezahlt haben. An Ihren modernen Maschinenpark, der die Effizienz sichert. Oder ganz einfach an die schwarzen Zahlen in Ihrer Bilanz. All das ist wichtig. All das ist das sichtbare Ergebnis Ihrer harten Arbeit und Ihres unternehmerischen Mutes.
 
 Aber ich möchte heute mit Ihnen über eine tiefere Ebene von Werten sprechen. Über die unsichtbaren, aber unbezahlbaren Güter, die das wahre Fundament Ihres Erfolgs sind.
-
 Denken Sie zum Beispiel an das Vertrauen Ihrer langjährigsten Kunden. Dieses Vertrauen, das über Jahre, vielleicht sogar Jahrzehnte, in unzähligen Telefonaten, pünktlichen Lieferungen und durch verlässliche Qualität aufgebaut wurde. Dieses Vertrauen, das dafür sorgt, dass Ihre Kunden bei Ihnen bleiben, auch wenn ein Wettbewerber mal einen Euro günstiger ist.
 
 Denken Sie an die Innovationskraft Ihrer Belegschaft. Das Wissen in den Köpfen Ihrer Ingenieure. Die einzigartige Rezeptur Ihres Produkts oder der geheime Prozess in Ihrer Fertigung, der Ihnen den entscheidenden Vorsprung sichert. Das ist Ihr intellektuelles Kapital, Ihr 'geheimes Rezept'.
