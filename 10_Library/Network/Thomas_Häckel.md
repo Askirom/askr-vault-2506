@@ -1,3 +1,0 @@
-# Thomas Häckel
-
-INSTO contact

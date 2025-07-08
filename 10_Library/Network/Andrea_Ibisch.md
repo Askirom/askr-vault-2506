@@ -1,3 +1,0 @@
-# Andrea Ibisch
-
-BSI presenter

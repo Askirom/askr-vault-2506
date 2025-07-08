@@ -1,0 +1,42 @@
+---
+type: project
+questType: Guild
+status: active
+area: Professional
+client: EMPIC
+primaryContact: [[Dennis Poetz]] [[Uwe Flaton]]
+Standard: VdS 10000
+certificationTarget: Oktober 2025
+context: professional
+created: 2025-07-08
+---
+
+# Quest: EMPIC VdS 10000 Implementation
+
+> [!info]
+> **Overall Goal:** Implement VdS 10000 ISMS certification for EMPIC, focusing on industrial security requirements and streamlined compliance approach.
+
+---
+
+## Tasks
+
+*Task management has been migrated to external tools.*
+
+---
+
+## 📝 Action Log & Tasks
+
+### Current Tasks (from Todoist Migration)
+### Key Items
+- Risikomanagement abschließen
+- Risiken für "3"-Gewichtung Assets ausfüllen  
+- Confluence Dokumentation prüfen
+- Dokumentenmanagement definieren
+- ISB Benennung machen
+
+---
+## 💬 Meeting Notes & Communication
+
+
+---
+## 📎 Key Documents

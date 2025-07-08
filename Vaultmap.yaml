@@ -1,137 +1,170 @@
-# Askr.Vault-2506 Structure Map
+# PKM-OS Vault Structure Map
 # This file provides structured navigation metadata for Claude Code
-# Last updated: 2025-07-08 (Task management migration)
+# Generated during PKM-OS migration: 2025-07-08
 
 vault:
-  name: "Askr.Vault-2506"
+  name: "PKM-OS"
   type: "obsidian"
-  description: "Gamified personal knowledge management system using quest-based organization"
+  description: "Personal Knowledge Management Operating System - Structured knowledge management using proven OS principles"
   
 structure:
-  "00_To_Sort":
-    purpose: "Temporary holding for unorganized content"
-    type: "inbox"
-    key_files:
-      - "Inbox-Tasks.md" # Converted to reference only (2025-07-08)
-    search_priority: "low"
-    
-  "01_Nexus": 
-    purpose: "Central command and high-level coordination"
-    type: "coordination"
-    key_files:
-      - "000-Master_Quest_Log.md"
-      - "GEAR-Askirom_Inventory_v2506.md"
-      - "GUILD-secudor_GmbH.md"
-    search_priority: "high"
-    
-  "02_Daily":
-    purpose: "Daily log files with date-based naming"
-    type: "temporal"
-    pattern: "YYYY-MM-DD.md"
-    archive_structure: "02_Daily/YYYY/YYYY-MM/"
-    current_location: "root for current/previous month"
-    task_management: "External tools - templates updated 2025-07-08"
+  "inbox":
+    purpose: "New items to be processed and filed"
+    type: "processing"
+    pattern: "Unprocessed content awaiting categorization"
     search_priority: "medium"
     
-  "10_Library":
-    purpose: "Organized reference materials"
+  "journal":
+    purpose: "Personal notes and daily logs"
+    type: "temporal"
+    subfolders:
+      "daily": "Daily log entries with date-based naming"
+    pattern: "YYYY-MM-DD.md"
+    search_priority: "medium"
+    
+  "workbench":
+    purpose: "All active work-in-progress"
+    type: "active_projects"
+    subfolders:
+      "projects": "Encapsulated project folders organized by context"
+    hierarchy: "workbench/projects/[context]/[client]/[project]/"
+    search_priority: "high"
+    
+  "library":
+    purpose: "Reference knowledge base organized by context/role"
     type: "reference"
     subfolders:
-      "Hive": "Relationship content"
-      "Network": "People and connections"
-      "Personal": "Personal reference materials"
-      "Professional": "Work-related reference and tools"
-      "Templates": "Note templates"
+      "professional": "Work-related reference materials"
+      "personal": "Personal reference and learning materials"
+      "hive": "Relationship and family content"
+      "network": "People, connections, and community materials"
     search_priority: "high"
     
-  "11_Attachments":
-    purpose: "File attachments organized by content type"
-    type: "assets"
-    subfolders:
-      "Backups": "System and data backups"
-      "Personal": "Personal media and files"
-      "Professional": "Work documents and media"
-      "Templates": "Template files and structures"
-    search_priority: "low"
-    
-  "20_Quests":
-    purpose: "Quest-based project organization"
-    type: "projects"
-    subfolders:
-      "Hive": "Relationship projects (sacred category)"
-      "Network": "Community and networking projects"
-      "Personal": "Personal development and goals"
-      "Professional": "Client work organized by company"
-    key_pattern: "_Quest-[Name].md for hub files"
-    search_priority: "high"
-    
-  "30_Atlas":
-    purpose: "High-level system documentation and personal framework"
+  "system":
+    purpose: "Life configuration, templates, and meta-organization"
     type: "meta"
-    key_files:
-      - "Askirom_v2506-Shadow_Bolt.md"
-      - "XP_Log.md"
-      - "Personal_Productivity_Framework_v2.md"
-      - "Askirom_System_2025-07-08.md"
+    subfolders:
+      "maps": "Maps of Content (MOCs) and high-level organization"
+      "templates": "Note templates and structures"
     search_priority: "high"
+    
+  "scratchpad":
+    purpose: "Fleeting notes and temporary content"
+    type: "temporary"
+    pattern: "Content intended for deletion or processing"
+    search_priority: "low"
+
+workbench_contexts:
+  "professional":
+    description: "Client work and professional projects"
+    active_clients:
+      - "ARA"
+      - "CLIFO" 
+      - "EHFREI"
+      - "EKIBA"
+      - "EMPIC"
+      - "FDFRI"
+      - "FITS"
+      - "GOSME"
+      - "INSTO"
+      - "RBOMN"
+      - "RCG"
+      - "SECUD"
+      - "SOLVE"
+      - "VEDES"
+      - "VGALT"
+  
+  "personal":
+    description: "Personal development and individual projects"
+    active_projects:
+      - "Mac_Terminal"
+      - "Askirom_Evolution"
+  
+  "network":
+    description: "Community and networking projects"
+    active_projects:
+      - "BvD_Sprecherkreis"
+      - "BvD_RG_Nürnberg"
+      - "Maibaum"
+      - "BvD_Prüfaufgaben"
+  
+  "hive":
+    description: "Relationship and family projects"
+    active_projects:
+      - "Japan_Trip"
 
 search_shortcuts:
-  people: "10_Library/Network/"
-  clients: "20_Quests/Professional/[CLIENT]/"
-  templates: "10_Library/Templates/"
-  daily_notes: "02_Daily/YYYY-MM-DD.md"
-  reference: "10_Library/Professional/"
-  archived_dailies: "02_Daily/YYYY/YYYY-MM/"
-  quest_hubs: "20_Quests/*/\\_Quest-*.md"
-  system_docs: "30_Atlas/"
-  inbox: "00_To_Sort/"
-
-active_clients:
-  - "ARA"
-  - "CLIFO" 
-  - "EHFREI"
-  - "EKIBA"
-  - "EMPIC"
-  - "FDFRI"
-  - "FITS"
-  - "GOSME"
-  - "INSTO"
-  - "RBOMN"
-  - "RCG"
-  - "SECUD"
-  - "VEDES"
-  - "VGALT"
+  people: "library/network/"
+  clients: "workbench/projects/professional/[CLIENT]/"
+  templates: "system/templates/"
+  daily_notes: "journal/daily/YYYY-MM-DD.md"
+  reference: "library/[context]/"
+  active_projects: "workbench/projects/[context]/[client]/"
+  mocs: "system/maps/"
+  inbox: "inbox/"
 
 file_patterns:
-  quest_files: "_Quest-[Name].md"
+  project_files: "_[ProjectName]_Project.md"
   daily_notes: "YYYY-MM-DD.md"
   templates: "Template_[Type].md"
-  professional_docs: "YYYY-MM-DD_[Project].md"
+  reference_docs: "[Topic]_[Description].md"
   person_files: "Firstname_Lastname.md"
+
+metadata_types:
+  project:
+    required_fields: ["type", "status", "context", "created"]
+    optional_fields: ["client", "tags", "due_date"]
+  
+  reference:
+    required_fields: ["type", "topic", "created"]
+    optional_fields: ["tags", "source"]
+  
+  daily_log:
+    required_fields: ["type", "date", "created"]
+    optional_fields: ["tags", "mood"]
+  
+  moc:
+    required_fields: ["type", "created"]
+    optional_fields: ["tags", "scope"]
+  
+  template:
+    required_fields: ["type", "created"]
+    optional_fields: ["tags", "purpose"]
+  
+  inbox:
+    required_fields: ["type", "created"]
+    optional_fields: ["tags", "source"]
 
 naming_conventions:
   file_separator: "_"
   date_format: "YYYY-MM-DD"
-  quest_prefix: "_Quest-"
+  project_prefix: "_"
   template_prefix: "Template_"
   no_spaces: true
   clean_dashes: true
+
+filing_rules:
+  - "IF type: reference THEN move to library/[context]/[topic]/"
+  - "IF type: project AND status: active THEN move to workbench/projects/[context]/[client]/"
+  - "IF type: project AND status: completed THEN move to archive/projects/[context]/[client]/"
+  - "IF type: daily_log THEN move to journal/daily/"
+  - "IF type: template THEN move to system/templates/"
+  - "IF type: moc THEN move to system/maps/"
+  - "IF type: inbox THEN keep in inbox/ until processed"
 
 plugins:
   - "dataview"
   - "table-editor-obsidian"
   - "obsidian-icon-folder"
   - "obsidian-git"
-  # obsidian-tasks-plugin migrated to external task management (2025-07-08)
 
-gamification:
-  xp_system:
-    professional: "500€ billable = 1 XP"
-    target: "24 XP/month = €12,000"
-    tracking_file: "30_Atlas/XP_Log.md"
-  character_sheet: "30_Atlas/Askirom_v2506-Shadow_Bolt.md"
-  quest_types:
-    - "Main Quests: Personal development"
-    - "Guild Quests: Professional client work"
-    - "Side Quests: Network and learning"
-    - "Hive Quests: Relationship projects"
+integration:
+  task_manager: "External (Todoist)"
+  workflow: "Scheduler -> Obsidian URL -> Process File -> Log Entry"
+  principle: "The PKM-OS manages knowledge; external tools manage scheduling"
+
+migration_info:
+  date: "2025-07-08"
+  source_structure: "Quest-based vault with numerical prefixes"
+  target_structure: "PKM-OS with purpose-driven organization"
+  preservation: "All original content preserved with metadata enhancement"
