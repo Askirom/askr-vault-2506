@@ -32,6 +32,7 @@ tags: []
   - Gute Idee, viele haben kein Problem mit der Anpassung
   - BvD hat Ziel aber etwas verfehlt.
   - Wir können keine Gesetzesformulierungen machen
+- Mitgliederinfo nutzen, dass auch Würzburg kommen darf
 
 ## Bericht aus der Mitgliederversammlung
 
