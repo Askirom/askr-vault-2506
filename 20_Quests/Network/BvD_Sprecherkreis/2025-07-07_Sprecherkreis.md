@@ -55,6 +55,11 @@ tags: []
 - schneller Interessenkonflikt, z.B. als Projektmanager
 - Rosenthal mal suchen
 - Vischer und LFDI
+- Professional und vom Lernen austreten ist für ChatGPT, Gemini und Claude
+- Professor Rosnagel als Name
+  - Acceptable Use Guideline
+
+> Wichtig: Keine Shadow IT!
 
 ## Runde zu KI-Beratung durch DSB
 
