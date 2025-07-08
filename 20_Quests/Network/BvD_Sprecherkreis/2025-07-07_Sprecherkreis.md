@@ -63,6 +63,8 @@ tags: []
 
 ## Runde zu KI-Beratung durch DSB
 
+- hinterfragen, ob wirklich KI vorliegt?
+
 ## Novellierung der Datenschutzgesetze
 
 ## Diskussionsrunde zum Positionspapier DSGVO
@@ -74,7 +76,7 @@ tags: []
 ## Fragen
 
 - muss der DSB aktiv bei Audits beisteuern?
-  - mein Gef ühl: ja ABER
+  - mein Gefühl: ja ABER
   - es ist keine Pflicht, der DSB ist Berater. Als Berater würde ich jetzt sagen, dass ich keine verpflichtende Antwort geben KANN!
 
 ## Ideen
