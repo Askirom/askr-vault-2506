@@ -33,7 +33,7 @@ tags: []
 
 ## Bericht aus der Mitgliederversammlung
 
-- Herr Fuellhase ist Leiter der Geschaeftsstelle
+- Herr Füllhase ist Leiter der Geschaeftsstelle
 - BDSG-Novelle -> Neuansetzung erforderlich; im
 - Gegen das Beauftragtenwesen -> soll gegen Bundesbeauftragte gerichet sein. Nicht konsequent Datenschutzbeauftragte.
   - Beauftragte sollen allgemein abgeschafft werden; nicht nur Datenschutzbeauftragte
@@ -50,6 +50,11 @@ tags: []
 # Tag 2 - [[2025-07-08]]
 
 ## Bericht KI Ausschuss
+
+- DSB kann KI-Beauftragter sein
+- schneller Interessenkonflikt, z.B. als Projektmanager
+- Rosenthal mal suchen
+- Vischer und LFDI
 
 ## Runde zu KI-Beratung durch DSB
 
