@@ -14,20 +14,18 @@ primaryContact: ""
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/RCG/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Active Tasks from Todoist Migration
-- [ ] Stellvertreter Benennung prüfen für RLE @AdrianHofmann 📅 23 Jun 18:30 ⏱️ 25min
-- [ ] Chrstian Strebel zu Datenschutz und InfoSec ansprechen (DSK Adrian und DSB RLE)
+### Key Items
+- Stellvertreter Benennung prüfen für RLE @AdrianHofmann
+- Christian Strebel zu Datenschutz und InfoSec ansprechen (DSK Adrian und DSB RLE)
 
 
 ---

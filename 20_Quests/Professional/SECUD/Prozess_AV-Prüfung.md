@@ -123,4 +123,4 @@ Erstelle eine individuelle Kundenantwort:
 
 **Offene Aufgaben:**
 
-- [ ] Ablagestruktur für Prüfdokumentation festlegen
+- Ablagestruktur für Prüfdokumentation festlegen

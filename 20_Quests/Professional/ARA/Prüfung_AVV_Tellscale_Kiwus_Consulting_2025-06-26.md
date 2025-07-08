@@ -10,17 +10,17 @@
 
 ## Schritt 1: Erstdurchsicht des AVV **(ca. 15-20 Minuten)**
 Führe eine strukturierte Erstprüfung durch und prüfe ob folgende Informationen festgehalten sind:
-- [x] **Vertragsparteien**: Auftraggeber und Auftragnehmer (inkl. vollständige Firmierung)
+- **Vertragsparteien**: Auftraggeber und Auftragnehmer (inkl. vollständige Firmierung)
 	- benannt, ARCD und Kiwus
-- [x] **Verarbeitungszweck**: Konkrete Beschreibung der Auftragsverarbeitung
+- **Verarbeitungszweck**: Konkrete Beschreibung der Auftragsverarbeitung
 	- Gegenstand benannt, Zweck ebenfalls in Anlage 1
 	- Zweck ist aber unklar beschrieben. Geht es hier nur um die Verbesserung des Tools selbst? Was ist der Hauptzweck der Plattform "Tellscale"?  -> Dieser fehlt im Vertrag
-- [x] **Vertragslaufzeit**: Beginn und Ende -> dies kann auch an den eigentlichen Leistungsvertrag gebunden sein 
-- [x] **Verarbeitungsumfang**: Welche Systeme/Prozesse sind betroffen?
-- [ ] **Datenkategorien**: Welche personenbezogenen Daten werden verarbeitet? 
+- **Vertragslaufzeit**: Beginn und Ende -> dies kann auch an den eigentlichen Leistungsvertrag gebunden sein 
+- **Verarbeitungsumfang**: Welche Systeme/Prozesse sind betroffen?
+- **Datenkategorien**: Welche personenbezogenen Daten werden verarbeitet? 
 	- Welche Adressen sind in Tellscale? Brauche ich als Empfehler einen Account bei Tellscale? welche Daten von den Empfehlern werden verarbeitet?
-- [x] **Betroffenenkreis**: Wessen Daten werden verarbeitet?
-- [ ] Unterauftragnehmer Anlage 2
+- **Betroffenenkreis**: Wessen Daten werden verarbeitet?
+- Unterauftragnehmer Anlage 2
 	- Hier sind Firmierungen anzugeben. Es ist für mich nicht möglich zu prüfen, ob die Daten mittels des Data Privacy Frameworks in die USA übertragen werden. siehe https://www.dataprivacyframework.gov/
 ### Fehlerbehandlung:
 - **Unvollständige Unterlagen**: Sofortige Rückmeldung an den Kunden mit präziser Auflistung der fehlenden Dokumente/Informationen

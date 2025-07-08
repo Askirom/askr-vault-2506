@@ -1,6 +1,6 @@
 # Askr.Vault-2506 Structure Map
 # This file provides structured navigation metadata for Claude Code
-# Last updated: 2025-07-02
+# Last updated: 2025-07-08 (Task management migration)
 
 vault:
   name: "Askr.Vault-2506"
@@ -12,7 +12,7 @@ structure:
     purpose: "Temporary holding for unorganized content"
     type: "inbox"
     key_files:
-      - "Inbox-Tasks.md"
+      - "Inbox-Tasks.md" # Converted to reference only (2025-07-08)
     search_priority: "low"
     
   "01_Nexus": 
@@ -30,6 +30,7 @@ structure:
     pattern: "YYYY-MM-DD.md"
     archive_structure: "02_Daily/YYYY/YYYY-MM/"
     current_location: "root for current/previous month"
+    task_management: "External tools - templates updated 2025-07-08"
     search_priority: "medium"
     
   "10_Library":
@@ -117,10 +118,10 @@ naming_conventions:
 
 plugins:
   - "dataview"
-  - "obsidian-tasks-plugin"
   - "table-editor-obsidian"
   - "obsidian-icon-folder"
   - "obsidian-git"
+  # obsidian-tasks-plugin migrated to external task management (2025-07-08)
 
 gamification:
   xp_system:

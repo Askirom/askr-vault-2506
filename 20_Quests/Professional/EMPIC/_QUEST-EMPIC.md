@@ -16,23 +16,21 @@ certificationTarget: Oktober 2025
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/EMPIC/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Current Tasks (from Todoist Migration)
-- [ ] Risikomanagement abschließen
-- [ ] Risiken für "3"-Gewichtung Assets ausfüllen  
-- [ ] Confluence Dokumentation prüfen
-- [ ] Dokumentenmanagement definieren
-- [ ] ISB Benennung machen
+### Key Items
+- Risikomanagement abschließen
+- Risiken für "3"-Gewichtung Assets ausfüllen  
+- Confluence Dokumentation prüfen
+- Dokumentenmanagement definieren
+- ISB Benennung machen
 
 ---
 ## 💬 Meeting Notes & Communication

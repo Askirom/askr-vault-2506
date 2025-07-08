@@ -14,19 +14,17 @@ primaryContact: "[[Jan-Phillip_Scheller]]"
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/RBOMN/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
-- [x] TODO Prepare Jour Fixe meeting 📅 2025-06-30 ✅ 2025-07-01
-- [x] TODO Complete Art. 26 DSGVO contract tasks 📅 2025-06-30 ✅ 2025-07-01
+### Completed Items
+- Prepare Jour Fixe meeting (completed 2025-07-01)
+- Complete Art. 26 DSGVO contract tasks (completed 2025-07-01)
 
 ---
 ## 💬 Meeting Notes & Communication

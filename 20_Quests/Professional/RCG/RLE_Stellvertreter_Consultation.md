@@ -10,12 +10,12 @@ Complete consultation on deputy appointment procedures for RLE, create documenta
 - **Scheduled**: 2025-06-23 18:30 (25 minutes)
 
 ## 📋 Task Breakdown
-- [ ] Meet with Adrian Hofmann (scheduled 25-min consultation)
-- [ ] Review Stellvertreter requirements for RLE
-- [ ] Discuss Christian Strebel involvement (DSK Adrian und DSB RLE)
-- [ ] Create standardized deputy appointment template
-- [ ] Document process for future clients
-- [ ] Invoice consultation
+- Meet with Adrian Hofmann (scheduled 25-min consultation)
+- Review Stellvertreter requirements for RLE
+- Discuss Christian Strebel involvement (DSK Adrian und DSB RLE)
+- Create standardized deputy appointment template
+- Document process for future clients
+- Invoice consultation
 
 ## 📅 Timeline
 - **Scheduled Meeting**: 2025-06-23 18:30

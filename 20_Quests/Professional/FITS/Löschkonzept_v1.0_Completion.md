@@ -10,12 +10,12 @@ Complete review of Version 0.9 and deliver finalized Löschkonzept Version 1.0 t
 - **Contact**: Elke Stapfer
 
 ## 📋 Task Breakdown
-- [ ] Review Version 0.9 document thoroughly
-- [ ] Identify gaps and improvement areas
-- [ ] Apply SECUD Löschkonzept template standards
-- [ ] Finalize Version 1.0
-- [ ] Present to Elke Stapfer
-- [ ] Invoice completion
+- Review Version 0.9 document thoroughly
+- Identify gaps and improvement areas
+- Apply SECUD Löschkonzept template standards
+- Finalize Version 1.0
+- Present to Elke Stapfer
+- Invoice completion
 
 ## 📅 Timeline
 - **Original Deadline**: 2025-05-07 (OVERDUE)

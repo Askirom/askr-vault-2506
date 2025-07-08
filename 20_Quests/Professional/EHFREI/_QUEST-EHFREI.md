@@ -9,19 +9,17 @@ primaryContact: ""
 
 # Quest: EHFREI
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/EHFREI/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Active Tasks from Todoist Migration
-- [ ] Warten auf Rückmeldung zu Risikoanalyse von @JohannesEitenbichler 📅 2025-07-04
+### Key Items
+- Warten auf Rückmeldung zu Risikoanalyse von @JohannesEitenbichler
 
 
 ---

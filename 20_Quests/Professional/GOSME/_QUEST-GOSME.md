@@ -9,12 +9,9 @@ primaryContact: ""
 
 # Quest: GOSME
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/GOSME/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

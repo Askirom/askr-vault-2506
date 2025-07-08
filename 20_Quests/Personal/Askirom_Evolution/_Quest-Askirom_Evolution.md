@@ -29,17 +29,15 @@ SORT file.name asc
 
 ## Action Log & Tasks
 
-- [ ] #action #action Complete Stage 0 baseline assessment 📅 2025-07-01
-- [ ] TODO Set up daily hyperfocus ritual tracking
-- [ ] TODO Implement weekly system review process
-- [ ] TODO Review and update stage progression criteria
+### Key Items
+- Complete Stage 0 baseline assessment
+- Set up daily hyperfocus ritual tracking
+- Implement weekly system review process
+- Review and update stage progression criteria
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Personal/Askirom_Evolution/
-```
+*Task management has been migrated to external tools.*
 
 ## Evolution Metrics
 

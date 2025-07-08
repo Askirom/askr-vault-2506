@@ -13,15 +13,18 @@ winCondition: ""
 
 > [!quote]
 
-## ✔️ Tasks
+## Notes
 
-- [ ] #action Trage Flugtickets ein mit Nummern und besonders auch Code oA
-- [ ] #action Pruefe Liste von Hummel auf Google Maps Link: [Japankarte Hummel](https://www.google.com/maps/d/edit?mid=1l7_ZprfS0yT_7_bvitLHjaIpZES5plE&usp=sharing)
-- [ ] #action Check downloaded apps for Japan
-  - [ ] Translators:
-    - [ ] Apple Translate
-    - [ ] Google Translate
-    - [ ] DeepL
+*Task management has been migrated to external tools.*
+
+### Key Items
+- Flugtickets entry with numbers and codes
+- Review Hummel's list on Google Maps: [Japankarte Hummel](https://www.google.com/maps/d/edit?mid=1l7_ZprfS0yT_7_bvitLHjaIpZES5plE&usp=sharing)
+- Check downloaded apps for Japan
+  - Translators:
+    - Apple Translate
+    - Google Translate
+    - DeepL
 
 ## Related Docuements
 

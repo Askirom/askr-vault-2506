@@ -10,9 +10,10 @@ tags: []
 
 ## 🎯 Meeting Objectives
 
-- [x] Review Art. 26 DSGVO contract progress
-- [x] Identify next actionable steps
-- [x] Set clear expectations for deliverables
+### Completed Objectives
+- Review Art. 26 DSGVO contract progress
+- Identify next actionable steps
+- Set clear expectations for deliverables
 
 ---
 
@@ -39,9 +40,8 @@ tags: []
 
 _Ready to capture during meeting:_
 
-- [ ]
-- [ ]
-- [ ]
+### Actions needed
+- To be captured during meeting
 
 ## Meeting Notes
 
@@ -58,11 +58,11 @@ _Ready to capture during meeting:_
   - soll am Mitarbeiterprofil angehängt werden
   - nur der Mitarbeiter + Personen, welche das Mitarbeiter-CV sehen müssen für Projektverwaltung haben Zugriff darauf
   - DSB: Wo ist die Zeiterfassung / Logbuch gehostet?
-    - [ ] TODO [[Jan-Phillip_Scheller]] klärt dies bis Donnerstag 📅 2025-07-03
+    - [[Jan-Phillip_Scheller]] klärt dies bis Donnerstag (2025-07-03)
     - wahrscheinlich geht es hier nur um eine Speicherort-Änderung, was kein Problem darstellt
 
 ### Art. 26 Personal
 
 - Unterzeichnen durch [[Florian Gehre]]
-  - [ ] #action #action Zeitplan: bis Ende der KW27 2025 📅 2025-07-05
+  - Zeitplan: bis Ende der KW27 2025 (2025-07-05)
 - Ablage bei RBOMN intern im Vertragsmanagement -> Text-Datei im Teams-Ordner Datenschutz 06 Verträge mit Beschreibung auf tatsächlichen Ablageort

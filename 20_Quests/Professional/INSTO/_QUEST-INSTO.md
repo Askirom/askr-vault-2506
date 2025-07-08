@@ -9,12 +9,9 @@ primaryContact: ""
 
 # Quest: INSTO
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/INSTO/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

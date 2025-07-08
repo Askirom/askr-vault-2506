@@ -9,12 +9,9 @@ primaryContact: ""
 
 # Quest: BvD RG Nürnberg
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Network/BvD_RG_Nürnberg/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

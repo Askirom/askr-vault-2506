@@ -11,10 +11,7 @@ primaryContact: ""
 
 ## ✔️ Tasks
 
-```tasks
-not done
-path includes 20_Quests/Network/BvD_Prüfaufgaben/
-```
+
 
 ---
 

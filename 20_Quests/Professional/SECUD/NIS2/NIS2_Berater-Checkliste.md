@@ -3,62 +3,62 @@
 ## Vor dem Termin ✅
 
 ### Terminvorbereitung
-- [x] Terminbestätigung erhalten (Microsoft Booking)
-- [x] [[NIS2 Begrüßungs-E-Mail Template]] an Kunden versendet
-- [x] [[NIS2 Vorbereitungs-Fragebogen]] als Anhang mitgesendet
-- [x] Meeting-Link überprüft (Teams/Zoom)
-- [ ] secudor PowerPoint-Präsentation bereitgestellt
+- Terminbestätigung erhalten (Microsoft Booking)
+- [[NIS2 Begrüßungs-E-Mail Template]] an Kunden versendet
+- [[NIS2 Vorbereitungs-Fragebogen]] als Anhang mitgesendet
+- Meeting-Link überprüft (Teams/Zoom)
+- secudor PowerPoint-Präsentation bereitgestellt
 
 ### Persönliche Vorbereitung
-- [ ] **Dress Code**: Langarm-Shirt oder secudor Polo
-- [ ] Rückläufer Fragebogen gesichtet (falls eingegangen)
-- [ ] Branchen-spezifische NIS2-Besonderheiten recherchiert
+- **Dress Code**: Langarm-Shirt oder secudor Polo
+- Rückläufer Fragebogen gesichtet (falls eingegangen)
+- Branchen-spezifische NIS2-Besonderheiten recherchiert
 
 ---
 
 ## Während des Termins ✅
 
 ### Begrüßung & Agenda (2 Min)
-- [ ] Persönliche Vorstellung
-- [ ] Agenda: NIS2 Überblick → Betroffenheitsanalyse → Nächste Schritte
-- [ ] Zeitrahmen: 20 Minuten
+- Persönliche Vorstellung
+- Agenda: NIS2 Überblick → Betroffenheitsanalyse → Nächste Schritte
+- Zeitrahmen: 20 Minuten
 
 ### NIS2 Kompakt-Einführung (5 Min)
-- [ ] **Fokus**: Was ist NIS2? Wer ist betroffen?
-- [ ] Besonders wichtige vs. Wichtige Sektoren (Überblick)
-- [ ] Größenkriterien (schnell abhaken)
-- [ ] **Key Message**: Compliance-Deadline noch unklar aber voraussichtlich 2026
+- **Fokus**: Was ist NIS2? Wer ist betroffen?
+- Besonders wichtige vs. Wichtige Sektoren (Überblick)
+- Größenkriterien (schnell abhaken)
+- **Key Message**: Compliance-Deadline noch unklar aber voraussichtlich 2026
 
 ### Betroffenheitsanalyse (12 Min)
-- [ ] Fragebogen-Daten durchgehen (oder live abfragen)
-- [ ] Sektorale Einordnung - **Hauptfokus des Termins**
-- [ ] Größenkriterien anwenden
-- [ ] **Klare Aussage**: Betroffen JA/NEIN
-- [ ] Bei Betroffenheit: Welche Maßnahmen sind nötig?
+- Fragebogen-Daten durchgehen (oder live abfragen)
+- Sektorale Einordnung - **Hauptfokus des Termins**
+- Größenkriterien anwenden
+- **Klare Aussage**: Betroffen JA/NEIN
+- Bei Betroffenheit: Welche Maßnahmen sind nötig?
 
 ### Wrap-up & Next Steps (3 Min)
-- [ ] Kurze Zusammenfassung des Ergebnisses
-- [ ] secudor-Services anbieten (nur wenn betroffen)
-- [ ] Schriftliche Dokumentation ankündigen
+- Kurze Zusammenfassung des Ergebnisses
+- secudor-Services anbieten (nur wenn betroffen)
+- Schriftliche Dokumentation ankündigen
 
 ---
 
 ## Nach dem Termin ✅
 
 ### Sofortige Nachbereitung (max. 30 Min)
-- [ ] [[NIS2 Ergebnis-Dokument Template]] ausfüllen
-- [ ] Alle Variablen durch kundenspezifische Daten ersetzen
-- [ ] Dokument als PDF exportieren
-- [ ] Dateiname: `NIS2 Sprechstunde YYYY-MM-DD [Firmenname].pdf`
+- [[NIS2 Ergebnis-Dokument Template]] ausfüllen
+- Alle Variablen durch kundenspezifische Daten ersetzen
+- Dokument als PDF exportieren
+- Dateiname: `NIS2 Sprechstunde YYYY-MM-DD [Firmenname].pdf`
 
 ### Kundenversand
-- [ ] PDF-Dokument an Kunden versenden
-- [ ] Follow-up E-Mail mit Angebot (bei Betroffenheit)
+- PDF-Dokument an Kunden versenden
+- Follow-up E-Mail mit Angebot (bei Betroffenheit)
 
 ### Interne Dokumentation
-- [ ] Termin in Kalender abschließen
-- [ ] Potenzial/Lead-Status bewerten
-- [ ] Bei Interesse: Folgetermin vereinbaren
+- Termin in Kalender abschließen
+- Potenzial/Lead-Status bewerten
+- Bei Interesse: Folgetermin vereinbaren
 
 ---
 
@@ -106,9 +106,9 @@
 ## Qualitätssicherung
 
 ### Nach jedem 5. Termin:
-- [ ] Prozess-Review mit Team
-- [ ] Template-Optimierung prüfen
-- [ ] Kundenfeedback auswerten
+- Prozess-Review mit Team
+- Template-Optimierung prüfen
+- Kundenfeedback auswerten
 
 ---
 

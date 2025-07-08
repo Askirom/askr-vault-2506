@@ -9,23 +9,21 @@ primaryContact: ""
 
 # Quest: SECUD
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/SECUD/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Active Tasks from Todoist Migration
-- [ ] Prüfe die Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter und Vertraulichkeit-2025-Externe
-  - [ ] Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter prüfen
-  - [ ] Artikel / Paragraphen in der Vertraulichkeit-2025-Externe prüfen
-- [ ] Material für Mory Schulung senden (from Inbox)
-- [ ] Vertraulichkeit 2025 an Mory senden (from Inbox)
+### Key Items
+- Prüfe die Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter und Vertraulichkeit-2025-Externe
+  - Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter prüfen
+  - Artikel / Paragraphen in der Vertraulichkeit-2025-Externe prüfen
+- Material für Mory Schulung senden (from Inbox)
+- Vertraulichkeit 2025 an Mory senden (from Inbox)
 
 
 ---

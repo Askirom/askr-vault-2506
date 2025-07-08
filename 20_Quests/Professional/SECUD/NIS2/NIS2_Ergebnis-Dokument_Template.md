@@ -29,16 +29,16 @@
 ## NIS2-Betroffenheitsanalyse
 
 ### Sektorale Einordnung
-- [ ] **Kritischer Sektor** (Essential Entity)
-- [ ] **Wichtiger Sektor** (Important Entity)  
-- [ ] **Nicht betroffen**
+- **Kritischer Sektor** (Essential Entity)
+- **Wichtiger Sektor** (Important Entity)  
+- **Nicht betroffen**
 
 **Zutreffender Sektor**: [SEKTOR-BEZEICHNUNG]
 
 ### Größenkriterien-Prüfung
-- [ ] Mittleres Unternehmen (50+ Mitarbeiter UND Umsatz >10 Mio € ODER Bilanzsumme >10 Mio €)
-- [ ] Großunternehmen (250+ Mitarbeiter UND Umsatz >50 Mio € ODER Bilanzsumme >43 Mio €)
-- [ ] Größenkriterien nicht erfüllt
+- Mittleres Unternehmen (50+ Mitarbeiter UND Umsatz >10 Mio € ODER Bilanzsumme >10 Mio €)
+- Großunternehmen (250+ Mitarbeiter UND Umsatz >50 Mio € ODER Bilanzsumme >43 Mio €)
+- Größenkriterien nicht erfüllt
 
 ### **Gesamtergebnis NIS2-Betroffenheit**
 
@@ -67,18 +67,18 @@
 ## Nächste Schritte
 
 ### Bei Betroffenheit:
-- [ ] **Gap-Analyse** der bestehenden Cybersicherheitsmaßnahmen
-- [ ] **ISMS-Implementierung** nach ISO 27001 oder vergleichbarem Standard
-- [ ] **Incident Response Plan** entwickeln/überarbeiten
-- [ ] **Lieferantenmanagement** für Cybersicherheit etablieren
-- [ ] **Compliance-Monitoring** implementieren
+- **Gap-Analyse** der bestehenden Cybersicherheitsmaßnahmen
+- **ISMS-Implementierung** nach ISO 27001 oder vergleichbarem Standard
+- **Incident Response Plan** entwickeln/überarbeiten
+- **Lieferantenmanagement** für Cybersicherheit etablieren
+- **Compliance-Monitoring** implementieren
 
 ### Angebotene secudor-Services:
-- [ ] NIS2-Compliance-Beratung
-- [ ] ISMS-Implementierung
-- [ ] Risikomanagement-Aufbau
-- [ ] Incident Response Vorbereitung
-- [ ] Awareness-Schulungen
+- NIS2-Compliance-Beratung
+- ISMS-Implementierung
+- Risikomanagement-Aufbau
+- Incident Response Vorbereitung
+- Awareness-Schulungen
 
 ---
 

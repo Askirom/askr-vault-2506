@@ -14,18 +14,16 @@ primaryContact: ""
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/ARA/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
-- [x] TODO [[Prüfung AVV Tellscale Kiwus Consulting 🛫 2025-06-26 ✅ 2025-06-30
+### Completed Items
+- Prüfung AVV Tellscale Kiwus Consulting (completed 2025-06-30)
 
 ---
 ## 💬 Meeting Notes & Communication

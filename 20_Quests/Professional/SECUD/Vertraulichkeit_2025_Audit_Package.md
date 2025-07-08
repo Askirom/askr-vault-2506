@@ -8,12 +8,12 @@ Complete comprehensive audit of Vertraulichkeit-2025-Mitarbeiter and -Externe do
 - **Scalability**: Template for multiple clients (Mory + others)
 
 ## 📋 Task Breakdown
-- [ ] Audit Artikel/Paragraphen in Vertraulichkeit-2025-Mitarbeiter
-- [ ] Audit Artikel/Paragraphen in Vertraulichkeit-2025-Externe  
-- [ ] Create standardized template
-- [ ] Prepare materials for Mory Schulung
-- [ ] Send Vertraulichkeit 2025 to Mory
-- [ ] Invoice completion
+- Audit Artikel/Paragraphen in Vertraulichkeit-2025-Mitarbeiter
+- Audit Artikel/Paragraphen in Vertraulichkeit-2025-Externe  
+- Create standardized template
+- Prepare materials for Mory Schulung
+- Send Vertraulichkeit 2025 to Mory
+- Invoice completion
 
 ## 📅 Timeline
 - **Target Completion**: 2025-07-31

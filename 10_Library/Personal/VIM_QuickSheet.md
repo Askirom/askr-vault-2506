@@ -69,11 +69,7 @@
     *   Press `o` to create a new line and enter Insert mode.
     *   Type the `tasks` code block:
         ```
-        ```tasks
-        not done
-        path includes 02 Daily
-        sort by due
-        ```
+        
         ```
     *   Press `Esc` to return to Normal mode. Obsidian's Tasks plugin will render the query.
 

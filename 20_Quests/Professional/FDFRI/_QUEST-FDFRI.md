@@ -14,20 +14,18 @@ primaryContact: "Fabian Lauterbach"
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/FDFRI/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Immediate Actions
-- [ ] TODO Datenschutzformular für '2025-03-11' fertigstellen @FabianLauterbach 📅 2025-06-30
-- [ ] #action #action Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach 📅 2025-06-30
+### Key Items
+- Datenschutzformular für '2025-03-11' fertigstellen @FabianLauterbach
+- Datenschutzformular '2025-04-04' fertigstellen @FabianLauterbach
 
 ---
 

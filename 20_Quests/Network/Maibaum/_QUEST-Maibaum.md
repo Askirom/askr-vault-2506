@@ -8,12 +8,9 @@ winCondition: ""
 
 # Quest: Maibaum
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Network/Maibaum/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

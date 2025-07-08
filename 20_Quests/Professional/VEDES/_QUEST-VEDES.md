@@ -9,12 +9,9 @@ primaryContact: ""
 
 # Quest: VEDES
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/VEDES/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

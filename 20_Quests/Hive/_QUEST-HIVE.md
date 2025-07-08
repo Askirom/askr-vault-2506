@@ -10,10 +10,7 @@ winCondition: ""
 
 ## ✔️ Tasks
 
-```tasks
-not done
-path includes 20 Quests/HIVE/
-```
+
 
 ---
 

@@ -9,12 +9,13 @@ Complete all VdS 10000 documentation requirements, validate implementation throu
 - **Estimated Value**: €2,000
 
 ## Action Items  
-- [ ] Confluence Dokumentation prüfen (Finalize and formally release IS-policies - 6.2.x requirements)
-- [ ] Policy rollout and communication to all staff (5.2.3, 6.2.4)
-- [ ] Process implementation and annual review cycles (A.1.x requirements)
-- [ ] Internal audit and gap closure validation
-- [ ] Self-disclosure documentation for VdS certification
-- [ ] Final certification audit preparation and support
+### Key Tasks
+- Confluence Dokumentation prüfen (Finalize and formally release IS-policies - 6.2.x requirements)
+- Policy rollout and communication to all staff (5.2.3, 6.2.4)
+- Process implementation and annual review cycles (A.1.x requirements)
+- Internal audit and gap closure validation
+- Self-disclosure documentation for VdS certification
+- Final certification audit preparation and support
 
 ## VdS 10000 Deliverables
 - Complete ISMS documentation suite

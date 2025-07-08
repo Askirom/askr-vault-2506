@@ -13,10 +13,7 @@ winCondition: ""
 
 ## ✔️ Tasks
 
-```tasks
-not done
-path includes 20_Quests/Personal/
-```
+
 
 ## Active Projects
 

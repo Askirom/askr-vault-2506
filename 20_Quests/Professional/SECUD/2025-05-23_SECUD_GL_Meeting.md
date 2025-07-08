@@ -28,8 +28,8 @@ Date: [[2025-05-23]]
 - NIS2-Sprechstunde
 - LinkedIn
 - Lieferkette
-- [ ] TODO https://www.openkritis.de/betreiber/reifegrade-kritis-nis2-run.html ➕ 2025-05-24
-- [ ] TODO https://www.openkritis.de/massnahmen/nis2-mapping-standards-implementing.html ➕ 2025-05-24
+- TODO https://www.openkritis.de/betreiber/reifegrade-kritis-nis2-run.html ➕ 2025-05-24
+- TODO https://www.openkritis.de/massnahmen/nis2-mapping-standards-implementing.html ➕ 2025-05-24
 ## Szenario
 ### Szenario 1 
 - nur noch GF-Arbeiten für die GmbH
@@ -56,7 +56,7 @@ Date: [[2025-05-23]]
 		- RedCastle
 		- Sepire -> kurzfristig
 		- RA König
-- [ ] TODO Branche Gesundheit und Soziales angehen ➕ 2025-05-24
+- TODO Branche Gesundheit und Soziales angehen ➕ 2025-05-24
 - **Ziel**: Vertrieb 
 
 ### Szenario 2
@@ -71,5 +71,5 @@ Date: [[2025-05-23]]
 
 
 # Actions
-- [ ] TODO Guide erstellen für die Nutzung von KI ➕ 2025-05-24
+- TODO Guide erstellen für die Nutzung von KI ➕ 2025-05-24
 

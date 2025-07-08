@@ -14,18 +14,16 @@ primaryContact: ""
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/CLIFO/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
-- [ ] #action Write questionnaire for Horn&Cosifan (IT provider) about Notfallplan ⏫ 🛫 2025-07-07 📅 2025-07-08
+### Key Items
+- Write questionnaire for Horn&Cosifan (IT provider) about Notfallplan
 
 ---
 ## 💬 Meeting Notes & Communication

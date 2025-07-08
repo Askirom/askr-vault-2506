@@ -9,12 +9,9 @@ primaryContact: ""
 
 # Quest: VGALT
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/VGALT/
-```
+*Task management has been migrated to external tools.*
 
 ---
 

@@ -14,12 +14,9 @@ primaryContact: ""
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20 Quests/PROFESSIONAL/{{title}}
-```
+*Task management has been migrated to external tools.*
 
 ---
 

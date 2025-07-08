@@ -14,19 +14,17 @@ primaryContact: "Elke Stapfer"
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/FITS/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
 ### Immediate Actions
-- [ ] **HIGH PRIORITY** Prüfe Version 0.9 des Löschkonzepts bei FITS @ElkeStapfer 📅 2025-07-01 ⏳ (overdue from 2025-05-07)
+### Key Items
+- **HIGH PRIORITY** Prüfe Version 0.9 des Löschkonzepts bei FITS @ElkeStapfer (overdue from 2025-05-07)
 
 ---
 

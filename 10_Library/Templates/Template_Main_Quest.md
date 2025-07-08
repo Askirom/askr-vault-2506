@@ -11,12 +11,9 @@ winCondition: ""
 > [!quote]
 > 
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Personal/{{title}}
-```
+*Task management has been migrated to external tools.*
 
 ```dataview
 TABLE status, winCondition as "Objective"

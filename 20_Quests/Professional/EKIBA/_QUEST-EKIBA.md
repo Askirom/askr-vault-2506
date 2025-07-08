@@ -14,18 +14,16 @@ primaryContact: ""
 
 ---
 
-## ✔️ Tasks
+## Tasks
 
-```tasks
-not done
-path includes 20_Quests/Professional/EKIBA/
-```
+*Task management has been migrated to external tools.*
 
 ---
 
 ## 📝 Action Log & Tasks
 
-- [ ] Create the Document "Richtlinie-Funktionsweise des ISMS" which works as a description how the ISMS according to ISO27001 works.
+### Key Items
+- Create the Document "Richtlinie-Funktionsweise des ISMS" which works as a description how the ISMS according to ISO27001 works.
 
 ---
 ## 💬 Meeting Notes & Communication

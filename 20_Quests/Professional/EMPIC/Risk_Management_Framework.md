@@ -11,12 +11,13 @@ Implement comprehensive risk management framework including risk analysis for cr
 **Certification Target:** `= this.certificationDeadline`
 
 ## Action Items
-- [ ] Risikomanagement abschließen (Implement VdS 10000 risk management methodology - A.2.x requirements)
-- [ ] Critical system identification and classification (Requirements 9.1-9.4)
-- [ ] Risiken für "3"-Gewichtung Assets ausfüllen (Complete risk analysis for critical systems)
-- [ ] Dokumentenmanagement definieren (Formalize change management process - 10.3.2)
-- [ ] Risk treatment plan with time-bound measures
-- [ ] Annual risk review process implementation
+### Key Tasks
+- Risikomanagement abschließen (Implement VdS 10000 risk management methodology - A.2.x requirements)
+- Critical system identification and classification (Requirements 9.1-9.4)
+- Risiken für "3"-Gewichtung Assets ausfüllen (Complete risk analysis for critical systems)
+- Dokumentenmanagement definieren (Formalize change management process - 10.3.2)
+- Risk treatment plan with time-bound measures
+- Annual risk review process implementation
 
 ## VdS 10000 Deliverables
 - Risk management policy and procedures
