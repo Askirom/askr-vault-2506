@@ -35,9 +35,7 @@ This is the standard format for recording any action performed by the OS. It is 
 
 **Decision deferred.** The final syntax will be simple and low-friction. Current candidates include:
 
-- **Minimalist Style:** `- DRAFT: Wrote the project outline.`
-- **Tag-based Style:** `[2025-07-09] #review Read the new policy.`
-- **Emoji Style:** `✍️ Wrote the project outline.`
+- **Minimalist Style:** `-DRAFT.Wrote_the_project_outline.`
 
 ---
 
