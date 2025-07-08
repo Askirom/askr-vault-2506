@@ -1,12 +1,14 @@
 ---
-id: 2025-07-07_Sprecherkreis
+id: 2025_Fulda_Sprecherkreis
 aliases: []
 tags: []
 ---
 
-# Sprecherkreis 2025-07-07
+# Sprecherkreis Fulda 2025
 
 # Tag 1 - 2025-07-07
+
+- Backlink: [[2025-07-07]]
 
 ## Berichte aus Gremien - Teil 1
 
@@ -47,7 +49,9 @@ tags: []
 - Frist zur Nachbesserung Juni
 - Antrag wurde abgelehnt. Personenzertifizierung braucht Studium
 
-# Tag 2 - [[2025-07-08]]
+# Tag 2 2025-07-08
+
+- Backlink: [[2025-07-08]]
 
 ## Bericht KI Ausschuss
 
@@ -55,7 +59,7 @@ tags: []
 - schneller Interessenkonflikt, z.B. als Projektmanager
 - Rosenthal mal suchen
 - Vischer und LFDI
-- Professional und vom Lernen austreten ist für ChatGPT, Gemini und Claude
+- Professional-Lizenz und vom Lernen austreten ist für ChatGPT, Gemini und Claude
 - Professor Rosnagel als Name
   - Acceptable Use Guideline
 

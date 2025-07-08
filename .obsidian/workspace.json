@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Quests/Network/BvD_Sprecherkreis/2025-07-07_Sprecherkreis.md",
+                "file": "02_Daily/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-07_Sprecherkreis"
+              "title": "2025-07-08"
             }
           }
         ],
@@ -243,9 +243,11 @@
   },
   "active": "450b9b8df6778ae1",
   "lastOpenFiles": [
+    "20_Quests/Network/BvD_Sprecherkreis/2025_Fulda_Sprecherkreis.md",
+    "20_Quests/Network/BvD_Sprecherkreis/2025-07-07_Sprecherkreis.md",
+    "02_Daily/2025-07-08.md",
     "30_Atlas/Askirom_v2506-Shadow_Bolt.md",
     "02_Daily/2025-07-07.md",
-    "20_Quests/Network/BvD_Sprecherkreis/2025-07-07_Sprecherkreis.md",
     "02_Daily/2025-07-06.md",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/Location-Infos.md",
     "20_Quests/Network/Andi-Hack-2025-07-05.md",
@@ -269,8 +271,6 @@
     "20_Quests/Professional/EHFREI/_Quest-EHFREI.md",
     "20_Quests/Professional/ARA/_Quest-ARA.md",
     "20_Quests/Personal/_Quest-Personal.md",
-    "20_Quests/Network/Maibaum/_Quest-Maibaum.md",
-    "20_Quests/Network/BvD_RG_Nürnberg/_Quest-BvD_RG_Nürnberg.md",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip/_Quest-Japan-Trip",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan_Trip",
     "20_Quests/Hive/2025-08-04_2025-08-26_Japan-Trip",
