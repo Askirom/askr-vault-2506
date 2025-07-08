@@ -33,15 +33,9 @@ This is the standard format for recording any action performed by the OS. It is 
 
 ### Canonical Format:
 
-`[YYYY-MM-DD HH:MM] :: <PRIMITIVE> - <A short, descriptive sentence of the action taken.>`
+{{needs to be implemented yet}}
 
 ### Examples:
-
-- `[2025-07-08 22:30] :: REVIEW - Read ISO 27001 controls A.9.1 through A.9.4.`
-- `[2025-07-08 22:30] :: DRAFT - Wrote summary of findings for control A.9.1.`
-- `[2025-07-08 22:30] :: DECIDE - Marked control A.9.1 as 'non-compliant'.`
-- `[2025-07-08 22:30] :: PLAN - Outlined next steps for the Globex Corp audit.`
-- `[2025-07-08 22:30] :: COMMUNICATE - Emailed John Smith regarding the non-compliance.`
 
 ---
 
@@ -51,17 +45,18 @@ A Process File is the container for Log Entries. It is a single note dedicated t
 
 ### Process File Template (v1.0):
 
-Copy this template to create any new Process File.
+{{not yet defined}}
 
-```markdown
-# Title: [Descriptive Title of the Project/Goal]
+## Layer 3: The File System
 
-**Status:** In Progress / On Hold / Completed
-**Key Stakeholder(s):** **Due Date:**
-
----
-
-### Action Log
-
-[YYYY-MM-DD HH:MM] :: <PRIMITIVE> - <Description of action>
+```
+/
+├── inbox/            # New items to be processed and filed.
+├── journal/          # Personal notes and daily logs.
+│   └── daily/
+├── workbench/        # All active work-in-progress.
+│   └── projects/
+├── library/          # Your reference knowledge base.
+├── system/           # Your life's "configuration": goals, values, templates.
+└── scratchpad/       # Fleeting notes to be deleted.
 ```
