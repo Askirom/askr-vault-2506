@@ -68,6 +68,8 @@ tags: []
 ## Runde zu KI-Beratung durch DSB
 
 - hinterfragen, ob wirklich KI vorliegt?
+- BvD-News lesen! Rezessionen von Büchern besonders
+  - Co-Intelligenz
 
 ## Novellierung der Datenschutzgesetze
 
