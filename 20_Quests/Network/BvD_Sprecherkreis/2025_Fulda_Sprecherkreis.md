@@ -99,4 +99,5 @@ tags: []
 - kurzer Austausch -> andere machen auch einen Stammtisch
   - einmal im Monat; mind. 2 Mitglieder
 - TDDDG vorstellen
-- [ ] AI Act vorstellen
+- AI Act vorstellen
+- Regularien Updates sollten an die Sprecher weitergeleitet werden
