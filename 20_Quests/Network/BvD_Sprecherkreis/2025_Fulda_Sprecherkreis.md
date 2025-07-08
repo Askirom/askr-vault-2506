@@ -70,6 +70,7 @@ tags: []
 - hinterfragen, ob wirklich KI vorliegt?
 - BvD-News lesen! Rezessionen von Büchern besonders
   - Co-Intelligenz
+  - Substack
 
 ## Novellierung der Datenschutzgesetze
 
