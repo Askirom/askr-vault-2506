@@ -4,70 +4,114 @@ aliases: []
 tags: []
 ---
 
-# PKM-OS: The Core Resource Analogy
+# PKM-OS: Design & Operations Manual
 
-This document outlines the foundational analogy of the entire Personal Knowledge Operating System.  
-The system is designed to be a management layer for your finite biological resources by modeling them on their computer equivalents.
+**Version 1.1 (Draft)**  
+**Last updated:** 2025-07-09
 
-## The Core Mapping
+_This revision folds in the kernel/resource-management analogy and aligns the folder map with an FHS-inspired subset (/etc, /var, /lib, /tmp, /archive, /scripts)._
 
-| Computer Resource      | Human Equivalent            | How the PKM-OS Manages It                                          |
-| ---------------------- | --------------------------- | ------------------------------------------------------------------ |
-| CPU (Processing Power) | Attention / Focus           | Minimizes context switching — the biggest drain on your attention. |
-| RAM (Working Memory)   | Short-Term Mental Workspace | Acts as external RAM by offloading memory into structured files.   |
-| Energy (Power Supply)  | Willpower / Physical Energy | Conserves energy by reducing friction and disorganization.         |
+## 0 · Core Analogy
+
+| **Computer Resource** | **Human Equivalent** | **PKM-OS Component**                                                | **How It Reduces Load**                                      |
+| --------------------- | -------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **CPU**               | Attention / Focus    | **Scheduler** (Todoist) + **Interrupt Handler** (/var/inb/Inbox.md) | Only one foreground task; distractions parked instantly.     |
+| **RAM**               | Working Memory       | **Process Files** (/var/proc/…) + **Action Logs**                   | Off-loads active state so the brain can think, not remember. |
+| **Power**             | Will-/Energy         | Clear capture → triage → review loops                               | Fewer meta-decisions, lower stress = more stamina.           |
+
+## 1 · Instruction Set (Primitives)
+
+- **DRAFT · REVIEW · COMMUNICATE · PLAN · DECIDE · MAINTAIN**
+
+## 2 · System Call (Log Entry)
+
+```
+[YYYY-MM-DD HH:MM] – PRIMITIVE (Optional Actor): Message
+```
+
+## 3 · Process File (Project Note)
+
+```markdown
+---
+type: project
+status: active
+context:
+entity:
+tags: []
+---
+
+# Project: <descriptive title>
+
+**Goal:**
+**Due Date:**
+**Stakeholders:**
 
 ---
 
-## 1. CPU Load ↔️ Attentional Load
+### Action Log
 
-Your attention is your single processing core.  
-You can only truly focus on one complex task at a time.  
-Multitasking or frequent interruptions spike your "attentional load" — performance plummets like a CPU at 100% usage.
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] – PRIMITIVE: …
+```
 
-### How your OS manages your "CPU":
+## 4 · File-System Layer (FHS-Inspired)
 
-- **The Scheduler** (`Todoist`):  
-  Acts as your process scheduler. Prevents running ten "programs" at once. Enforces single-tasking by presenting one clear priority at a time.
+```
+/
+├── etc/            # Templates, system manuals, config lists
+│   └── templates/  #   project-template.md, daily-template.md …
+├── var/            # Live workspace
+│   ├── inb/        #   Inbox.md + loose clips
+│   ├── log/        #   dly/, mtg/, dec/, rev/
+│   └── proc/       #   <context>/<entity>-<slug>/ project bundles
+├── lib/            # Evergreen reference (organised by context/topic)
+├── scripts/        # Helper .py / .sh (optional)
+├── tmp/            # Disposable scratch
+└── archive/        # Completed projects & frozen logs
+```
 
-- **The Inbox** (`var/inb/`):  
-  Functions as your interrupt handler. Captures distracting inputs without hijacking focus. Keeps your current task running undisturbed.
+### 4.1 Deterministic Filing Rules
 
-- **The Process Structure** (`var/proc/`):  
-  Encapsulated project folders act like pre-loaded apps. Clicking a task loads the full context instantly. No wasted "CPU cycles" trying to recall what’s next.
+| **Front-matter**                | **Destination**                                 |
+| ------------------------------- | ----------------------------------------------- |
+| type: reference                 | lib/<context>/<topic>/                          |
+| type: project status: active    | var/proc/<context>/<entity>-<slug>/             |
+| type: project status: completed | whole folder → archive/proc/<context>/<entity>/ |
+| type: daily_log                 | var/log/dly/                                    |
+| type: template                  | etc/templates/                                  |
 
----
+_(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 
-## 2. RAM Usage ↔️ Working Memory
+## 5 · Scheduler Integration
 
-Working memory is the brain’s tiny scratchpad — volatile, limited, and easily overwhelmed.
+- Todoist (or equivalent) holds a **single priority queue**.
+- Each task's note link (obsidian://open?path=…) loads the matching Process File.
+- Done → mark complete; if project ends, switch its YAML to status: completed and archive during review.
 
-### How your OS manages your "RAM":
+## 6 · Kernel-Style Operating Rules
 
-- **The Process File** (`_project-note.md`):  
-  External RAM for a task. Holds project details, next steps, and key facts — freeing your brain for deep work.
+1. **Interrupt → Inbox hot-key** (Ctrl-Alt-I): logs a line in Inbox.md in <2 s.
+2. **Time-slice work** (25-min blocks). No mid-slice triage.
+3. **Weekly swap-out** (review):
+   - Inbox = 0
+   - Stale var/proc/ (>30 days untouched) → pause or archive
+   - Upcoming deadlines surfaced
+4. **Energy reserves**: If Inbox > 50 or projects > 12 active → force triage before adding anything new.
 
-- **The Action Log**:  
-  Stores what’s been done and what’s next. Frees mental space by holding your current state externally.
+## 7 · Core Workflow
 
-- **The Library** (`lib/`):  
-  External long-term storage — your "hard drive". You don’t need to memorize the ISO 27001 standard. Just know it’s in `lib/`. Your brain stays clear for active tasks.
+1. **Schedule** – consult Todoist.
+2. **Activate** – click deep link → Process File opens.
+3. **Execute** – perform a Primitive.
+4. **Log** – add a System Call line.
+5. **File** – update YAML & move note if needed.
+6. **Complete** – mark Todoist task done.
 
----
+## Appendix A · Quick-Start Checklist
 
-## 3. Energy ↔️ Willpower & Physical Stamina
+- Create top-level dirs exactly as tree above.
+- Enable _Templates_ plugin; store them in /etc/templates/.
+- Pin Inbox.md; map "Append to note" hot-key.
+- Set Todoist filter to show only today's single top task.
 
-This is your biological power supply.  
-Sleep deprivation, decision fatigue, and chaos all drain it.
-
-### How your OS conserves Energy:
-
-- **Reduced Friction**:  
-  A clear, trustworthy system saves energy otherwise wasted on meta-decisions, searching, or wondering what to do next.
-
-- **Decision Offloading** (`log/dec/`, `log/rev/`):  
-  You make a decision once, log it, and trust it. Avoids the trap of constant re-evaluation.
-
-- **Clarity Reduces Stress**:  
-  Chaos is stressful — and stress drains energy. A calm, controlled OS is inherently more energy-efficient.
+_Run the system for two weeks before adding any automation scripts. Optimise only what breaks flow repeatedly._
 
