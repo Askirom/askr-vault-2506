@@ -7,155 +7,132 @@ type: system
 
 # PKM-OS: Design & Operations Manual
 
-**Last Updated:** 2025-07-09
-**Version:** 1.0 (Release)
+**Version 1.2 (Draft)**  
+**Last updated:** 2025-07-09
 
-## 1. Core Philosophy
+_This revision introduces pure UID-based content naming and defines the four complete life contexts: personal, professional, hive, and network._
 
-This system treats personal knowledge management like an operating system. The goal is to manage competing demands on limited resources (attention, memory, time) using proven architectural principles like modularity and clear interfaces. It is a bottom-up design, starting with the most fundamental actions and building context from there.
+## 0 · Core Analogy
 
----
+| **Computer Resource** | **Human Equivalent** | **PKM-OS Component**                                            | **How It Reduces Load**                                      |
+| --------------------- | -------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ |
+| **CPU**               | Attention / Focus    | **Scheduler** (Todoist) + **Interrupt Handler** (/var/spool.md) | Only one foreground task; distractions parked instantly.     |
+| **RAM**               | Working Memory       | **Process Files** (/var/proc/…) + **Action Logs**               | Off-loads active state so the brain can think, not remember. |
+| **Power**             | Will-/Energy         | Clear capture → triage → review loops                           | Fewer meta-decisions, lower stress = more stamina.           |
 
-## 2. Layer 0: The Instruction Set (The Primitives)
+## 1 · Instruction Set (Primitives)
 
-These are the five fundamental, atomic actions the OS can perform. Every task, personal or professional, is a sequence of these primitives. This list is intentionally minimal and complete.
+- **DRAFT · REVIEW · COMMUNICATE · PLAN · DECIDE · MAINTAIN**
 
-- **DRAFT:** Creating something new from scratch (text, a list, ideas).
-- **REVIEW:** Consuming and assessing existing information (reading, watching, listening).
-- **COMMUNICATE:** Interacting with another person (a call, an email, a meeting).
-- **PLAN:** Organizing future actions or ideas (outlining, scheduling, structuring).
-- **DECIDE:** Making a choice or a final judgment.
+## 2 · System Call (Log Entry)
 
----
+```
+[YYYY-MM-DD HH:MM] – PRIMITIVE (Optional Actor): Message
+```
 
-## 3. Layer 1: The System Call (The Log Entry)
-
-This is the standard format for recording any action performed by the OS. It is the fundamental unit of data capture, creating a chronological, auditable trail of work.
-
-### Canonical Format:
-
-The format is: `[YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity as Actor): Message`
-
-- **Timestamp:** Precise to the minute. Can be inserted automatically by templates.
-- **PRIMITIVE:** One of the five primitives from Layer 0.
-- **(Optional Entity as Actor):** Used only when logging an action or decision made by someone else. Omitted when the entity is you.
-- **Message:** A concise description of the action.
-
-**Examples:**
-
-- `[2025-07-09 16:05] - PLAN: Outline the next steps for the ARA audit.`
-- `[2025-07-09 16:05] - DECIDE (Client ARA): Approved the new project scope.`
-
----
-
-## 4. Layer 2: The Process File (The Container)
-
-A Process File is the container for Log Entries. It is a single note dedicated to a single, cohesive topic, project, goal, or area of inquiry. Its purpose is to provide context for the actions being logged. It is the human-readable equivalent of an OS Process Control Block (PCB).
-
-### Project File Template (v1.0):
-
-A template for a `project` type note. It must contain the necessary YAML frontmatter to be filed correctly by the system.
+## 3 · Process File (Project Note)
 
 ```markdown
 ---
 type: project
 status: active
 context:
-entity:
+uid: 202501091445
 tags: []
 ---
 
-# Project: [Descriptive Title]
+# [[202501091445|Project Title]]
 
 **Goal:**
 **Due Date:**
-**Key Stakeholder(s):**
+**Stakeholders:**
 
 ---
 
 ### Action Log
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - PRIMITIVE (Optional Entity):
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] – PRIMITIVE: …
 ```
 
----
-
-## 5\. Layer 3: The File System
-
-This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems, separating variable data from static libraries and system files. The filing of notes is not arbitrary; it is determined by the note's metadata. All file and folder names should be in `kebab-case`.
-
-### 5.1. Top-Level Directory Structure
+## 4 · File-System Layer (FHS-Inspired)
 
 ```
 /
-├── var/            # The "Active Workspace" for all variable data.
-├── lib/            # The "Reference Library" for static knowledge.
-├── sys/            # The "System" configuration files and templates.
-├── tmp/            # Temporary scratchpad files.
-└── archive/        # "Cold storage" for completed projects.
+├── etc/                    # System configuration
+│   ├── templates/          #   project-template.md, daily-template.md
+│   └── workflows/          #   Standard operating procedures
+├── var/                    # Active workspace
+│   ├── spool.md            #   System inbox file
+│   ├── cache/              #   Generated navigation aids
+│   │   └── maps/           #     System-generated MOCs
+│   ├── log/                #   Activity logs
+│   │   ├── daily/          #     202501091200.md, 202501101200.md
+│   │   └── meetings/       #     202501091445.md, 202501091530.md
+│   └── proc/               #   Active processes
+│       ├── personal/       #     202501091445/, 202501091520/
+│       ├── professional/   #     202501091600/, 202501091730/
+│       ├── hive/           #     202501091800/, 202501091830/
+│       └── network/        #     202501091900/, 202501091930/
+├── lib/                    # Reference knowledge library
+│   ├── personal/           #   All files: UID-based
+│   ├── professional/       #   All files: UID-based
+│   ├── hive/               #   All files: UID-based
+│   └── network/            #   All files: UID-based
+└── archive/                # Completed processes and old logs
 ```
 
-### 5.2. Variable Data (`var/`) Organization
+### 4.1 Pure UID Content System
 
-This is the directory where you "live" day-to-day. It contains all active and changing information, separated by function.
+- **All content files use UIDs**: `202501091445.md` (YYYYMMDDhhmm format)
+- **System files use descriptive names**: `spool.md`, templates, workflows
+- **Human readability via aliases**: `[[202501091445|Team Meeting Notes]]`
+- **Chronological sorting**: Files/folders automatically sort by creation time
+- **Stable references**: UIDs never change, preventing broken links
 
-```
-/var/
-├── inb/            # Inbox for new, unprocessed items.
-├── log/            # Chronological logs (daily, meetings, etc.).
-│   └── dly/
-└── proc/           # Active processes (projects).
-```
+### 4.2 Deterministic Filing Rules
 
-### 5.3. Project (`proc/`) Organization
+| **Front-matter**                | **Destination**                                |
+| ------------------------------- | ---------------------------------------------- |
+| type: reference                 | lib/\<context>/\<topic>/                       |
+| type: project status: active    | var/proc/\<context>/\<uid>/                    |
+| type: project status: completed | whole folder → archive/proc/\<context>/\<uid>/ |
+| type: daily_log                 | var/log/daily/                                 |
+| type: template                  | etc/templates/                                 |
 
-The `proc/` directory is organized by **encapsulation**. Every project gets its own folder. This structure is hierarchical to allow for Browse by context and entity.
+_(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 
-The standard path for a project is: `var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/`
+## 5 · Scheduler Integration
 
-**Example Structure:**
+- Todoist (or equivalent) holds a **single priority queue**.
+- Each task contains **UID-based deep link**: `obsidian://open?path=var/proc/professional/202501091445/`
+- **Alias in task name**: "ACME Contract Review (202501091445)"
+- Done → mark complete; if project ends, switch YAML to status: completed and archive during review.
 
-```
-var/
-└── proc/
-    └── professional/
-        └── ARA-gdpr-compliance-consulting/
-            ├── ara-project.md
-            └── compliance-checklist.md
-```
+## 6 · Kernel-Style Operating Rules
 
-### 5.4. Library (`lib/`) Organization
+1. **Interrupt → Inbox hot-key** (Ctrl-Alt-I): logs a line in spool.md in <2 s.
+2. **Time-slice work** (25-min blocks). No mid-slice triage.
+3. **Weekly swap-out** (review):
+   - Spool = 0
+   - Stale var/proc/ (>30 days untouched) → pause or archive
+   - Upcoming deadlines surfaced
+4. **Energy reserves**: If Spool > 50 or processes > 12 active → force triage before adding anything new.
 
-The `lib/` directory is organized by **Context/Role** ("hats"). Inside each context, subfolders can be created for specific topics. Cross-contextual links are handled by Maps of Content (MOCs).
+## 7 · Core Workflow
 
-### 5.5. Metadata-Driven Filing Logic
+1. **Schedule** – consult Todoist.
+2. **Activate** – click UID-based deep link → Process File opens.
+3. **Execute** – perform a Primitive.
+4. **Log** – add a System Call line.
+5. **File** – update YAML & move note if needed.
+6. **Complete** – mark Todoist task done.
 
-The OS uses YAML frontmatter to file notes deterministically.
+## Appendix A · Quick-Start Checklist
 
-**The Rules:**
+- Create top-level dirs exactly as tree above.
+- Enable _Templates_ plugin; store them in /etc/templates/.
+- Pin spool.md; map "Append to note" hot-key.
+- Set Todoist filter to show only today's single top task.
+- Configure UID generation (YYYYMMDDhhmm format).
 
-- **IF `type: reference` THEN** move to `lib/[context]/[topic]/`
-- **IF `type: project` AND `status: active` THEN** move to `var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/` (as a new project folder).
-- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/proc/[context]/[entity]/`.
-- **IF `type: daily_log` THEN** move to `var/log/dly/`
-- **IF `type: template` THEN** move to `sys/tpl/`
-
----
-
-## 6. Layer 4: The Scheduler (The Integration)
-
-This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist).
-
-- **Principle:** The Scheduler's only job is to manage a prioritized list of tasks. The work itself is executed within the PKM-OS.
-- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `var/proc/` or elsewhere).
-
----
-
-## Appendix A: Core Workflow
-
-1.  **Schedule:** Consult the **Scheduler** to choose a task.
-2.  **Activate:** Click the Obsidian URL in the task to open the corresponding **Process File**.
-3.  **Execute:** Perform the work using one of the five **Primitives**.
-4.  **Log:** Record the action by adding a new **Log Entry** to the Process File's Action Log.
-5.  **File:** If working on a new note from `var/inb/`, update its YAML frontmatter and move it to its correct location according to the filing logic.
-6.  **Complete:** Mark the task as done in the Scheduler.
+_Run the system for two weeks before adding any automation scripts. Optimise only what breaks flow repeatedly._
