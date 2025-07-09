@@ -13,7 +13,7 @@ created: 2025-07-08
 Complete consultation on deputy appointment procedures for RLE, create documentation template
 
 ## Financial Impact
-- **Estimated Value**: 1,000€ (2 XP)
+- **Estimated Value**: 1,000€
 - **Contact**: [[Adrian Hofmann]]
 - **Scheduled**: 2025-06-23 18:30 (25 minutes)
 

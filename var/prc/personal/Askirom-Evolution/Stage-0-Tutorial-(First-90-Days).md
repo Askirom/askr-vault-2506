@@ -54,8 +54,8 @@ created: 2025-07-08
 
 # 5 · Capstone Quest (End of Month 3)
 
-**“90 % XP Run”**  
-Log ≥ 21 professional XP in 4 weeks without burnout and hit ≥ 5 deep-work blocks/week.  
+**“High Performance Run”**  
+Maintain consistent high performance for 4 weeks without burnout and hit ≥ 5 deep-work blocks/week.  
 If achieved, you unlock Stage 1 (Adept) of the Evolution Roadmap.
 
 ---

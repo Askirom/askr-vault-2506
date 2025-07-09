@@ -121,14 +121,14 @@ This character's loadout is defined not by specific brands, but by core principl
 
 ---
 
-### 🔹 XP & LEVEL-UP
+### 🔹 Progress Tracking
 
-**Current Level: 1** (45/50 XP)
+**Current Development Stage: Adept**
 
-- **Professional XP** — 500€ billable work = 1 XP (target: 24 XP/month = 12,000€)
-- **Ship XP** — Bonus XP when something is _publicly shipped_ (client doc, invoice, blog)
-- **System XP** — Capped at 50% of weekly Professional XP to prevent grinding in wrong arena
-- **Level System** — D&D 1-20 progression, each level unlocks new capabilities
+- **Professional Growth** — 500€ billable work milestones (target: €12,000/month)
+- **Achievement Tracking** — Recognition for publicly shipped work (client docs, invoices, content)
+- **System Balance** — Focus on meaningful professional development over system optimization
+- **Capability Progression** — Systematic skill development with clear advancement stages
 
 ---
 

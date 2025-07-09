@@ -13,7 +13,7 @@ created: 2025-07-08
 Complete review of Version 0.9 and deliver finalized Löschkonzept Version 1.0 to FITS
 
 ## Financial Impact
-- **Estimated Value**: 2,500€ (5 XP)
+- **Estimated Value**: 2,500€
 - **Priority**: HIGH (overdue from 2025-05-07)
 - **Contact**: Elke Stapfer
 

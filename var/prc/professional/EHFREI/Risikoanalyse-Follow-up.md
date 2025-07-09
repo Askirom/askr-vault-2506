@@ -13,7 +13,7 @@ created: 2025-07-08
 Receive and process feedback from Johannes Eitenbichler, deliver optimized risk analysis
 
 ## Financial Impact
-- **Estimated Value**: 1,500€ (3 XP)
+- **Estimated Value**: 1,500€
 - **Contact**: Johannes Eitenbichler
 - **Deadline**: 2025-07-04
 

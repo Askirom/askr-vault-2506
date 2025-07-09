@@ -15,7 +15,7 @@ Implement comprehensive risk management framework including risk analysis for cr
 ## VdS 10000 Context
 **Phase:** `= this.vdsPhase` (assessment | implementation | certification)  
 **System Scope:** `= this.systemScope` (critical | non-critical | both)  
-**Estimated Value:** €`= this.estimatedValue`  
+**Project Value:** €`= this.estimatedValue`  
 **Certification Target:** `= this.certificationDeadline`
 
 ## Action Items

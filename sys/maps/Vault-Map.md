@@ -102,7 +102,7 @@ vault_structure:
         - "Askirom v2506 - Shadow Bolt.md"
         - "Personal Productivity Framework v2.md"
         - "VdS 10000 Certification Overview.md"
-        - "XP_Log.md"
+        - "askirom-system-2025-07-08.md"
       file_count: 12
 
   recent_additions:

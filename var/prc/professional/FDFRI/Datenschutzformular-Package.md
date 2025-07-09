@@ -13,7 +13,7 @@ created: 2025-07-08
 Deliver completed Datenschutzformulare for both March and April 2025 periods
 
 ## Financial Impact
-- **Estimated Value**: 2,000€ (4 XP)
+- **Estimated Value**: 2,000€
 - **Priority**: Medium
 - **Contact**: [[Fabian_Lauterbach]]
 

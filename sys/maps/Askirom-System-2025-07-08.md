@@ -131,11 +131,11 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 
 ## Revenue Tracking System
 
-### XP System
+### Revenue Tracking
 
-- **Professional**: 500€ billable = 1 XP
-- **Target**: 24 XP/month = €12,000
-- **Tracking**: `30_Atlas/XP_Log.md`
+- **Rate**: 500€ billable work increments
+- **Target**: €12,000/month (24 units)
+- **Tracking**: Financial progress in regular reviews
 
 ### Character Sheet
 
@@ -172,7 +172,7 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 
 - **Strategic Planning**: Vault for long-term thinking and quest coordination
 - **Daily Execution**: Todoist for task tracking and scheduling
-- **Revenue Tracking**: XP system remains in vault for motivation
+- **Revenue Tracking**: Financial progress tracked in regular reviews
 
 ### With Development Environment
 
@@ -185,7 +185,7 @@ Daily notes use the template from `10_Library/Templates/Template_Daily_Log.md`:
 
 - **Daily**: Daily notes creation and logging
 - **Weekly**: Quest status reviews and updates
-- **Monthly**: XP tracking and system performance review
+- **Monthly**: Financial progress and system performance review
 - **Quarterly**: Major system documentation updates
 - **Yearly**: Complete system architecture review
 

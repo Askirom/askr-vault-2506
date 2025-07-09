@@ -46,7 +46,7 @@ created: 2025-07-08
 |---|-------|--------|
 | Q1 | **Life Alignment Review** | Check if quests still match values; prune or add. |
 | Q2 | **Cert Refresher** | Complete CPD hours; schedule audit shadowing. |
-| Q3 | **System Stress-Test** | Purposefully overload one week (120 % XP) and watch for cracks. |
+| Q3 | **System Stress-Test** | Purposefully overload one week (120% capacity) and watch for cracks. |
 | Q4 | **Celebrate & Reset** | Retreat day: reflect, journal, and set next year’s headline quest. |
 
 ---

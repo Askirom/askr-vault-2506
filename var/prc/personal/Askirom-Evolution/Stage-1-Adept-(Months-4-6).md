@@ -51,7 +51,7 @@ created: 2025-07-08
 
 ---
 
-### 5 · Capstone Quest — “Sustainable 90 % Run”
+### 5 · Capstone Quest — “Sustainable Performance Run”
 
 Achieve consistent high performance every week for one calendar month **and** complete ≥ 10 deep-work blocks each of those weeks **without burnout**.  
 If successful → *unlock Stage 2: The Expert.*  

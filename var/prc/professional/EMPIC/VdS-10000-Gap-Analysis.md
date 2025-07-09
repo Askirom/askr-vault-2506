@@ -15,7 +15,7 @@ Complete comprehensive VdS 10000 gap analysis including asset classification, cu
 ## VdS 10000 Context
 **Phase:** `= this.vdsPhase` (assessment | implementation | certification)  
 **System Scope:** `= this.systemScope` (critical | non-critical | both)  
-**Estimated Value:** €`= this.estimatedValue`  
+**Project Value:** €`= this.estimatedValue`  
 **Certification Target:** `= this.certificationDeadline`
 
 ## Completed Deliverables ✅
