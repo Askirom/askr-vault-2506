@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OLD_VAULT_TO_DELETE/journal/daily/2025-07-09.md",
+                "file": "var/prc/personal/general/PKM-OS-Vault-Audit-Report.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "PKM-OS-Vault-Audit-Report"
             }
           }
         ]
@@ -209,8 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "_OLD_VAULT_TO_DELETE/journal/daily/2025-07-09.md",
+    "var/prc/personal/general/PKM-OS-Vault-Audit-Report.md",
+    "audit_script.py",
+    "archive/Archived_Inbox_Tasks.md",
     "var/prc/hive/Japan-Trip/Location-Infos.md",
     "var/prc/hive/Japan-Trip/Japan-Trip-Project.md",
     "var/prc/hive/Japan-Trip",
@@ -243,10 +247,6 @@
     "var/prc/professional/EKIBA/Richtlinie-Funktionsweise-des-ISMS.md",
     "var/prc/professional/EKIBA/ISMS-Ordnerstruktur-Praktische-Anwendung.md",
     "var/prc/professional/EKIBA/EKIBA-Project.md",
-    "var/prc/professional/EKIBA/ISMS-Richtlinie-Funktionsweise-(IS-200-Format).md",
-    "var/prc/professional/EKIBA/ISMS-Funktionsweise-EKIBA-Spezifisch.md",
-    "var/prc/professional/EKIBA/ISMS-Funktionsweise-Eine-Seite-Erklärung.md",
-    "var/prc/professional/SECUD/Silke-Einarbeitung",
     "lib/personal/Attachments/C07BACC6-5B3B-4E0D-B0F6-6085BBABA9CF-4-5005-c.jpeg",
     "lib/personal/Attachments/F42F5DCE-B18B-48D0-897B-58F9211D773E-1-102-o.jpeg",
     "lib/personal/Attachments/8244E720-237E-473D-B8AB-63EE8D54E7FD-1-102-o.jpeg",
