@@ -1,21 +1,35 @@
 ---
-id: Template_Daily_Log
-aliases: []
+type: daily_log
+date: {{date:YYYY-MM-DD}}
+created: {{date:YYYY-MM-DD}}
 tags: []
-created: 2025-07-08
-type: template
 ---
 
 # {{date:YYYY-MM-DD}}
 
-## Tasks
+## Action Log
 
-_Tasks are now managed externally - use dedicated task management tools_
+_Using PKM-OS Log Entry Format: [YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity): Message_
+_Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE_
 
-## Professional Log
+### Professional
+
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+
+### Personal
+
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+
+### Network
+
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+
+### Hive
+
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+
+## Notes
+
+_Fleeting thoughts, observations, reminders_
 
 -
-
-## Personal Log
-
-- [ ] ***

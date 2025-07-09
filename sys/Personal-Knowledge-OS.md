@@ -61,7 +61,7 @@ A template for a `project` type note. It must contain the necessary YAML frontma
 type: project
 status: active
 context:
-client:
+entity:
 tags: []
 ---
 
@@ -75,7 +75,7 @@ tags: []
 
 ### Action Log
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - PRIMITIVE (Optional Entity):
 ```
 
 ---
@@ -104,25 +104,24 @@ This is the directory where you "live" day-to-day. It contains all active and ch
 ├── inb/            # Inbox for new, unprocessed items.
 ├── log/            # Chronological logs (daily, meetings, etc.).
 │   └── dly/
-└── prc/            # Active processes (projects).
+└── proc/           # Active processes (projects).
 ```
 
-### 5.3. Project (`prc/`) Organization
+### 5.3. Project (`proc/`) Organization
 
-The `prc/` directory is organized by **encapsulation**. Every project gets its own folder. This structure is hierarchical to allow for Browse by context and client.
+The `proc/` directory is organized by **encapsulation**. Every project gets its own folder. This structure is hierarchical to allow for Browse by context and entity.
 
-The standard path for a project is: `var/prc/[context]/[client]/[project-name]/`
+The standard path for a project is: `var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/`
 
 **Example Structure:**
 
 ```
 var/
-└── prc/
+└── proc/
     └── professional/
-        └── ara/
-            └── ara-q3-audit/
-                ├── _project-ara-q3-audit.md
-                └── draft-final-report.md
+        └── ARA-gdpr-compliance-consulting/
+            ├── ara-project.md
+            └── compliance-checklist.md
 ```
 
 ### 5.4. Library (`lib/`) Organization
@@ -136,8 +135,8 @@ The OS uses YAML frontmatter to file notes deterministically.
 **The Rules:**
 
 - **IF `type: reference` THEN** move to `lib/[context]/[topic]/`
-- **IF `type: project` AND `status: active` THEN** move to `var/prc/[context]/[client]/` (as a new project folder).
-- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/prc/[context]/[client]/`.
+- **IF `type: project` AND `status: active` THEN** move to `var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/` (as a new project folder).
+- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/proc/[context]/[entity]/`.
 - **IF `type: daily_log` THEN** move to `var/log/dly/`
 - **IF `type: template` THEN** move to `sys/tpl/`
 
@@ -148,7 +147,7 @@ The OS uses YAML frontmatter to file notes deterministically.
 This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist).
 
 - **Principle:** The Scheduler's only job is to manage a prioritized list of tasks. The work itself is executed within the PKM-OS.
-- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `var/prc/` or elsewhere).
+- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `var/proc/` or elsewhere).
 
 ---
 
