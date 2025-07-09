@@ -5,38 +5,48 @@
 vault:
   name: "PKM-OS"
   type: "obsidian"
-  description: "Personal Knowledge Management Operating System - Structured knowledge management using proven OS principles"
+  version: "v1.2"
+  description: "Personal Knowledge Management Operating System - UID-based knowledge management using proven OS principles"
   claude_config: "CLAUDE.md"
   
 structure:
-  "inbox":
-    purpose: "New items to be processed and filed"
-    type: "processing"
-    pattern: "Unprocessed content awaiting categorization"
-    search_priority: "medium"
-    
-  "journal":
-    purpose: "Personal notes and daily logs"
-    type: "temporal"
+  "etc":
+    purpose: "System configuration and templates"
+    type: "configuration"
+    location: "etc/"
     subfolders:
-      "daily": "Daily log entries with date-based naming"
-    pattern: "YYYY-MM-DD.md"
-    search_priority: "medium"
+      "templates": "Note templates and structures"
+      "workflows": "Standard operating procedures and scripts"
+    search_priority: "high"
     
-  "var/proc":
+  "var":
+    purpose: "Active workspace and runtime data"
+    type: "workspace"
+    location: "var/"
+    subfolders:
+      "spool": "System inbox file (spool.md with UID format)"
+      "cache/maps": "Generated navigation aids and MOCs"
+      "log/daily": "Daily activity logs (YYYY-MM-DD.md)"
+      "log/meetings": "Meeting notes (UID format)"
+      "proc": "Active processes by context"
+    search_priority: "high"
+    
+  "active_projects":
     purpose: "All active work-in-progress"
     type: "active_projects"
+    location: "var/proc/[context]/[UID]/"
     subfolders:
-      "professional": "Client work with descriptive project names"
+      "professional": "Client work with UID-based project names"
       "personal": "Personal development projects"
       "network": "Community and networking projects"
       "hive": "Relationship and family projects"
-    hierarchy: "var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
+    hierarchy: "var/proc/[context]/[UID]/"
     search_priority: "high"
     
-  "library":
+  "reference_library":
     purpose: "Reference knowledge base organized by context/role"
     type: "reference"
+    location: "lib/[context]/[UID].md"
     subfolders:
       "professional": "Work-related reference materials"
       "personal": "Personal reference and learning materials"
@@ -44,18 +54,11 @@ structure:
       "network": "People, connections, and community materials"
     search_priority: "high"
     
-  "system":
-    purpose: "Life configuration, templates, and meta-organization"
-    type: "meta"
-    subfolders:
-      "maps": "Maps of Content (MOCs) and high-level organization"
-      "templates": "Note templates and structures"
-    search_priority: "high"
-    
-  "scratchpad":
-    purpose: "Fleeting notes and temporary content"
-    type: "temporary"
-    pattern: "Content intended for deletion or processing"
+  "archive":
+    purpose: "Completed processes and old logs"
+    type: "archive"
+    location: "archive/"
+    pattern: "Completed content for long-term storage"
     search_priority: "low"
 
 proc_contexts:
@@ -102,28 +105,30 @@ proc_contexts:
       - "HIVE-general-activities"
 
 search_shortcuts:
-  people: "library/network/"
-  active_projects: "var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
-  templates: "system/templates/"
-  daily_notes: "journal/daily/YYYY-MM-DD.md"
-  reference: "library/[context]/"
-  mocs: "system/maps/"
-  inbox: "inbox/"
+  people: "lib/network/"
+  active_projects: "var/proc/[context]/[UID]/"
+  templates: "etc/templates/"
+  workflows: "etc/workflows/"
+  daily_notes: "var/log/daily/YYYY-MM-DD.md"
+  meetings: "var/log/meetings/[UID].md"
+  reference: "lib/[context]/"
+  mocs: "var/cache/maps/"
+  spool: "var/[UID].md"
 
 file_patterns:
-  project_files: "_[ProjectName]_Project.md"
+  content_files: "YYYYMMDDHHmm.md"
   daily_notes: "YYYY-MM-DD.md"
-  templates: "Template_[Type].md"
-  reference_docs: "[Topic]_[Description].md"
-  person_files: "Firstname_Lastname.md"
+  templates: "tpl-[Type].md"
+  system_files: "descriptive-name.md"
+  project_directories: "[UID]/"
 
 metadata_types:
   project:
-    required_fields: ["type", "status", "context", "created"]
-    optional_fields: ["client", "tags", "due_date"]
+    required_fields: ["type", "status", "context", "uid", "aliases", "created"]
+    optional_fields: ["tags", "due_date"]
   
   reference:
-    required_fields: ["type", "topic", "created"]
+    required_fields: ["type", "topic", "uid", "aliases", "created"]
     optional_fields: ["tags", "source"]
   
   daily_log:
@@ -138,8 +143,8 @@ metadata_types:
     required_fields: ["type", "created"]
     optional_fields: ["tags", "purpose"]
   
-  inbox:
-    required_fields: ["type", "created"]
+  spool:
+    required_fields: ["type", "uid", "aliases", "created"]
     optional_fields: ["tags", "source"]
 
 entity_types:
@@ -169,22 +174,23 @@ entity_types:
     context: "network"
 
 naming_conventions:
-  file_separator: "_"
-  date_format: "YYYY-MM-DD"
-  project_prefix: "_"
-  template_prefix: "Template_"
-  entity_project_format: "[ENTITY-CODE]-[descriptive-name]"
-  no_spaces: true
-  clean_dashes: true
+  content_files: "YYYYMMDDHHmm.md"
+  daily_logs: "YYYY-MM-DD.md"
+  project_directories: "[UID]/"
+  aliases_format: "Human readable names in frontmatter"
+  templates: "tpl-[Type].md"
+  system_files: "descriptive-name.md"
 
 filing_rules:
-  - "IF type: reference THEN move to library/[context]/[topic]/"
-  - "IF type: project AND status: active THEN move to var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
-  - "IF type: project AND status: completed THEN move to archive/projects/[context]/[client]/"
-  - "IF type: daily_log THEN move to journal/daily/"
-  - "IF type: template THEN move to system/templates/"
-  - "IF type: moc THEN move to system/maps/"
-  - "IF type: inbox THEN keep in inbox/ until processed"
+  - "IF type: reference THEN move to lib/[context]/[UID].md"
+  - "IF type: project AND status: active THEN move to var/proc/[context]/[UID]/"
+  - "IF type: project AND status: completed THEN move to archive/projects/[context]/[UID]/"
+  - "IF type: daily_log THEN move to var/log/daily/"
+  - "IF type: meeting THEN move to var/log/meetings/"
+  - "IF type: template THEN move to etc/templates/"
+  - "IF type: workflow THEN move to etc/workflows/"
+  - "IF type: moc THEN move to var/cache/maps/"
+  - "IF type: spool THEN keep in var/[UID].md until processed"
 
 plugins:
   - "dataview"
@@ -198,7 +204,14 @@ integration:
   principle: "The PKM-OS manages knowledge; external tools manage scheduling"
 
 migration_info:
-  date: "2025-07-08"
-  source_structure: "Quest-based vault with numerical prefixes"
-  target_structure: "PKM-OS with purpose-driven organization"
-  preservation: "All original content preserved with metadata enhancement"
+  date: "2025-07-09"
+  source_structure: "PKM-OS v1.0 with entity-based naming"
+  target_structure: "PKM-OS v1.2 with UID-based naming and alias system"
+  preservation: "All original content preserved with UID migration and alias enhancement"
+  key_changes:
+    - "Content files renamed to YYYYMMDDHHmm.md format"
+    - "Project directories renamed to UID format"
+    - "Aliases added to frontmatter for human-readable names"
+    - "Obsidian auto-completion via aliases"
+    - "spool.md replaces inbox/"
+    - "Maps moved to var/cache/maps/"
