@@ -13,7 +13,7 @@ This is an Obsidian vault using the PKM-OS (Personal Knowledge Management Operat
 - **Consult Vaultmap.yaml first** before searching for documents
 - **Always update Vaultmap.yaml** if file locations change or when creating/deleting files
 - **PKM-OS Structure**: Purpose-driven organization with clear filing rules
-- **Project Files**: Located in `var/prc/[context]/[client]/` with `_ProjectName_Project.md` main files
+- **Project Files**: Located in `var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/` with entity-based naming
 
 ### File Naming Conventions
 
@@ -21,7 +21,7 @@ This is an Obsidian vault using the PKM-OS (Personal Knowledge Management Operat
 - **Clean dashes** for separators: `_SECUD_Project.md`
 - **Daily notes**: `YYYY-MM-DD.md` format in `var/log/dly/`
 - **Templates**: `Template_[Type].md` in `sys/tpl/`
-- **Project files**: `_ProjectName_Project.md` pattern
+- **Project files**: `[ENTITY-CODE]-[descriptive-name]` pattern
 
 ### Task Management
 
@@ -69,14 +69,18 @@ Use Vaultmap.yaml guidance for search priority:
 
 ### Project System
 
-- **Professional**: Client work (`var/prc/professional/[CLIENT]/`)
-- **Personal**: Personal development (`var/prc/personal/`)
-- **Network**: Community activities (`var/prc/network/`)
-- **Hive**: Relationship projects (`var/prc/hive/`)
+- **Professional**: Business client work (`var/proc/professional/[ENTITY-CODE]-[descriptive-name]/`)
+- **Personal**: Personal development (`var/proc/personal/[ENTITY-CODE]-[descriptive-name]/`)
+- **Network**: Community activities (`var/proc/network/[ENTITY-CODE]-[descriptive-name]/`)
+- **Hive**: Relationship projects (`var/proc/hive/[ENTITY-CODE]-[descriptive-name]/`)
 
-### Client Work
+### Entity Types
 
-Active clients include: ARA, CLIFO, EHFREI, EKIBA, EMPIC, FDFRI, FITS, GOSME, INSTO, RBOMN, RCG, SECUD, SOLVE, VEDES, VGALT
+**Business Clients**: ARA, CLIFO, EHFREI, EKIBA, EMPIC, FDFRI, FITS, GOSME, INSTO, RBOMN, RCG, SECUD, SOLVE, VEDES, VGALT
+**Personal Self**: PERSONAL (self-initiated projects)
+**External Interruptors**: INSURANCE, APPLE, GOVERNMENT, BANK (entities requiring response)
+**Relationship Entities**: HIVE, GF, FAMILY, FRIEND (personal connections)
+**Network Organizations**: BVD, MAIBAUM, NETWORK (professional associations and community groups)
 
 ### File Creation Rules
 
@@ -89,7 +93,7 @@ Active clients include: ARA, CLIFO, EHFREI, EKIBA, EMPIC, FDFRI, FITS, GOSME, IN
 
 All files must have proper YAML frontmatter based on type:
 
-- **Projects**: `type: project`, `status: active`, `context: [context]`, `created: YYYY-MM-DD`
+- **Projects**: `type: project`, `status: active`, `context: [context]`, `entity: [ENTITY-CODE]`, `created: YYYY-MM-DD`
 - **Reference**: `type: reference`, `topic: [topic]`, `created: YYYY-MM-DD`
 - **Daily**: `type: daily_log`, `date: YYYY-MM-DD`, `created: YYYY-MM-DD`
 - **Templates**: `type: template`, `created: YYYY-MM-DD`

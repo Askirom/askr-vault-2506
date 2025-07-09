@@ -23,12 +23,15 @@ structure:
     pattern: "YYYY-MM-DD.md"
     search_priority: "medium"
     
-  "workbench":
+  "var/proc":
     purpose: "All active work-in-progress"
     type: "active_projects"
     subfolders:
-      "projects": "Encapsulated project folders organized by context"
-    hierarchy: "workbench/projects/[context]/[client]/[project]/"
+      "professional": "Client work with descriptive project names"
+      "personal": "Personal development projects"
+      "network": "Community and networking projects"
+      "hive": "Relationship and family projects"
+    hierarchy: "var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
     search_priority: "high"
     
   "library":
@@ -55,52 +58,55 @@ structure:
     pattern: "Content intended for deletion or processing"
     search_priority: "low"
 
-workbench_contexts:
+proc_contexts:
   "professional":
-    description: "Client work and professional projects"
-    active_clients:
-      - "ARA"
-      - "CLIFO" 
-      - "EHFREI"
-      - "EKIBA"
-      - "EMPIC"
-      - "FDFRI"
-      - "FITS"
-      - "GOSME"
-      - "INSTO"
-      - "RBOMN"
-      - "RCG"
-      - "SECUD"
-      - "SOLVE"
-      - "VEDES"
-      - "VGALT"
+    description: "Business client work and professional projects"
+    active_projects:
+      - "ARA-gdpr-compliance-consulting"
+      - "CLIFO-emergency-planning-consulting"
+      - "EHFREI-isms-risk-analysis"
+      - "EKIBA-iso27001-isms-implementation"
+      - "EMPIC-vds10000-certification"
+      - "FDFRI-data-protection-forms"
+      - "FITS-data-deletion-consulting"
+      - "GOSME-ai-data-protection-assessment"
+      - "INSTO-user-guideline-audit"
+      - "RBOMN-gdpr-article26-consulting"
+      - "RCG-data-protection-advisory"
+      - "SECUD-confidentiality-training"
+      - "SOLVE-ongoing-consulting"
+      - "VEDES-vds10000-certification"
+      - "VGALT-ongoing-consulting"
   
   "personal":
     description: "Personal development and individual projects"
     active_projects:
-      - "Mac_Terminal"
-      - "Askirom_Evolution"
+      - "PERSONAL-mastery-system"
+      - "PERSONAL-mac-terminal-setup"
+      - "PERSONAL-kia-damage-case"
+      - "PERSONAL-general-activities"
   
   "network":
     description: "Community and networking projects"
     active_projects:
-      - "BvD_Sprecherkreis"
-      - "BvD_RG_Nürnberg"
-      - "Maibaum"
-      - "BvD_Prüfaufgaben"
+      - "BVD-examination-committee"
+      - "BVD-nuremberg-regional-group"
+      - "BVD-speaker-circle"
+      - "MAIBAUM-community-event"
+      - "NETWORK-general-activities"
   
   "hive":
     description: "Relationship and family projects"
     active_projects:
-      - "Japan_Trip"
+      - "HIVE-japan-travel-planning"
+      - "HIVE-general-activities"
 
 search_shortcuts:
   people: "library/network/"
-  clients: "workbench/projects/professional/[CLIENT]/"
+  active_projects: "var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
   templates: "system/templates/"
   daily_notes: "journal/daily/YYYY-MM-DD.md"
   reference: "library/[context]/"
-  active_projects: "workbench/projects/[context]/[client]/"
   mocs: "system/maps/"
   inbox: "inbox/"
 
@@ -136,17 +142,44 @@ metadata_types:
     required_fields: ["type", "created"]
     optional_fields: ["tags", "source"]
 
+entity_types:
+  business_clients:
+    description: "Professional service clients with formal contracts"
+    examples: ["ARA", "CLIFO", "EHFREI", "EKIBA", "EMPIC", "FDFRI", "FITS", "GOSME", "INSTO", "RBOMN", "RCG", "SECUD", "SOLVE", "VEDES", "VGALT"]
+    context: "professional"
+  
+  personal_self:
+    description: "Self-initiated personal development and maintenance"
+    examples: ["PERSONAL"]
+    context: "personal"
+  
+  external_interruptors:
+    description: "External entities requiring response/action"
+    examples: ["INSURANCE", "APPLE", "GOVERNMENT", "BANK"]
+    context: "personal"
+  
+  relationship_entities:
+    description: "Family, relationship, and close personal connections"
+    examples: ["HIVE", "GF", "FAMILY", "FRIEND"]
+    context: "hive"
+  
+  network_organizations:
+    description: "Professional associations and community groups"
+    examples: ["BVD", "MAIBAUM", "NETWORK"]
+    context: "network"
+
 naming_conventions:
   file_separator: "_"
   date_format: "YYYY-MM-DD"
   project_prefix: "_"
   template_prefix: "Template_"
+  entity_project_format: "[ENTITY-CODE]-[descriptive-name]"
   no_spaces: true
   clean_dashes: true
 
 filing_rules:
   - "IF type: reference THEN move to library/[context]/[topic]/"
-  - "IF type: project AND status: active THEN move to workbench/projects/[context]/[client]/"
+  - "IF type: project AND status: active THEN move to var/proc/[context]/[ENTITY-CODE]-[descriptive-name]/"
   - "IF type: project AND status: completed THEN move to archive/projects/[context]/[client]/"
   - "IF type: daily_log THEN move to journal/daily/"
   - "IF type: template THEN move to system/templates/"
