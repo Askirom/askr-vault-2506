@@ -7,7 +7,7 @@ tags: []
 # PKM-OS: Design & Operations Manual
 
 **Last Updated:** 2025-07-09
-**Version:** 0.4
+**Version:** 0.5
 
 ## 1. Core Philosophy
 
@@ -75,63 +75,63 @@ tags: []
 
 ## 5\. Layer 3: The File System
 
-This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems. The filing of notes is not arbitrary; it is determined by the note's metadata.
+This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems, separating variable data from static libraries and system files. The filing of notes is not arbitrary; it is determined by the note's metadata.
 
 ### 5.1. Top-Level Directory Structure
 
 ```
 /
-├── inbox/            # New items to be processed and filed.
-├── journal/          # Personal notes and daily logs.
-│   └── daily/
-├── workbench/        # All active work-in-progress.
-│   └── projects/
-├── library/          # Your reference knowledge base.
-├── system/           # Your life's "configuration": goals, values, templates.
-│   └── templates/
-└── scratchpad/       # Fleeting notes to be deleted.
+├── var/            # The "Active Workspace" for all variable data.
+├── lib/            # The "Reference Library" for static knowledge.
+├── sys/            # The "System" configuration files and templates.
+└── tmp/            # Temporary scratchpad files.
 ```
 
-### 5.2. Library Organization
+### 5.2. Variable Data (`var/`) Organization
 
-The `library/` directory is organized by **Context/Role** ("hats"). This prioritizes the application of knowledge.
+This is the directory where you "live" day-to-day. It contains all active and changing information, separated by function.
 
-- `library/professional/`
-- `library/personal/`
-- `library/hive/`
-- `library/network/`
+```
+/var/
+├── inb/            # Inbox for new, unprocessed items.
+├── log/            # Chronological logs (daily, meetings, etc.).
+│   └── dly/
+└── prc/            # Active processes (projects).
+```
 
-To handle cross-cutting knowledge, this system uses **Maps of Content (MOCs)** as a form of "symbolic link," allowing a note that lives in one context (e.g., `professional/`) to be referenced in the MOC of another (e.g., `hive/`).
+### 5.3. Project (`prc/`) Organization
 
-### 5.3. Workbench Organization
+The `prc/` directory is organized by **encapsulation**. Every project gets its own folder. This structure is hierarchical to allow for Browse by context and client.
 
-The `workbench/` directory is organized by **encapsulation**. Every non-trivial project gets its own dedicated folder to keep all related assets together. This structure is hierarchical to allow for Browse by context and client.
-
-The standard path for a project is: `workbench/projects/[context]/[client]/[ProjectName]/`
+The standard path for a project is: `var/prc/[context]/[client]/[ProjectName]/`
 
 **Example Structure:**
 
 ```
-workbench/
-└── projects/
+var/
+└── prc/
     └── professional/
-        └── ARA/  <-- Folder for a specific client
-            └── ARA-Q3-Audit/  <-- The encapsulated project folder
-                ├── _Project-ARA-Q3-Audit.md  <-- Main Process File
+        └── ARA/
+            └── ARA-Q3-Audit/
+                ├── _Project-ARA-Q3-Audit.md
                 └── Draft-Final-Report.md
 ```
 
-### 5.4. Metadata-Driven Filing Logic
+### 5.4. Library (`lib/`) Organization
 
-The OS uses YAML frontmatter to file notes deterministically. The core metadata fields are `type`, `context`, `topic`, `client`, and `status`.
+The `lib/` directory is organized by **Context/Role** ("hats"). Inside each context, subfolders can be created for specific topics. Cross-contextual links are handled by Maps of Content (MOCs).
+
+### 5.5. Metadata-Driven Filing Logic
+
+The OS uses YAML frontmatter to file notes deterministically.
 
 **The Rules:**
 
-- **IF `type: reference` THEN** move to `library/[context]/[topic]/`
-- **IF `type: project` AND `status: active` THEN** move to `workbench/projects/[context]/[client]/` (as a new project folder).
-- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/projects/[context]/[client]/`.
-- **IF `type: daily_log` THEN** move to `journal/daily/`
-- **IF `type: template` THEN** move to `system/templates/`
+- **IF `type: reference` THEN** move to `lib/[context]/[topic]/`
+- **IF `type: project` AND `status: active` THEN** move to `var/prc/[context]/[client]/` (as a new project folder).
+- **IF `type: project` AND `status: completed` THEN** move the entire project folder to `archive/prc/[context]/[client]/`.
+- **IF `type: daily_log` THEN** move to `var/log/dly/`
+- **IF `type: template` THEN** move to `sys/tpl/`
 
 ---
 
@@ -140,7 +140,7 @@ The OS uses YAML frontmatter to file notes deterministically. The core metadata 
 This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist, Things).
 
 - **Principle:** The Scheduler's only job is to manage a prioritized list of tasks. The work itself is executed within the PKM-OS.
-- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `workbench/projects/` or elsewhere). This creates a frictionless, single-click handoff from deciding on a task to executing the work.
+- **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `var/prc/` or elsewhere).
 
 ---
 
@@ -150,5 +150,5 @@ This layer determines **what** to work on and **when**. It is handled by a dedic
 2.  **Activate:** Click the Obsidian URL in the task to open the corresponding **Process File**.
 3.  **Execute:** Perform the work using one of the five **Primitives**.
 4.  **Log:** Record the action by adding a new **Log Entry** to the Process File's Action Log.
-5.  **(Optional) File:** If working on a new note from the `inbox/`, update its YAML frontmatter and move it to its correct location according to the filing logic.
+5.  **File:** If working on a new note from `var/inb/`, update its YAML frontmatter and move it to its correct location according to the filing logic.
 6.  **Complete:** Mark the task as done in the Scheduler.
