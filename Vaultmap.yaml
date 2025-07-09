@@ -6,6 +6,7 @@ vault:
   name: "PKM-OS"
   type: "obsidian"
   description: "Personal Knowledge Management Operating System - Structured knowledge management using proven OS principles"
+  claude_config: "CLAUDE.md"
   
 structure:
   "inbox":
