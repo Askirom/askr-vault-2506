@@ -1,3 +1,9 @@
+---
+id: PKM-os-resources
+aliases: []
+tags: []
+---
+
 # PKM-OS: The Core Resource Analogy
 
 This document outlines the foundational analogy of the entire Personal Knowledge Operating System.  
@@ -5,11 +11,11 @@ The system is designed to be a management layer for your finite biological resou
 
 ## The Core Mapping
 
-| Computer Resource     | Human Equivalent            | How the PKM-OS Manages It                                                                 |
-|-----------------------|-----------------------------|---------------------------------------------------------------------------------------------|
-| CPU (Processing Power) | Attention / Focus            | Minimizes context switching — the biggest drain on your attention.                         |
-| RAM (Working Memory)   | Short-Term Mental Workspace  | Acts as external RAM by offloading memory into structured files.                          |
-| Energy (Power Supply)  | Willpower / Physical Energy  | Conserves energy by reducing friction and disorganization.                                |
+| Computer Resource      | Human Equivalent            | How the PKM-OS Manages It                                          |
+| ---------------------- | --------------------------- | ------------------------------------------------------------------ |
+| CPU (Processing Power) | Attention / Focus           | Minimizes context switching — the biggest drain on your attention. |
+| RAM (Working Memory)   | Short-Term Mental Workspace | Acts as external RAM by offloading memory into structured files.   |
+| Energy (Power Supply)  | Willpower / Physical Energy | Conserves energy by reducing friction and disorganization.         |
 
 ---
 
@@ -64,3 +70,4 @@ Sleep deprivation, decision fatigue, and chaos all drain it.
 
 - **Clarity Reduces Stress**:  
   Chaos is stressful — and stress drains energy. A calm, controlled OS is inherently more energy-efficient.
+
