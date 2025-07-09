@@ -1,5 +1,5 @@
 {
   "autorun": true,
-  "folder": "journal/daily",
-  "template": "system/templates/Template_Daily_Log"
+  "folder": "var/log/dly",
+  "template": "sys/tpl/tpl-daily-log"
 }

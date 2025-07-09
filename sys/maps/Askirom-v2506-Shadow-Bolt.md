@@ -62,27 +62,27 @@ created: 2025-07-08
 | :--------------------------- | :------------------ | :---------------------------------------------------- |
 | **Intellect & Analysis**     | **High**            | Deconstructs complex technical & social problems      |
 | **Social Influence**         | **High**            | Uses humour & advice to steer dynamics                |
-| **Energy / Focus (MP)**      | **Medium-Volatile** | Hyper-focus sprints; crashes trigger system-tinkering |
+| **Energy / Focus**           | **Medium-Volatile** | Hyper-focus sprints; crashes trigger system-tinkering |
 | **Adaptability**             | **Medium-High**     | Rapid tool-switching is a strength                    |
 | **Unbuffered Exec-Function** | **Low (-2)**        | Needs external scaffolding (ADHD)                     |
 | **Internal Visualisation**   | **None (-2)**       | Must externalise plans & ideas                        |
 
 ---
 
-### 🔹 SPECIAL ABILITIES & TRAITS
+### 🔹 CORE CAPABILITIES & TRAITS
 
 - **Dual-Engine Drive** — Aspirational (intrinsic mastery) vs. Protective (obligation avoidance).
-- **Void-Sight** — Advantage on deciding when to build vs. ship; spots avoidance energy.
-- **Advisor’s Insight** — Advantage on analysing others; harder to self-apply.
-- **System-Binder** — Weave workflows/budgets from the void to cancel Exec-Function penalty for one scene.
-- **Pattern-Spotter** — 1× day connect two unrelated facts into a fresh insight.
-- **Intentional Boundaries (Active)** — Declare a "focus block" that restores 10 MP and grants immunity to low-priority interruptions for its duration.
+- **Strategic Clarity** — Strong intuition for deciding when to build vs. ship; naturally spots avoidance patterns.
+- **External Analysis** — Skilled at analyzing others' situations; harder to apply to self.
+- **System Creation** — Can quickly design workflows and budgets to compensate for executive function challenges.
+- **Pattern Recognition** — Regularly connects disparate information into useful insights.
+- **Intentional Boundaries** — Declare focused work blocks that restore energy and create immunity to low-priority interruptions for their duration.
 
 ---
 
-### 🔹 LOADOUT & ARMORY
+### 🔹 TOOLS & SYSTEMS
 
-This character's loadout is defined not by specific brands, but by core principles and archetypal tools that serve the mission.
+The system is defined not by specific brands, but by core principles and archetypal tools that serve the mission.
 
 **Core Principles of Tool Selection:**
 
@@ -92,31 +92,32 @@ This character's loadout is defined not by specific brands, but by core principl
 - **Data Sovereignty & Control:** Own your information and avoid vendor lock-in to protect autonomy.
 - **A Space for Play:** Maintain a sandbox environment, free from the pressure of productivity, for experimentation and genuine recovery.
 
-**Archetypal Gear:**
+**Core Tools:**
 
-- **The Deep Brain (Obsidian Vault):** An external mind palace for deep planning and connecting ideas. Cancels the `Aphantasia` debuff.
-- **The Inbox System (Obsidian Tasks):** Quick task capture in inbox file, organized within the vault system.
-- **The Biometric HUD (Garmin Fenix):** Provides real-time, actionable data on personal Energy (MP) and stress. Informs when to use abilities like `Intentional Boundaries`.
-- **The Sandbox (Steam Deck):** A dedicated zone for guilt-free play and experimentation, crucial for MP recovery.
+- **The Deep Brain (Obsidian Vault):** An external mind palace for deep planning and connecting ideas. Entity-based organization system. Compensates for aphantasia by externalizing thoughts and connections.
+- **The External Scheduler (Todoist):** Task management handled outside the vault to maintain separation of concerns and prevent complexity.
+- **The Biometric Monitor (Garmin Fenix):** Provides real-time, actionable data on energy levels and stress. Informs when to implement focused work blocks.
+- **The Sandbox (Steam Deck):** A dedicated zone for guilt-free play and experimentation, crucial for energy restoration.
+- **Entity Recognition System:** All inputs and interruptions are classified by entity type (business clients, personal self, external interruptors, relationship entities, network organizations) for systematic handling.
 
 ---
 
-### 🔹 ACTIVE QUESTS
+### 🔹 ACTIVE GOALS
 
-| Quest                                    | Win Condition                               | Milestones                                    |
+| Goal                                     | Success Criteria                            | Milestones                                    |
 | :--------------------------------------- | :------------------------------------------ | :-------------------------------------------- |
-| **Main Quest – Financial Sovereignty**   | Debt ≤ €0 **and** ≥ 3-month buffer          | 6 debt “chapters”; each unlocks a celebration |
-| **Side Quest – Skill Tree: Japanese**    | C1 listening & B2 speaking by Aug 2026 trip | Every 250 words = travel perk                 |
-| **Side Quest – Fitness: Kylar Physique** | ≥ 9 workouts in any rolling 30-day window   | PRs tracked as ability unlocks                |
+| **Primary Goal – Financial Sovereignty**   | Debt ≤ €0 **and** ≥ 3-month buffer          | 6 debt “phases”; each earns a celebration |
+| **Learning Goal – Japanese Language**    | C1 listening & B2 speaking by Aug 2026 trip | Every 250 words = travel milestone                 |
+| **Health Goal – Physical Fitness** | ≥ 9 workouts in any rolling 30-day window   | Personal records tracked as progress markers                |
 
 ---
 
-### 🔹 STATUS EFFECTS & COUNTERS
+### 🔹 COMMON CHALLENGES & RESPONSES
 
-| Negative Effect        | Trigger                | 90-Second Antidote                           |
+| Challenge              | Trigger                | Quick Response                               |
 | :--------------------- | :--------------------- | :------------------------------------------- |
 | **Analysis Paralysis** | Research loop > 30 min | Commit to 10-min ugly first draft            |
-| **Dopamine Drought**   | Low MP + low novelty   | Inject micro-novelty (new playlist, walk)    |
+| **Dopamine Drought**   | Low energy + low novelty   | Inject micro-novelty (new playlist, walk)    |
 | **Financial Pressure** | Unexpected bill        | Move €5 symbolic strike to debt snowball now |
 
 ---
