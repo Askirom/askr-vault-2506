@@ -31,13 +31,13 @@ This document is your reference guide for a typical busy day. It shows how to us
 
 1. **Activate the Process:**
     
-    - **Action:** In Todoist, find the task "Draft ARA audit report." Click the Obsidian URL in its description.
+    - **Action:** In Todoist, find the task "Draft ARA audit report." Click the Obsidian URL in its description. This link points directly to the project's main note.
         
     - **OS Analogy:** The scheduler dispatches a process. The kernel loads the Process Control Block and its memory space.
         
 2. **Execute and Log:**
     
-    - **Action:** The project note `_project-ara-q3-audit.md` opens in Obsidian. You begin working. As you complete chunks of work, you add to the `Action Log` at the bottom of _that project note_.
+    - **Action:** The project note `_project-ara-q3-audit.md` (located inside `var/prc/professional/ARA-q3-audit/`) opens in Obsidian. You begin working. As you complete chunks of work, you add to the `Action Log` at the bottom of _that project note_.
         
     - **Log Entries:**
         
@@ -65,7 +65,7 @@ This document is your reference guide for a typical busy day. It shows how to us
 
 1. **Activate the Process:**
     
-    - **Action:** Your girlfriend asks about the weekend trip plans. You open Todoist, find the task "Plan weekend trip," and click the link to open the project note `_project-plan-weekend-trip.md` in `var/prc/personal/`.
+    - **Action:** Your girlfriend asks about the weekend trip plans. You open Todoist, find the task "Plan weekend trip," and click the link to open the project note `_project-hive-plan-weekend-trip.md` located in `var/prc/hive/HIVE-plan-weekend-trip/`.
         
 2. **Execute and Log External Actions:**
     
@@ -86,7 +86,7 @@ This document is your reference guide for a typical busy day. It shows how to us
 
 1. **Process the Inbox:**
     
-    - **Action:** You look in your `var/inb/` folder and see the `dinner-with-friend.md` note. It's a simple task, not a full project. You add it directly to Todoist as a new task: "Decide on restaurant and text friend." You then delete the note from your `inb/`. Your inbox is now empty.
+    - **Action:** You look in your `var/inb/` folder and see the `dinner-with-friend.md` note. It's a simple task, not a full project. You add it directly to Todoist as a new task: "Decide on restaurant and text friend." You might tag this with `@FRIEND`. You then delete the note from your `inb/`. Your inbox is now empty.
         
     - **OS Analogy:** The kernel processes the I/O buffer, dispatching tasks and clearing the buffer.
         
