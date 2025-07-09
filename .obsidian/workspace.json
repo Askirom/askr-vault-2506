@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/proc/hive/HIVE-japan-travel-planning/japan-trip-project.md",
+                "file": "var/proc/hive/HIVE-general-activities/ki-ausgaben-schnitzeljagd-hummel-geschenk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "japan-trip-project"
+              "title": "ki-ausgaben-schnitzeljagd-hummel-geschenk"
             }
           }
         ]
@@ -211,6 +211,9 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "var/log/2025-07-09_Meetings.md",
+    "var/proc/hive/HIVE-general-activities/collectia-mahnung.md",
+    "var/proc/hive/HIVE-japan-travel-planning/japan-trip-project.md",
     "var/proc/hive/HIVE-japan-travel-planning/location-infos.md",
     "sys/a-day-in-the-pkm-os.md",
     "sys/personal-knowledge-os.md",
@@ -242,10 +245,7 @@
     "var/proc/personal/PERSONAL-mastery-system",
     "var/proc/network/NETWORK-general-activities/andi-hack-2025-07-05.md",
     "var/proc/network/NETWORK-general-activities",
-    "var/proc/network/MAIBAUM-community-event/maibaum-project.md",
-    "var/proc/network/MAIBAUM-community-event/maibaum-kasse-2025-04-30.md",
     "var/proc/network/MAIBAUM-community-event",
-    "var/proc/network/BVD-speaker-circle/2025-fulda-sprecherkreis.md",
     "var/proc/network/BVD-speaker-circle",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-1-102-o.jpeg",
