@@ -66,7 +66,7 @@ tags: []
 │   ├── cache/              #   Generated navigation aids
 │   │   └── maps/           #     System-generated MOCs
 │   ├── log/                #   Activity logs
-│   │   ├── daily/          #     202501091200.md, 202501101200.md
+│   │   ├── daily/          #     2025-01-09.md, 2025-01-10.md
 │   │   └── meetings/       #     202501091445.md, 202501091530.md
 │   └── proc/               #   Active processes
 │       ├── personal/       #     202501091445/, 202501091520/
@@ -83,11 +83,13 @@ tags: []
 
 ### 4.1 Pure UID Content System
 
-- **All content files use UIDs**: `202501091445.md` (YYYYMMDDhhmm format)
+- **Content files use UIDs**: `202501091445.md` (YYYYMMDDhhmm format)
+- **Daily logs use dates**: `2025-01-09.md` (dates are natural stable identifiers)
 - **System files use descriptive names**: `spool.md`, templates, workflows
 - **Human readability via aliases**: `[[202501091445|Team Meeting Notes]]`
 - **Chronological sorting**: Files/folders automatically sort by creation time
-- **Stable references**: UIDs never change, preventing broken links
+- **Stable references**: UIDs and dates never change, preventing broken links
+- **Cross-context linking**: Information lives in one context, linked from others via `[[UID|alias]]`
 
 ### 4.2 Deterministic Filing Rules
 
@@ -108,17 +110,7 @@ _(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 - **Alias in task name**: "ACME Contract Review (202501091445)"
 - Done → mark complete; if project ends, switch YAML to status: completed and archive during review.
 
-## 6 · Kernel-Style Operating Rules
-
-1. **Interrupt → Inbox hot-key** (Ctrl-Alt-I): logs a line in spool.md in <2 s.
-2. **Time-slice work** (25-min blocks). No mid-slice triage.
-3. **Weekly swap-out** (review):
-   - Spool = 0
-   - Stale var/proc/ (>30 days untouched) → pause or archive
-   - Upcoming deadlines surfaced
-4. **Energy reserves**: If Spool > 50 or processes > 12 active → force triage before adding anything new.
-
-## 7 · Core Workflow
+## 6 · Core Workflow
 
 1. **Schedule** – consult Todoist.
 2. **Activate** – click UID-based deep link → Process File opens.
