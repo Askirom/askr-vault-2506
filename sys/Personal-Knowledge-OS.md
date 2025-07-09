@@ -34,11 +34,11 @@ This is the standard format for recording any action performed by the OS. It is 
 
 ### Canonical Format:
 
-The format is: `[YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Actor): Message`
+The format is: `[YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity as Actor): Message`
 
 - **Timestamp:** Precise to the minute. Can be inserted automatically by templates.
 - **PRIMITIVE:** One of the five primitives from Layer 0.
-- **(Optional Actor):** Used only when logging an action or decision made by someone else. Omitted when the actor is you.
+- **(Optional Entity as Actor):** Used only when logging an action or decision made by someone else. Omitted when the entity is you.
 - **Message:** A concise description of the action.
 
 **Examples:**
