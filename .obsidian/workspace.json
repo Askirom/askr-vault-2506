@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sys/claude.md",
+                "file": "sys/personal-knowledge-os.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "claude"
+              "title": "personal-knowledge-os"
             }
           }
         ]
@@ -211,9 +211,10 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "02_Daily",
+    "sys/claude.md",
     "final_consistency_check.py",
     "sys/maps/xp-log.md",
-    "sys/claude.md",
     "sys/personal-knowledge-os.md",
     "_OLD_VAULT_TO_DELETE/journal/daily/2025-07-09.md",
     "var/prc/personal/general/PKM-OS-Vault-Audit-Report.md",
@@ -251,7 +252,6 @@
     "lib/personal/the-science-of-expert-intuition.md",
     "lib/personal/vim-quicksheet.md",
     "lib/professional/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
-    "lib/professional/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf",
     "lib/professional/m365-compliance-automation.md",
     "lib/personal/Attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-1-102-o.jpeg",
     "lib/personal/Attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-4-5005-c.jpeg",

@@ -8,7 +8,7 @@ type: system
 # PKM-OS: Design & Operations Manual
 
 **Last Updated:** 2025-07-09
-**Version:** 0.5
+**Version:** 1.0 (Release)
 
 ## 1. Core Philosophy
 
@@ -34,11 +34,17 @@ This is the standard format for recording any action performed by the OS. It is 
 
 ### Canonical Format:
 
-**Decision deferred.** The final syntax will be simple and low-friction. Current candidates include:
+The format is: `[YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Actor): Message`
 
-- **Minimalist Style:** `- DRAFT: Wrote the project outline.`
-- **Tag-based Style:** `[2025-07-09] #review Read the new policy.`
-- **Emoji Style:** `✍️ Wrote the project outline.`
+- **Timestamp:** Precise to the minute. Can be inserted automatically by templates.
+- **PRIMITIVE:** One of the five primitives from Layer 0.
+- **(Optional Actor):** Used only when logging an action or decision made by someone else. Omitted when the actor is you.
+- **Message:** A concise description of the action.
+
+**Examples:**
+
+- `[2025-07-09 16:05] - PLAN: Outline the next steps for the ARA audit.`
+- `[2025-07-09 16:05] - DECIDE (Client ARA): Approved the new project scope.`
 
 ---
 
@@ -69,14 +75,14 @@ tags: []
 
 ### Action Log
 
--
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
 ```
 
 ---
 
 ## 5\. Layer 3: The File System
 
-This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems, separating variable data from static libraries and system files. The filing of notes is not arbitrary; it is determined by the note's metadata.
+This layer defines where all notes are stored. It uses a purpose-driven structure inspired by Unix-like operating systems, separating variable data from static libraries and system files. The filing of notes is not arbitrary; it is determined by the note's metadata. All file and folder names should be in `kebab-case`.
 
 ### 5.1. Top-Level Directory Structure
 
@@ -85,7 +91,8 @@ This layer defines where all notes are stored. It uses a purpose-driven structur
 ├── var/            # The "Active Workspace" for all variable data.
 ├── lib/            # The "Reference Library" for static knowledge.
 ├── sys/            # The "System" configuration files and templates.
-└── tmp/            # Temporary scratchpad files.
+├── tmp/            # Temporary scratchpad files.
+└── archive/        # "Cold storage" for completed projects.
 ```
 
 ### 5.2. Variable Data (`var/`) Organization
@@ -104,7 +111,7 @@ This is the directory where you "live" day-to-day. It contains all active and ch
 
 The `prc/` directory is organized by **encapsulation**. Every project gets its own folder. This structure is hierarchical to allow for Browse by context and client.
 
-The standard path for a project is: `var/prc/[context]/[client]/[ProjectName]/`
+The standard path for a project is: `var/prc/[context]/[client]/[project-name]/`
 
 **Example Structure:**
 
@@ -112,10 +119,10 @@ The standard path for a project is: `var/prc/[context]/[client]/[ProjectName]/`
 var/
 └── prc/
     └── professional/
-        └── ARA/
-            └── ARA-Q3-Audit/
-                ├── _Project-ARA-Q3-Audit.md
-                └── Draft-Final-Report.md
+        └── ara/
+            └── ara-q3-audit/
+                ├── _project-ara-q3-audit.md
+                └── draft-final-report.md
 ```
 
 ### 5.4. Library (`lib/`) Organization
@@ -136,9 +143,9 @@ The OS uses YAML frontmatter to file notes deterministically.
 
 ---
 
-## 6\. Layer 4: The Scheduler (The Integration)
+## 6. Layer 4: The Scheduler (The Integration)
 
-This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist, Things).
+This layer determines **what** to work on and **when**. It is handled by a dedicated, external task manager (e.g., Todoist).
 
 - **Principle:** The Scheduler's only job is to manage a prioritized list of tasks. The work itself is executed within the PKM-OS.
 - **Integration Method:** Each task in the Scheduler must contain a direct **Obsidian URL** link to the relevant Process File (in `var/prc/` or elsewhere).
