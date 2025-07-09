@@ -2,10 +2,10 @@
 id: Inbox-Tasks
 aliases: []
 tags: []
-type: inbox
 created: 2025-07-08
+type: inbox
 ---
 
 # Backlog
 
-*Note: Task management has been migrated to external tools. This file is maintained for reference only.*
+_Note: Task management has been migrated to external tools. This file is maintained for reference only._
