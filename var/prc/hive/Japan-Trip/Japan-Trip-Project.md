@@ -30,6 +30,6 @@ created: 2025-07-08
 
 ## Related Docuements
 
-- [[Location-Infos]]
+- [[location-infos]]
 
 ## Journal

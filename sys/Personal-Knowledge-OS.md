@@ -2,6 +2,7 @@
 id: Personal-Knowledge-OS
 aliases: []
 tags: []
+type: system
 ---
 
 # PKM-OS: Design & Operations Manual

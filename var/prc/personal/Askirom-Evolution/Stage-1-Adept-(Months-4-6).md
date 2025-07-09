@@ -47,13 +47,13 @@ created: 2025-07-08
 |-------|-------|-------------|----------|
 | **4** | **Template Forge** | Finalise two core templates & test each once. | ☐ |
 | **5** | **Energy Experiment** | 7-day trial of predictive scheduling; write 300-word recap. | ☐ |
-| **6** | **System Stress-Test** | Run a full client week at 90 % XP while maintaining weight trend. | ☐ |
+| **6** | **System Stress-Test** | Run a full client week at high capacity while maintaining weight trend. | ☐ |
 
 ---
 
 ### 5 · Capstone Quest — “Sustainable 90 % Run”
 
-Achieve **90 % XP** (≥ 21 XP) every week for one calendar month **and** complete ≥ 10 deep-work blocks each of those weeks **without burnout**.  
+Achieve consistent high performance every week for one calendar month **and** complete ≥ 10 deep-work blocks each of those weeks **without burnout**.  
 If successful → *unlock Stage 2: The Expert.*  
 If failed → run a 15-min **Retrospective Mini-Post-Mortem** and retry next month.
 
