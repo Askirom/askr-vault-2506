@@ -10,7 +10,7 @@ type: system
 **Version 1.2 (Draft)**  
 **Last updated:** 2025-07-09
 
-_This revision introduces pure UID-based content naming and defines the four complete life contexts: personal, professional, hive, and network._
+_This revision introduces pure UID-based content naming and a domain-based library structure._
 
 ## 0 · Core Analogy
 
@@ -69,15 +69,17 @@ tags: []
 │   │   ├── daily/          #     2025-01-09.md, 2025-01-10.md
 │   │   └── meetings/       #     202501091445.md, 202501091530.md
 │   └── proc/               #   Active processes
-│       ├── personal/       #     202501091445/, 202501091520/
-│       ├── professional/   #     202501091600/, 202501091730/
-│       ├── hive/           #     202501091800/, 202501091830/
-│       └── network/        #     202501091900/, 202501091930/
 ├── lib/                    # Reference knowledge library
-│   ├── personal/           #   All files: UID-based
-│   ├── professional/       #   All files: UID-based
-│   ├── hive/               #   All files: UID-based
-│   └── network/            #   All files: UID-based
+│   ├── cybersecurity/
+│   ├── legal/
+│   ├── finance/
+│   ├── health/
+│   ├── technology/
+│   ├── people/
+│   ├── productivity/
+│   ├── gaming/
+│   ├── software-licenses/
+│   └── uncategorized/
 └── archive/                # Completed processes and old logs
 ```
 
@@ -95,9 +97,9 @@ tags: []
 
 | **Front-matter**                | **Destination**                                |
 | ------------------------------- | ---------------------------------------------- |
-| type: reference                 | lib/\<context>/\<topic>/                       |
-| type: project status: active    | var/proc/\<context>/\<uid>/                    |
-| type: project status: completed | whole folder → archive/proc/\<context>/\<uid>/ |
+| type: reference                 | lib/\<domain>/                                 |
+| type: project status: active    | var/proc/\<uid>/                                |
+| type: project status: completed | whole folder → archive/proc/\<uid>/            |
 | type: daily_log                 | var/log/daily/                                 |
 | type: template                  | etc/templates/                                 |
 
