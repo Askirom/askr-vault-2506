@@ -34,13 +34,13 @@ structure:
   "active_projects":
     purpose: "All active work-in-progress"
     type: "active_projects"
-    location: "var/proc/[context]/[UID]/"
+    location: "var/proc/[context]/[semantic-folder]/"
     subfolders:
-      "professional": "Client work with UID-based project names"
+      "professional": "Client work with semantic folder names"
       "personal": "Personal development projects"
       "network": "Community and networking projects"
       "hive": "Relationship and family projects"
-    hierarchy: "var/proc/[context]/[UID]/"
+    hierarchy: "var/proc/[context]/[semantic-folder]/"
     search_priority: "high"
     
   "reference_library":
@@ -106,7 +106,7 @@ proc_contexts:
 
 search_shortcuts:
   people: "lib/network/"
-  active_projects: "var/proc/[context]/[UID]/"
+  active_projects: "var/proc/[context]/[semantic-folder]/"
   templates: "etc/templates/"
   workflows: "etc/workflows/"
   daily_notes: "var/log/daily/YYYY-MM-DD.md"
@@ -120,7 +120,7 @@ file_patterns:
   daily_notes: "YYYY-MM-DD.md"
   templates: "tpl-[Type].md"
   system_files: "descriptive-name.md"
-  project_directories: "[UID]/"
+  project_directories: "[semantic-folder-name]/"
 
 metadata_types:
   project:
@@ -176,15 +176,15 @@ entity_types:
 naming_conventions:
   content_files: "YYYYMMDDHHmm.md"
   daily_logs: "YYYY-MM-DD.md"
-  project_directories: "[UID]/"
+  project_directories: "[semantic-folder-name]/"
   aliases_format: "Human readable names in frontmatter"
   templates: "tpl-[Type].md"
   system_files: "descriptive-name.md"
 
 filing_rules:
   - "IF type: reference THEN move to lib/[context]/[UID].md"
-  - "IF type: project AND status: active THEN move to var/proc/[context]/[UID]/"
-  - "IF type: project AND status: completed THEN move to archive/projects/[context]/[UID]/"
+  - "IF type: project AND status: active THEN move to var/proc/[context]/[semantic-folder]/"
+  - "IF type: project AND status: completed THEN move to archive/projects/[context]/[semantic-folder]/"
   - "IF type: daily_log THEN move to var/log/daily/"
   - "IF type: meeting THEN move to var/log/meetings/"
   - "IF type: template THEN move to etc/templates/"
@@ -204,14 +204,16 @@ integration:
   principle: "The PKM-OS manages knowledge; external tools manage scheduling"
 
 migration_info:
-  date: "2025-07-09"
+  date: "2025-07-10"
   source_structure: "PKM-OS v1.0 with entity-based naming"
-  target_structure: "PKM-OS v1.2 with UID-based naming and alias system"
-  preservation: "All original content preserved with UID migration and alias enhancement"
+  target_structure: "PKM-OS v1.2 with semantic folders + UID files"
+  preservation: "All original content preserved with semantic folder + UID file migration"
   key_changes:
     - "Content files renamed to YYYYMMDDHHmm.md format"
-    - "Project directories renamed to UID format"
+    - "Project directories renamed to semantic folder names"
     - "Aliases added to frontmatter for human-readable names"
     - "Obsidian auto-completion via aliases"
+    - "OS principle: semantic folders + UID files"
     - "spool.md replaces inbox/"
     - "Maps moved to var/cache/maps/"
+    - "Internal links updated to use UID format (2025-07-10)"
