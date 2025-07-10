@@ -1,7 +1,7 @@
 ---
 type: daily_log
-date: {{date:YYYY-MM-DD}}
-created: {{date:YYYY-MM-DD}}
+date: { { date:YYYY-MM-DD } }
+created: { { date:YYYY-MM-DD } }
 tags: []
 ---
 
@@ -10,23 +10,23 @@ tags: []
 ## Action Log
 
 _Using PKM-OS Log Entry Format: [YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity): Message_
-_Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE_
+_Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE, MAINTAIN_
 
 ### Professional
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
 
 ### Personal
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
 
 ### Network
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
 
 ### Hive
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
 
 ## Notes
 
