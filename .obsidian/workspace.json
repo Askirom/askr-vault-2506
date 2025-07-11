@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/personal-knowledge-os.md",
-                "mode": "source",
+                "file": "tmp/202507111725-angebot-löschkonzept-rcg.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "personal-knowledge-os"
+              "title": "202507111725-angebot-löschkonzept-rcg"
             }
           }
         ]
@@ -210,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "etc/personal-knowledge-os.md",
     "archive/202507111645.md",
     "var/units/202507111645.md.tmp.66730.1752249503409",
     "var/units/202507111645.md",
@@ -242,7 +243,6 @@
     "var/log/meetings/202507102323.md",
     "var/log/meetings/202507102370.md",
     "lib/reference/202507102364.md",
-    "lib/reference/202507102360.md",
     "tmp/cleanup",
     "lib/reference",
     "tmp/202507111725-angebot-löschkonzept-rcg.md~",
