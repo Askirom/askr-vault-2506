@@ -212,6 +212,7 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "var/lib/units/assets",
     "var/lib/units/202507102368.md",
     "var/lib/units/202507102338.md",
     "var/lib/units/202507102362.md",
@@ -237,7 +238,6 @@
     "var/lib/units/202507102331.md",
     "var/lib/units/202507102341.md",
     "var/lib/units/202507102335.md",
-    "var/lib/units/202507102364.md",
     "var/lib/todoist/state.json",
     "var/lib/units",
     "var/lib/todoist",
