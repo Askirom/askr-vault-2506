@@ -1,7 +1,7 @@
 ---
-type: project
-status: active
-context: 
+type: PROJECT
+status: ACTIVE
+context: PROFESSIONAL
 uid: {{date:YYYYMMDDHHmm}}
 aliases: ["{{title}}"]
 tags: []

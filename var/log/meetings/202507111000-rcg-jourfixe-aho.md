@@ -10,3 +10,12 @@ tags: []
 - Freigabeprozess wurde freigegeben
   - Dokument zum Prozess liegt vor
   - alle drei GF sind Freigeber
+
+# KI Systeme bei der RC
+
+- Notion
+- Gemini
+- Github Copilot
+- Flair
+- JetBrains AI
+- ChatGPT als hauptsächlich genutzte KI

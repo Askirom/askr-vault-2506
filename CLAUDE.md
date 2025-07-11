@@ -107,14 +107,26 @@ Use Vaultmap.yaml guidance for search priority:
 
 ### Metadata Requirements
 
-All files must have proper YAML frontmatter based on type:
+All files must have proper YAML frontmatter based on type (using UPPERCASE for system constants):
 
-- **Projects**: `type: project`, `status: active`, `context: [context]`, `uid: YYYYMMDDHHmm`, `aliases: ["Name"]`, `created: YYYY-MM-DD`
-- **Reference**: `type: reference`, `topic: [topic]`, `uid: YYYYMMDDHHmm`, `aliases: ["Name"]`, `created: YYYY-MM-DD`
-- **Daily**: `type: daily_log`, `date: YYYY-MM-DD`, `created: YYYY-MM-DD`
-- **Meeting**: `type: meeting`, `date: YYYY-MM-DD`, `uid: YYYYMMDDHHmm`, `aliases: ["Name"]`, `created: YYYY-MM-DD`
-- **Templates**: `type: template`, `created: YYYY-MM-DD`
-- **MOCs**: `type: moc`, `created: YYYY-MM-DD`
+- **Projects**: `type: PROJECT`, `status: ACTIVE`, `context: PROFESSIONAL`, `uid: YYYYMMDDHHmm`, `aliases: ["name"]`, `created: YYYY-MM-DD`
+- **Reference**: `type: REFERENCE`, `topic: [topic]`, `uid: YYYYMMDDHHmm`, `aliases: ["name"]`, `created: YYYY-MM-DD`
+- **Daily**: `type: DAILY_LOG`, `date: YYYY-MM-DD`, `created: YYYY-MM-DD`
+- **Meeting**: `type: MEETING`, `date: YYYY-MM-DD`, `uid: YYYYMMDDHHmm`, `aliases: ["name"]`, `created: YYYY-MM-DD`
+- **Templates**: `type: TEMPLATE`, `created: YYYY-MM-DD`
+- **MOCs**: `type: MOC`, `created: YYYY-MM-DD`
+
+### FHS-Aligned Naming Conventions
+
+**UPPERCASE (System Constants):**
+- Status: `ACTIVE`, `COMPLETED`, `PAUSED`, `ARCHIVED`
+- Context: `PROFESSIONAL`, `PERSONAL`, `NETWORK`, `HIVE`
+- Types: `PROJECT`, `REFERENCE`, `MEETING`, `DAILY_LOG`
+- Primitives: `DRAFT`, `REVIEW`, `COMMUNICATE`, `PLAN`, `DECIDE`, `MAINTAIN`
+
+**lowercase (User Data):**
+- Client codes: `ara`, `empic`, `clifo` (not `ARA`, `EMPIC`, `CLIFO`)
+- Aliases: `["client project name"]` (descriptive, lowercase)
 
 ### Technical Environment
 

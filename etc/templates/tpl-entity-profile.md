@@ -1,5 +1,5 @@
 ---
-type: entity
+type: ENTITY
 entity_type: 
 context: 
 tags: []
@@ -10,9 +10,9 @@ created: {{date:YYYY-MM-DD}}
 
 _Note: Entity names should use lowercase formatting (e.g., "acme corp" not "ACME CORP") following FHS conventions._
 
-**Entity Type:** _business_client | personal_self | external_interruptor | relationship_entity | network_organization_
-**Primary Context:** _professional | personal | network | hive_
-**Status:** _active | inactive | completed_
+**Entity Type:** _BUSINESS_CLIENT | PERSONAL_SELF | EXTERNAL_INTERRUPTOR | RELATIONSHIP_ENTITY | NETWORK_ORGANIZATION_
+**Primary Context:** _PROFESSIONAL | PERSONAL | NETWORK | HIVE_
+**Status:** _ACTIVE | INACTIVE | COMPLETED_
 
 ---
 

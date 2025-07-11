@@ -34,9 +34,9 @@ _This revision introduces pure UID-based content naming and a domain-based libra
 
 ```markdown
 ---
-type: project
-status: active
-context:
+type: PROJECT
+status: ACTIVE
+context: PROFESSIONAL
 uid: 202501091445
 tags: []
 ---
@@ -95,13 +95,13 @@ tags: []
 
 ### 4.2 Deterministic Filing Rules
 
-| **Front-matter**                | **Destination**                                |
-| ------------------------------- | ---------------------------------------------- |
-| type: reference                 | lib/\<domain>/                                 |
-| type: project status: active    | var/proc/\<uid>/                                |
-| type: project status: completed | whole folder → archive/proc/\<uid>/            |
-| type: daily_log                 | var/log/daily/                                 |
-| type: template                  | etc/templates/                                 |
+| **Front-matter**                      | **Destination**                                |
+| ------------------------------------- | ---------------------------------------------- |
+| type: REFERENCE                       | lib/\<domain>/                                 |
+| type: PROJECT status: ACTIVE          | var/proc/\<uid>/                                |
+| type: PROJECT status: COMPLETED       | whole folder → archive/proc/\<uid>/            |
+| type: DAILY_LOG                       | var/log/daily/                                 |
+| type: TEMPLATE                        | etc/templates/                                 |
 
 _(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 
@@ -114,16 +114,25 @@ _(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 
 ## 6 · Naming Conventions
 
-### 6.1 Client/Entity Code Standards
+### 6.1 FHS-Aligned Naming Conventions
 
-Following FHS principles, all client/entity codes use **lowercase** formatting:
+Following UNIX/Linux FHS principles:
 
+**UPPERCASE (System Constants):**
+- **PRIMITIVES**: `DRAFT`, `REVIEW`, `COMMUNICATE`, `PLAN`, `DECIDE`, `MAINTAIN`
+- **Status values**: `ACTIVE`, `COMPLETED`, `PAUSED`, `ARCHIVED`
+- **Context types**: `PROFESSIONAL`, `PERSONAL`, `NETWORK`, `HIVE`
+- **File types**: `PROJECT`, `REFERENCE`, `MEETING`, `DAILY_LOG`
+- **Priority levels**: `HIGH`, `MEDIUM`, `LOW`
+
+**lowercase (User Data):**
+- **Client/entity codes**: `ara`, `empic`, `clifo`
 - **Folder names**: `ara-gdpr-compliance-consulting/`
 - **File aliases**: `["ara gdpr compliance consulting"]`
-- **References**: Use `ara` not `ARA`
-- **Exception**: System PRIMITIVES remain UPPERCASE (`DRAFT`, `REVIEW`, etc.)
+- **File names**: `202507081445.md`, `2025-07-08.md`
+- **Tags**: `#data-protection`
 
-This maintains consistency with UNIX/Linux conventions where directories and identifiers are lowercase.
+This maintains consistency with OS conventions where system states are UPPERCASE and user identifiers are lowercase.
 
 ## 7 · Core Workflow
 

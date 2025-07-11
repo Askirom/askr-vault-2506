@@ -1,5 +1,5 @@
 ---
-type: meeting
+type: MEETING
 entity: 
 context: 
 tags: []
