@@ -23,12 +23,12 @@ structure:
     purpose: "Active workspace and runtime data"
     type: "workspace"
     location: "var/"
+    files:
+      "spool.md": "System inbox (FIFO pipe)"
     subfolders:
-      "spool": "System inbox file (spool.md with UID format)"
-      "cache/maps": "Generated navigation aids and MOCs"
-      "log/daily": "Daily activity logs (YYYY-MM-DD.md)"
-      "log/meetings": "Meeting notes (UID format)"
-      "proc": "Active processes by context"
+      "lib": "State files from external services (todoist/, calendar/)"
+      "log": "Daily & meeting logs"
+      "units": "Active projects & services"
     search_priority: "high"
     
   "active_projects":
@@ -105,15 +105,15 @@ proc_contexts:
       - "HIVE-general-activities"
 
 search_shortcuts:
-  people: "lib/network/"
-  active_projects: "var/proc/[context]/[semantic-folder]/"
+  people: "lib/people/"
+  active_units: "var/units/[UID].md"
   templates: "etc/templates/"
   workflows: "etc/workflows/"
   daily_notes: "var/log/daily/YYYY-MM-DD.md"
   meetings: "var/log/meetings/[UID].md"
   reference: "lib/[context]/"
   mocs: "var/cache/maps/"
-  spool: "var/[UID].md"
+  spool: "var/spool.md"
 
 file_patterns:
   content_files: "YYYYMMDDHHmm.md"
