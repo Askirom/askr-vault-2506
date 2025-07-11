@@ -6,42 +6,60 @@ tags: []
 
 # Angebot
 
-Ich möchte Ihnen bezüglich des Auftrags folgendes Angebot unterbreiten. 
+## Rahmen & Zielsetzung
 
-## Auftragsgegenstand:
+Dieses Angebot beschreibt die Leistungen der **Realcore-Gruppe** zur Durchführung eines kompakten Projekts mit einer Gesamtdauer von **drei (3)** aufeinander­folgenden Arbeitstagen. Ziel ist die Aufnahme der Anforderungen, die technische Umsetzung sowie die geordnete Übergabe des Ergebnisses an den Auftraggeber.
 
-Beratung und Entwicklung eines Löschkonzepts angelehnt an gängige Standards wie ISO/IEC 27555
+## 2 · Geltungsbereich
 
-## Liefergegenstand:
+Das Angebot gilt für die nachfolgend beschriebenen Tätigkeiten und Ergebnisse. Änderungen des Leistungsumfangs bedürfen einer schriftlichen Anpassung dieses Angebots.
 
-- Empfohlene Maßnahmen 
-- Zusammen erarbeiteter Auskunftsbericht entsprechend den Fragen aus der E-Mail des Betroffenen 
+## 3 · Liefergegenstand
 
-Aufwand:
+- Kick‑off & Scope‑Definition – gemeinsamer Workshop zur Ziel- und Rahmenabstimmung (alle Gesellschaften)
+- Gap‑Analyse zu ISO 27001  Review vorhandener Policies & Prozesse (Realcore Group)
+- Maßnahmenempfehlungen & Roadmap – Quick‑Wins und priorisierte Maßnahmenliste (Realcore Maintenance)
+- Lösch‑ & Aufbewahrungskonzept nach ISO 27555 – Erstellung eines konformen Löschkonzepts (Realcore Consulting)
 
-Size
+Abschluss­review & Management‑Präsentation – Vorstellung Ergebnisse, Übergabe aller Artefakte (alle Gesellschaften)## 5 · Preisübersicht
+| Gesellschaft | Tagessatz (€) | Aufwand (PT) | Zwischensumme (€) |
+|--------------|---------------|--------------|-------------------|
+| Realcore Consulting GmbH | 1 200 | 1,0 | 1 200 |
+| Realcore Maintenance GmbH | 1 100 | 1,0 | 1 100 |
+| Realcore Group GmbH | 1 300 | 1,0 | 1 300 |
+| **Gesamt** | | **3,0** | **3 600** |
 
-Aufwand
-M 4
+> Preise verstehen sich zzgl. Reisekosten nach Aufwand sowie gesetzlicher Umsatzsteuer.
 
-Wir werden Ihnen nach Verbrauch von ca. 1 Stunde Rückmeldung geben, um den Aufwand genauer zu spezifizieren.
+## 6 · Zahlungsbedingungen
 
-Verrechnungssatz:
+- 100 % nach Projekt­abnahme, zahlbar innerhalb von 14 Kalendertagen netto.
 
-60 € pro halbe Stunde
+## 7 · Gültigkeit des Angebots
 
-Mitwirkungspflichten:
+Dieses Angebot ist bis **31. August 2025** gültig.
 
-Ein fachlicher Ansprechpartner seitens Schmidt & Kunze GmbH steht für die gemeinsame Bearbeitung zur Verfügung.
+## 8 · Vertragsgrundlagen
 
-Ort der Leistungserbringung:
+Es gelten die **Allgemeinen Geschäfts­bedingungen (AGB)** der jeweils beauftragten Realcore-Gesellschaft in ihrer aktuellen Fassung.
 
-Treuchtlingen (Kommunikation über Telefon und MS-Teams)
+## 9 · Ansprechpartner
 
-Reisekosten und Spesen werden separat bei Bedarf abgestimmt.
+| Gesellschaft              | Name            | Funktion          | Telefon         | E-Mail                              |
+| ------------------------- | --------------- | ----------------- | --------------- | ----------------------------------- |
+| Realcore Group GmbH       | Max Mustermann  | Projektmanager    | +49 911 12345-0 | max.mustermann@realcore.group       |
+| Realcore Maintenance GmbH | Erika Beispiel  | Service Lead      | +49 911 12345-1 | erika.beispiel@realcore.maintenance |
+| Realcore Consulting GmbH  | Karl Konzeption | Senior Consultant | +49 911 12345-2 | karl.konzeption@realcore.consulting |
 
-Lokale Gesetzgebung:
+---
 
-Basis unserer Bewertung sind die Rahmenbedingungen der DS-GVO (GDPR) sowie des BDSG.
+Mit freundlichen Grüßen
 
-Falls Sie mit dem Angebot einverstanden sind, bitte ich Sie um Rückbestätigung mittels Antwort auf diese Email.
+**Realcore Group GmbH**  
+_(Unterschrift)_
+
+**Realcore Maintenance GmbH**  
+_(Unterschrift)_
+
+**Realcore Consulting GmbH**  
+_(Unterschrift)_
