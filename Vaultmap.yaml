@@ -31,16 +31,17 @@ structure:
       "units": "Active projects & services"
     search_priority: "high"
     
-  "active_projects":
-    purpose: "All active work-in-progress"
-    type: "active_projects"
-    location: "var/proc/[context]/[semantic-folder]/"
-    subfolders:
-      "professional": "Client work with semantic folder names"
-      "personal": "Personal development projects"
-      "network": "Community and networking projects"
-      "hive": "Relationship and family projects"
-    hierarchy: "var/proc/[context]/[semantic-folder]/"
+  "active_units":
+    purpose: "Active projects and services (systemd-style units)"
+    type: "units"
+    location: "var/units/"
+    description: "UID-based unit files following PKM-OS v2.0 systemd model"
+    slices:
+      "PROFESSIONAL": "Business client work and professional projects"
+      "PERSONAL": "Personal development and individual projects" 
+      "NETWORK": "Community and networking projects"
+      "HIVE": "Relationship and family projects"
+    unit_kinds: ["PROJECT", "SERVICE", "TIMER"]
     search_priority: "high"
     
   "reference_library":
