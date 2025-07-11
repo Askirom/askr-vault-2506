@@ -26,10 +26,12 @@ created: 2025-07-12
 
 ### 🔹 CORE ESSENCE
 
-> [!info] **Operating Context**
-> • **Distributed Processing** — Operates through multiple streams rather than centralized focus
-> • **External Manifestation** — Thinks by externalizing ideas into tangible systems
-> • **Electrical Patterns** — Works in controlled bursts of high-intensity focus
+> [!info] **Cognitive Architecture: ENTP-A**
+> • **Ne Dominant** — Explores multiple possibility streams; chaos is the natural style of order
+> • **Ti Auxiliary** — Systematizes chaotic inputs into elegant frameworks and structures
+> • **Fe Tertiary** — Strategic influence through humor, advice, and social pattern recognition
+> • **Si Inferior** — Requires external scaffolding; orchestrates distributed systems for stability
+> • **Assertive** — Trusts intrinsic process even when it appears chaotic to others
 
 ---
 
@@ -65,8 +67,8 @@ created: 2025-07-12
 | **Strategic Influence**      | **High**                 | Uses humor and strategic advice to guide dynamics     |
 | **Electrical Focus**         | **Burst-Intensive**      | Hyper-focus lightning strikes; recharges through system-building |
 | **Adaptive Flow**            | **High**                 | Rapid context-switching is a core strength            |
-| **Distributed Processing**   | **Natural**              | Operates through external systems rather than internal centralization |
-| **External Manifestation**   | **Required**             | Must externalize thoughts to process effectively      |
+| **System Orchestration**     | **Natural**              | Conducts distributed resources through strategic direction |
+| **External Manifestation**   | **Required**             | Processes by directing external systems toward vision |
 
 ---
 
@@ -76,7 +78,8 @@ created: 2025-07-12
 - **Strategic Clarity** — Intuitive sense for when to build vs. ship; naturally spots avoidance patterns in self and others
 - **Pattern Weaver** — Regularly connects disparate information streams into coherent, useful insights
 - **System Architect** — Designs elegant distributed workflows that compensate for centralized processing limitations
-- **External Analyst** — Skilled at analyzing others' situations with strategic precision
+- **External Analyst** — Skilled at analyzing others' situations with strategic precision  
+- **Strategic Orchestrator** — Conducts external resources (tools, systems, people) through targeted questioning and direction
 - **Lightning Focus** — Can declare focused work blocks that create temporary immunity to low-priority interruptions
 
 ---
@@ -84,11 +87,12 @@ created: 2025-07-12
 ### 🔹 OPERATING PRINCIPLES
 
 **Core Philosophy:**
-- **Distributed Over Centralized:** Multiple streams flow better than forced single-threading
-- **External Over Internal:** Manifest ideas in tangible form to think effectively  
-- **Electrical Over Constant:** Work in natural burst patterns rather than steady state
-- **Strategic Over Reactive:** Understand the system before engaging
+- **Ne Exploration:** Multiple possibility streams flow better than forced single-threading
+- **Ti Systematization:** Transform chaotic inputs into elegant, structured frameworks
+- **External Orchestration:** Direct distributed resources rather than process internally
+- **Electrical Bursts:** Work in natural Ne→Ti cycles rather than constant steady state
 - **Chaos-Native:** Use apparent randomness as a feature, not a bug
+- **Assertive Trust:** Confidence in intrinsic process even when others don't understand
 
 **Entity Recognition System:**
 All inputs are systematically classified and routed through appropriate channels—professional entities, personal projects, network relationships, family connections—each handled through its optimal pathway.
