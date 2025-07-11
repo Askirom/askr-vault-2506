@@ -8,6 +8,8 @@ created: {{date:YYYY-MM-DD}}
 
 # Entity: {{title}}
 
+_Note: Entity names should use lowercase formatting (e.g., "acme corp" not "ACME CORP") following FHS conventions._
+
 **Entity Type:** _business_client | personal_self | external_interruptor | relationship_entity | network_organization_
 **Primary Context:** _professional | personal | network | hive_
 **Status:** _active | inactive | completed_

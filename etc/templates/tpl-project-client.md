@@ -10,6 +10,8 @@ created: {{date:YYYY-MM-DD}}
 
 # Project: {{title}}
 
+_Note: Client/entity codes should use lowercase formatting (e.g., "acme-project" not "ACME-PROJECT") following FHS conventions._
+
 **Goal:**
 **Due Date:**
 **Key Stakeholder(s):**

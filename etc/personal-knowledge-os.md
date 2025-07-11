@@ -112,7 +112,20 @@ _(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
 - **Alias in task name**: "ACME Contract Review (202501091445)"
 - Done → mark complete; if project ends, switch YAML to status: completed and archive during review.
 
-## 6 · Core Workflow
+## 6 · Naming Conventions
+
+### 6.1 Client/Entity Code Standards
+
+Following FHS principles, all client/entity codes use **lowercase** formatting:
+
+- **Folder names**: `ara-gdpr-compliance-consulting/`
+- **File aliases**: `["ara gdpr compliance consulting"]`
+- **References**: Use `ara` not `ARA`
+- **Exception**: System PRIMITIVES remain UPPERCASE (`DRAFT`, `REVIEW`, etc.)
+
+This maintains consistency with UNIX/Linux conventions where directories and identifiers are lowercase.
+
+## 7 · Core Workflow
 
 1. **Schedule** – consult Todoist.
 2. **Activate** – click UID-based deep link → Process File opens.
