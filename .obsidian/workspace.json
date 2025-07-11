@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/proc/professional/empic-vds10000-certification/202507082375.md",
+                "file": "etc/personal-knowledge-os.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "202507082375"
+              "title": "personal-knowledge-os"
             }
           }
         ]
@@ -212,10 +212,11 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "202507101157.md",
+    "var/proc/professional/empic-vds10000-certification/202507082375.md",
     "var/log/meetings/202507111000-rcg-jourfixe-aho.md",
     "var/log/meetings/202507111000-RCG-jourfixe-aho.md",
     "var/log/meetings/202507111000-RCG-jourfixe-aho",
-    "202507101157.md",
     "202507101037.md",
     "lib/uncategorized/index.md",
     "lib/technology/index.md",
@@ -241,7 +242,6 @@
     "lib/cybersecurity/vds-10000.pdf",
     "lib/cybersecurity/iso-27701.2-infosec-cyber-privacy-management.pdf",
     "lib/cybersecurity/202507082368.md",
-    "lib/people/202507082358.md",
     "lib/legal/20250624-bvd-positionspapier-zur-reform-der-dsgvo.pdf",
     "lib/legal/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf",
     "lib/legal/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
