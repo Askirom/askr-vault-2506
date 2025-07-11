@@ -7,148 +7,143 @@ type: system
 
 # PKM-OS: Design & Operations Manual
 
-**Version 1.2 (Draft)**  
-**Last updated:** 2025-07-09
+**Version 2.0 (Final)**
+**Last updated:** 2025-07-11
 
-_This revision introduces pure UID-based content naming and a domain-based library structure._
+_This revision fully adopts the "Everything is a file" philosophy and a `systemd`-based management layer for maximum resilience and productivity._
 
-## 0 · Core Analogy
+---
 
-| **Computer Resource** | **Human Equivalent** | **PKM-OS Component**                                            | **How It Reduces Load**                                      |
-| --------------------- | -------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ |
-| **CPU**               | Attention / Focus    | **Scheduler** (Todoist) + **Interrupt Handler** (/var/spool.md) | Only one foreground task; distractions parked instantly.     |
-| **RAM**               | Working Memory       | **Process Files** (/var/proc/…) + **Action Logs**               | Off-loads active state so the brain can think, not remember. |
-| **Power**             | Will-/Energy         | Clear capture → triage → review loops                           | Fewer meta-decisions, lower stress = more stamina.           |
+## 0 · Core Philosophy: "Everything is a File"
 
-## 1 · Instruction Set (Primitives)
+This system rigorously applies the Unix philosophy that everything can be represented as a file. Processes, states, external services, and tasks are all exposed as file-like objects on disk. This approach ensures uniform tooling (`grep`, `find`, `git`), zero vendor lock-in, and provides perfect clarity and reviewability for all past work.
+
+---
+
+## 1 · Core Analogy: `systemd`
+
+The system's operational logic is modeled on **`systemd`**, the Linux init system. The projects and responsibilities are treated as **units** with a defined lifecycle, dependencies, and resource constraints. This provides a robust vocabulary for managing work.
+
+| **`systemd` Concept** | **PKM-OS Analogue**                                   | **Purpose**                                                  |
+| :-------------------- | :---------------------------------------------------- | :----------------------------------------------------------- |
+| **Unit**              | A project, task, or responsibility                    | The fundamental object of work, defined in a `.md` file.     |
+| **Service**           | An ongoing responsibility (e.g., "Maintain finances") | A unit with no defined end date.                             |
+| **Timer**             | A recurring task (e.g., "Weekly review")              | A unit triggered by a schedule.                              |
+| **Slice**             | A category of effort (e.g., `work`, `personal`)       | A mechanism for grouping units to enforce WIP limits.        |
+| **Dependency**        | `Requires` / `Wants` fields                           | Explicitly maps the relationships between units for clarity. |
+
+---
+
+## 2 · Instruction Set (Primitives)
+
+These are the fundamental, logged actions performed on a unit.
 
 - **DRAFT · REVIEW · COMMUNICATE · PLAN · DECIDE · MAINTAIN**
 
-## 2 · System Call (Log Entry)
+---
+
+## 3 · System Call (Log Entry)
+
+All work on a unit is logged in its file using this append-only format.
 
 ```
 [YYYY-MM-DD HH:MM] – PRIMITIVE (Optional Actor): Message
 ```
 
-## 3 · Process File (Project Note)
-
-```markdown
----
-type: PROJECT
-status: ACTIVE
-context: PROFESSIONAL
-uid: 202501091445
-tags: []
 ---
 
-# [[202501091445|Project Title]]
+## 4 · Unit File (The Core Object)
 
-**Goal:**
-**Due Date:**
-**Stakeholders:**
+Every project or responsibility is a single `.md` file with a UID filename (e.g., `202507111600.md`) and the following YAML front-matter.
+
+```yaml
+---
+# [Unit]
+uid: 202507111600
+description: "Finalize PKM-OS v2.0 Manual"
+alias: "pkmos-v2-manual"
+kind: project         # project | service | timer
+status: active       # defined | enabled | active | inactive | archived
+slice: productivity # work | personal | learning | etc.
+
+# [Dependencies]
+requires: []          # Hard dependencies (list of UIDs)
+wants: []             # Soft dependencies (list of UIDs)
+---
+
+# [[202507111600|Finalize PKM-OS v2.0 Manual]]
+
+**Goal:** Publish the final, unified v2.0 operations manual.
+**Due Date:** 2025-07-11
 
 ---
 
 ### Action Log
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] – PRIMITIVE: …
+- [2025-07-11 16:00] – DRAFT: Assembled all components into the final v2.0 note.
 ```
 
-## 4 · File-System Layer (FHS-Inspired)
+---
+
+## 5 · File-System Layer (The Architecture)
+
+The directory structure is inspired by the FHS and built to support the file-only philosophy.
 
 ```
 /
-├── etc/                    # System configuration
-│   ├── templates/          #   project-template.md, daily-template.md
-│   └── workflows/          #   Standard operating procedures
-├── var/                    # Active workspace
-│   ├── spool.md            #   System inbox file
-│   ├── cache/              #   Generated navigation aids
-│   │   └── maps/           #     System-generated MOCs
-│   ├── log/                #   Activity logs
-│   │   ├── daily/          #     2025-01-09.md, 2025-01-10.md
-│   │   └── meetings/       #     202501091445.md, 202501091530.md
-│   └── proc/               #   Active processes
-├── lib/                    # Reference knowledge library
-│   ├── cybersecurity/
-│   ├── legal/
-│   ├── finance/
-│   ├── health/
-│   ├── technology/
-│   ├── people/
-│   ├── productivity/
-│   ├── gaming/
-│   ├── software-licenses/
-│   └── uncategorized/
-└── archive/                # Completed processes and old logs
+├── etc/                      # System configuration
+│   ├── templates/            #   project-template.md, daily-template.md
+│   └── workflows/            #   Standard operating procedures
+├── var/                      # Active workspace & volatile data
+│   ├── spool.md              # System inbox (FIFO pipe)
+│   ├── lib/                  # State files from external services
+│   │   ├── todoist/
+│   │   │   └── state.json    #   Persistent mirror of tasks
+│   │   └── calendar/         #   Directory for mirrored .ics events
+│   ├── log/                  # Daily & meeting logs
+│   └── units/                # Active projects & services
+├── lib/                      # Reference knowledge library
+└── archive/                  # Completed units and old logs
 ```
 
-### 4.1 Pure UID Content System
-
-- **Content files use UIDs**: `202501091445.md` (YYYYMMDDhhmm format)
-- **Daily logs use dates**: `2025-01-09.md` (dates are natural stable identifiers)
-- **System files use descriptive names**: `spool.md`, templates, workflows
-- **Human readability via aliases**: `[[202501091445|Team Meeting Notes]]`
-- **Chronological sorting**: Files/folders automatically sort by creation time
-- **Stable references**: UIDs and dates never change, preventing broken links
-- **Cross-context linking**: Information lives in one context, linked from others via `[[UID|alias]]`
-
-### 4.2 Deterministic Filing Rules
-
-| **Front-matter**                      | **Destination**                                |
-| ------------------------------------- | ---------------------------------------------- |
-| type: REFERENCE                       | lib/\<domain>/                                 |
-| type: PROJECT status: ACTIVE          | var/proc/\<uid>/                                |
-| type: PROJECT status: COMPLETED       | whole folder → archive/proc/\<uid>/            |
-| type: DAILY_LOG                       | var/log/daily/                                 |
-| type: TEMPLATE                        | etc/templates/                                 |
-
-_(Automation optional; manual drag-drop is fine until it hurts ≥3×.)_
-
-## 5 · Scheduler Integration
-
-- Todoist (or equivalent) holds a **single priority queue**.
-- Each task contains **UID-based deep link**: `obsidian://open?path=var/proc/professional/202501091445/`
-- **Alias in task name**: "ACME Contract Review (202501091445)"
-- Done → mark complete; if project ends, switch YAML to status: completed and archive during review.
+---
 
 ## 6 · Naming Conventions
 
-### 6.1 FHS-Aligned Naming Conventions
+System constants are `UPPERCASE`; user data is `lowercase`.
 
-Following UNIX/Linux FHS principles:
+- **Primitives**: `DRAFT`, `REVIEW`, `DECIDE`
+- **Unit `status`**: `ACTIVE`, `INACTIVE`, `ARCHIVED`
+- **Unit `kind`**: `PROJECT`, `SERVICE`, `TIMER`
+- **Unit `slice`**: `PROFESSIONAL`, `PERSONAL`
+- **File Aliases**: `["acme q3 audit"]`
+- **File Names**: `202507111600.md`, `2025-07-11.md`
 
-**UPPERCASE (System Constants):**
-- **PRIMITIVES**: `DRAFT`, `REVIEW`, `COMMUNICATE`, `PLAN`, `DECIDE`, `MAINTAIN`
-- **Status values**: `ACTIVE`, `COMPLETED`, `PAUSED`, `ARCHIVED`
-- **Context types**: `PROFESSIONAL`, `PERSONAL`, `NETWORK`, `HIVE`
-- **File types**: `PROJECT`, `REFERENCE`, `MEETING`, `DAILY_LOG`
-- **Priority levels**: `HIGH`, `MEDIUM`, `LOW`
+---
 
-**lowercase (User Data):**
-- **Client/entity codes**: `ara`, `empic`, `clifo`
-- **Folder names**: `ara-gdpr-compliance-consulting/`
-- **File aliases**: `["ara gdpr compliance consulting"]`
-- **File names**: `202507081445.md`, `2025-07-08.md`
-- **Tags**: `#data-protection`
+## 7 · Core Workflow (The Lifecycle)
 
-This maintains consistency with OS conventions where system states are UPPERCASE and user identifiers are lowercase.
+1.  **Capture:** Append a line to `/var/spool.md`.
+2.  **Promote:** A nightly `cron` script reads `spool.md` and promotes each line to its correct file type (e.g., a new task in `todoist/state.json`, a new `.ics` file in `calendar/`, or a new unit file in `/var/lib/units/`).
+3.  **Plan:** Consult the `/var/lib/todoist/state.json` file (or its frontend app) to select a focus task, respecting WIP limits enforced by a filter.
+4.  **Execute:** Open the corresponding unit file via its UID.
+5.  **Log:** Add a `PRIMITIVE` line to the unit file's action log.
+6.  **Commit:** A daily script commits all changes in the vault to `git`, creating an atomic snapshot of the system's state.
+7.  **Archive:** When a unit's `status` is set to `inactive`, a weekly review process moves the file from `/var/lib/units/` to `/archive/`.
 
-## 7 · Core Workflow
+---
 
-1. **Schedule** – consult Todoist.
-2. **Activate** – click UID-based deep link → Process File opens.
-3. **Execute** – perform a Primitive.
-4. **Log** – add a System Call line.
-5. **File** – update YAML & move note if needed.
-6. **Complete** – mark Todoist task done.
+## 8 · Service Integration
 
-## Appendix A · Quick-Start Checklist
+External services like Todoist and Calendar are not primary citizens. They are treated as frontends to their mirrored state files in `/var/lib/`. A script periodically syncs the service state to the local file, ensuring the file on disk is the canonical source for system tools.
 
-- Create top-level dirs exactly as tree above.
-- Enable _Templates_ plugin; store them in /etc/templates/.
-- Pin spool.md; map "Append to note" hot-key.
-- Set Todoist filter to show only today's single top task.
-- Configure UID generation (YYYYMMDDhhmm format).
+---
 
-_Run the system for two weeks before adding any automation scripts. Optimise only what breaks flow repeatedly._
+### Appendix A · Quick-Start Checklist
+
+- Create the directory tree exactly as specified in Section 5.
+- Configure Obsidian's _Templates_ plugin to use files from `/etc/templates/`.
+- Pin `/var/spool.md` and map a hotkey for quick-append.
+- Create a master filter in your task manager to enforce WIP limits (e.g., `(@doing | @focus)`).
+- Set up sync scripts to mirror external services to `/var/lib/`.
+- Run the system manually for two weeks before automating promotion or archival steps.
