@@ -1,8 +1,8 @@
 ---
-id: Askirom_v2506-Shadow_Bolt
-aliases: []
-tags: []
-type: moc
+uid: personal-development-framework
+type: REFERENCE
+topic: personal
+aliases: ["Personal Development Framework", "Shadow Bolt Character"]
 created: 2025-07-08
 ---
 

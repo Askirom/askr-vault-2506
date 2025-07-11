@@ -1,9 +1,9 @@
 ---
-id: gear-askirom-inventory-v2506
-aliases: []
-tags: []
+uid: gear-inventory
+type: REFERENCE  
+topic: systems
+aliases: ["Gear Inventory", "Hardware Inventory"]
 created: 2025-07-08
-type: moc
 ---
 
 # ASKIROM GEAR INVENTORY (PKM-OS Aligned)
