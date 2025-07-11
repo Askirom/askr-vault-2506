@@ -61,7 +61,7 @@ Every project or responsibility is a single `.md` file with a UID filename (e.g.
 # [Unit]
 uid: 202507111600
 description: "Finalize PKM-OS v2.0 Manual"
-alias: "pkmos-v2-manual"
+aliases: ["pkmos-v2-manual"]
 kind: project         # project | service | timer
 status: active       # defined | enabled | active | inactive | archived
 slice: productivity # work | personal | learning | etc.

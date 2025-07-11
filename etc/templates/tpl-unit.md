@@ -1,7 +1,7 @@
 ---
 uid: {{date:YYYYMMDDHHmm}}
 description: "{{title}}"
-alias: "{{title}}"
+aliases: ["{{title}}"]
 kind: PROJECT
 status: ACTIVE
 slice: PROFESSIONAL
