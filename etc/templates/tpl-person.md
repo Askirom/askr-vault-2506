@@ -1,8 +1,8 @@
 ---
-type: person
 uid: {{date:YYYYMMDDHHmm}}
+type: REFERENCE
+topic: people
 aliases: ["{{title}}"]
-tags: [person]
 created: {{date:YYYY-MM-DD}}
 ---
 

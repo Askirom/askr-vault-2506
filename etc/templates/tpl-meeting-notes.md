@@ -1,15 +1,15 @@
 ---
+uid: {{date:YYYYMMDDHHmm}}
 type: MEETING
-entity: 
-context: 
-tags: []
+date: {{date:YYYY-MM-DD}}
+aliases: ["{{title}}"]
 created: {{date:YYYY-MM-DD}}
 ---
 
 # Meeting: {{title}}
 
 **Date:** {{date:YYYY-MM-DD}}
-**Time:** {{time:HH:mm}}
+**Time:** {{time:HH:MM}}
 **Duration:** 
 **Attendees:** 
 **Entity:** 
@@ -27,13 +27,13 @@ created: {{date:YYYY-MM-DD}}
 
 _Using PKM-OS Log Entry Format: [YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity): Message_
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] - 
 
 ---
 
 ## Decisions Made
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - DECIDE (Entity): 
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] - DECIDE (Entity): 
 
 ---
 

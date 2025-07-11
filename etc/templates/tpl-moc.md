@@ -1,6 +1,5 @@
 ---
-type: moc
-tags: []
+type: MOC
 created: {{date:YYYY-MM-DD}}
 ---
 

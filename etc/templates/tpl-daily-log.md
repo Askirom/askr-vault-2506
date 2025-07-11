@@ -1,8 +1,7 @@
 ---
 type: DAILY_LOG
-date: { { date:YYYY-MM-DD } }
-created: { { date:YYYY-MM-DD } }
-tags: []
+date: {{date:YYYY-MM-DD}}
+created: {{date:YYYY-MM-DD}}
 ---
 
 # {{date:YYYY-MM-DD}}
@@ -14,19 +13,19 @@ _Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE, MAINTAIN_
 
 ### PROFESSIONAL
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ### PERSONAL
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ### NETWORK
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ### HIVE
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] -
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ## Notes
 

@@ -8,6 +8,10 @@ tags: []
 
 # Mac_vs_Framework_Dilemma
 
+## New Items (Test)
+
+- [2025-07-11 16:45] TESTCO client inquiry - GDPR compliance audit needed, 50+ employees, deadline Q1 2026
+
 ## Problems
 
 | Issue/Aspect           | MacBook M4 Pro     | Framework 13 (2025)                  | ThinkPad T14s Gen 6 AMD         | HP EliteBook 865 G11           |

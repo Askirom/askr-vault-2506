@@ -1,10 +1,12 @@
 ---
-type: PROJECT
-status: ACTIVE
-context: PROFESSIONAL
 uid: {{date:YYYYMMDDHHmm}}
-aliases: ["{{title}}"]
-tags: []
+description: "{{title}}"
+alias: "{{title}}"
+kind: PROJECT
+status: ACTIVE
+slice: PROFESSIONAL
+requires: []
+wants: []
 created: {{date:YYYY-MM-DD}}
 ---
 
@@ -23,7 +25,7 @@ _Note: Client/entity codes should use lowercase formatting (e.g., "acme-project"
 _Using PKM-OS Log Entry Format: [YYYY-MM-DD HH:MM] - PRIMITIVE (Optional Entity): Message_
 _Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE_
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] - 
 
 ---
 
@@ -31,7 +33,7 @@ _Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE_
 
 _Key communications, decisions, and meetings_
 
-- [{{date:YYYY-MM-DD}} {{time:HH:mm}}] - 
+- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] - 
 
 ---
 

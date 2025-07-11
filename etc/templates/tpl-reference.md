@@ -1,9 +1,8 @@
 ---
-type: reference
-topic:
 uid: {{date:YYYYMMDDHHmm}}
+type: REFERENCE
+topic: 
 aliases: ["{{title}}"]
-tags: []
 created: {{date:YYYY-MM-DD}}
 ---
 
