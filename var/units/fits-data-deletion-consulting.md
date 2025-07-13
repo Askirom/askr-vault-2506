@@ -24,11 +24,10 @@ uuid: 202507082377
 
 ---
 
+- [ ] TODO Prüfe Version 0.9 des Löschkonzepts bei FITS ⏫ 📅 2025-07-21 ➕ 2025-07-13
 ## 📝 Action Log & Tasks
 
 ### Immediate Actions
-### Key Items
-- **HIGH PRIORITY** Prüfe Version 0.9 des Löschkonzepts bei fits @ElkeStapfer (overdue from 2025-05-07)
 
 ---
 

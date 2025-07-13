@@ -24,6 +24,8 @@ uuid: 202507082380
 
 ---
 
+- [ ] TODO Stellvertreter Benennung prüfen für RLE 🛩️ 2025-06-23 ➕ 2025-07-13
+- [ ] TODO Angebot Löschkonzept an Adrian senden 🔼 🛩️ 2025-07-11 ➕ 2025-07-13
 ## 📝 Action Log & Tasks
 
 ### Completed Items

@@ -13,19 +13,30 @@ _Primitives: DRAFT, REVIEW, COMMUNICATE, PLAN, DECIDE, MAINTAIN_
 
 ### PROFESSIONAL
 
-- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ### PERSONAL
 
-- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
 
 ### NETWORK
 
-- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
+
 
 ### HIVE
 
-- [{{date:YYYY-MM-DD}} {{time:HH:MM}}] -
+
+## Task Overview
+
+### Scheduled for Today
+```tasks
+not done
+scheduled {{date:YYYY-MM-DD}}
+```
+
+### Overdue Tasks
+```tasks
+not done
+due before today
+```
 
 ## Notes
 

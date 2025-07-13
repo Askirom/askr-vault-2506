@@ -22,6 +22,7 @@ _Task management has been migrated to external tools._
 
 ---
 
+- [ ] TODO Angebot Paket 2 an Fr. Dinkelaker für EHFREI zusenden ➕ 2025-07-13
 ## 📝 Action Log & Tasks
 
 ### Active Tasks from Todoist Migration

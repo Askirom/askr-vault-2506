@@ -1,0 +1,11 @@
+﻿TYPE,CONTENT,DESCRIPTION,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE,DURATION,DURATION_UNIT,DEADLINE,DEADLINE_LANG
+meta,view_style=list,,,,,,,,,,,,
+,,,,,,,,,,,,,
+task,Prüfe Version 0.9 des Löschkonzepts bei FITS @$fits @+HighEnergy,,1,1,Askirom (39171236),,14 Jul,en,Europe/Berlin,,,2025-07-21,en
+task,"Du müsstest noch testen, ob du per ssh auf den Server kommst ohne Passwortabfrage",,4,1,Askirom (39171236),,10 Jun,en,Europe/Berlin,,,,
+task,Material für Mory Schulung senden,,4,1,Askirom (39171236),,,,Europe/Berlin,,,,
+task,Vertraulichkeit 2025 an Mory senden,,4,1,Askirom (39171236),,,,Europe/Berlin,,,,
+task,Angebot Paket 2 an Fr. Dinkelaker für EHFREI zusenden @$ehfrei,,3,1,Askirom (39171236),,11 Jul 16:30,en,Europe/Berlin,45,minute,,
+task,Angebot Löschkonzept an Adrian senden @$rcg,,3,1,Askirom (39171236),,11 Jul 16:00,en,Europe/Berlin,30,minute,,
+task,Test formulieren für fehlende Betreffzeile an Petra @$bvd,,4,1,Askirom (39171236),,,,Europe/Berlin,,,,
+,,,,,,,,,,,,,

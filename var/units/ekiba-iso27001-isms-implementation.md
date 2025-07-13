@@ -36,4 +36,5 @@ uuid: 202507082374
 ---
 ## 📎 Key Documents
 
-- [[Richtlinie - Funktionsweise des ISMS.md]]
+- [[richtlinie-funktionsweise-des-isms]]
+- [[ekiba-notfallplan-vorlage]]

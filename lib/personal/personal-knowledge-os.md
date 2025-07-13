@@ -34,21 +34,15 @@ The system consists of three simple, well-integrated tools:
 
 ## 2 · File Structure
 
-Unix-inspired organization that supports systematic knowledge management:
+Simple, descriptive organization that supports the workflow:
 
 ```
 /
-├── etc/                      # System configuration
-│   ├── templates/            #   Project and note templates
-│   └── workflows/            #   Standard operating procedures
-├── var/                      # Active workspace & volatile data
-│   ├── tasks.md              #   System task overview dashboard
-│   ├── spool.md              #   System inbox for quick capture
-│   ├── lib/                  #   (simplified - no external service mirrors)
-│   ├── log/                  #   Daily & meeting logs
-│   └── units/                #   Active projects & services
-├── lib/                      # Reference knowledge library
+├── projects/                 # Active projects and ongoing work
+├── notes/                    # Reference knowledge and meeting notes
+├── templates/                # Project and note templates
 ├── archive/                  # Completed projects and old material
+└── inbox.md                  # Quick capture for processing later
 ```
 
 ---
@@ -120,7 +114,7 @@ This means:
 - `- [ ] TODO Draft project proposal 📅 2025-07-15` → managed by Tasks plugin
 
 **Master task view:**
-Create `/var/TASKS.md` with queries to see all work:
+Create a `TASKS.md` file with queries to see all work:
 
 ````markdown
 # Task Overview
@@ -171,10 +165,10 @@ scheduled on today
 
 **Intentional planning approach** - you choose your focus rather than being driven by automated systems.
 
-1. **Weekly Review:** Check `/var/TASKS.md` to see all open work
+1. **Weekly Review:** Check `TASKS.md` to see all open work
 2. **Daily Planning:** Consciously select 2-3 tasks for today
-3. **Execution:** Work from your chosen tasks, log progress in `/var/units/` files
-4. **Capture:** Quick thoughts go to `/var/SPOOL.md` for later processing
+3. **Execution:** Work from your chosen tasks, log progress
+4. **Capture:** Quick thoughts go to `inbox.md` for later processing
 5. **Sync:** Commit changes to git regularly
 
 ---
