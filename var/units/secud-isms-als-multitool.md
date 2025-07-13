@@ -63,29 +63,39 @@ Auf dieser Folie sehen Sie die vier zentralen Funktionsbereiche unseres Multitoo
 [Sie deuten auf den Quadranten links oben: Gesetzlich & Regulatorisch]
 
 Das erste Werkzeug verschafft Ihnen
-
-einen verlässlichen Rahmen in einem Dschungel aus Vorschriften. Die DSGVO , das neue NIS2-Gesetz für kritische Sektoren , das Geschäftsgeheimnisgesetz. Ständig kommen neue Regelungen dazu, und es ist eine Vollzeitaufgabe, da den Überblick zu behalten. Ein ISMS gibt Ihnen ein System, eine Methode, um diese Anforderungen nicht nur einmalig abzuhaken, sondern dauerhaft und vor allem nachweisbar im Unternehmen zu verankern. Es übersetzt das Juristendeutsch in klare Aufgaben und Verantwortlichkeiten. Das Ergebnis ist nicht nur die Vermeidung von schmerzhaften Bußgeldern, sondern echte unternehmerische Souveränität. Sie agieren, anstatt nur auf neue Gesetze zu reagieren.
+einen verlässlichen Rahmen in einem Dschungel aus Vorschriften. Die DSGVO , das neue NIS2-Gesetz, das Geschäftsgeheimnisgesetz. Ständig kommen neue Regelungen dazu, und es ist eine Vollzeitaufgabe, da den Überblick zu behalten. Ein ISMS gibt Ihnen ein System, eine Methode, um diese Anforderungen nicht nur einmalig abzuhaken, sondern dauerhaft und vor allem nachweisbar im Unternehmen zu verankern. Es übersetzt das Juristendeutsch in klare Aufgaben und Verantwortlichkeiten. Das Ergebnis ist nicht nur die Vermeidung von schmerzhaften Bußgeldern, sondern echte unternehmerische Souveränität. Sie agieren, anstatt nur auf neue Gesetze zu reagieren.
 
 [Sie deuten auf den Quadranten links unten: Lieferkette & Markt]
 
-Die zweite Klinge ist Ihr
-
-Türöffner und Ihr Schutzschild am Markt. Ihre Kunden fragen heute nicht mehr nur nach Preis und Qualität. Sie fordern handfeste Nachweise über Ihre Sicherheit. Ein bestandenes Security Audit oder ein Zertifikat ist in vielen Branchen, denken Sie nur an die Automobilindustrie, die direkte Eintrittskarte für neue Aufträge und größere Projekte. Es ist der Beweis, dass Sie ein vertrauenswürdiger und robuster Partner sind.
-
+Das zweite Werkzeug ist Ihr
+Türöffner und Ihr Schutzschild am Markt. Ihre Kunden fragen heute nicht mehr nur nach Preis und Qualität. Sie fordern handfeste Nachweise über Ihre Sicherheit. Ein bestandenes Security Audit oder ein Zertifikat ist in vielen Branchen, die direkte Eintrittskarte für neue Aufträge und größere Projekte. Es ist der Beweis, dass Sie ein vertrauenswürdiger und robuster Partner sind.
 Gleichzeitig sichert es Sie gegen die Risiken ab, die von Ihren eigenen Lieferanten ausgehen. Was nützt die sicherste Festung, wenn das Tor bei einem Geschäftspartner sperrangelweit offensteht? Ein ISMS hilft Ihnen, klare Sicherheitsanforderungen an Ihre gesamte Lieferkette zu stellen und diese auch zu überprüfen. Sie schützen sich damit vor Ausfällen, die bei Ihren Partnern entstehen, aber Ihr eigenes Geschäft lahmlegen.
 
 [Sie deuten auf den Quadranten rechts oben: Cyberversicherungen]
 
-Die dritte Klinge ist ein handfester
-
-Hebel zur Senkung Ihrer Betriebskosten. Die Zeiten, in denen man für eine Cyberversicherung nur einen kurzen Fragebogen ausfüllen musste, sind endgültig vorbei. Versicherer fordern heute handfeste Beweise für systematisches Sicherheitsmanagement. Sie wollen eine fundierte Risikobewertung sehen und wissen, welche 'Controls und Maßnahmen' Sie etabliert haben. Genau diese Dinge liefert ein ISMS standardmäßig. Es ist die objektive Grundlage für eine faire und günstigere Prämie. Und im Schadensfall ist es der entscheidende Beleg gegenüber der Versicherung, dass Sie nicht fahrlässig gehandelt haben. Ein ISMS ist also eine direkte Investition in die Senkung Ihrer Versicherungskosten.
+Das dritte Werkzeug ist ein handfester
+Hebel zur Senkung Ihrer Betriebskosten. Die Zeiten, in denen man für eine Cyberversicherung nur einen kurzen Fragebogen ausfüllen musste, sind bald vorbei. Versicherer fordern schon heute handfeste Beweise für systematisches Sicherheitsmanagement. Sie wollen eine fundierte Risikobewertung sehen und wissen, welche 'Maßnahmen' Sie etabliert haben. Genau diese Dinge liefert ein ISMS standardmäßig. Es ist die objektive Grundlage für eine faire und günstigere Prämie. Und im Schadensfall ist es der entscheidende Beleg gegenüber der Versicherung, dass Sie nicht fahrlässig gehandelt haben. Ein ISMS ist also eine direkte Investition in die Senkung Ihrer Versicherungskosten.
 
 [Sie deuten auf den Quadranten rechts unten: Interne Organisation & Motivation]
 
-Und die vierte und vielleicht wichtigste Klinge ist die, die
-
+Und das vierte und vielleicht wichtigste Werkzeug ist jenes, das
 nach innen wirkt und Ihr Unternehmen vom Kern her stärkt. Ein ISMS schafft klare Strukturen und transparente Prozesse. Das führt zu mehr Effizienz und weniger Reibungsverlusten im Alltag. Jeder weiß, was seine Aufgabe ist und wer die Verantwortung trägt.
-
 Vor allem aber fördert es eine Kultur des Vertrauens und der Sicherheit. Wenn Mitarbeiter sehen, dass die Unternehmensführung das Thema ernst nimmt, werden sie selbst sorgsamer und engagierter. Sie schaffen Transparenz und eine positive Sicherheitskultur, die das Risiko menschlicher Fehler nachweislich reduziert.
 
 Sie sehen also: Das Multitool ISMS greift in alle wichtigen Bereiche Ihres Unternehmens ein. Es ist weit mehr als nur IT-Sicherheit. Es ist ein Managementsystem zur Steigerung von Resilienz, Effizienz und Vertrauen.
+
+## Folie 5
+
+Was ist nun ein ISMS?
+Im Kern ist ein Informationssicherheits-Managementsystem, ein System, mit dem alle Prozesse rund um die Sicherheit Ihrer Informationen im Unternehmen geplant, umgesetzt, überwacht und verbessert werden. Man könnte auch sagen: Es ist das Gehäuse Ihres Multitools.
+Und dieses Gehäuse gewährleistet drei fundamentale und ganz einfache Prinzipien. Das sind die drei goldenen Regeln, die das ISMS in Ihrem gesamten Unternehmen durchsetzt:
+
+Erstens: Vertraulichkeit. Die einfache Frage dahinter lautet: Wer darf welche Informationen sehen? Diese Regel stellt sicher, dass die Gehaltsliste nur die Personalabteilung und die Geschäftsführung einsehen können. Dass die Konstruktionspläne für Ihr neues Produkt nicht zur Konkurrenz gelangen. Und dass sensible Kundendaten eben genau das bleiben: vertraulich.
+
+Zweitens: Integrität. Hier lautet die Kernfrage: Ist die Information, mit der wir arbeiten, korrekt und unverändert? Dieses Prinzip stellt sicher, dass die Kontonummer auf einer ausgehenden Rechnung nicht heimlich manipuliert werden kann. Es sorgt dafür, dass Ihre Ingenieure mit dem finalen, freigegebenen Bauplan arbeiten und nicht mit einer veralteten Version, die zu teuren Fehlproduktionen führen würde.
+
+Und drittens: Verfügbarkeit. Das ist oft die schmerzhafteste Frage, wenn sie mit 'Nein' beantwortet wird: Können wir arbeiten, wenn wir es müssen? Dieses Prinzip sorgt dafür, dass Ihr Onlineshop Bestellungen annehmen kann, dass Ihre Mitarbeiter auf das ERP-System zugreifen können und dass Ihre Produktion nicht stillsteht, weil die Steuerungssoftware ausgefallen ist.
+
+Diese drei Ziele – Vertraulichkeit, Integrität und Verfügbarkeit – wendet das System, wie Sie hier sehen, auf alle vier logischen Bereiche Ihres Unternehmens an: auf die Organisation und die Prozesse, auf die physische Sicherheit Ihrer Gebäude, auf die Technik, die Sie einsetzen, und vor allem auch auf Ihr Personal.
+
+Wenn wir also diese Prinzipien als Grundlage nehmen, stellt sich die entscheidende unternehmerische Frage: Rechnet sich das? Schauen wir uns den finanziellen Nutzen genauer an.
