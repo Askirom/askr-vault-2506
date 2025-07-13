@@ -24,7 +24,7 @@ created: 2025-07-08
 
 ---
 
-- [ ] TODO Risikomanagement abschließen ➕ 2025-07-13
+- [x] TODO Risikomanagement abschließen ➕ 2025-07-13 ✅ 2025-07-13
 - [ ] TODO Fülle die Risiken für die "3"-Gewichtung Assets aus ➕ 2025-07-13
 - [ ] TODO Confluence Dokumentation prüfen ➕ 2025-07-13
 - [ ] TODO Dokumentenmanagement definieren ➕ 2025-07-13

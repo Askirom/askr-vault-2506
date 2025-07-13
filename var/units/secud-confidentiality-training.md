@@ -19,9 +19,9 @@ uuid: 202507082382
 
 ---
 
-- [ ] TODO Prüfe die Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter und Vertraulichkeit-2025-Externe ➕ 2025-07-13
-- [ ] TODO Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter prüfen ➕ 2025-07-13
-- [ ] TODO Artikel / Paragraphen in der Vertraulichkeit-2025-Externe prüfen ➕ 2025-07-13
+- [x] TODO Prüfe die Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter und Vertraulichkeit-2025-Externe ➕ 2025-07-13 ✅ 2025-07-13
+- [x] TODO Artikel / Paragraphen in der Vertraulichkeit-2025-Mitarbeiter prüfen ➕ 2025-07-13 ✅ 2025-07-13
+- [x] TODO Artikel / Paragraphen in der Vertraulichkeit-2025-Externe prüfen ➕ 2025-07-13 ✅ 2025-07-13
 ## 📝 Action Log & Tasks
 
 
