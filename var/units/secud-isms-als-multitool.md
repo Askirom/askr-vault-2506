@@ -54,6 +54,22 @@ Ein ISMS ist kein IT-Produkt, das man im Laden kauft. Es ist auch keine Akte, di
 
 Es ist das Rückgrat Ihrer Widerstandsfähigkeit – Ihr 'Resilience Backbone'.
 Mit diesem Werkzeug verlassen Sie die passive, reagierende Haltung. Sie reagieren nicht mehr nur auf Vorfälle. Sie beginnen, die Sicherheit Ihres Unternehmens aktiv zu steuern. Es ist das Werkzeug, mit dem Sie das Vertrauen Ihrer Kunden, das Wissen Ihrer Mitarbeiter und Ihre Reputation gezielt schützen und managen.
+
+## Folie Vorstellung
+
+Mein Name ist Robin Leitner, und ich verantworte bei der secudor GmbH die Bereiche Informationssicherheit und Datenschutz.
+Unsere Expertise und unser Ansatz sind hier auf dieser Folie visualisiert. Wir nennen es den
+'Resilience Backbone' – das Rückgrat der unternehmerischen Widerstandsfähigkeit. Wir sind der festen Überzeugung, dass echte Stabilität nur entsteht, wenn drei entscheidende Bereiche nicht getrennt voneinander, sondern als Einheit betrachtet werden:
+Da ist zum einen die
+Unternehmenssteuerung. Das ist Ihre Perspektive, die der Geschäftsführung. Es geht um Strategie, um Risikomanagement, um die Erreichung Ihrer Geschäftsziele.
+
+Dann gibt es die
+Cybersicherheit. Das ist die oft sehr technische Ebene, die Ihre Netzwerke, Server und Daten vor Angriffen schützt.
+
+Und drittens der
+Regularien. Das ist die rechtliche und prozessuale Ebene, die sicherstellt, dass Sie die Vorgaben der einschlägigen Gesetze einhalten.
+In vielen Unternehmen werden diese drei Bereiche als getrennte Silos behandelt. Die wahre Stärke, des 'Resilience Backbone', entsteht aber erst, wenn diese drei Welten ineinandergreifen. Und genau das ist die Kernkompetenz von secudor.
+
 Lassen Sie uns nun einen genaueren Blick darauf werfen, welche konkreten Funktionen dieses Multitool für Sie im unternehmerischen Alltag hat.
 
 ## Folie 4
@@ -87,15 +103,58 @@ Sie sehen also: Das Multitool ISMS greift in alle wichtigen Bereiche Ihres Unter
 ## Folie 5
 
 Was ist nun ein ISMS?
-Im Kern ist ein Informationssicherheits-Managementsystem, ein System, mit dem alle Prozesse rund um die Sicherheit Ihrer Informationen im Unternehmen geplant, umgesetzt, überwacht und verbessert werden. Man könnte auch sagen: Es ist das Gehäuse Ihres Multitools.
-Und dieses Gehäuse gewährleistet drei fundamentale und ganz einfache Prinzipien. Das sind die drei goldenen Regeln, die das ISMS in Ihrem gesamten Unternehmen durchsetzt:
+Im Kern ist ein Informationssicherheits-Managementsystem, ein System, mit dem alle Prozesse rund um die Sicherheit Ihrer Informationen im Unternehmen geplant, umgesetzt, überwacht und verbessert werden. Man könnte auch sagen: Es ist der Kern Ihres Multitools.
+Und dieser Kern gewährleistet drei fundamentale und ganz einfache Prinzipien. Das sind die drei goldenen Regeln, die das ISMS in Ihrem gesamten Unternehmen durchsetzt:
 
 Erstens: Vertraulichkeit. Die einfache Frage dahinter lautet: Wer darf welche Informationen sehen? Diese Regel stellt sicher, dass die Gehaltsliste nur die Personalabteilung und die Geschäftsführung einsehen können. Dass die Konstruktionspläne für Ihr neues Produkt nicht zur Konkurrenz gelangen. Und dass sensible Kundendaten eben genau das bleiben: vertraulich.
 
-Zweitens: Integrität. Hier lautet die Kernfrage: Ist die Information, mit der wir arbeiten, korrekt und unverändert? Dieses Prinzip stellt sicher, dass die Kontonummer auf einer ausgehenden Rechnung nicht heimlich manipuliert werden kann. Es sorgt dafür, dass Ihre Ingenieure mit dem finalen, freigegebenen Bauplan arbeiten und nicht mit einer veralteten Version, die zu teuren Fehlproduktionen führen würde.
+Zweitens: Integrität. Hier lautet die Kernfrage: Ist die Information, mit der wir arbeiten, korrekt und unverändert? Dieses Prinzip stellt sicher, dass die Kontonummer auf einer ausgehenden Rechnung nicht heimlich manipuliert werden kann. Es sorgt dafür, dass Ihre Ingenieure mit dem finalen, freigegebenen Bauplan arbeiten.
 
 Und drittens: Verfügbarkeit. Das ist oft die schmerzhafteste Frage, wenn sie mit 'Nein' beantwortet wird: Können wir arbeiten, wenn wir es müssen? Dieses Prinzip sorgt dafür, dass Ihr Onlineshop Bestellungen annehmen kann, dass Ihre Mitarbeiter auf das ERP-System zugreifen können und dass Ihre Produktion nicht stillsteht, weil die Steuerungssoftware ausgefallen ist.
 
 Diese drei Ziele – Vertraulichkeit, Integrität und Verfügbarkeit – wendet das System, wie Sie hier sehen, auf alle vier logischen Bereiche Ihres Unternehmens an: auf die Organisation und die Prozesse, auf die physische Sicherheit Ihrer Gebäude, auf die Technik, die Sie einsetzen, und vor allem auch auf Ihr Personal.
 
-Wenn wir also diese Prinzipien als Grundlage nehmen, stellt sich die entscheidende unternehmerische Frage: Rechnet sich das? Schauen wir uns den finanziellen Nutzen genauer an.
+Wenn wir also diese Prinzipien als Grundlage nehmen, stellt sich die entscheidende unternehmerische Frage: Rechnet sich das?
+
+## Folie 6
+
+Die klare Antwort lautet: Ja. Ein ISMS ist kein reines Kostenthema. Es ist eine Investition mit klar messbaren Rendite-Hebeln, wie Sie hier auf der Folie sehen. Und es zahlt sich oft schneller aus, als viele Unternehmer denken.
+Lassen Sie uns die vier Haupthebel betrachten:
+
+Der erste ist einer der stärksten, weil er auf Ihr Wachstum einzahlt:
+Sie gewinnen Neugeschäft. Zertifikate und systematische Nachweise über Ihr Sicherheitsmanagement öffnen Ihnen heute Türen bei Großkunden und öffentlichen Auftraggebern, die Ihnen sonst verschlossen blieben. In vielen Branchen ist das längst keine 'nette Geste' mehr, sondern die harte Voraussetzung, um überhaupt ein Angebot abgeben zu dürfen. Sie differenzieren sich vom Wettbewerb und beweisen, dass Sie ein sicherer und verlässlicher Partner für die Zukunft sind.
+
+Zweitens:
+Sie reduzieren Ihren internen Audit-Aufwand drastisch. Ihre Fachleute und Führungskräfte verbringen deutlich weniger Zeit damit, für jeden neuen Anlass – sei es eine Prüfung für NIS2, die DSGVO oder eine Anfrage aus der Lieferkette – immer wieder die gleichen Dokumente und Nachweise zusammenzusuchen. Die klaren Prozesse und die zentrale Dokumentation eines ISMS sparen wertvolle Arbeitszeit, die Ihre Mitarbeiter stattdessen in ihre eigentlichen, wertschöpfenden Tätigkeiten investieren können.
+
+Drittens, und das ist ein entscheidender Punkt zur Risikominimierung:
+Sie vermeiden Bußgelder. Ein ISMS stellt nicht nur sicher, dass Sie die regulatorischen Vorschriften einhalten. Es liefert Ihnen vor allem den lückenlosen Nachweis darüber. Und dieser Nachweis ist im Zweifel genau das, was Sie vor Strafen in empfindlicher Höhe schützt.
+
+Und viertens sichern Sie sich handfeste
+Versicherungsrabatte. Wie bereits erwähnt: Nachweisbare, systematische Kontrollen senken Ihr Risiko aus Sicht des Versicherers und damit direkt Ihre zu zahlende Prämie.
+
+Um diese ganzheitliche Sicherheit zu erreichen, geben das BSI und der Digitalverband Bitkom eine klare Empfehlung ab: Rund
+20 % des IT-Gesamtbudgets sollten für die Informationssicherheit genutzt werden. Und damit ist explizit nicht nur die Technik wie Firewalls gemeint. Es ist die Investition in den Dreiklang aus sicheren Prozessen, geschulten Mitarbeitern und der passenden Technologie.
+
+Der Einstieg in diese Welt ist dabei ein klar strukturierter Prozess. Er beginnt nicht mit einer riesigen, unüberschaubaren Investition, sondern mit einer pragmatischen Quick-Win-Analyse und einem gemeinsamen Workshop, um ein passendes Pilotprojekt zu definieren.
+Und wie pragmatisch und passend so ein Einstieg aussehen kann, das möchte ich Ihnen auf der nächsten Folie zeigen.
+
+## Folie 7
+
+Das bringt uns zu einer der wichtigsten Fragen, die uns von Geschäftsführern aus dem Mittelstand gestellt wird: 'Das klingt alles gut, aber muss ich mich jetzt sofort einer riesigen, teuren und monatelangen Zertifizierung nach der internationalen Norm ISO 27001 unterziehen?'
+Die ehrliche und klare Antwort lautet: Nein, absolut nicht.
+
+Ein ISMS ist kein Produkt von der Stange. Es muss zu Ihrem Unternehmen passen, nicht umgekehrt. Der Schlüssel für den Erfolg im Mittelstand ist ein pragmatischer und skalierbarer Ansatz. Es geht darum, mit den Maßnahmen zu beginnen, die den größten Nutzen für Ihr individuelles Risikoprofil bringen.
+Es gibt zum Beispiel anerkannte Standards, die speziell für kleine und mittlere Unternehmen entwickelt wurden. Ein hervorragendes Beispiel dafür ist die
+VdS 10000. Dieser Standard ist bewusst niedrigschwellig gehalten und auf einen einfacheren Zertifizierungsprozess ausgelegt. Er bietet einen exzellenten, strukturierten Einstieg, um schnell ein angemessenes Sicherheitsniveau zu erreichen und dies auch nachweisen zu können.
+
+Eine andere, in der Praxis sehr bewährte Methode, ist der Aufbau eines ISMS, das sich zunächst 'nur' an der ISO 27001 orientiert, ohne das Ziel der sofortigen, formellen Zertifizierung. Sie nutzen die international anerkannte Best-Practice-Struktur, um Ihre Sicherheit effektiv und sinnvoll zu verbessern. So profitieren Sie von den meisten Vorteilen, aber mit geringerem initialen Aufwand. Und das Wichtigste: Sie bauen eine Grundlage, die Sie später, falls ein Großkunde es fordert oder Sie es aus strategischen Gründen wollen, jederzeit voll zertifizieren lassen können.
+
+Der richtige Weg ist also immer ein maßgeschneiderter. Es geht darum, anzufangen, die wichtigsten Werte zu schützen und eine widerstandsfähige Basis zu schaffen.
+
+## Folie Abschied
+
+Meine Damen und Herren, damit bin ich am Ende meines Impulsvortrags. Ich danke Ihnen herzlich für Ihre Zeit und Ihre Aufmerksamkeit.
+Ich hoffe, ich konnte Ihnen eine neue Perspektive darauf geben, dass Informationssicherheit kein notwendiges Übel oder reines Kostenthema ist, sondern eine strategische Chance – eine Chance, um Ihr Unternehmen widerstandsfähiger, wettbewerbsfähiger und letztlich wertvoller zu machen.
+Der erste Schritt ist oft der entscheidende. Wenn Sie darüber nachdenken, wie ein pragmatischer und maßgeschneiderter Weg für Ihr Unternehmen aussehen könnte, dann lade ich Sie herzlich ein: Lassen Sie uns sprechen.
+Meine Kontaktdaten finden Sie hier auf der Folie. Rufen Sie mich an, schreiben Sie mir eine E-Mail oder sprechen Sie mich einfach direkt hier im Anschluss an die Veranstaltung an.
