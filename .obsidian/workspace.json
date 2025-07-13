@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/personal-knowledge-os.md",
+                "file": "lib/personal/Askirom-Shadowbolt-v2025-07-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "personal-knowledge-os"
+              "title": "Askirom-Shadowbolt-v2025-07-12"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "personal knowledge os",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,6 +212,14 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "etc/personal-knowledge-os.md",
+    "lib/uncategorized/dionysos-bacchus.md",
+    "lib/technology/system-configuration-setup.md",
+    "lib/productivity/the-science-of-expert-intuition.md",
+    "lib/people/tobias-krueger.md",
+    "lib/people/silke-lilienberger-hauke.md",
+    "lib/people/gronkh.md",
+    "lib/gaming/cubic-odyssey.md",
     "var/log/daily/2025-07-13.md",
     "rename_files_v3.py",
     "lib/productivity/vim-quicksheet.md",
@@ -232,14 +239,6 @@
     "lib/reference/location-infos.md",
     "lib/reference/nis2-vorbereitungs-fragebogen.md",
     "lib/reference/richtlinie-funktionsweise-des-isms.md",
-    "lib/reference/2025-04-28-update-news-gemeinsame-zusammenarbeit.md",
-    "lib/reference/produkte-secudor-2025.md",
-    "lib/reference/isms-richtlinie-funktionsweise-is-200-format.md",
-    "lib/reference/sprecherkreis-fulda-2025.md",
-    "lib/reference/avv-prfungen.md",
-    "lib/legal/neuer-referentenentwurf-von-02062025.md",
-    "lib/software-licenses/index-licenses.md",
-    "lib/software-licenses/sublime-text-merge-license.md",
     "rename_files_v2.py",
     "rename_files.py",
     "test.org",

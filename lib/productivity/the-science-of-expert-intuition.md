@@ -1,6 +1,6 @@
 ---
 id: The_Science_of_Expert_Intuition
-aliases: []
+aliases: [202507082366]
 tags: []
 type: reference
 topic: personal

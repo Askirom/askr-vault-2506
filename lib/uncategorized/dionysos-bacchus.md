@@ -1,6 +1,6 @@
 ---
 id: Dionysos_Bacchus
-aliases: []
+aliases: [202507082359]
 tags: []
 type: reference
 topic: personal

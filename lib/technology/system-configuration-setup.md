@@ -1,6 +1,6 @@
 ---
 id: system_configuration_setup
-aliases: []
+aliases: [202507082365]
 tags: []
 type: reference
 topic: personal
