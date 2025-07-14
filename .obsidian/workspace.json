@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/units/secud-isms-als-multitool.md",
+                "file": "var/log/daily/2025-07-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "secud-isms-als-multitool"
+              "title": "2025-07-14"
             }
           }
         ]
@@ -213,6 +213,13 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "var/log/meetings/2025-07-14-rcg-digitale-personalakte.md~",
+    "var/log/meetings/2025-07-14-rcg-digitale-personalakte.md",
+    "Vaultmap.yaml.tmp.87728.1752498617433",
+    "var/log/meetings/2025-07-14-rcg-abstimmung-personalakte.md",
+    "var/log/meetings/2025-07-14-rcg-abstimmung-personalakte",
+    "var/units/secud-isms-als-multitool.md",
+    "var/log/daily/2025-07-14.md",
     "var/units/vgalt-on-und-offboarding-vorlage.md",
     "var/units/vgalt-on-und-offboarding-vorlage",
     "var/units/wzvlda-art15-auskunft-margeg.md",
@@ -221,7 +228,6 @@
     "var/log/meetings/2025-07-14-meeting-wzvlda.md",
     "var/units/202507140911.md~",
     "var/units/202507140911.md",
-    "var/units/secud-isms-als-multitool.md",
     "var/units/wzvlda-art15-auskunft-geg",
     "var/tasks.md",
     "var/units/secud-isms-als-multitool",
@@ -230,12 +236,10 @@
     "var/units/rbomn-gdpr-article26-consulting.md.tmp.70599.1752409247200",
     "convert_to_tasks_format.py",
     "etc/templates/tpl-daily-log.md",
-    "migrate_todoist_tasks.py",
     "var/units/bvd-examination-committee.md",
     "var/spool.md",
     "var/units/ekiba-iso27001-isms-implementation.md",
     "etc/personal-knowledge-os.md",
-    "archive/todoist/Todoist backup 2025-07-12 2304 UTC/professional [6c3p2WP973VPMqpG].csv",
     "var/units/assets/ekiba-notfallplan-vorlage.md",
     "CLAUDE.md",
     "wzvlda.md",
@@ -245,10 +249,6 @@
     "lib/personal/personal-knowledge-os.md",
     "lib/uncategorized/dionysos-bacchus.md",
     "lib/technology/system-configuration-setup.md",
-    "lib/productivity/the-science-of-expert-intuition.md",
-    "lib/people/tobias-krueger.md",
-    "lib/people/silke-lilienberger-hauke.md",
-    "lib/people/gronkh.md",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-1-102-o.jpeg",
     "lib/personal/attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-4-5005-c.jpeg",

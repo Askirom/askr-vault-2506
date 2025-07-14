@@ -112,6 +112,7 @@ search_shortcuts:
   workflows: "etc/workflows/"
   daily_notes: "var/log/daily/YYYY-MM-DD.md"
   meetings: "var/log/meetings/[UID].md"
+  latest_meeting: "var/log/meetings/2025-07-14-rcg-abstimmung-personalakte.md"
   reference: "lib/[context]/"
   mocs: "var/cache/maps/"
   spool: "var/spool.md"
