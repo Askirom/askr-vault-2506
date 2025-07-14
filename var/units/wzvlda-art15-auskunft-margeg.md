@@ -9,23 +9,19 @@ tags: []
 ### 1. Identifikation der verarbeiteten Daten
 
 - **Welche Systeme prüfen?**
-  - Kundenverwaltungssystem
-  - Abrechnungssystem
-  - Kassensystem
-  - Mahnwesen
-  - Buchhaltung/Finanzbuchhaltung
-  - Personalverwaltung (falls Mitarbeiter)
+  - [x] Kundenverwaltungssystem, Abrechnungssystem, Kassensystem, Mahnwesenm, Buchhaltung/Finanzbuchhaltung -> cip-kom
   - Archiv/Altakten
 
 - **Welche Datenarten könnten vorliegen?**
-  - Stammdaten (Name, Adresse, Geburtsdatum)
-  - Verbrauchsdaten
-  - Abrechnungsdaten
-  - Zahlungsdaten
-  - Mahnungen/Vollstreckung
-  - Korrespondenz
-  - Zählerdaten
-  - Anschlussdaten
+  - [x] Stammdaten (Name, Adresse, Geburtsdatum)
+  - [x] Verbrauchsdaten
+  - [x] Abrechnungsdaten
+  - [x] Zahlungsdaten
+  - [x] Mahnungen/Vollstreckung
+  - [x] Korrespondenz
+  - [x] Zählerdaten
+  - [x] Anschlussdaten
+  - [x] Bauakten, Bauanträge
 
 ### 2. Verarbeitungszwecke dokumentieren
 
@@ -34,7 +30,6 @@ tags: []
 - Forderungsmanagement
 - Gesetzliche Aufbewahrungspflichten
 - Kundenkommunikation
-- Qualitätssicherung
 
 ### 3. Rechtsgrundlagen zuordnen
 
