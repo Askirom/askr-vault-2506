@@ -4,7 +4,177 @@ aliases: []
 tags: []
 ---
 
-# ISMS als Multitool
+# Sprechernotizen: ISMS als Multitool
+
+## Folie 1: Der Haken – _"Was ist Ihr wertvollstes Gut?"_
+
+- Begrüßung (BVMW-Mitglieder)
+- Frage an das Publikum: **"Was ist Ihr wertvollstes Gut?"**  
+  _(Pause wirken lassen)_
+
+- Nicht nur das Sichtbare: Gebäude, Maschinen, Bilanz.
+- Sondern die tiefere Ebene: die **unsichtbaren Werte**:
+  - Vertrauen der Kunden _(CRM, Kommunikation)_
+  - Innovationskraft der Mitarbeiter _(Wissen, "geheimes Rezept")_
+  - Ansehen / Reputation in der Branche
+
+→ **Diese Werte = Ihr "wahres Gold".**
+
+🎯 **Hook:** Diese stehen heute unter enormem Druck.
+
+---
+
+## Folie 2: Das Problem – _Statistiken & Realität_
+
+- Dieser Druck ist in Zahlen messbar:
+  - **81 %** der Unternehmen betroffen _(BSI/Bitkom)_
+  - Ø-Schaden: **330.000 €**
+  - Geld ist „verbrannt“
+
+- Psychologisch gefährlichster Punkt:  
+  **"Der Irrglaube der Vorbereitung"**
+  - Die Hälfte glaubt, gut vorbereitet zu sein
+  - Aber: Dunkelziffer hoch
+  - **Analogie:** _"Schwelbrand in der Wand"_
+
+→ **Das Problem liegt auch in der internen Organisation.**
+
+🎯 **Übergang:** _"Und genau hier setzt unser strategisches Werkzeug an."_
+
+---
+
+## Folie 3: Die Lösung – _ISMS als Multitool_
+
+- Dieses Werkzeug hat einen Namen: **ISMS**
+  - Kein sperriger Begriff – **"Strategisches Multitool"**
+- Was es **nicht** ist:
+  - Reines IT-Produkt
+  - Staubige Akte im Schrank
+- Was es **ist**:
+  - Lebendiges Management-System _(Plan → Do → Check → Act)_
+  - **Resilience Backbone** – Rückgrat der Widerstandsfähigkeit
+  - Wandel: von Reaktion → zu aktiver Steuerung
+
+🎯 **Übergang:** _"Und bevor wir ins Detail gehen, eine kurze Vorstellung..."_
+
+---
+
+## Folie 4: Ihre Vorstellung – _Wer wir sind_
+
+- **Robin Leitner**, secudor GmbH – Informationssicherheit & Datenschutz
+- Unser Ansatz: **"Resilience Backbone"**
+  - Echte Stabilität braucht die Verbindung aus:
+    1. **Unternehmenssteuerung** _(Strategie, Risiko)_
+    2. **Cybersicherheit** _(Technische Ebene)_
+    3. **Datenschutz** _(Rechtliche Ebene)_
+  - Nicht als Silos, sondern als Einheit  
+    → Das ist die Stärke von **secudor**
+
+🎯 **Übergang:** _"Aus dieser ganzheitlichen Perspektive sehen wir uns jetzt die Funktionen an."_
+
+---
+
+## Folie 5: Die Funktionen – _Die 4 Klingen des Multitools_
+
+1. **Regulatorische Absicherung**
+   - Dschungel aus Vorschriften (DSGVO, NIS2 …)
+   - Systematisch erfüllen & nachweisen → **unternehmerische Souveränität**
+
+2. **Markt & Lieferkette**
+   - Türöffner: Audits & Zertifikate als Eintrittskarte
+   - Schutzschild: Partner-Risiken absichern
+
+3. **Cyberversicherungen**
+   - Beweise statt Fragebogen → **faire Prämien & Rabatte**
+
+4. **Interne Organisation**
+   - Stärkt von innen: klare Strukturen = effizienteres Arbeiten
+   - Fördert eine **Kultur des Vertrauens**
+
+🎯 **Übergang:** _"Wie funktioniert das im Kern?"_
+
+---
+
+## Folie 6: Der Kern – _Die CIA-Ziele_
+
+- Der Antrieb des Multitools: **CIA-Prinzip**
+  1. **Vertraulichkeit** – _Wer darf was sehen?_ (Bsp: Gehaltsliste)
+  2. **Integrität** – _Sind Infos korrekt?_ (Bsp: Bauplan)
+  3. **Verfügbarkeit** – _Können wir arbeiten?_ (Bsp: ERP-System)
+
+→ Wirkt auf alle 4 Bereiche:  
+**Organisation, Physis, Technik, Personal**
+
+🎯 **Übergang:** _"Stellt sich die Frage: Rechnet sich das?"_
+
+---
+
+## Folie 7: Der ROI – _Lohnt sich das?_
+
+- Klare Antwort: **Ja. Es ist eine Investition.**
+- 4 Haupthebel:
+  1. **Neugeschäft gewinnen** – Türen öffnen
+  2. **Audit-Aufwand senken** – Zeit & Geld sparen
+  3. **Bußgelder vermeiden** – Risiko reduzieren
+  4. **Versicherungsrabatte sichern** – Kosten senken
+
+📊 **Benchmark:** BSI/Bitkom →  
+_20 % des IT-Budgets_ fließen idealerweise in ganzheitliche Sicherheit
+
+🎯 **Übergang:** _"Und der Einstieg ist pragmatisch, wie die nächste Folie zeigt."_
+
+---
+
+## Folie 8: Die Skalierbarkeit – _ISMS-Lite & Optionen_
+
+- Wichtige Frage: Immer volle Zertifizierung?  
+  → **Klare Antwort: Nein.**
+
+- Es muss **zum Unternehmen passen:**
+  - **Option A:** _VdS 10000_ – speziell für KMU
+  - **Option B:** _"Angelehnt an ISO 27001"_ – 90 % der Wirkung, weniger Aufwand
+
+→ Der Weg ist **maßgeschneidert.**
+
+🎯 **Übergang:** _"Lassen Sie mich die Vorteile zusammenfassen."_
+
+---
+
+## Folie 9: Die Zusammenfassung – _3 Takeaways_
+
+Wenn Sie nur **3 Dinge** mitnehmen:
+
+1. **Werte schützen & Resilienz steigern**  
+   _Festung um Ruf & Wissen_
+
+2. **Wettbewerbsvorteile schaffen & Wachstum sichern**  
+   _Sicherheit als Verkaufsargument_
+
+3. **Effizienz steigern & Kosten senken**  
+   _Direkter Effekt auf Ihre Bilanz_
+
+🎯 **Fazit:**  
+Werte schützen – Wachstum ermöglichen – Kosten reduzieren
+
+🎯 **Übergang:** _"Die Frage ist also nicht mehr ob, sondern wie man beginnt."_
+
+---
+
+## Folie 10: Abschluss – _"Vielen Dank" & Call-to-Action_
+
+- Danke für Ihre Zeit & Aufmerksamkeit 🙏
+- **Kernbotschaft:** ISMS ist eine **strategische Chance**
+- **Call-to-Action:**  
+  → Der erste Schritt ist entscheidend  
+  → _"Lassen Sie uns sprechen."_
+
+📇 Hinweis auf **Kontaktdaten auf der Folie**
+
+→ Publikum **direkt ansprechen** im Anschluss
+
+**"Vielen Dank."**
+
+# Testfassung: ISMS als Multitool
 
 ## Folie 1
 
@@ -48,7 +218,7 @@ Und dieses strategische Werkzeug hat einen Namen.
 
 [Hier klicken Sie auf Ihre Titel-Folie. Die Wörter "ISMS" und "Problemlöser" sind jetzt groß auf dem Bildschirm sichtbar.]
 
-Wir nennen es ISMS – ein Informationssicherheits-Management-System. Aber bitte, lassen Sie sich von diesem sperrigen, deutschen Begriff nicht abschrecken.
+Wir nennen es ISMS – ein Informationssicherheits-Management-System.
 Ich habe es vorhin das 'strategische Multitool' genannt, und genau das ist es: Ein intelligenter Problemlöser für die komplexen Herausforderungen, die wir gerade gesehen haben.
 Ein ISMS ist kein IT-Produkt, das man im Laden kauft. Es ist auch keine Akte, die im Schrank verstaubt. Es ist ein lebendiges System für Ihr Management. Es gibt Ihnen als Unternehmer eine Methode, eine klare Struktur, um die Sicherheit Ihrer Unternehmenswerte systematisch zu planen, umzusetzen, zu überwachen und kontinuierlich zu verbessern.
 
