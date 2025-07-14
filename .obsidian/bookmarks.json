@@ -9,6 +9,16 @@
       "type": "file",
       "ctime": 1751279551369,
       "path": "01_Nexus/000-Master_Quest_Log.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1752530661693,
+      "path": "var/spool.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1752530672011,
+      "path": "var/tasks.md"
     }
   ]
 }
