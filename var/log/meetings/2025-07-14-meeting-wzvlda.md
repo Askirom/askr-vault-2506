@@ -41,11 +41,20 @@ tags: []
 - cip-kom Auszüge
 - SEPA-Mandat
 
-Welche Daten hat WZV
+### Welche Daten hat WZV
 
 - drei Adressen
 - Name, Vorname
 - Geburtsdatum
 - Personalausweis-Nr.
+- Daten auf Bauanträge
 - Verbrauchsdaten
 - Daten aus E-Mails
+- Bescheid
+- Zustellnachweis
+- Umschlag mit Notizen
+- Einlieferungsbeleg
+- Ausstandsverzeichnis
+- Zustellungsnachweis
+- aktueller Grundbuchauszug -> vllt. verfahrensrelevant
+- Besprechungsprotokoll -> vllt. verfahrensrelevant
