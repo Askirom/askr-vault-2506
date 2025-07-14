@@ -16,3 +16,10 @@ tags: []
 - Summe um die 50000 Euro
 - Forderung durch Gerichtsvollzieher -> Ausstandsverzeichnis mit allen Forderungen
 - Zwangsversteigerung wurde veranlasst
+
+## Vollmacht Behlau
+
+- keine Ausweisung möglich
+- Akteneinsicht -> verweigert
+- auch eskaliert bei einem Gespräch
+- Akteneinsicht wird gewährt
