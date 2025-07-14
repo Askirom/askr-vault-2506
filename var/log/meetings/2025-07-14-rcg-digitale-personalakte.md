@@ -94,13 +94,16 @@ uid: 202507141500
 
 ## Decisions Made
 
+[2025-07-14 15:59] – DECIDE: Analoge Daten sind genauso zu bewerten wie digital und vice versa
+[2025-07-14 16:01] – DECIDE: Datenschutz ist keine Bremse an dieser Stelle
+
 ---
 
 ## Action Items
 
 _External task management - record here for reference_
 
-- [ ]
+- [ ] TODO Prüfen AV-Vertrag Notwendigkeit für ibp 📅 2025-09-30
 
 ---
 
