@@ -23,3 +23,29 @@ tags: []
 - Akteneinsicht -> verweigert
 - auch eskaliert bei einem Gespräch
 - Akteneinsicht wird gewährt
+
+## Beauskunftete Unterlagen
+
+- Abrechnungsbescheide
+- E-Mails
+  - Email-Verkehr bezüglich Verkauf und Kauf
+  - E-Mails zu Bescheid
+- Schriftverkehr
+  - seine Vollmacht
+  - Bescheid und Schreiben
+  - Beschwerdeschreiben
+  - Auskunftsersuchen
+  - Art. 15 Auskunftsersuchen
+  - Zahlung und Mahnung
+- Bauanträge
+- cip-kom Auszüge
+- SEPA-Mandat
+
+Welche Daten hat WZV
+
+- drei Adressen
+- Name, Vorname
+- Geburtsdatum
+- Personalausweis-Nr.
+- Verbrauchsdaten
+- Daten aus E-Mails
