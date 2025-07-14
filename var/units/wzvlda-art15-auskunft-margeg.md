@@ -59,7 +59,6 @@ tags: []
 
 ### 6. Datenherkunft dokumentieren
 
-- Selbst erhoben (Vertragsabschluss)
 - Von Voreigentümern übernommen
 - Von anderen Versorgern übertragen
 - Aus öffentlichen Registern
@@ -67,17 +66,9 @@ tags: []
 ### 7. Betroffenenrechte bewerten
 
 - Gibt es Löschungshindernisse?
+	- Bauhistorie um die Herstellungsbeiträge + Wassergebühren
 - Sind Einschränkungen möglich?
 - Bestehen Widerspruchsmöglichkeiten?
-
-### 8. Besonderheiten Wasserzweckverband
-
-- **Organisationsform klären:**
-  - Körperschaft des öffentlichen Rechts?
-  - Zweckverband nach Landesrecht?
-- **Zuständige Aufsichtsbehörde:**
-  - Landesdatenschutzbeauftragte/r
-  - Kommunalaufsicht
 
 ### 9. Praktisches Vorgehen
 
@@ -93,9 +84,7 @@ tags: []
 - Bei Verweigerung: Begründung dokumentieren
 - Bei Fristverlängerung: Mitteilung an Betroffenen
 
-# Bayerische Rechtsgrundlagen für Wasserzweckverbände
-
-## 1. Bayerische Spezialgesetze
+#  1. Bayerische Spezialgesetze
 
 ### Bayerisches Ausführungsgesetz zum Wasserverbandsgesetz (BayAGWVG)
 
