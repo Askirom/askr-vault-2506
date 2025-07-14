@@ -120,7 +120,7 @@ This means:
 - `- [ ] TODO Draft project proposal 📅 2025-07-15` → managed by Tasks plugin
 
 **Master task view:**
-Create `/var/TASKS.md` with queries to see all work:
+Create `/var/tasks.md` with queries to see all work:
 
 ````markdown
 # Task Overview
@@ -171,10 +171,10 @@ scheduled on today
 
 **Intentional planning approach** - you choose your focus rather than being driven by automated systems.
 
-1. **Weekly Review:** Check `/var/TASKS.md` to see all open work
+1. **Weekly Review:** Check `/var/tasks.md` to see all open work
 2. **Daily Planning:** Consciously select 2-3 tasks for today
 3. **Execution:** Work from your chosen tasks, log progress in `/var/units/` files
-4. **Capture:** Quick thoughts go to `/var/SPOOL.md` for later processing
+4. **Capture:** Quick thoughts go to `/var/spool.md` for later processing
 5. **Sync:** Commit changes to git regularly
 
 ---
