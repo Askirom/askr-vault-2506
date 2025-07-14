@@ -35,7 +35,7 @@ tags: []
 
 - Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)
 - Art. 6 Abs. 1 lit. c DSGVO (rechtliche Verpflichtung)
-- Art. 6 Abs. 1 lit. f DSGVO (berechtigte Interessen)
+- Art. 6 Abs.1 lit. e DSGVO (öffentliche Aufgabe)
 - Landeswassergesetze
 - Kommunalabgabengesetze
 
