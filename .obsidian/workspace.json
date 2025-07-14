@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -214,6 +213,8 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
+    "var/units/vgalt-on-und-offboarding-vorlage.md",
+    "var/units/vgalt-on-und-offboarding-vorlage",
     "var/units/wzvlda-art15-auskunft-margeg.md",
     "var/log/meetings/2025-07-14-meeting-wzvlda.md~",
     "var/units/wzvlda-art15-auskunft-geg.md",
@@ -235,7 +236,6 @@
     "var/units/ekiba-iso27001-isms-implementation.md",
     "etc/personal-knowledge-os.md",
     "archive/todoist/Todoist backup 2025-07-12 2304 UTC/professional [6c3p2WP973VPMqpG].csv",
-    "archive/todoist/Todoist backup 2025-07-12 2304 UTC/personal [6c3p348rv3CXhJ39].csv",
     "var/units/assets/ekiba-notfallplan-vorlage.md",
     "CLAUDE.md",
     "wzvlda.md",

@@ -201,35 +201,4 @@ This creates a searchable history of all work across projects.
 
 ---
 
-## 8 · What This Eliminates
-
-**Removed complexity from v2.0:**
-
-- ❌ UID-based file naming (use descriptive names)
-- ❌ External service mirroring (`/var/lib/todoist/`)
-- ❌ Automated promotion scripts (capture directly to right place)
-- ❌ Complex folder hierarchy (simplified to 4 main folders)
-- ❌ systemd terminology (use plain language)
-- ❌ Rigid status lifecycles (just active/archived)
-- ❌ Separate daily logs (log in project files)
-
-**What remains:**
-
-- ✅ Everything as files
-- ✅ Git version control
-- ✅ Action logging
-- ✅ Project-based organization
-- ✅ Cross-platform accessibility
-
----
-
-## 9 · Setup Checklist
-
-- [ ] Install Obsidian and Tasks plugin
-- [ ] Create folder structure in git repository
-- [ ] Set up `TASKS.md` with task queries
-- [ ] Configure Obsidian mobile app
-- [ ] Create project and note templates
-- [ ] Test git sync workflow
-
 **Philosophy:** Start simple, add complexity only when you prove you need it.
