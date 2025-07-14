@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/units/secud-isms-als-multitool.md",
+                "file": "var/units/wzvlda-art15-auskunft-margeg.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "secud-isms-als-multitool"
+              "title": "wzvlda-art15-auskunft-margeg"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isms als multitool",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,10 +222,10 @@
   },
   "active": "d72d21f462d15fd7",
   "lastOpenFiles": [
-    "var/units/wzvlda-art15-auskunft-geg.md",
+    "var/units/secud-isms-als-multitool.md",
+    "var/units/wzvlda-art15-auskunft-margeg.md",
     "var/units/wzvlda-art15-auskunft-geg",
     "var/tasks.md",
-    "var/units/secud-isms-als-multitool.md",
     "var/units/secud-isms-als-multitool",
     "var/log/daily/2025-07-13.md",
     "var/tasks.md.tmp.71481.1752409696382",
