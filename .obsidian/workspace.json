@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2025-07-15 00-05-56.md",
+                "file": "var/log/meetings/2025-07-15-ara-arcd-datenschutzunterweisung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks Plugin - Review and check your Statuses 2025-07-15 00-05-56"
+              "title": "2025-07-15-ara-arcd-datenschutzunterweisung"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "52018af9cd6138ae",
   "lastOpenFiles": [
-    "Untitled.md",
     "Tasks Plugin - Review and check your Statuses 2025-07-15 00-05-56.md",
+    "var/log/meetings/2025-07-15-ara-arcd-datenschutzunterweisung.md",
+    "Untitled.md",
     "Tasks Plugin - Review and check your Statuses 2025-07-15 00-05-55.md",
     "Tasks Plugin - Review and check your Statuses 2025-07-15 00-05-51.md",
     "var/spool.md",
@@ -264,7 +265,6 @@
     "etc/personal-knowledge-os.md",
     "var/units/assets/ekiba-notfallplan-vorlage.md",
     "CLAUDE.md",
-    "wzvlda.md",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-1-102-o.jpeg",
     "lib/personal/attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-4-5005-c.jpeg",
