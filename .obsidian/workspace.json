@@ -230,6 +230,7 @@
   },
   "active": "52018af9cd6138ae",
   "lastOpenFiles": [
+    "var/log/daily/2025-07-16.md",
     "var/units/gela-lohmann-beratung-pc.md",
     "var/units/gela-lohmann-beratung-pc",
     "var/units/assets/empic-vds-10000-documents/is-200-isms-richtlinie.md",
@@ -265,7 +266,6 @@
     "var/log/daily/2025-07-13.md",
     "etc/templates/tpl-daily-log.md",
     "var/units/bvd-examination-committee.md",
-    "var/units/ekiba-iso27001-isms-implementation.md",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-1-102-o.jpeg",
     "lib/personal/attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-4-5005-c.jpeg",
