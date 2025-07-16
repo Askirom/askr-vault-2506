@@ -12,7 +12,7 @@ tags: []
 
 ## Ziel und Zweck
 
-## Geltungsbereich oder Zielgruppe
+## Geltungsbereich
 
 ## Verantwortlichkeiten
 
@@ -21,5 +21,9 @@ tags: []
 ## Konsequenzen bei Nichtbeachtung
 
 ## Ausnahmeregelungen
+
+## Überprüfung und Verbesserung
+
+## Gültigkeit
 
 ## Weiterführende Dokumente
