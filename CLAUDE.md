@@ -1,3 +1,9 @@
+---
+id: CLAUDE
+aliases: []
+tags: []
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code when working with this repository.
@@ -26,7 +32,7 @@ Tasks use Obsidian Tasks plugin with `TODO` as global filter:
 
 - **Work tasks**: `- [ ] TODO Task description 📅 2025-07-15 ⏫`
 - **Casual checklists**: `- [ ] Buy groceries` (ignored by Tasks plugin)
-- **System files**: 
+- **System files**:
   - `/var/tasks.md` - Master task overview
   - `/var/spool.md` - System inbox
 
@@ -68,3 +74,4 @@ Tasks use Obsidian Tasks plugin with `TODO` as global filter:
 ---
 
 _For complete PKM-OS documentation, see: `etc/personal-knowledge-os.md`_
+

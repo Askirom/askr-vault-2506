@@ -1,11 +1,17 @@
 ---
 id: spool
-aliases:
-  - System Inbox
+aliases: []
 tags: []
-created: 2025-07-11
-type: SPOOL
 ---
+
+id: spool
+aliases:
+
+- System Inbox
+  tags: []
+  created: 2025-07-11
+
+## type: SPOOL
 
 # PKM-OS System Spool (Inbox)
 
