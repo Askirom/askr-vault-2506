@@ -22,7 +22,15 @@
 	 - 2x 85“ Hisense Displays
 	 - Samsung Flip Pro 65
 	 - HDMI Splitter
+- Preis bei den Komponenten:
+	- Flip Pro 65 —> 2.500 Euro
+	- Angebot für 30.000 Euro
+	- 14.000 Euro für die Einrichtung
 - Online-Teilnehmer sollen den Gesprächsfluss auch folgen können
 - Copilot ist integriert
 	- Lizenz M365 Copilot für Raum unklar
-	- 
+	- Room Pro und Room Basic sind zwei unterschiedliche Lizenzen
+	- 1 Lizenz schon kostenlos dabei
+- was passiert wenn es viel mehr Gespräche im Raum gibt?
+- Wie ist die technische Sicherheit sichergestellt
+- 
