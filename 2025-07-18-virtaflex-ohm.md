@@ -1,0 +1,28 @@
+## Rückblick
+- Technik in hybriden Meetings
+	- Nicht nur zuschauen sondern Teilhabe
+- Remote-Teilnehmer brauchen gute Ausstattung
+- Moderation in hybriden Meetings
+	- Was muss wann gemacht werden
+## Ziel heute
+- Vorstellung unseres neuen Meetingsetups
+- Team-Größe ca 13 Personen
+- Telearbeit: ~20 % der Besprechungsteilnehmer
+- Externe Gastrecdner etc sollen auch z.B. durch MS-Teams teilnehmen können
+- Warum: Logitech, MS-Teams Rooms?
+	- low entry config
+	- Intel NUC
+	- Mit Microsoft Teams Rooms iso
+- “Hybrid erzeugt das schlechte aus beiden Weltern“
+ - keine feste Installation
+	 - Logitech Rally Bar 
+	 - Logitech Sight & Mic Pod
+	 - Logitech Tap & Swytch
+	 - Mini PC mit Windows MTR Pro Lizenz
+	 - 2x 85“ Hisense Displays
+	 - Samsung Flip Pro 65
+	 - HDMI Splitter
+- Online-Teilnehmer sollen den Gesprächsfluss auch folgen können
+- Copilot ist integriert
+	- Lizenz M365 Copilot für Raum unklar
+	- 
