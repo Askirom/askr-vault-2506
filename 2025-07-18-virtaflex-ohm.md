@@ -33,4 +33,4 @@
 	- 1 Lizenz schon kostenlos dabei
 - was passiert wenn es viel mehr Gespräche im Raum gibt?
 - Wie ist die technische Sicherheit sichergestellt
-- 
+- Hybrider Hörsaal kann mal gezeigt werden
