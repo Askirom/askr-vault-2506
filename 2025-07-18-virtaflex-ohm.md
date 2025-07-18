@@ -24,8 +24,8 @@
 	 - HDMI Splitter
 - Preis bei den Komponenten:
 	- Flip Pro 65 —> 2.500 Euro
-	- Angebot für 30.000 Euro
-	- 14.000 Euro für die Einrichtung
+	- Angebot für 30.000 Euro bei Einrichtung durch Webex
+	- 14.000 Euro für die Einrichtung bei Selbsteinkauf
 - Online-Teilnehmer sollen den Gesprächsfluss auch folgen können
 - Copilot ist integriert
 	- Lizenz M365 Copilot für Raum unklar
