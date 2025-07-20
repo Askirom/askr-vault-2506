@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/log/daily/2025-07-17.md",
+                "file": "var/log/daily/2025-07-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "2025-07-20"
             }
           }
         ]
@@ -213,10 +213,11 @@
   },
   "active": "18a6678586505eaa",
   "lastOpenFiles": [
+    "var/log/daily/2025-07-17.md",
+    "var/log/daily/2025-07-20.md",
     "2025-07-18-virtaflex-ohm.md",
     "var/log/daily/2025-07-18.md",
     "var/log/daily/2025-07-16.md",
-    "var/log/daily/2025-07-17.md",
     "02_Daily/2025-07-16.md",
     "02_Daily",
     "var/units/secud-isms-als-multitool.md",
@@ -247,7 +248,6 @@
     "obsidian-config-fixed.lua",
     "var/log/meetings/202507111000-rcg-jourfixe-aho.md",
     "var/log/meetings/antwortmail-an-christian-wolf-2025-06-30.md",
-    "var/log/daily/2025-07-14.md",
     "var/log/meetings/2025-07-14-rcg-digitale-personalakte.md~",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-1-102-o.jpeg",
