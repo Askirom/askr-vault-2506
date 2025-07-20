@@ -62,6 +62,7 @@ type: REFERENCE
 | Email & Calendar | Microsoft Outlook      | Native M365 client. Keeps work context fully sandboxed     |
 | Chat & Meetings  | Microsoft Teams        | Fully integrated client for work environment               |
 | Browser          | Firefox (Work Profile) | Sandbox for work-related web activity via browser profiles |
+| Office           | MS Office 365          | forced by employer                                         |
 
 ### Mobile Stack (iOS/iPadOS)
 
@@ -76,10 +77,15 @@ type: REFERENCE
 
 ## Utility Apps
 
-| Function         | Application           | Rationale                                                                        |
-| ---------------- | --------------------- | -------------------------------------------------------------------------------- |
-| Terminal         | Fastmail Web App      | Native client. Superior architecture (JMAP) & full integration                   |
-| Notes & PKM      | Obsidian              | Core "file system" and "memory" of the PKM-OS. Entity-based project organization |
-| Tasks & Schedule | Obsidian Tasks Plugin | External Scheduler (Layer 4).                                                    |
-| Browser          | Firefox               | Openness and freedom of usage on all plattforms                                  |
-| Passwords        | 1Password             | Best-in-class credential manager                                                 |
+| Function | Application                | Rationale                                                                                       |
+| -------- | -------------------------- | ----------------------------------------------------------------------------------------------- |
+| Terminal | Kitty (or Wezterm)         | same config and installation on all plattforms                                                  |
+| Editor   | Neovim (considering Emacs) | feels the most reliable and also because of the hype maybe more plugins and problems get solved |
+| Shell    | zsh                        | compatibility with scripting                                                                    |
+| VPN      | Mullvad                    |                                                                                                 |
+| Banking  | C24                        | Mobile only                                                                                     |
+
+# Considerations
+
+- Syncthing or Git integration on mobile(as native as could be)
+- if swapping to EMACS then mobile orgmode
