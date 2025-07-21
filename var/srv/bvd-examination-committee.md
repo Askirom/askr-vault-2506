@@ -1,34 +1,34 @@
 ---
-kind: PROJECT
-status: ACTIVE
-slice: NETWORK
-description: "BVD Examination Committee"
-aliases: ["BVD Examination Committee"]
-requires: []
-wants: []
+id: bvd-examination-committee
+aliases:
+  - BVD Examination Committee
+tags: []
 created: 2025-07-08
-uid: 202507082390
-uuid: 202507082390
+description: BVD Examination Committee
+kind: HUB
+requires: []
+slice: NETWORK
+status: ACTIVE
+wants: []
 ---
 
 # BvD Prüfaufgaben
 
 ## ✔️ Tasks
 
-
-
 ---
 
 ## 📝 Action Log & Tasks
 
-
 ---
+
 ## 💬 Meeting Notes & Communication
+
 - [[202507102306]]
 
 ---
-## 📎 Key Documents
 
+## 📎 Key Documents
 
 ## Current Tasks
 
