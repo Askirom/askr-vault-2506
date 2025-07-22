@@ -1,8 +1,9 @@
 ---
-uid: Askirom-Shadowbolt-v2025-07-12
 type: REFERENCE
 topic: personal
-aliases: ["Askirom Character Sheet", "Shadow Bolt Archetype"]
+aliases:
+  - Askirom Character Sheet
+  - Shadow Bolt Archetype
 created: 2025-07-12
 ---
 
