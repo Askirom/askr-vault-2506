@@ -214,6 +214,7 @@
   },
   "active": "18a6678586505eaa",
   "lastOpenFiles": [
+    "var/log/daily/2025-07-23.md",
     "var/spool/jobs/wzvld-anleitung-hidrive.md",
     "var/srv/wzvld-auskunft-margeg.md",
     "var/spool/jobs/assets/Pasted image 20250722165909.png",
@@ -245,7 +246,6 @@
     "lib/wzvlda-art15-auskunft-margeg.md",
     "lib/vgalt-on-und-offboarding-vorlage.md",
     "var/spool/jobs/vertraulichkeit-2025-audit-package.md",
-    "var/spool/jobs/vedes-vds10000-certification.md",
     "var/spool/jobs",
     "var/spool",
     "var/srv",
