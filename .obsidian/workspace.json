@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/log/daily/2025-07-21.md",
+                "file": "var/tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-21"
+              "title": "tasks"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "18a6678586505eaa",
   "lastOpenFiles": [
+    "var/log/daily/2025-07-21.md",
     "var/log/daily/2025-07-23.md",
     "var/spool/jobs/wzvld-anleitung-hidrive.md",
     "var/srv/wzvld-auskunft-margeg.md",
@@ -244,7 +245,6 @@
     "lib/ekiba-notfallplan-vorlage.md",
     "lib/wzvlda-art15-auskunft-margeg.md",
     "lib/vgalt-on-und-offboarding-vorlage.md",
-    "var/spool/jobs/vertraulichkeit-2025-audit-package.md",
     "var/spool/jobs",
     "var/spool",
     "var/srv",

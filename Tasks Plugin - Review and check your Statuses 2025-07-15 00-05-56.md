@@ -143,7 +143,7 @@ If you have modified the sample tasks since they were created, you can see the c
 
 - [ ] TODO Sample task 1: status symbol=`space` status name='Todo'
 - [x] TODO Sample task 2: status symbol=`x` status name='Done'
-- [/] TODO Sample task 3: status symbol=`/` status name='In Progress'
+- [x] TODO Sample task 3: status symbol=`/` status name='In Progress' ✅ 2025-07-23
 - [-] TODO Sample task 4: status symbol=`-` status name='Cancelled'
 - [>] TODO Sample task 5: status symbol=`>` status name='Rescheduled'
 - [<] TODO Sample task 6: status symbol=`<` status name='Scheduled'
