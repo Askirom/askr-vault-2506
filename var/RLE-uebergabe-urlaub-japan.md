@@ -110,14 +110,20 @@
 ### Projekt 13: Gemeinde Polsingen
 - **Aktuelle Phase**: Vertraulichkeit 2025 bereitstellen  
 - **Nächste Schritte**: Dienstanweisung bereitstellen, abstimmen, Vertraulichkeit formulieren
-
+#### Todo
+- im August nichts
 ### Projekt 14: Mory
 - **Aktuelle Phase**: Vertraulichkeit 2025, CRC Audit  
 - **Nächste Schritte**: CRC-Maßnahmen definieren, Auditvorstellung nächste Woche
-
+- Kontakt: Bernd Inderst, Rainer Mory
+#### Todo
+- im August noch nichts konkretes
 ### Projekt 15: Polster Möbel Fischer
 - **Aktuelle Phase**: Vertraulichkeit 2025, VVT  
 - **Nächste Schritte**: Termine mit Ansprechpartner abstimmen, Feedback von Marketing bzgl. Web-Tools
+- Kontakt: Verena Leonhardt
+#### Todo
+- Anschreiben der Kontakte aus VVT zu Abstimmungsterminen
 
 ### Projekt 16: RB Omnishore
 - **Aktuelle Phase**: Vertraulichkeit 2025, VVT, Art. 26 DSI  
@@ -125,9 +131,32 @@
 - **Notizen**:  
   - Kontakt: Jan Phillip Scheler (Jan_phillip.scheler@rb-omnishore.de)  
   - Daten im SharePoint RB Omnishore
-
+#### Todo
+- Keine konkrete Todo
 ---
 
+## Florian Betz
+|                               |                 |         |
+| ----------------------------- | --------------- | ------- |
+| Tätigkeit                     |                 | Tage    |
+| Aprendor                      |                 |         |
+|                               | Administration  | 2       |
+|                               | neue Vorlagen   | 0,5     |
+|                               | Berichte        | 1       |
+| Unterweisungsunterlagen       |                 |         |
+|                               | Datenschutz     | 4       |
+|                               | CyberSicherheit | 4       |
+| Abstimmung ARA ARCD - Siedler |                 | 1       |
+| ~~Abstimmung M365 mit SLH~~   |                 | ~~0,5~~ |
+| Moodle Datenbank bereinigen   |                 | 1       |
+| Vorlagen aufräumen            |                 | 1       |
+| DSMS 4.0                      |                 | 2       |
+| Moodle aufräumen              |                 | 2       |
+| Logo                          |                 | 2       |
+| LinkedIn-Banner               |                 | 1       |
+| Phishing als Produkt          |                 | 2       |
+|                               |                 | 24      |
+|                               |                 |         |
 ## Besondere Hinweise
 
 - Während Japan-Aufenthalt: **Sehr begrenzte Erreichbarkeit**
