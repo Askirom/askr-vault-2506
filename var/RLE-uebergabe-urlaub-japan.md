@@ -80,7 +80,8 @@
 - **Notizen**:
   - Ansprechpartner: Meryl Gall (M.Gall@clientfocus.de, +49 160 97790023)  
   - SharePoint aktuell nicht funktional, IT-Ansprechpartner im Urlaub
-
+#### Todo
+- Im September nach Beantwortung von H&C
 ### Projekt 10: INSTO Audit Dienstleister
 - **Aktuelle Phase**: Legitimationsvorlage gesendet  
 - **Nächste Schritte**:
@@ -90,19 +91,22 @@
 - **Notizen**:
   - Ablage im internen Team  
   - Kontakt: Uwe Kirchgessner
-
+#### Todo
+- AV-Prüfung -> Joachim, Silke 
 ### Projekt 11: INSTO VVT
 - **Aktuelle Phase**: Anfrage bei INSTO  
 - **Nächste Schritte**: Statusprüfung VVT, Interview mit Ansprechpartnern  
 - **Notizen**:  
   - Vorliegende Dokumente sind unvollständig/veraltet
-
+#### Todo
+- Umstellen auf neues Template des VVTs
 ### Projekt 12: Kommunen Datenschutz
 - **Aktuelle Phase**: VGALT-Dienstanweisung übertragen, Datenschutzinfos der Gemeinden anpassen  
 - **Nächste Schritte**: Prüfung vorliegender DSIs (Stadt Pappenheim, VGALT)  
 - **Notizen**:  
   - DSIs liegen in HiDrive/SharePoint
-
+#### Todo
+- Anfragenbearbeitung
 ### Projekt 13: Gemeinde Polsingen
 - **Aktuelle Phase**: Vertraulichkeit 2025 bereitstellen  
 - **Nächste Schritte**: Dienstanweisung bereitstellen, abstimmen, Vertraulichkeit formulieren
