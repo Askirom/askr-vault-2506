@@ -17,6 +17,8 @@
 - **Dokumente**:
   - Sharepoint unter Cybersicherheit > T1.0 ISMS, Prefix EKIBA  
   - Bei dringenden Fällen: Yannick über Teams kontaktieren
+#### Todo
+- Keine
 
 ### Projekt 2: EH Freiburg ISMS
 - **Aktuelle Phase**: Angebot zu Phase 2 abgegeben, Rückmeldung offen  
@@ -24,28 +26,33 @@
 - **Notizen**:
   - Im Sharepoint der EKIBA
   - Ansprechpartner: Simone Dinkelaker (simone.dinkelaker@eh-freiburg.ekiba.de)
-
+#### Todo
+- Arbeit start ab September
 ### Projekt 3: EMPIC
 - **Aktuelle Phase**: Update der Dokumente in IS-2xx und IS-3xx  
 - **Nächste Schritte**: Abstimmungstermin IS-Dokumente mit EMPIC im September  
 - **Notizen**:
   - [EMPIC Confluence](https://info.empic.de)
   - Ansprechpartner: Uwe Flaton (uwe.flaton@empic.aero), Dennis Poetz (dennis.poetz@empic.aero)
-
+#### Todo
+- ab September
 ### Projekt 4: VGALT
 - **Aktuelle Phase**: Erstellung On-/Offboarding Checkliste  
 - **Nächste Schritte**: Template Checkliste erstellen + Abstimmung, Veröffentlichung Dienstanweisung Datenschutz  
 - **Notizen**:
   - [HiDrive](https://hidrive.ionos.de)
   - Ansprechpartner: Christian Wittmann (c.wittmann@vgem-altmuehltal.de)
+#### Todo
+- Kein Handlungsbedarf bis September
 
 ### Projekt 5: GOSME
 - **Aktuelle Phase**: Updates DSI-Bewerber, AV-Liste, VVT; Status publer.io  
 - **Nächste Schritte**: Abschluss VVT Bewerbermanagement, Erstellung DSI-Bewerber  
 - **Notizen**:
   - Im Sharepoint der Gossen Metrawatt  
-  - Ansprechpartner: Ralph Kölle (Ralph.Koelle@gossenmetrawatt.com), HR: Danijel Mozgon (Danijel.Mozgon@gossenmetrawatt.com)
-
+  - Ansprechpartner: Ralph Kölle (Ralph.Koelle@gossenmetrawatt.com), RH: Danijel Mozgon (Danijel.Mozgon@gossenmetrawatt.com)
+#### Todo
+- regelmäßige Prüfung des Postfachs -> Joachim Hader
 ### Projekt 6: RCG
 - **Aktuelle Phase**: Folgt nach Termin mit Adrian
 
@@ -53,9 +60,10 @@
 - **Aktuelle Phase**: Intune-Einführung geplant, TOMs-Audit ausstehend, VVT muss aktualisiert werden  
 - **Nächste Schritte**: VVT-Update, Ansprechpartner kontaktieren, Anfrage zu TOMs-Audit  
 - **Notizen**:
-  - Letzter Kontaktversuch: 20.05.2025  
+  - Letzter Kontaktversuch: 20.05.2025 an Guido Lepkes 
     > Hallo Guido, ich wollte mich mal wieder bei dir melden und einen Termin für einen kurzen Austausch vorschlagen. …
-
+#### Todo
+- Thomas Degenhardt kontaktieren und Situation abstimmen -> Joachim Hader
 ### Projekt 8: ARA / ARCD
 - **Aktuelle Phase**: Unterweisung 2025, Löschfristen  
 - **Nächste Schritte**: Feedback zur Löschfristenliste, finale Abstimmung  
@@ -64,7 +72,8 @@
   - Plattformen:
     - ARA: [nextcloud.ara-assistance.de](https://nextcloud.ara-assistance.de)  
     - ARCD: [cloud.arcd.de](https://cloud.arcd.de)
-
+#### Todo
+- ARA Unterweisung abstimmen -> Silke Lilienberger-Hauke, Florian Betz
 ### Projekt 9: Clientfocus
 - **Aktuelle Phase**: Fragebogen für Dienstleister Horn & Cosifan  
 - **Nächste Schritte**: Anschreiben formulieren, Antworten bewerten, Risikobewertung abschließen  
