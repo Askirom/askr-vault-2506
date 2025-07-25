@@ -102,7 +102,7 @@
 - **Aktuelle Phase**: Vertraulichkeit 2025, CRC Audit  
 - **Nächste Schritte**: CRC-Maßnahmen definieren, Auditvorstellung nächste Woche
 
-### Projekt 15: Polster Möbel Fischer
+##  Projekt 15: Polster Möbel Fischer
 - **Aktuelle Phase**: Vertraulichkeit 2025, VVT  
 - **Nächste Schritte**: Termine mit Ansprechpartner abstimmen, Feedback von Marketing bzgl. Web-Tools
 
