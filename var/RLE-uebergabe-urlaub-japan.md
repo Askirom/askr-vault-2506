@@ -56,7 +56,8 @@
 ### Projekt 6: RCG
 - **Aktuelle Phase**: Erstellung KI-Vorgaben, Update DSMS, Regelungen zu TIA und SCCs Marokko und Albanien
 - Nächste Schritte: Abschluss SCCs Marokko und Albanien, Angebote für RC TY, Vertragswerke für RC TY (Thyssenkrupp)
-- 
+#### Todo 
+- Bitte hier direkt mit Adrian nach Priorität abstimmen. Grundsätzlich sind produktive Tasks auf September verschoben 
 
 ### Projekt 7: 34digital
 - **Aktuelle Phase**: Intune-Einführung geplant, TOMs-Audit ausstehend, VVT muss aktualisiert werden  
@@ -87,7 +88,7 @@
 ### Projekt 10: INSTO Audit Dienstleister
 - **Aktuelle Phase**: Legitimationsvorlage gesendet  
 - **Nächste Schritte**:
-  - Kunde muss unterschriebenes Legitimationsschreiben + AV-Verträge + Unternehmen nennen  
+  - Kunde muss unterschriebenes Legitimationsschreiben + AV-Verträge + Unternehmen nennen   -> Legitimationsschreiben und benannte Unternehmen liegen vor. 
   - Anschreiben an Unternehmen mit AV-Prüfung-Anschreiben  
   - Prozess dokumentieren (z.B. Ansprechpartner, Unterschriften etc.)
 - **Notizen**:
