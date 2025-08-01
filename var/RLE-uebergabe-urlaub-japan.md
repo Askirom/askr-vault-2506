@@ -56,6 +56,7 @@
 ### Projekt 6: RCG
 - **Aktuelle Phase**: Erstellung KI-Vorgaben, Update DSMS, Regelungen zu TIA und SCCs Marokko und Albanien
 - Nächste Schritte: Abschluss SCCs Marokko und Albanien, Angebote für RC TY, Vertragswerke für RC TY (Thyssenkrupp)
+- 
 
 ### Projekt 7: 34digital
 - **Aktuelle Phase**: Intune-Einführung geplant, TOMs-Audit ausstehend, VVT muss aktualisiert werden  
