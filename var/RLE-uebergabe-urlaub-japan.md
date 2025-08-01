@@ -27,7 +27,7 @@
   - Im Sharepoint der EKIBA
   - Ansprechpartner: Simone Dinkelaker (simone.dinkelaker@eh-freiburg.ekiba.de)
 #### Todo
-- Arbeit start ab September
+- Arbeit Start ab September
 ### Projekt 3: EMPIC
 - **Aktuelle Phase**: Update der Dokumente in IS-2xx und IS-3xx  
 - **Nächste Schritte**: Abstimmungstermin IS-Dokumente mit EMPIC im September  
@@ -54,7 +54,8 @@
 #### Todo
 - regelmäßige Prüfung des Postfachs -> Joachim Hader
 ### Projekt 6: RCG
-- **Aktuelle Phase**: Folgt nach Termin mit Adrian
+- **Aktuelle Phase**: Erstellung KI-Vorgaben, Update DSMS, Regelungen zu TIA und SCCs Marokko und Albanien
+- Nächste Schritte: Abschluss SCCs Marokko und Albanien, Angebote für RC TY, Vertragswerke für RC TY (Thyssenkrupp)
 
 ### Projekt 7: 34digital
 - **Aktuelle Phase**: Intune-Einführung geplant, TOMs-Audit ausstehend, VVT muss aktualisiert werden  
