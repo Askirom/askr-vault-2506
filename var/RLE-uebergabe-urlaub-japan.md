@@ -88,7 +88,7 @@
 ### Projekt 10: INSTO Audit Dienstleister
 - **Aktuelle Phase**: Legitimationsvorlage gesendet  
 - **Nächste Schritte**:
-  - Kunde muss unterschriebenes Legitimationsschreiben + AV-Verträge + Unternehmen nennen   -> Legitimationsschreiben und benannte Unternehmen liegen vor. 
+  - Kunde muss unterschriebenes Legitimationsschreiben + AV-Verträge + Unternehmen nennen   -> Legitimationsschreiben und benannte Unternehmen liegen vor und sind im InfraStor-Team zu finden. AV-Verträge wurden angefragt aber noch nicht bereitgestellt
   - Anschreiben an Unternehmen mit AV-Prüfung-Anschreiben  
   - Prozess dokumentieren (z.B. Ansprechpartner, Unterschriften etc.)
 - **Notizen**:
