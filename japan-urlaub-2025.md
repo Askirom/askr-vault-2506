@@ -1,0 +1,16 @@
+## Flug nach Japan :ATTACH:
+:PROPERTIES:
+:ID: 9d1dee42-d988-48af-b375-32008df8d2b3
+:TICKET-NO: 1312141104514
+:TICKET-AIRLINE: JAPAN AIRLINES
+:FLIGHT-NO-TO: JL0408
+:FLIGHT-NO-FROM: JL0407
+:END:
+[[attachment:ITR39701925.pdf]] [[attachment:ITR39701902.pdf]]
+# OSAKA WorldExpo
+## Tickets :ATTACH:
+attachment:WorldExpoTicketsWeekday.pdf]]
+:PROPERTIES:
+:ID:       d4b42f01-7602-4b50-bc54-b7902cf471dd
+:TICKET-NO: A3Q3KT475V
+:END:
