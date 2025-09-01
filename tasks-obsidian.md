@@ -10,7 +10,9 @@
 - [x] TODO Task description 📅 2025-07-15 ✅ 2025-07-26
 # var/log/daily/2025-07-13.md
 
-- [ ] TODO Chrstian Strebel zu Datenschutz und InfoSec ansprechen [Source: RCG [6cFwGfx65fcHFMmJ].csv] 
+- [ ] an obsidian task
+- [ ] an org task
+ 
 - [x] TODO Erstellen "allgemeine Beschreibung zum ISMS" [Source: EKIBA [6cF8FQRWmmHvvgwq].csv] 
 - [ ] TODO Datenschutzformular für ‚2025-03-11’ fertigstellen (Client: fdfri) [Source: professional [6c3p2WP973VPMqpG].csv] 
 - [ ] TODO Datenschutzformular ‚2025-04-04’ für fertigstellen (Client: fdfri) [Source: professional [6c3p2WP973VPMqpG].csv] 
