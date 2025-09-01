@@ -1,5 +1,5 @@
 {
   "autorun": true,
-  "folder": "var/log/daily",
+  "folder": "",
   "template": "etc/templates/tpl-daily-log"
 }
