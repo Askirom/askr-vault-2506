@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks-obsidian.md",
+                "file": "etc/templates/daily-note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tasks-obsidian"
+              "title": "daily-note"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "3c5de686e627bd01",
   "lastOpenFiles": [
+    "tasks-obsidian.md",
     "etc/templates/daily-note.md",
     "etc/templates",
     "etc",
@@ -221,7 +222,6 @@
     "etc/personal-knowledge-os.md",
     "log-2025.md",
     "Personal.md",
-    "tasks-obsidian.md",
     "srv",
     "tmp/20250812111715-transfer-to-kyoto-name.md",
     "tmp/20250824180355.md",

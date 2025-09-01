@@ -14,7 +14,13 @@ gratitude:
 ## Tasks
 - [ ] 
 - [ ] 
-
+### To be processed tasks
+```dataview
+TASK
+WHERE !completed
+AND contains(tags, "#TR-OPEN")
+GROUP BY file.link
+```
 ## Notes
 - 
 
