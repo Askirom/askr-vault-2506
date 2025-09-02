@@ -11,4 +11,6 @@
 	- [ ] TODO Bereiche / Kategorien ausfüllen #TSK/NEW
 		- anhand des VVTs 
 - Bei InfoSec ist wichtig, dass der Aufbewahrungswille mit Begründung dokumentiert ist
-- 
+## Freigabe KI-Systeme
+- Silke der RCG kommt in den Verteiler für Ticketart "System-Freigabe"
+- Intranet wird Button für Freigabeprozess einfügen
