@@ -1,9 +1,10 @@
 {
   "accentColor": "#9f77e9",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Inter Variable",
   "textFontFamily": "Inter Variable",
   "monospaceFontFamily": "JetBrains Mono",
   "nativeMenus": true,
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 18
 }

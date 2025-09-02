@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "T",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c5de686e627bd01",
+  "active": "24a5aa7ad5bc28c5",
   "lastOpenFiles": [
     "etc/templates/daily-note.md",
     "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",

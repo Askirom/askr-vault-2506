@@ -1,3 +1,8 @@
 ## RCIM -> neuer Name der RealCore TK
-- [ ] Beitritt zu Art. 26 formulieren
+- [ ] TODO Beitritt zu Art. 26 formulieren #TSK-NEW 
 - SAP GROW
+	- vielleicht Auftragsverarbeitung
+- Ansprechpartner
+	- Stephanie Hessen -> Systemaufgbau
+	- Kevin Hurnik -> Kaufmännischer Leiter bei RCIM
+## Löschkonzept
