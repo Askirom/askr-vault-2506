@@ -14,3 +14,5 @@
 ## Freigabe KI-Systeme
 - Silke der RCG kommt in den Verteiler für Ticketart "System-Freigabe"
 - Intranet wird Button für Freigabeprozess einfügen
+- https://www.microsoft.com/de-de/privacy/privacystatement#mainnoticetoendusersmodule
+- 
