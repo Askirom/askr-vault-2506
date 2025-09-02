@@ -7,5 +7,8 @@
 	- Kevin Hurnik -> Kaufmännischer Leiter bei RCIM
 ## Löschkonzept
 - Datenobjekt-Liste muss erstellt werden
-	- [ ] TODO Template-Excel erstellen #TSK/NEW
+	- [ ] TODO Template-Excel in VVT erstellen #TSK/NEW
+	- [ ] TODO Bereiche / Kategorien ausfüllen #TSK/NEW
+		- anhand des VVTs 
+- Bei InfoSec ist wichtig, dass der Aufbewahrungswille mit Begründung dokumentiert ist
 - 
