@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/templates/daily-note.md",
+                "file": "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "daily-note"
+              "title": "2025-09-02-rcg-loeschkonzept"
             }
           }
         ]
@@ -212,10 +212,11 @@
   },
   "active": "3c5de686e627bd01",
   "lastOpenFiles": [
+    "etc/templates/daily-note.md",
+    "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
     "2025-09-01-secud- unterweisung-ds-is.md",
     "Untitled.md",
     "tasks-obsidian.md",
-    "etc/templates/daily-note.md",
     "etc/templates",
     "etc",
     "tasks.md",
@@ -244,7 +245,6 @@
     "jobs/meetings/2025-07-30-sw-pappenheim.md",
     "jobs/meetings/2025-07-30-rcg-scc-rcm.md",
     "jobs/meetings/2025-07-29-ehfre-isms-besprechung.md",
-    "jobs/meetings/2025-07-28-rcg-tia-rcm-und-ai-systeme.md",
     "jobs/meetings/2025-07-28-rcg-tia-rcm-und-ai-systeme.html",
     "jobs/meetings/2025-07-28-rbomn-jour-fixe",
     "jobs/meetings",
