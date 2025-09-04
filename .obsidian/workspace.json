@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "2025-09-02-rcg-loeschkonzept"
             }
+          },
+          {
+            "id": "10b84029ec207215",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,6 +212,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "quickadd:QuickAdd": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24a5aa7ad5bc28c5",
+  "active": "10b84029ec207215",
   "lastOpenFiles": [
     "etc/templates/daily-note.md",
     "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
