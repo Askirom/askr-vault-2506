@@ -7,6 +7,10 @@
 	- Rechte und Freiheiten der Verfasser von E-Mails sollten nicht beeinträchtigt werden
 	- Verwaltungsverfahren und andere amtliche Verfahren -> müssen diese beauskunftet werden?
 		- inwiefern hat der Art. 29 BayVwVfG Vorrang und muss er sein rechtliches Interesse für diese Einsicht begründen? 
+	- Darf er das fragen?
+		- Zugriﬀsprotokollen: Wer hatte wann Einsicht in welche Daten?
+			- das wirkt mir viel zu granular
 	- was ist ein personenbezogenes Datum
 - Auskunftserweiterung:
 	- Herr Gegg hat nochmal nachgefasst, aber ist eine solche zweite Nachfassung überhaupt rechtmäßig? 
+	-  Müssen öffentliche Informationen in Kopie an ihn gesendet werden
