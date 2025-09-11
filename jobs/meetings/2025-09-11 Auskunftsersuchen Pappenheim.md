@@ -11,6 +11,8 @@
 		- Zugriﬀsprotokollen: Wer hatte wann Einsicht in welche Daten?
 			- das wirkt mir viel zu granular
 	- was ist ein personenbezogenes Datum
+- Stadtratsteil:
+	- keine Auskunft entsprechend [[§ 29 Absatz 1 Satz 2 BDSG]]
 - Auskunftserweiterung:
 	- Herr Gegg hat nochmal nachgefasst, aber ist eine solche zweite Nachfassung überhaupt rechtmäßig? 
 	-  Müssen öffentliche Informationen in Kopie an ihn gesendet werden
