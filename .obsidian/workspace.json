@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/meetings/2025-09-11 Auskunftsersuchen Pappenheim.md",
+                "file": "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-11 Auskunftsersuchen Pappenheim"
+              "title": "Checkliste an Fragen für H&C"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jobs/meetings/2025-09-11 Auskunftsersuchen Pappenheim.md",
+                "file": "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-11 Auskunftsersuchen Pappenheim"
+              "title": "Outline of Checkliste an Fragen für H&C"
             }
           },
           {
@@ -237,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45cf6c63e825ad04",
+  "active": "6e9a0ffde86926c8",
   "lastOpenFiles": [
-    "jobs/meetings/§ 29 Absatz 1 Satz 2 BDSG.md",
     "jobs/meetings/2025-09-11 Auskunftsersuchen Pappenheim.md",
+    "jobs/meetings/§ 29 Absatz 1 Satz 2 BDSG.md",
     "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
     "jobs/empic-vds10000/IS-200 ISMS Richtlinie.md",
     "jobs/clifo-notfallplan",
