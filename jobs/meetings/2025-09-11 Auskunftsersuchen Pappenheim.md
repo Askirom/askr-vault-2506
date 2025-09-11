@@ -16,3 +16,5 @@
 - Auskunftserweiterung:
 	- Herr Gegg hat nochmal nachgefasst, aber ist eine solche zweite Nachfassung überhaupt rechtmäßig? 
 	-  Müssen öffentliche Informationen in Kopie an ihn gesendet werden
+
+Das Recht der betroffenen Person auf Auskunft über personenbezogene Daten, die durch eine öffentliche Stelle weder automatisiert verarbeitet noch nicht automatisiert verarbeitet und in einem Dateisystem gespeichert werden, besteht nur, soweit die betroffene Person Angaben macht, die das Auffinden der Daten ermöglichen, und der für die Erteilung der Auskunft erforderliche Aufwand nicht außer Verhältnis zu dem von der betroffenen Person geltend gemachten Informationsinteresse steht.
