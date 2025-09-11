@@ -8,3 +8,5 @@
 	- Verwaltungsverfahren und andere amtliche Verfahren -> müssen diese beauskunftet werden?
 		- inwiefern hat der Art. 29 BayVwVfG Vorrang und muss er sein rechtliches Interesse für diese Einsicht begründen? 
 	- was ist ein personenbezogenes Datum
+- Auskunftserweiterung:
+	- Herr Gegg hat nochmal nachgefasst, aber ist eine solche zweite Nachfassung überhaupt rechtmäßig? 
