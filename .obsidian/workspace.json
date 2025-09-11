@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
+                "file": "jobs/empic-vds10000/IS-100 Informationssicherheitsleitlinie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02-rcg-loeschkonzept"
-            }
-          },
-          {
-            "id": "10b84029ec207215",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "IS-100 Informationssicherheitsleitlinie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "T",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -88,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10b84029ec207215",
+  "active": "3c5de686e627bd01",
   "lastOpenFiles": [
+    "jobs/empic-vds10000/IS-205 Mobile Device Management.md",
+    "jobs/empic-vds10000/IS-100 Informationssicherheitsleitlinie.md",
+    "jobs/empic-vds10000",
     "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
     "lib/Untitled.md",
     "var/log/daily/2025-09-09.md",
@@ -261,9 +250,6 @@
     "tmp",
     "jobs/meetings/2025-08-29-rcg-jourfixe.md",
     "jobs/meetings/2025-08-28_Meeting-EKIBA.org~",
-    "jobs/meetings/2025-08-28_Meeting-EKIBA.org",
-    "jobs/meetings/2025-08-28_Meeting-EKIBA.md",
-    "jobs/meetings/2025-07-31-vgalt-meeting.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
