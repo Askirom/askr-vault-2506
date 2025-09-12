@@ -1,3 +1,0 @@
-# Grundsätzlich
-- Liste Lieferanten
-- 

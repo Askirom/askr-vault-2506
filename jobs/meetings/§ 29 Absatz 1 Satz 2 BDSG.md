@@ -1,1 +1,0 @@
-Das Recht auf Auskunft der betroffenen Person gemäß [Artikel 15](https://dsgvo-gesetz.de/art-15-dsgvo/) der Verordnung (EU) 2016/679 besteht nicht, soweit durch die Auskunft Informationen offenbart würden, die nach einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der überwiegenden berechtigten Interessen eines Dritten, geheim gehalten werden müssen

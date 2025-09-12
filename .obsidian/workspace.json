@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
+                "file": "usr/rolodex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ASKIROM — THE ASHEN SOVEREIGN (v10)"
-            }
-          },
-          {
-            "id": "6e9a0ffde86926c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Checkliste an Fragen für H&C"
+              "title": "rolodex"
             }
           }
         ]
@@ -158,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
+                "file": "usr/rolodex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ASKIROM — THE ASHEN SOVEREIGN (v10)"
+              "title": "Outline of rolodex"
             }
           },
           {
@@ -239,42 +224,42 @@
   },
   "active": "3c5de686e627bd01",
   "lastOpenFiles": [
-    "package-lock.json",
-    "jobs/Untitled.base",
-    "2025-09-01-secud- unterweisung-ds-is.md",
-    "inbox.md",
-    "japan-urlaub-2025.md",
-    "log-2025.md",
-    "Personal.md",
-    "lib/askirom-the-void-fang.md",
-    "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
-    "lib/Anruf Betriebsrat 2025-09-04.md",
-    "lib/compliance/iso-27701.2-infosec-cyber-privacy-management.pdf",
-    "lib/compliance/20250624-bvd-positionspapier-zur-reform-der-dsgvo.pdf",
-    "lib/compliance/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
-    "jobs/ile-datenschutzstatus-2024.md",
-    "jobs/meetings/2025-09-12-ehfre-lieferantenmanagement.md",
-    "jobs/empic-vds10000/IS-100 Informationssicherheitsleitlinie.md",
-    "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
-    "jobs/meetings/2025-09-11 Auskunftsersuchen Pappenheim.md",
-    "jobs/meetings/§ 29 Absatz 1 Satz 2 BDSG.md",
-    "jobs/empic-vds10000/IS-200 ISMS Richtlinie.md",
-    "jobs/clifo-notfallplan",
-    "jobs/empic-vds10000/IS-205 Mobile Device Management.md",
-    "jobs/empic-vds10000",
-    "lib/Untitled.md",
-    "var/log/daily/2025-09-09.md",
-    "var/log/daily",
-    "var/log",
-    "var",
-    "etc/templates/daily-note.md",
-    "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
-    "Untitled.md",
-    "tasks-obsidian.md",
-    "etc/templates",
-    "tasks.md",
-    "etc/personal-knowledge-os.md",
-    "tmp/20250812111715-transfer-to-kyoto-name.md",
+    "var/meeting/2025-09-12_EHFRE_ehfre-lieferantenmanagement.md",
+    "var/meeting/2025-09-11_UNKNOWN_Auskunftsersuchen_Pappenheim.md",
+    "var/meeting/2025-09-02_RCG_rcg-loeschkonzept.md",
+    "var/meeting/2025-08-29_RCG_rcg-jourfixe.md",
+    "var/meeting/2025-08-28_EKIBA_Meeting-EKIBA.md",
+    "var/meeting/2025-07-31_VGALT_vgalt-meeting.md",
+    "var/meeting/2025-07-31_UNKNOWN_polfi-abstimmung.md",
+    "var/meeting/2025-07-31_UNKNOWN_mory-crc-vorstellung.md",
+    "var/meeting/2025-07-30_UNKNOWN_sw-pappenheim.md",
+    "var/meeting/2025-07-30_RCG_rcg-scc-rcm.md",
+    "var/meeting/2025-07-29_EHFRE_ehfre-isms-besprechung.md",
+    "var/meeting/2025-07-28_RCG_rcg-tia-rcm-und-ai-systeme.md",
+    "var/meeting/2025-07-28_UNKNOWN_rbomn-jour-fixe.md",
+    "var/meeting/2025-07-28_UNKNOWN_polsi-meeting.md",
+    "var/meeting/2025-07-25_RCG_rcg-jourfixe.md",
+    "var/meeting/2025-03-12_UNKNOWN_ifb_begehung_d365.md",
+    "usr/standards/bdsg-29-1-2.md",
+    "usr/reference/solve-netto-anforderungen.md",
+    "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
+    "migration_manifest.json",
+    "srv/EMPIC/EMPIC-25-001-vds10000/IS-100 Informationssicherheitsleitlinie.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/IS-200 ISMS Richtlinie.md",
+    "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf.md",
+    "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf.md",
+    "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
+    "usr/standards/20250624-bvd-positionspapier-zur-reform-der-dsgvo.pdf.md",
+    "usr/standards/vds-10000.pdf.md",
+    "usr/standards/vds-10000.pdf",
+    "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf",
+    "usr/standards/20250624-bvd-positionspapier-zur-reform-der-dsgvo.pdf",
+    "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf",
+    "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
+    "var/meeting",
+    "var/decision",
+    "var/daily",
+    "var/action",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
