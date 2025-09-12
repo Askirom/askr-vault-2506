@@ -11,15 +11,13 @@
             "id": "3c5de686e627bd01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "jobs/meetings/2025-09-12-ehfre-lieferantenmanagement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "jobs/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025-09-12-ehfre-lieferantenmanagement"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -94,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 904.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -158,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jobs/meetings/2025-09-12-ehfre-lieferantenmanagement.md",
+                "file": "jobs/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-12-ehfre-lieferantenmanagement"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -239,8 +237,21 @@
   },
   "active": "3c5de686e627bd01",
   "lastOpenFiles": [
-    "jobs/empic-vds10000/IS-100 Informationssicherheitsleitlinie.md",
+    "2025-09-01-secud- unterweisung-ds-is.md",
+    "jobs/Untitled.base",
+    "inbox.md",
+    "japan-urlaub-2025.md",
+    "log-2025.md",
+    "Personal.md",
+    "lib/askirom-the-void-fang.md",
+    "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
+    "lib/Anruf Betriebsrat 2025-09-04.md",
+    "lib/compliance/iso-27701.2-infosec-cyber-privacy-management.pdf",
+    "lib/compliance/20250624-bvd-positionspapier-zur-reform-der-dsgvo.pdf",
+    "lib/compliance/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
+    "jobs/ile-datenschutzstatus-2024.md",
     "jobs/meetings/2025-09-12-ehfre-lieferantenmanagement.md",
+    "jobs/empic-vds10000/IS-100 Informationssicherheitsleitlinie.md",
     "jobs/clifo-notfallplan/Checkliste an Fragen für H&C.md",
     "jobs/meetings/2025-09-11 Auskunftsersuchen Pappenheim.md",
     "jobs/meetings/§ 29 Absatz 1 Satz 2 BDSG.md",
@@ -248,33 +259,19 @@
     "jobs/clifo-notfallplan",
     "jobs/empic-vds10000/IS-205 Mobile Device Management.md",
     "jobs/empic-vds10000",
-    "lib/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
     "lib/Untitled.md",
     "var/log/daily/2025-09-09.md",
     "var/log/daily",
     "var/log",
     "var",
-    "lib/askirom-the-void-fang.md",
-    "lib/Anruf Betriebsrat 2025-09-04.md",
     "etc/templates/daily-note.md",
     "jobs/meetings/2025-09-02-rcg-loeschkonzept.md",
-    "2025-09-01-secud- unterweisung-ds-is.md",
     "Untitled.md",
     "tasks-obsidian.md",
     "etc/templates",
-    "etc",
     "tasks.md",
-    "japan-urlaub-2025.md",
-    "inbox.md",
     "etc/personal-knowledge-os.md",
-    "log-2025.md",
-    "Personal.md",
-    "srv",
     "tmp/20250812111715-transfer-to-kyoto-name.md",
-    "tmp/20250824180355.md",
-    "tmp/20250803124617-japan-arrival-plans.md",
-    "tmp/20250727154247-planet-crafter-notes.org_archive",
-    "tmp",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",

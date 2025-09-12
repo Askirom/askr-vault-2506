@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - date
+      - file.folder
+  - type: cards
+    name: View
+    cardSize: 370
+    imageFit: contain
