@@ -194,3 +194,10 @@ Hier finden Sie die zusammengetragenen Fragen zu den relevanten elementaren Gef�
 
 - Welche Mechanismen (z.B. Checksummen, Hashing-Verfahren) werden eingesetzt, um die Integrität unserer Daten bei der Speicherung und Übertragung zu gewährleisten und Manipulationen zu erkennen?
 - Wie ist sichergestellt, dass bei einer festgestellten Integritätsverletzung eine unveränderte Version der betroffenen Daten aus einer Sicherung wiederhergestellt werden kann?
+
+
+# Email an H&C
+- Für Notfallplan
+- Elementare Gefährdungen BSI erwähnen
+- Excel mit Gefährdung | Frage | Erfüllt (Ja / Nein) | Antwort H&C 
+- 
