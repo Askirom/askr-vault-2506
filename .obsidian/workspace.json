@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/meeting/2025-09-16 RCG AV.md",
+                "file": "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-16 RCG AV"
+              "title": "ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First)"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "zk-prefixer:Create new unique note": false,
@@ -224,8 +225,9 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
-    "etc/templates/daily-note.md",
+    "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
     "var/meeting/2025-09-16 RCG AV.md",
+    "etc/templates/daily-note.md",
     "bin/TMP-Daily-Snippet.md",
     "usr/rolodex.md",
     "usr/identity/Explanation of Askirom Framework.md",
@@ -250,7 +252,6 @@
     "var/meeting/2025-03-12_UNKNOWN_ifb_begehung_d365.md",
     "usr/standards/bdsg-29-1-2.md",
     "usr/reference/solve-netto-anforderungen.md",
-    "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
     "migration_manifest.json",
     "usr/standards/vds-10000.pdf",
     "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf",
