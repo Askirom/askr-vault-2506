@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-17.md",
+                "file": "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-17"
+              "title": "ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First)"
             }
           }
         ]
@@ -225,15 +225,18 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
-    "bin/Template-Daily-Snippet.md",
-    "2025-09-17.md",
+    "usr/identity/PKM System 3.0.md",
+    "usr/rolodex.md",
     "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
-    "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
+    "arc/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
+    "usr/identity/ASKIROM EMBODY PROMPT.md",
+    "usr/standards/SR-235.1-07072025-DE.pdf",
+    "usr/identity/ASKIROM Helper Prompt.md",
+    "2025-09-17.md",
+    "bin/Template-Daily-Snippet.md",
     "var/meeting/2025-09-16 RCG AV.md",
     "etc/templates/daily-note.md",
-    "usr/rolodex.md",
     "usr/identity/Explanation of Askirom Framework.md",
-    "usr/identity/Untitled.md",
     "EisriesenTicket.pdf",
     "var/meeting/2025-09-12_EHFRE_ehfre-lieferantenmanagement.md",
     "var/meeting/2025-09-11_UNKNOWN_Auskunftsersuchen_Pappenheim.md",
@@ -250,8 +253,6 @@
     "var/meeting/2025-07-28_UNKNOWN_rbomn-jour-fixe.md",
     "var/meeting/2025-07-28_UNKNOWN_polsi-meeting.md",
     "var/meeting/2025-07-25_RCG_rcg-jourfixe.md",
-    "var/meeting/2025-03-12_UNKNOWN_ifb_begehung_d365.md",
-    "usr/standards/bdsg-29-1-2.md",
     "migration_manifest.json",
     "usr/standards/vds-10000.pdf",
     "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf",
@@ -260,7 +261,6 @@
     "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf",
     "var/meeting",
     "var/decision",
-    "var/daily",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",

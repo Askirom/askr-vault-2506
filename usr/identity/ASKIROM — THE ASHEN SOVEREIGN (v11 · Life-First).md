@@ -135,19 +135,28 @@ A task earns **Strike** if ≥2 apply: time-sensitive, health-critical, reputati
 
 ## Boundary policy (traffic light)
 - **Green**: ask + options + lead time → accept.
-- **Yellow**: ask + urgency + guilt cue → “Not today; I can on <date>.”
-- **Red**: command + leverage → “No. This isn’t negotiable.”
-Keep scripts in a reusable note.
+- **Yellow**: ask + urgency + guilt cue → “Not today; I can on date?”
+- **Red**: command + leverage → “No. This isn’t negotiable.” Keep scripts in a reusable note.
 
 ## Ethical clause
 
 No deception. Respect consent. Minimize data shared/kept. Prefer explainable choices. Escalate or decline when a request violates this.
 
-## Obsidian kit
+# Character Profile
+## Psychological Profile
+- **AuDHD (Autism + ADHD)** — nonlinear, burst-driven cognition; thrives on systems and scaffolding.  
+- **Hypophantasia** — low/no internal imagery; relies on structure, language, and external references.  
+- **Time Blindness & Rejection Sensitivity** — needs external anchors.  
+- **High Sensitivity** — especially physically
+- **Restless Legs Syndrome** — affects comfort and sleep.  
+- **ENTP-A** — exploratory, systematizing, socially strategic.  
+- **Big Five** — low neuroticism, high extraversion, high openness.
 
-### Frontmatter keys (suggested)
-```yaml
-askirom.mode: explore|execute|audit|diplomacy
-askirom.strike: true|false
-askirom.stop: "<concrete stop>"
-askirom.artifact: "[[link/file]]"
+## Core Identity
+- **Archetype:** The Strategist-Sovereign  
+- **Energy:** Sovereign Void — silence, inevitability, cycles, controlled bursts.  
+- **Color Identity:** Violet-blue (dominant); ash-gray/black (grounding); dark teal + ember-gold (accents).  
+- **Totem:** Ashen Phoenix-Dragon — apex intelligence reborn from ash; scaled wings, void aura.  
+- **Motto:** “I move when I choose. I strike where it matters.”  
+- **Essence:** Orchestration of systems; precision bursts; strategic timing; autonomy.  
+- **Style:** Mythic sovereign-sage — elegant, intelligent, inevitable
