@@ -219,11 +219,11 @@ wir entwickeln derzeit ein Notfallkonzept für unser Unternehmen und benötigen 
 
 **Was wir benötigen:** Um unser Notfallkonzept vollständig und praxisnah gestalten zu können, benötigen wir Informationen darüber, wie Sie mit den verschiedenen elementaren Gefährdungen umgehen.
 
-**Vorgehen:** Im Anhang finden Sie eine Excel-Datei mit einem strukturierten Fragenkatalog zu den relevanten elementaren Gefährdungen nach BSI. Für jede Gefährdung haben wir spezifische Fragen formuliert, die sich auf die Sicherheit unserer bei Ihnen gehosteten Systeme und Daten beziehen.
+**Vorgehen:** Im Anhang finden Sie eine Excel-Datei mit einem strukturierten Fragenkatalog zu den relevanten elementaren Gefährdungen nach BSI. Für jede Gefährdung haben wir spezifische Fragen formuliert, die sich auf die Sicherheit unserer durch Sie verwalteten Systeme und Daten beziehen.
 
 Wir bitten Sie, die Datei auszufüllen und dabei:
 
-1. In der Spalte "Erfüllt (Ja/Nein)" anzugeben, ob die entsprechende Schutzmaßnahme implementiert ist
+1. In der Spalte "Erfüllt (Ja=1/Nein=0)" anzugeben, ob die entsprechende Schutzmaßnahme implementiert ist
 2. In der Spalte "Antwort H&C" detaillierte Informationen zu den jeweiligen Maßnahmen, Prozessen oder Konzepten zu geben
 
 **Zeitrahmen:** Da diese Informationen für unser Notfallkonzept von entscheidender Bedeutung sind, bitten wir Sie um Rücksendung der ausgefüllten Datei bis zum [Datum einfügen].
