@@ -1,1 +1,0 @@
-- [x] TODO Rose Cutting Day ⏳ 2025-08-31 ✅ 2025-08-31

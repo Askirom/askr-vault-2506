@@ -67,23 +67,13 @@ That’s it. Add extras only if they’re useful.
 
 ---
 
-## Meetings
+## Meetings (Rolling Client Logs)
 
 -   **Stored in**: `/var/meeting/`
--   **File Name**: `YYYY-MM-DD_CLIENT_topic.md`
--   **Principle**: Append corrections, don’t overwrite.
+-   **Principle**: One append-only file per client. New meeting notes are added to the top of the file for reverse chronological order.
+-   **File Name**: `CLIENT.md` (e.g., `RCG.md`, `CLIFO.md`)
 
-**Example:**
-> type:: meeting
-> status:: done
-> client:: RCG
-> project:: RCG-25-001
-> attendees::
-> goal::
-> notes::
-
----
-
+The file itself contains the log. Each new meeting entry is separated by a horizontal rule (`---`) and begins with a heading that includes the date and topic.
 ## Decisions
 
 -   **Stored in**: `/var/decision/`
