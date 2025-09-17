@@ -1,5 +1,5 @@
 {
   "autorun": true,
   "folder": "",
-  "template": "etc/templates/tpl-daily-log"
+  "template": "bin/Template-Daily-Snippet"
 }

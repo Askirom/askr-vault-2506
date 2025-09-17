@@ -1,3 +1,4 @@
+# {{date:yyyy-MM-DD}}
 # 09:00 (≤10 min)
 - Strike 1: Clockodo last week (2025-09-08…14)
   stop: weekly summary visible
