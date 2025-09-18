@@ -224,7 +224,7 @@ wir entwickeln derzeit ein Notfallkonzept für unser Unternehmen und benötigen 
 Wir bitten Sie, die Datei auszufüllen und dabei:
 
 1. In der Spalte "Erfüllt (Ja=1/Nein=0)" anzugeben, ob die entsprechende Schutzmaßnahme implementiert ist
-2. In der Spalte "Antwort H&C" detaillierte Informationen zu den jeweiligen Maßnahmen, Prozessen oder Konzepten zu geben
+2. In der Spalte "Antwort / Kommentar" detaillierte Informationen zu den jeweiligen Maßnahmen, Prozessen oder Konzepten zu geben
 
 **Zeitrahmen:** Da diese Informationen für unser Notfallkonzept von entscheidender Bedeutung sind, bitten wir Sie um Rücksendung der ausgefüllten Datei bis zum [Datum einfügen].
 

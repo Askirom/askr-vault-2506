@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
