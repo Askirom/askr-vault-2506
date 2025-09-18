@@ -9,7 +9,7 @@ actions::
 notes::
 
 ## RCIM -> neuer Name der RealCore TK
-- [ ] TODO Beitritt zu Art. 26 formulieren #TSK/NEW 
+- [x] TODO Beitritt zu Art. 26 formulieren #TSK/NEW ❌ 2025-09-18
 - SAP GROW
 	- vielleicht Auftragsverarbeitung
 - Ansprechpartner

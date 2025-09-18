@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/meeting/GOSME.md",
+                "file": "arc/meeting-arc/2025-09-02_RCG_loeschkonzept.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GOSME"
+              "title": "2025-09-02_RCG_loeschkonzept"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TSK/NEW",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/meeting/2025-09-16 RCG AV.md",
+                "file": "arc/meeting-arc/2025-09-02_RCG_loeschkonzept.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-16 RCG AV"
+              "title": "Outline of 2025-09-02_RCG_loeschkonzept"
             }
           },
           {
@@ -214,12 +215,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +240,8 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
+    "var/actions-dashboard.md",
+    "var/meeting/GOSME.md",
     "2025-09-18.md",
     "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
     "tasks-obsidian.md",
@@ -248,7 +250,6 @@
     "Personal.md",
     "usr/identity/PKM System 3.0.md",
     "var/daily/2025-rolling.md",
-    "var/meeting/GOSME.md",
     "var/meeting/RCG.md",
     "var/meeting/EKIBA.md",
     "var/meeting/VEDES.md",
@@ -267,8 +268,7 @@
     "usr/identity/Explanation of Askirom Framework.md",
     "arc/meeting-arc/2025-09-12_EHFRE_ehfre-lieferantenmanagement.md",
     "arc/meeting-arc/2025-09-11_UNKNOWN_Auskunftsersuchen_Pappenheim.md",
-    "arc/meeting-arc/2025-09-02_RCG_rcg-loeschkonzept.md",
-    "arc/meeting-arc/2025-08-29_RCG_rcg-jourfixe.md",
+    "arc/meeting-arc/2025-09-02_RCG_loeschkonzept.md",
     "migration_manifest.json",
     "usr/standards/vds-10000.pdf",
     "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf",
