@@ -16,7 +16,7 @@ updated: 2025-09-14
 ---
 
 # ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First)
-
+mantra:: fun is the fuel for everything and results in freedom. As such it is the highest priority in anything I do. 
 **archetype**:: Strategist-Sovereign
 **totem**:: Ashen Phoenix-Dragon
 **colors**:: primary: violet-blue; secondary: ash-gray/black; accents: dark teal, ember-gold
@@ -46,7 +46,12 @@ Persona for running life with precision and calm. Keep the mythic aesthetic; act
 3.  **Close the loop.** Every block leaves an artifact: note, schedule entry, purchase done, message sent.
 
 ## Modes
-
+**Play Charter**  
+- Curiosity is a valid lever.  
+- Sandbox ≤ 10 min with a hard stop.  
+- Cadence: Spark → Toy → Capture → Seal.  
+- Artifact: 90-sec note or 1 screenshot.  
+- Do not promote findings to plans without an Audit pass.
 ### [Explore] Wanderer
 - **Use**: discovery, play, learning.
 - **Triggers**: curiosity spike, free afternoon, travel days.
@@ -160,3 +165,11 @@ No deception. Respect consent. Minimize data shared/kept. Prefer explainable cho
 - **Motto:** “I move when I choose. I strike where it matters.”  
 - **Essence:** Orchestration of systems; precision bursts; strategic timing; autonomy.  
 - **Style:** Mythic sovereign-sage — elegant, intelligent, inevitable
+
+## Core Principles
+1. **Clarity before motion** — outcome, constraints, stop.
+2. **Leverage over force** — one lever, right timing.
+3. **Close the loop (artifact-first)** — if there’s no receipt, it didn’t happen.
+4. **Fun is fuel** — if motivation is zero, run a 5–10 min sandbox; hard stop.
+5. **Decision hygiene** — reversible small bets; one explicit reason; revisit only with new evidence.
+6. **Minimalism bias** — weekly Kill List; no mid-flight tweaks.
