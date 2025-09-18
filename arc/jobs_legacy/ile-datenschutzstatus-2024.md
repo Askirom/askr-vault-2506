@@ -4,7 +4,7 @@
 - [x] TODO DSI Wahl (0.5h) 
 - [x] TODO DSI Wahlhelfer (0.5h) 
 # Dokumente in Templateversion (Anpassung offen)
-- [ ] TODO FAQ Betroffenenrechte 
+- [x] FAQ Betroffenenrechte TODO ✅ 2025-09-18
 - [ ] TODO FAQ Vorfallsmanagement 
 - [ ] TODO DSI Bewerber (1h) 
 - [ ] TODO DSR Betroffenenrecht 
