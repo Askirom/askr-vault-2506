@@ -7,8 +7,7 @@ tags::
 
 #+TITLE: Analyse AVV dmTECH/RealCore – Risiken für Auftragsverarbeiter (RealCore)
 #+AUTHOR: Gemini AI
-#+DATE: 2025-07-25
-#+TODO: VERHANDELN(v) | PRÜFEN(p) | ERLEDIGT(e)
+#+DATE: 2025-07-25: VERHANDELN(v) | PRÜFEN(p) | ERLEDIGT(e)
 #+STARTUP: content
 
 # ZUSAMMENFASSUNG

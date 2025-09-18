@@ -10,7 +10,7 @@
 + Useless location
 <<<<<<< HEAD
 =======
-- [x] TODO Next Tasks ⏳ 2025-07-27 ✅ 2025-08-02 #Gaming
+- [x] #TSK Next Tasks ⏳ 2025-07-27 ✅ 2025-08-02 #Gaming
 ## Coordinates of a new key 2025-07-30
 + 964:68:1744 found at -436
 + 1565:109:2500
