@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
+                "file": "var/actions-dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rcg-pruefung-dm-av-vertrag"
+              "title": "actions-dashboard"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "it-sicherheit",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arc/tasks-obsidian.md",
+                "file": "var/actions-dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tasks-obsidian"
+              "title": "Outline of actions-dashboard"
             }
           },
           {
@@ -234,8 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "24a5aa7ad5bc28c5",
   "lastOpenFiles": [
+    "var/daily/2025-09-18.md",
+    "2025-09-18.md",
+    "var/daily/2025-rolling.md",
+    "arc/ILE Datenschutzstatus 2024.md",
+    "arc/Archive-Log.md",
+    "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
     "arc/tasks-obsidian.md",
     "arc/meeting-arc/2025-09-16 RCG AV.md",
     "arc/meeting-arc/2025-09-12_EHFRE_ehfre-lieferantenmanagement.md",
@@ -258,16 +265,10 @@
     "arc/meeting-arc",
     "arc/lib_legacy/Anruf Betriebsrat 2025-09-04.md",
     "arc/lib_legacy",
-    "arc/lib/contacts/contacts.md",
     "arc/lib/contacts",
     "arc/lib",
-    "arc/jobs_legacy/wzv-auskunft-mage-liste.md",
-    "arc/jobs_legacy/ile-datenschutzstatus-2024.md",
-    "arc/jobs_legacy/secud-uebergabe-urlaub-japan.md",
     "arc/jobs_legacy/Untitled.base",
     "arc/jobs_legacy",
-    "arc/japan-urlaub-2025.md",
-    "arc/ASKIROM — THE ASHEN SOVEREIGN (v10).md",
     "meeting-arc",
     "lib_legacy",
     "lib/contacts",
