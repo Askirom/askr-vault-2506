@@ -8,7 +8,7 @@
 	- [x] Termin AI-Tool
 - Art. 26
     - [ ] Aufnahme RCIM
-    - [ ] Aufnahme SAP Systeme 
+    - [ ] Aufnahme SAP Systeme  
     - [ ] Anpassung Anlagen
 - [x] TK Fragebogen DS
 
