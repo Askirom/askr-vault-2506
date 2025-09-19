@@ -8,5 +8,6 @@
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-linter"
 ]

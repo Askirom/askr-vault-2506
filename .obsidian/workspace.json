@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/meeting/RCG.md",
+                "file": "TaskForge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG"
+              "title": "TaskForge"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/meeting/RCG.md",
+                "file": "TaskForge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RCG"
+              "title": "Outline of TaskForge"
             }
           },
           {
@@ -241,14 +241,15 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
-    "var/meeting/VEDES.md",
+    "EisriesenTicket.pdf",
+    "TaskForge.md",
     "var/meeting/RCG.md",
+    "var/meeting/VEDES.md",
     "var/meeting/EKIBA.md",
     "var/decision/RCG.md",
     "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
     "var/actions-dashboard.md",
     "var/daily/2025-rolling.md",
-    "EisriesenTicket.pdf",
     "bin/Template-Daily-Snippet.md",
     "bin/Untitled.base",
     "var/daily/2025-09-19.md",
@@ -259,7 +260,6 @@
     "var/decision/2025-09-19 Abstimmung RCG JourFixe.md",
     "usr/identity/askirom-pkm-os-v3.md",
     "usr/identity/askirom-the-ashen-sovereign-v12.md",
-    "TaskForge.md",
     "tmp/inbox.md",
     "usr/identity/askirom-explanation-framework.md",
     "arc/askirom-the-void-fang.md",
@@ -268,7 +268,6 @@
     "arc/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
     "2025-09-18.md",
     "arc/ILE Datenschutzstatus 2024.md",
-    "arc/Archive-Log.md",
     "arc/meeting-arc",
     "arc/lib_legacy",
     "arc/lib/contacts",
