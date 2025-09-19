@@ -1,11 +1,6 @@
 ## 2025-09-19 Abstimmung RCG JourFixe
 
 **Attendees:** #CONTACT/AdrianHofmann
-**Date:** 19.09.2025
-**Time:** 
-
----
-
 ### Agenda Items
 
 #### 1. AHO Topics
@@ -23,9 +18,6 @@
 #### 2. RLE Topics
 - VVT RCIM Abstimmung
 - Art. 26 DSI Implementation
-
----
-
 ### Action Items
 - [ ] 
 

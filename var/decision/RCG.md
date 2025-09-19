@@ -1,4 +1,4 @@
-#### Artifact — Termin AI-Tool 
+## Artifact — Termin AI-Tool 
 
 - What: Termin für AI-Tool abgestimmt
 - When: 2025-09-19

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-rolling.md",
+                "file": "var/meeting/RCG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-rolling"
+              "title": "RCG"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/daily/2025-rolling.md",
+                "file": "var/meeting/RCG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-rolling"
+              "title": "Outline of RCG"
             }
           },
           {
@@ -241,17 +241,20 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
+    "var/meeting/VEDES.md",
     "var/meeting/RCG.md",
-    "var/actions-dashboard.md",
-    "EisriesenTicket.pdf",
+    "var/meeting/EKIBA.md",
     "var/decision/RCG.md",
+    "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
+    "var/actions-dashboard.md",
+    "var/daily/2025-rolling.md",
+    "EisriesenTicket.pdf",
     "bin/Template-Daily-Snippet.md",
     "bin/Untitled.base",
     "var/daily/2025-09-19.md",
     "var/daily/2025-09-18.md",
     "var/daily/2025-09-17.md",
     "var/daily/2025-09-09.md",
-    "var/meeting/VEDES.md",
     "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
     "var/decision/2025-09-19 Abstimmung RCG JourFixe.md",
     "usr/identity/askirom-pkm-os-v3.md",
@@ -263,11 +266,9 @@
     "usr/identity/askirom-helper-prompt.md",
     "usr/identity/askirom-embody.md",
     "arc/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
-    "var/daily/2025-rolling.md",
     "2025-09-18.md",
     "arc/ILE Datenschutzstatus 2024.md",
     "arc/Archive-Log.md",
-    "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
     "arc/meeting-arc",
     "arc/lib_legacy",
     "arc/lib/contacts",
