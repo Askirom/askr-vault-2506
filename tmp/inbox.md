@@ -1,4 +1,4 @@
-- [x] #TSK Einladung "Inner circle DSB Mittelfranken" bei Sepire ⏬ ⏳ 2025-07-23 ✅ 2025-07-26 #Sepire
+- [x] #TSK Einladung "Inner circle DSB Mittelfranken" bei Sepire ⏬ ⏳ 2025-07-23 ✅ 2025-07-26 #CLIENT/SEPIRE
 # Backup-Strategie Mindestanforderungen                              :ATTACH:
 :PROPERTIES:
 :ID:       cf50698b-2158-469e-bbe8-44f86d19f04d

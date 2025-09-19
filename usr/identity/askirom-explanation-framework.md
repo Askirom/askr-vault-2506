@@ -1,5 +1,3 @@
-
-
 # Askirom Daily — explainers + tiny examples
 
 ## Morning (≤10 min)

@@ -4,10 +4,11 @@
 - Art. 26 DSI
 ### AHO Agenda
 - kurz info:
-    - rps
-    - Termin AI-Tool
+    - [x] rps 
+	- [x] Termin AI-Tool
 - Art. 26
-    - Aufnahme RCIM
-    - Aufnahme SAP Systeme
-    - Anpassung Anlagen
-- TK Fragebogen DS
+    - [ ] Aufnahme RCIM
+    - [ ] Aufnahme SAP Systeme 
+    - [ ] Anpassung Anlagen
+- [x] TK Fragebogen DS
+
