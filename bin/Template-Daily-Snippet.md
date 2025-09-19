@@ -1,3 +1,10 @@
+---
+aliases:
+  - Test-Note
+created:
+tags:
+  - askirom
+---
 # {{date:yyyy-MM-DD}}
 # 09:00 (≤10 min)
 - Strike 1: Clockodo last week (2025-09-08…14)
@@ -20,4 +27,11 @@
 - Thu 09:30–10:30 [Execute] + 15:00 buffer: finalize & deliver
   artifact: sent message + final file link
 
+[[actions-dashboard#This Week|Test]] 
+
 # 21:00 (≤10 min)
+```dataview
+TABLE file.mtime as "Last Modified"
+FROM "var"
+SORT file.mtime DESC
+```
