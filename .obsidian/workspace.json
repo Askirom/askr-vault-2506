@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
+                "file": "var/meeting/RCG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First)"
+              "title": "RCG"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
+                "file": "var/meeting/RCG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First)"
+              "title": "Outline of RCG"
             }
           },
           {
@@ -236,12 +236,13 @@
   },
   "active": "6b9e981e21d1e9d7",
   "lastOpenFiles": [
+    "var/daily/2025-09-18.md",
+    "var/daily/2025-rolling.md",
+    "usr/identity/ASKIROM — THE ASHEN SOVEREIGN (v11 · Life-First).md",
     "Untitled.md",
     "TaskForge.md",
     "var/actions-dashboard.md",
-    "var/daily/2025-09-18.md",
     "2025-09-18.md",
-    "var/daily/2025-rolling.md",
     "arc/ILE Datenschutzstatus 2024.md",
     "arc/Archive-Log.md",
     "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
@@ -261,7 +262,6 @@
     "arc/meeting-arc/2025-07-29_EHFRE_ehfre-isms-besprechung.md",
     "arc/meeting-arc/2025-07-28_rbomn-jour-fixe.md",
     "arc/meeting-arc/2025-07-28_UNKNOWN_polsi-meeting.md",
-    "arc/meeting-arc/2025-07-28_RCG_rcg-tia-rcm-und-ai-systeme.md",
     "arc/meeting-arc",
     "arc/lib_legacy",
     "arc/lib/contacts",
