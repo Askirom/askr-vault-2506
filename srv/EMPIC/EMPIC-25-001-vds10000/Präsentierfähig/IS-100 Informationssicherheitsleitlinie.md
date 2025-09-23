@@ -5,7 +5,7 @@ project::
 std:: 
 tags:: 
 
-## Ziel und Zweck:
+## Ziel Und Zweck:
 
 Die EMPIC GmbH (nachfolgend kurz EMPIC genannt) ist als innovatives Unternehmen im Bereich der Softwareentwicklung, für Luftfahrtbehörden weltweit, auf eine funktionierende und verlässliche Informationsverarbeitung angewiesen.
 Darüber hinaus ist EMPIC aufgrund von gesetzlichen Vorgaben und Verträgen dazu verpflichtet, die angemessene Sicherheit seiner Informationen und seiner Informationsverarbeitung sicher zu stellen.
@@ -97,7 +97,7 @@ Die Regeln und Vorgaben werden in Form von Richtlinien und dem Sicherheitshandbu
 
 Mitarbeiter, die gegen diese Leitlinie verstoßen, können mit Sanktionen belegt werden. 
 
-## Überprüfung und Aktualisierung:
+## Überprüfung Und Aktualisierung:
 
 Diese Leitlinie wird regelmäßig jedoch mindestens einmal jährlich überprüft und aktualisiert, um sicherzustellen, dass sie weiterhin relevant und effektiv ist.
 

@@ -11,14 +11,15 @@ Diese Richtlinie gilt für alle Mitarbeiter (inkl. Praktikanten, Auszubildende),
 - **Jeder Nutzer** ist für die Einhaltung dieser Richtlinie verantwortlich.
 - Die **IT-Abteilung** stellt die IT-Infrastruktur bereit und ist Ansprechpartner für technische Fragen (`it@empic.aero`, Jira-Ticketsystem).
 - Der **Informationssicherheitsbeauftragte (ISB)** ist Ansprechpartner für Fragen zur Informationssicherheit (`informationssicherheitsbeauftragter@empic.de`).
-- Der **Datenschutzbeauftragte (DSB)** ist Ansprechpartner für Fragen des Datenschutzes (`datenschutzbeauftragter@empic.de`).
+	- [ ] #TSK #Contact/UweFlaton prüft die E-Mail-Adresse für ISB #Status/waiting ➕ 2025-09-23 📅 2025-09-25
+- Der **Datenschutzbeauftragte (DSB)** ist Ansprechpartner für Fragen des Datenschutzes (`datenschutzbeauftragter@empic.de`). 
 
 ## **4. Regelungen**
 
 ### **4.1 Grundlegende Verhaltensregeln**
 
 1. **Angemessene Nutzung:** Die IT-Systeme dürfen nicht für das Abrufen oder Verbreiten von rechtswidrigen, sittenwidrigen oder urheberrechtlich geschützten Inhalten verwendet werden.
-2. **Passwörter:** Passwörter sind streng vertraulich und dürfen nicht weitergegeben werden. Die Vorgaben der Passwortrichtlinie sind einzuhalten.
+2. **Passwörter:** Passwörter sind streng vertraulich und dürfen nicht weitergegeben werden. Die Vorgaben der Passwörter (IS-321) sind einzuhalten.
 3. **Schutz vor Fremdzugriff:** Der Arbeitsplatz ist beim Verlassen durch Sperren des Bildschirms ("Windows + L") zu sichern. Es gilt das "Clean Desk"-Prinzip: Vertrauliche Unterlagen und Datenträger sind wegzuschließen.
 4. **Social Engineering:** Geben Sie keine vertraulichen Informationen (insb. Passwörter) am Telefon oder per E-Mail preis. Die IT wird Sie niemals nach Ihrem Passwort fragen. Melden Sie verdächtige Anfragen der IT.
 
@@ -26,23 +27,22 @@ Diese Richtlinie gilt für alle Mitarbeiter (inkl. Praktikanten, Auszubildende),
 
 1. **Generelles Verbot:** Die private Nutzung der IT-Systeme (PCs, Laptops, Netzwerk, E-Mail) ist grundsätzlich **nicht gestattet**.
 2. **Ausnahme Telefonie:** Die private Nutzung von Festnetztelefonen und der Telefoniefunktion von Dienst-Smartphones ist in geringem Umfang geduldet.
-3. **Ausnahme Smartphones:** Die private Nutzung von dienstlichen Smartphones ist nur erlaubt, wenn diese über die MDM-Lösung verwaltet werden. Details regelt die **IS-205 - Richtlinie für mobile Endgeräte**.
+3. **Ausnahme Smartphones:** Die private Nutzung von dienstlichen Smartphones ist nur erlaubt, wenn diese über die MDM-Lösung verwaltet werden. Details regelt die **IS-205**.
 4. **Verbot für Tablets:** Die private Nutzung von dienstlichen Tablets (z.B. iPads) ist untersagt.
 
 ### **4.3 Hard- Und Softwaremanagement**
 
 1. **Keine private Hardware:** Der Anschluss privater Geräte (BYOD) an das interne Unternehmensnetzwerk ist verboten.
-2. **Keine unautorisierte Software:** Die Installation von Software ist nur mit Genehmigung der IT-Abteilung erlaubt. Software wird ausschließlich über die IT beschafft und installiert.
+2. **Keine unautorisierte Software:** Die Installation von Software ist nur mit Genehmigung der IT-Abteilung erlaubt. Software wird ausschließlich über die IT beschafft und zur Verfügung gestellt.
 3. **Updates und Sicherheitsprogramme:** Sicherheits-Updates sind nach Aufforderung durch die IT zeitnah zu installieren. Installierte Sicherheitsprogramme (z.B. Virenscanner) dürfen nicht deaktiviert oder umgangen werden.
 
 ### **4.4 E-Mail Und Kommunikation**
 
 1. **Phishing und Anhänge:** Öffnen Sie keine E-Mail-Anhänge von unbekannten Absendern. Seien Sie bei verdächtigen E-Mails, die zur Eingabe von Zugangsdaten auffordern, besonders vorsichtig. Leiten Sie verdächtige E-Mails zur Prüfung an `security-check@empic.de` weiter.
-    
+	- [ ] #TSK #Contact/UweFlaton prüft die E-Mail-Adresse ➕ 2025-09-23 📅 2025-09-25
 2. **Vertrauliche Daten:** Versenden Sie sensible Informationen nicht unverschlüsselt per E-Mail. Nutzen Sie die von der IT bereitgestellten sicheren Verfahren.
-    
+	- [ ] #TSK Verfahren zum sicheren Versenden von sensiblen Daten muss definiert werden #Contact/UweFlaton  ➕ 2025-09-23 📅 2025-10-10
 3. **Videokonferenzen:** Verwenden Sie primär die von EMPIC bereitgestellten Systeme. Die Nutzung anderer Systeme ist nur nach Rücksprache mit der IT oder als eingeladener Teilnehmer gestattet.
-    
 
 ### **4.5 Mobiles Arbeiten Und Datenträger**
 
@@ -52,7 +52,7 @@ Diese Richtlinie gilt für alle Mitarbeiter (inkl. Praktikanten, Auszubildende),
 
 ### **4.6 Umgang Mit Sicherheitsvorfällen**
 
-Jeder bemerkte oder vermutete Sicherheitsvorfall (z.B. Vireninfektion, Datenverlust, Verlust eines Gerätes) muss **unverzüglich** der IT-Abteilung gemeldet werden. Bei akuter Gefahr (z.B. Verschlüsselungstrojaner) trennen Sie sofort alle Netzwerkverbindungen und fahren Sie den Rechner herunter.
+Jeder bemerkte oder vermutete Sicherheitsvorfall (z.B. Vireninfektion, Datenverlust, Verlust eines Gerätes) muss **unverzüglich** der IT-Abteilung und dem Informationssicherheitsbeauftragten gemeldet werden. Bei akuter Gefahr (z.B. Verschlüsselungstrojaner) trennen Sie sofort alle Netzwerkverbindungen und fahren Sie den Rechner **NICHT** herunter.
 
 ### **4.7 Protokollierung Und Überwachung**
 
@@ -72,4 +72,4 @@ Verstöße gegen diese Richtlinie können zu arbeitsrechtlichen Konsequenzen bis
 - IS-202
 - IS-205
 - IS-206
-- Richtlinie zum Passwortmanagement 
+- IS-321
