@@ -254,6 +254,7 @@
   },
   "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
+    "var/daily/2025-09-23.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
@@ -286,7 +287,6 @@
     "var/daily/2025-rolling.md",
     "bin/Template-Daily-Snippet.md",
     "bin/Untitled.base",
-    "var/daily/2025-09-18.md",
     "arc/meeting-arc",
     "arc/lib_legacy",
     "arc/lib/contacts",
