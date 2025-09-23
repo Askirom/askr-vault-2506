@@ -8,7 +8,7 @@ Diese Richtlinie ist integraler Bestandteil der Beauftragung. Sie gilt für den 
 
 ## **3. Zuständigkeiten / Verantwortlichkeiten**
 
-Die allgemeinen Verantwortlichkeiten für die Informationssicherheit sind in der **IS-Leitlinie (IS-101)** der EMPIC definiert. Der **Auftragnehmer** ist für die Umsetzung dieser Richtlinie und die Kontrolle seiner Mitarbeiter und Unterauftragnehmer verantwortlich.
+Die allgemeinen Verantwortlichkeiten für die Informationssicherheit sind in der **IS-Leitlinie (IS-100)** der EMPIC definiert. Der **Auftragnehmer** ist für die Umsetzung dieser Richtlinie und die Kontrolle seiner Mitarbeiter und Unterauftragnehmer verantwortlich.
 
 ## **4. Regelungen**
 

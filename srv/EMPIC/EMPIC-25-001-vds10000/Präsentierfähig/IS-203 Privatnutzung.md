@@ -8,7 +8,7 @@ Diese Richtlinie ist verbindlich für **alle Mitarbeiter** der EMPIC GmbH. Sie g
 
 ## **3. Zuständigkeiten / Verantwortlichkeiten**
 
-Die allgemeinen Verantwortlichkeiten für die Informationssicherheit sind in der **IS-Leitlinie (IS-101)** definiert. Für die Einhaltung dieser spezifischen Richtlinie ist der **jeweilige Mitarbeiter** selbst verantwortlich.
+Die allgemeinen Verantwortlichkeiten für die Informationssicherheit sind in der **IS-Leitlinie (IS-100)** definiert. Für die Einhaltung dieser spezifischen Richtlinie ist der **jeweilige Mitarbeiter** selbst verantwortlich.
 
 ## **4. Regelungen**
 

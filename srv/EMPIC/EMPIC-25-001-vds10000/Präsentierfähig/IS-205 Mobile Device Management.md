@@ -1,105 +1,74 @@
-type:: knowledge
-status:: active
-client:: EMPIC
-project:: 
-std:: 
-tags:: 
+## **1. Ziel Und Zweck**
 
-## Ziel Und Zweck:
+Diese Richtlinie definiert den verbindlichen Rahmen für die Ausgabe, Verwaltung und Nutzung von mobilen Endgeräten (Smartphones und Tablets) bei EMPIC. Ziel ist es, durch den Einsatz einer Mobile-Device-Management-Lösung (MDM) die Unternehmensdaten auf diesen Geräten zu schützen und die Einhaltung der Vorgaben aus der DSGVO und der VdS 10000 sicherzustellen.
 
-Diese Richtlinie gibt den Rahmen zur Verwendung mobiler Datenträger vor und regelt den Gebrauch der mobilen Endgeräte nach Vorgaben der EU-
-DSGVO sowie der VDS10000.
-Es gelten die Vorgaben der IT-Nutzungsrichtlinie.
+## **2. Geltungsbereich**
 
-## Geltungsbereich:
+Diese Richtlinie gilt für alle von EMPIC bereitgestellten oder für dienstliche Zwecke genutzten **Smartphones und Tablets**. Sie ist für alle Mitarbeiter, die ein solches Gerät nutzen, verbindlich. Notebooks fallen nicht unter diese Richtlinie und werden wie Desktop-Geräte behandelt.
 
-Der Geltungsbereich dieser Richtlinie erstreckt sich über sämtliche mobile Datenträger, die in der IT-Infrastruktur des Unternehmens zum Einsatz kommen, wie z. B.
+## **3. Zuständigkeiten / Verantwortlichkeiten**
 
-- USB-Speichersticks
-- transportable Festplatten
-- Datensicherungsbänder
-- CD-ROMs, DVDs und Disketten
+Die allgemeinen Verantwortlichkeiten sind in der **IS-Leitlinie (IS-100)** definiert. Spezifisch für diese Richtlinie gilt:
 
-Diese Richtlinie versteht sich als „Gesamtorganisationsrichtlinie“ und gilt für alle Geschäftsbereiche unseres Unternehmens, das heißt für die EMPIC GmbH, im weiteren Verlauf EMPIC genannt.
-Diese Richtlinie wurde von der IT-Leitung verabschiedet und aktuell umgesetzt. Verstöße gegen diese Richtlinie können zu arbeitsrechtlichen Konsequenzen führen.
+- Die **IT-Abteilung** ist für den Betrieb der MDM-Lösung und die Unterstützung der Mitarbeiter verantwortlich.    
+- Der **jeweilige Mitarbeiter** ist für die Einhaltung der Richtlinie und den sicheren Umgang mit seinem Gerät verantwortlich.
 
-## Zuständig / Verantwortlich:
+## **4. Regelungen**
 
-Verantwortlich für den Prozess ist die IT-Leitung der EMPIC, für die Durchführung der jeweilige Mitarbeiter.
+### **4.1 Grundsätze Der Verwaltung**
 
-## Allgemeines:
+1. Alle mobilen Endgeräte, die auf Unternehmensressourcen zugreifen, müssen in der MDM-Lösung (Microsoft Intune) der EMPIC registriert und verwaltet werden.
+2. Die MDM-Lösung trennt auf dem Gerät dienstliche und private Daten in einem geschützten "Arbeitsbereich".
+3. Durch die MDM-Lösung werden zentrale Sicherheitsvorgaben wie die Verschlüsselung des Gerätespeichers und ein Zugangsschutz (PIN) durchgesetzt.
+4. Bei Verlust eines Gerätes kann die IT-Abteilung die dienstlichen Daten aus der Ferne löschen.
 
-Wenn mobile Datenträger mit Unternehmensdaten in falsche Hände geraten oder wenn über sie Schadsoftware in das Unternehmen eingeschleppt wird, können gravierende Schäden entstehen.
-Aus diesem Grund ist es notwendig, den Umgang mit mobilen Datenträgern eindeutig und verbindlich zu regeln. Dies dient dem Schutz der Daten vor fremden Zugriff.
-Die vorliegende Richtlinie beschreibt die Ausgabe, den Umgang und die Rückgabe von mobilen Endgeräten.
+### **4.2 Private Nutzung**
 
-## Regelungen:
+1. Die private Nutzung von **dienstlichen Smartphones** ist gestattet, sofern das Gerät in der MDM-Lösung registriert und richtlinienkonform ("compliant") ist.
+2. Die private Nutzung von **dienstlichen Tablets** ist untersagt.
 
-### Daten Auf Mobilen Datenträgern
+### **4.3 Anforderungen an Die Gerätesicherheit (Compliance)**
 
-Mobile Datenträger sind keine sicheren Aufbewahrungsorte für Daten. Sie können leicht beschädigt werden, entwendet werden oder verloren gehen. Wenn Unternehmensdaten in falsche Hände geraten oder verloren gehen,
+Ein Endgerät gilt nur dann als richtlinienkonform, wenn alle folgenden Kriterien erfüllt sind:
 
-kann dies für das Unternehmen schwerwiegende Folgen haben. Um diese Gefahr zu minimieren, gelten die folgenden Regelungen: 
+- Der Gerätespeicher ist vollständig verschlüsselt.
+- Das Betriebssystem wurde nicht manipuliert (kein Jailbreak/Root).
+- Eine Geräte-PIN mit mindestens sechs Stellen ist aktiviert.
+- Es sind ausschließlich Apps aus den offiziellen App-Stores des Herstellers installiert.
+- Das Gerät ist aktiv in der MDM-Lösung registriert und der Status ist gültig.
+- Ein automatischer Sperrbildschirm ist nach maximal drei Minuten Inaktivität aktiv.
+- Das Betriebssystem entspricht der von der IT geforderten Mindestversion.
 
-- Grundsätzlich dürfen Daten nur dann auf mobilen Datenträgern gespeichert werden, wenn hierfür ein konkreter Anlass besteht und es für die Aufgabenerfüllung des Mitarbeiters oder die betrieblichen Abläufe notwendig ist.
-- Mobile Datenträger dürfen ausschließlich für den Transport von Daten (z. B. von Speicherort zu Speicherort) oder für die Datensicherung eingesetzt werden.
-- Die exklusive Speicherung von Daten auf mobilen Datenträgern ist nur zulässig, solange die Daten nicht auf die dafür vorgesehen Speicherorte übertragen werden können (siehe IT-Richtlinie „Speicherorte“), oder wenn Daten von der IT gesichert oder archiviert werden.
-- Nicht mehr benötigte Daten müssen von mobilen Datenträgern gelöscht werden. Dazu müssen spezielle Programme verwendet werden, die die Daten zuverlässig löschen. Diese werden von der IT zur Verfügung gestellt.
+Der Compliance-Status wird von der IT überwacht. Verstöße können zum Entzug des Zugriffs auf Unternehmensressourcen führen.
 
-Das Speichern dienstlicher Daten ist nur innerhalb der verwalteten Apps erlaubt. Hierzu gehören insbesondere auch geschäftliche Kontakte. Das lokale Speichern in den Standard-Adressbüchern des Gerätes ist nicht gestattet.
-Diese Geschäftskontakte müssen in Outlook als Kontakte angelegt werden.
+### **4.4 Sicherer Umgang Und Verhaltensregeln**
 
-### Spezifischen Risiken
+1. Das mobile Endgerät ist pfleglich zu behandeln und darf nie unbeaufsichtigt gelassen werden.
+2. Das Gerät darf nicht an Dritte weitergegeben werden (auch nicht für Reparaturen, diese sind mit der IT abzustimmen).
+3. Der Nutzer ist für die Aktualität des Betriebssystems verantwortlich und muss Updates nach Aufforderung durch die IT zeitnah installieren.
+4. Das Entfernen des MDM-Profils durch den Nutzer ist strengstens untersagt.
 
-#### Verbot Fremder Mobiler Datenträger
+### **4.5 Umgang Mit Unternehmensdaten**
 
-Es gibt große Qualitätsunterschiede bei mobilen Datenträgern. Um sicherzustellen, dass die Daten des Unternehmens angemessen geschützt sind, gelten die folgenden Regelungen:
+Dienstliche Daten (inklusive geschäftlicher Kontakte) dürfen ausschließlich innerhalb der durch die MDM-Lösung verwalteten Apps ("Arbeitsbereich") gespeichert und verarbeitet werden.
 
-- Das Verwenden eigener (privater) mobiler Datenträger durch die Mitarbeiter ist ausdrücklich untersagt.
-- Die IT stellt bei Bedarf schnell und unbürokratisch hochwertige mobile Datenträger zur Verfügung, die darüber hinaus z. T. über spezielle Sicherheitsmerkmale verfügen.
+### **4.6 Vorgehen Bei Verlust, Schaden Oder Störung**
 
-#### Transport Und Aufbewahrung
+Jeder Verlust, jede Beschädigung oder Fehlfunktion des mobilen Endgeräts ist **unverzüglich** an die IT-Abteilung zu melden.
 
-Mobile Datenträger sind fragil. Sie können leicht beschädigt oder gelöscht werden und müssen deshalb vorsichtig behandelt werden.
+## **5. Beschaffung Und Lebenszyklus**
 
-- Um mobile Datenträger sie vor mechanischen Belastungen und Magnetfeldern zu schützen, sollten sie z. B. in einem speziellen Transportbehälter oder in einer entsprechenden Schutzhülle aufbewahrt werden. Die IT stellt diese bei Bedarf schnell und unbürokratisch zur Verfügung.
-- Bei Flugreisen müssen mobile Datenträger am Körper getragen oder im Handgepäck verstaut werden.
-- Wenn mobile IT-Systeme über eine längere Zeit hinweg unbeobachtet sind (z. B. über Nacht) müssen sie an einem sicheren Ort aufbewahrt werden (abschließbarer Schrank, Büro, Haus o. ä.).
+Die Auswahl, Bestellung und Außerbetriebnahme von mobilen Endgeräten erfolgt über die IT-Abteilung gemäß der **Arbeitsanweisung "Lifecycle Mobile Device"**. Die eigenständige Einrichtung der MDM-Software auf dem Gerät durch den Mitarbeiter wird durch separate Arbeitsanweisungen für iOS und Android geregelt.
 
-#### Schutz Vor Schadsoftware
+## **6. Ausnahmen**
 
-Über mobile Datenträger kann Schadsoftware in das Unternehmen eingeschleppt werden. Um dies zu vermeiden, gilt folgende Regelung:
+Begründete Ausnahmen von den Regelungen dieser Richtlinie sind nur nach schriftlicher Genehmigung durch den Informationssicherheitsbeauftragten (ISB) zulässig.
 
-- Das Einbringen von fremden mobilen Datenträgern in die IT-Infrastruktur des Unternehmens ist nur zulässig, wenn hierfür ein konkreter Anlass besteht und es für die Aufgabenerfüllung des Mitarbeiters oder die betrieblichen Abläufe notwendig ist.
-- Mobile Datenträger, die (z. B. auf dem Firmengelände) gefunden wurden, dürfen nicht mit der IT-Infrastruktur verbunden werden.
-- Vor dem ersten Einsatz eines fremden mobilen Datenträgers muss dieser falls technisch möglich auf Schadsoftware untersucht werden. Hierzu wenden Sie sich an die IT.
+## **7. Konsequenzen Bei Nichtbeachtung**
 
-### Verbot Der Weitergabe an Dritte
+Verstöße gegen diese Richtlinie können zu arbeitsrechtlichen Konsequenzen bis hin zur Kündigung des Arbeitsverhältnisses sowie zu Schadenersatzansprüchen führen. Der Zugriff auf Unternehmensressourcen kann bei Verstößen gesperrt werden.
 
-Auf den mobilen Datenträgern sind Daten des Unternehmens gespeichert, die nicht für Dritte bestimmt sind. 
+## **8. Mitgeltende Unterlagen**
 
-- Mobile Datenträger sind dem jeweiligen Mitarbeiter ausschließlich zur persönlichen Nutzung übergeben. Sie dürfen nicht an Dritte weitergegeben oder an sie verliehen werden.
-- Sie werden grundsätzlich nicht für andere Personen zugänglich aufbewahrt.
-
-### Sensibilisierung Der Benutzer
-
-Benutzer von mobilen Datenträgern müssen über Sinn und Zweck der Sicherheitsmaßnahmen sensibilisiert werden.
-
-## Weiterführende Information:
-
-- Glossar
-- IT-Richtlinie „IS-208 Speicherorte“
-
-## Verbindlichkeit:
-
-Diese Richtlinie ist verbindlich.  
-Bei Zuwiderhandlung gegen diese Richtlinie oder unsachgemäßer Nutzung der IT-Infrastruktur kann der Zugang zur IT-Infrastruktur oder zu Teilen davon zur Wahrung der notwendigen Sicherheit deaktiviert werden.
-- Bei gravierenden Verstößen gegen diese Richtlinie muss der Mitarbeiter mit Konsequenzen bis hin zur Kündigung des Arbeitsverhältnisses sowie Schadenersatzansprüchen rechnen.
-- Sollte eine Bestimmung dieser Richtlinie für einen einzelnen Mitarbeiter sachlich nicht zutreffen, so ist dennoch eine Lösung im Sinne dieser Richtlinie herbeizuführen.
-- Ausnahmen von den obigen Regeln sind zulässig. Sie müssen im Vorfeld von IT genehmigt oder in entsprechenden Richtlinien geregelt sein. 
-
-## Dokumentenmanagement:
-
-- Dieses Dokument ist ab dem Genehmigungsdatum gültig. 
-- Der Eigentümer des Dokuments ist der Informationssicherheitsbeauftragte. 
-- Dieses Dokument wird jährlich geprüft und bei Bedarf aktualisiert.
+- IS-100
+- IS-201
