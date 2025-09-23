@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/IS-203 Privatnutzung.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-203 Privatnutzung"
+              "title": "IS-204 IT-Nutzungsrichtlinie für Auftragnehmer"
             }
           }
         ],
@@ -251,13 +251,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e8a6c529c14b2328",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
-    "srv/EMPIC/EMPIC-25-001-vds10000/IS-202 Protokollierung.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/IS-203 Privatnutzung.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/IS-200 ISMS Richtlinie.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/IS-205 Mobile Device Management.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/IS-000.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/In Arbeit",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
     "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
     "srv/VEDES",
@@ -280,15 +283,12 @@
     "var/daily/2025-09-17.md",
     "var/daily/2025-09-09.md",
     "srv/CLIFO/CLIFO-25-003-notfallplan/clifo-notfallplan-Checkliste an Fragen für H und C.md",
-    "var/decision/2025-09-19 Abstimmung RCG JourFixe.md",
-    "usr/identity/askirom-pkm-os-v3.md",
     "arc/meeting-arc",
     "arc/lib_legacy",
     "arc/lib/contacts",
     "arc/lib",
     "arc/jobs_legacy/Untitled.base",
     "arc/jobs_legacy",
-    "meeting-arc",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
