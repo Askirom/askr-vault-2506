@@ -1,6 +1,7 @@
 ## IS-2xx
 ### Metadaten
 - Titel
+- Zielgruppe
 - Version
 - Status
 - Gültig ab
