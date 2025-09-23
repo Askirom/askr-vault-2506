@@ -5,7 +5,7 @@ project::
 std:: 
 tags:: 
 
-## Ziel und Zweck:
+## Ziel Und Zweck:
 
 Als Ergänzung und Konkretisierung der Informationssicherheitsleitlinie werden in dieser Richtlinie grundlegende Arbeitsweisen des ISMS spezifiziert.   
 
@@ -15,7 +15,7 @@ Der Geltungsbereich dieser Richtlinie erstreckt sich über den gesamten Geltungs
 
 ## Regelungen:
 
-### Grundsätze des ISMS
+### Grundsätze Des ISMS
 
 Das ISMS arbeitet nach den folgenden Grundsätzen:
 
@@ -31,11 +31,11 @@ Das ISMS arbeitet nach den folgenden Grundsätzen:
     - …
 - Sämtliche Sicherheitsmaßnahmen werden so gewählt und koordiniert, dass ein angemessenes Sicherheitsniveau mit möglichst geringem Aufwand erreicht wird.
 
-## Zuständig / verantwortlich:
+## Zuständig / Verantwortlich:
 
 Das ISMS wird insbesondere (aber nicht nur) durch den Informationssicherheitsbeauftragten (ISB) und das Informationssicherheitsteam (IST) getragen. 
 
-#### Informationssicherheitsbeauftragte (ISB)
+### Informationssicherheitsbeauftragte (ISB)
 
 Der ISB ist der Prozesseigentümer des ISMS:
 
@@ -47,7 +47,7 @@ Der ISB ist der Prozesseigentümer des ISMS:
 - Der ISB ist in seiner Funktion organisatorisch unabhängig und berichtet direkt an das Topmanagement (Stabsstelle).
 - Er berichtet mindestens jährliches an das Informationssicherheitsteam (IST) über den aktuellen Stand der Informationssicherheit, insbesondere über Mängel, Risiken und Sicherheitsvorfälle.
 
-#### Informationssicherheitsteam (IST)
+### Informationssicherheitsteam (IST)
 
 Das IST ist das zentrale Steuerungsgremium des Unternehmens für die Informationssicherheit. Es tagt monatlich sowie bei Bedarf. Es nimmt die folgenden Aufgaben wahr:
 
@@ -72,7 +72,7 @@ Bei Bedarf können weitere interne oder externe Gäste hinzugezogen werden.
 
 -- ALTERNATIVE – 
 
-### Informationssicherheitsbeauftragter (ISB)
+## Informationssicherheitsbeauftragter (ISB)
 
 **Aufgaben**
 
@@ -98,7 +98,7 @@ Bei Bedarf können weitere interne oder externe Gäste hinzugezogen werden.
 - Erfahrung Risikomanagement, Auditmethodik  
 - Kontinuierliche fachliche Weiterbildung
 
-### Informationssicherheitsteam (IST)
+## Informationssicherheitsteam (IST)
 
 **Aufgaben** (VdS 4.6)
 
@@ -126,7 +126,7 @@ Top-Management-Vertreter, ISB, DSB, IT-Verantw.,weitere Experten nach Bedarf
 - Fachkenntnis jeweiliger Domänen
 - Entscheidungs- & Abstimmungs­kompetenz
 
-### IT-Verantwortlicher
+## IT-Verantwortlicher
 
 **Aufgaben**
 
@@ -187,7 +187,7 @@ Das ISMS wird durch verschiedene Dokumente definiert und gesteuert. Diese sind i
 
 ![](https://info.empic.de/download/attachments/239173845/isms-dokumente-pyramide.png?version=1&modificationDate=1721375680000&api=v2)
 
-#### Ebene 1 - IS-Leitlinie (IS-100)
+### Ebene 1 - IS-Leitlinie (IS-100)
 
 Die Leitlinie zur Informationssicherheit (IS-Leitlinie) ist das zentrale Dokument für die gesamte Informationssicherheit. In ihr sind die zu erreichenden Ziele durch das vorgegeben und Verantwortlichkeiten definiert.
 
@@ -197,7 +197,7 @@ Die IS-Leitlinie wird vom Topmanagement erstellt, jährlich von ihm auf Aktualit
 |---|---|---|---|
 |[IS-100](https://confluence.empic.de/display/POL/IS-100+-+Informationssicherheitsleitlinie)|IS-Leitlinie|Topmanagement|QM-Software|
 
-#### Ebene 2 - IS-Richtlinien (IS-2xx)
+### Ebene 2 - IS-Richtlinien (IS-2xx)
 
 Zur Unterstützung und Konkretisierung der IS-Leitlinie werden Regelungen für die Informationssicherheit in einzelnen Dokumenten, den IS-Richtlinien, gesammelt. Sie werden durch den ISB unter Einbeziehung
 
@@ -218,7 +218,7 @@ des IST erstellt und vom Topmanagement in Kraft gesetzt. IS-Richtlinien werden j
 |[IS-210](https://confluence.empic.de/pages/viewpage.action?pageId=200114386)|Sicherheitsvorfälle|
 |[IS-211](https://confluence.empic.de/display/POL/IS-211+-+Mobiles+Arbeiten+-+Draft)|Home Office|
 
-#### Ebene 3 - IS-Verfahren (IS-3xx)
+### Ebene 3 - IS-Verfahren (IS-3xx)
 
 IS-Verfahren legen Abläufe fest, die für die Aufrechterhaltung der Informationssicherheit wichtig sind. Sie sind Bestandteil des Qualitätsmanagements und unterliegen den entsprechenden Regularien.
 
@@ -243,7 +243,7 @@ IS-Verfahren legen Abläufe fest, die für die Aufrechterhaltung der Information
 |[IS-340](https://confluence.empic.de/display/POL/IS-340+-+Risikoanalyse+und+-behandlung+-+Draft)|Risikomanagement: Risikoanalyse und -behandlung|Leitung Risikomanagement|
 |[IS-341](https://confluence.empic.de/display/POL/IS-341+-+Identifizieren+von+kritischen+Teilen+der+IT-Infrastruktur+-+Draft)|Risikomanagement: Identifizieren von kritischen Teilen der IT-Infrastruktur|Leitung Risikomanagement|
 
-#### Ebene 4 - IS-Aufzeichnungen (IS-4xx)
+### Ebene 4 - IS-Aufzeichnungen (IS-4xx)
 
 IS-Aufzeichnungen sind Dokumente, die im Zuge des Betriebs des ISMS und im Zuge des Kontinuierlichen Verbesserungsprozesses (KVP) entstehen, z. B. Nachweise über durchgeführte Tätigkeiten.
 
@@ -281,7 +281,7 @@ Informationssicherheit muss sich stets den gesetzlichen, betrieblichen und vertr
 
 Im folgenden wird die Arbeitsweise des ISMS umrissen.
 
-#### Erkennen von neuen Anforderungen und Gefährdungen
+### Erkennen Von Neuen Anforderungen Und Gefährdungen
 
 Das Anforderungsmanagement stellt sicher, dass neue betriebliche, gesetzliche und vertragliche Anforderungen an die Informationssicherheit sowie neue Gefährdungen erkannt werden. Neue Anforderungen und Gefährdungen werden z. B. durch die folgenden Mechanismen bekannt:
 
@@ -296,15 +296,15 @@ Das Anforderungsmanagement stellt sicher, dass neue betriebliche, gesetzliche un
 - das im Unternehmen verankerte Verbesserungs- und Innovationsmanagement
     
 
-#### Risikomanagement
+### Risikomanagement
 
 Neue Anforderungen und Gefährdungen werden vom ISB gesammelt. Der ISB trägt dafür Sorge, dass diese bewertet werden. Er wird dabei bei Bedarf vom IST, den Prozesseigentümern und vom Risikomanagement unterstützt. Der ISB sorgt dafür, dass auf Basis dieser Erkenntnisse geeignete Maßnahmen zur Vermeidung, Reduzierung oder Übertragung der Risiken definiert und umgesetzt werden; wenn Risiken nicht angemessen behandelt werden können, werden sie vom Topmanagement akzeptiert und dies dokumentiert (→ Verfahren [IS-340 Risikomanagement: Risikoanalyse und -behandlung](https://confluence.empic.de/display/POL/IS-340+-+Risikoanalyse+und+-behandlung+-+Draft)).
 
-#### Umsetzung von Maßnahmen
+### Umsetzung Von Maßnahmen
 
 Die Umsetzungen von geplanten Maßnahmen wird vom ISB koordiniert und überwacht. Für die Umsetzung von Maßnahmen kann der ISB Verantwortliche definieren.
 
-#### Management der Ausnahmen
+### Management Der Ausnahmen
 
 Richtlinien erlauben Ausnahmen, wenn dies aus betrieblichen, vertraglichen oder gesetzlichen Anforderungen erforderlich ist. Ausnahmen müssen vom ISB im Vorfeld genehmigt und zusammen mit der Begründung in [IS-411 ISMS: Ausnahmen von IS-Richtlinien] dokumentiert werden. Der ISB ist verantwortlich, dass dabei entstehenden Risiken eingeschätzt und ggf. entsprechende Maßnahmen (Vermeidung, Reduzierung, Überwälzen, Akzeptanz) ergriffen werden. Dieseg kann vom ISB selbst vorgenommen oder in Form einer strukturierten Risikoanalyse und -behandlung (→ Verfahren [IS-340 Risikomanagement: Risikoanalyse und -behandlung](https://confluence.empic.de/display/POL/IS-340+-+Risikoanalyse+und+-behandlung+-+Draft)) durchgeführt werden.
 

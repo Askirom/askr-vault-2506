@@ -5,7 +5,7 @@ project::
 std:: 
 tags:: 
 
-## Ziel und Zweck:
+## Ziel Und Zweck:
 
 Diese Richtlinie gibt den Rahmen zur Verwendung mobiler Datenträger vor und regelt den Gebrauch der mobilen Endgeräte nach Vorgaben der EU-
 DSGVO sowie der VDS10000.
@@ -23,7 +23,7 @@ Der Geltungsbereich dieser Richtlinie erstreckt sich über sämtliche mobile Dat
 Diese Richtlinie versteht sich als „Gesamtorganisationsrichtlinie“ und gilt für alle Geschäftsbereiche unseres Unternehmens, das heißt für die EMPIC GmbH, im weiteren Verlauf EMPIC genannt.
 Diese Richtlinie wurde von der IT-Leitung verabschiedet und aktuell umgesetzt. Verstöße gegen diese Richtlinie können zu arbeitsrechtlichen Konsequenzen führen.
 
-## Zuständig / verantwortlich:
+## Zuständig / Verantwortlich:
 
 Verantwortlich für den Prozess ist die IT-Leitung der EMPIC, für die Durchführung der jeweilige Mitarbeiter.
 
@@ -35,7 +35,7 @@ Die vorliegende Richtlinie beschreibt die Ausgabe, den Umgang und die Rückgabe 
 
 ## Regelungen:
 
-### Daten auf mobilen Datenträgern
+### Daten Auf Mobilen Datenträgern
 
 Mobile Datenträger sind keine sicheren Aufbewahrungsorte für Daten. Sie können leicht beschädigt werden, entwendet werden oder verloren gehen. Wenn Unternehmensdaten in falsche Hände geraten oder verloren gehen,
 
@@ -51,14 +51,14 @@ Diese Geschäftskontakte müssen in Outlook als Kontakte angelegt werden.
 
 ### Spezifischen Risiken
 
-#### Verbot fremder mobiler Datenträger
+#### Verbot Fremder Mobiler Datenträger
 
 Es gibt große Qualitätsunterschiede bei mobilen Datenträgern. Um sicherzustellen, dass die Daten des Unternehmens angemessen geschützt sind, gelten die folgenden Regelungen:
 
 - Das Verwenden eigener (privater) mobiler Datenträger durch die Mitarbeiter ist ausdrücklich untersagt.
 - Die IT stellt bei Bedarf schnell und unbürokratisch hochwertige mobile Datenträger zur Verfügung, die darüber hinaus z. T. über spezielle Sicherheitsmerkmale verfügen.
 
-#### Transport und Aufbewahrung
+#### Transport Und Aufbewahrung
 
 Mobile Datenträger sind fragil. Sie können leicht beschädigt oder gelöscht werden und müssen deshalb vorsichtig behandelt werden.
 
@@ -66,7 +66,7 @@ Mobile Datenträger sind fragil. Sie können leicht beschädigt oder gelöscht w
 - Bei Flugreisen müssen mobile Datenträger am Körper getragen oder im Handgepäck verstaut werden.
 - Wenn mobile IT-Systeme über eine längere Zeit hinweg unbeobachtet sind (z. B. über Nacht) müssen sie an einem sicheren Ort aufbewahrt werden (abschließbarer Schrank, Büro, Haus o. ä.).
 
-#### Schutz vor Schadsoftware
+#### Schutz Vor Schadsoftware
 
 Über mobile Datenträger kann Schadsoftware in das Unternehmen eingeschleppt werden. Um dies zu vermeiden, gilt folgende Regelung:
 
@@ -74,14 +74,14 @@ Mobile Datenträger sind fragil. Sie können leicht beschädigt oder gelöscht w
 - Mobile Datenträger, die (z. B. auf dem Firmengelände) gefunden wurden, dürfen nicht mit der IT-Infrastruktur verbunden werden.
 - Vor dem ersten Einsatz eines fremden mobilen Datenträgers muss dieser falls technisch möglich auf Schadsoftware untersucht werden. Hierzu wenden Sie sich an die IT.
 
-### Verbot der Weitergabe an Dritte
+### Verbot Der Weitergabe an Dritte
 
 Auf den mobilen Datenträgern sind Daten des Unternehmens gespeichert, die nicht für Dritte bestimmt sind. 
 
 - Mobile Datenträger sind dem jeweiligen Mitarbeiter ausschließlich zur persönlichen Nutzung übergeben. Sie dürfen nicht an Dritte weitergegeben oder an sie verliehen werden.
 - Sie werden grundsätzlich nicht für andere Personen zugänglich aufbewahrt.
 
-### Sensibilisierung der Benutzer
+### Sensibilisierung Der Benutzer
 
 Benutzer von mobilen Datenträgern müssen über Sinn und Zweck der Sicherheitsmaßnahmen sensibilisiert werden.
 
