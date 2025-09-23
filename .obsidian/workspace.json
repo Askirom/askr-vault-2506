@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "VEDES-25-001-vds10000"
             }
+          },
+          {
+            "id": "e8a6c529c14b2328",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -225,10 +235,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b82f61eac51170bb",
+  "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
-    "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
+    "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
     "srv/VEDES",
     "var/actions-dashboard.md",
     "var/daily/2025-09-22.md",
