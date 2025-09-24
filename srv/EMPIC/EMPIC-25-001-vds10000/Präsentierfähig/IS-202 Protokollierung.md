@@ -31,9 +31,9 @@ Die Protokollierung erfolgt im Rahmen der Interessensabwägung. Unser berechtigt
 ### **4.3 Technische Anforderungen (gemäß VdS 10000, 10.4.4)**
 
 1. **Umfang:** Jedes IT-System muss erfolgreiche und erfolglose Anmeldeversuche, Fehler und Informationssicherheitsereignisse protokollieren.
-2. **Speicherdauer:** Protokolldaten müssen 6 Monate aufbewahrt werden, sofern keine anderen gesetzlichen oder vertraglichen Pflichten entgegenstehen. Danach werden sie automatisiert gelöscht.
-3. **Speicherort:** Protokolldaten sollen zentral gespeichert werden, um die Auswertung zu erleichtern und sie vor unberechtigtem Zugriff zu schützen.
-4. **Zeitsynchronisation:** Die Uhren aller IT-Systeme müssen auf eine gemeinsame Zeit synchronisiert sein.
+2. **Speicherdauer:** Protokolldaten müssen 6 Monate aufbewahrt werden, sofern keine anderen gesetzlichen oder vertraglichen Pflichten entgegenstehen. Danach werden sie ==automatisiert== gelöscht.
+3. **Speicherort:** ==Protokolldaten sollen zentral gespeichert werden, um die Auswertung zu erleichtern und sie vor unberechtigtem Zugriff zu schützen.== ALTERNATIV: Protokolldaten werden in ihrem jeweiligen IT-System gespeichert und vor unberechtigtem Zugriff geschützt.
+4. **Zeitsynchronisation:** Die Uhren aller IT-Systeme müssen auf eine gemeinsame Zeit synchronisiert sein. 
 
 ### **4.4 Verarbeitungszweck Und Offenlegung**
 
@@ -42,9 +42,9 @@ Die Auswertung von Protokolldaten ist ausschließlich für folgende Zwecke zulä
 - **Erkennen von Störungen, Ausfällen und Sicherheitsvorfällen:** Die Auswertung erfolgt ohne Personenbezug, um den Zustand der IT zu überwachen.
 - **Verbessern der Informationsverarbeitung:** Die Auswertung erfolgt ohne Personenbezug zur Optimierung der Systeme und Sicherheitsmaßnahmen.
 - **Aufklären und Bekämpfen von Störungen, Ausfällen und Sicherheitsvorfällen:** Bei einem Vorfall dürfen Administratoren Protokolldaten, auch mit Personenbezug, zur Analyse und Behebung einsehen.
-- **Missbrauchskontrolle:** Eine personenbezogene Auswertung erfolgt nur bei einem gewichtigen Missbrauchsverdacht unter zwingender Beteiligung des Datenschutzbeauftragten und des Betriebsrats.
+- **Missbrauchskontrolle:** Eine personenbezogene Auswertung erfolgt nur bei einem gewichtigen Missbrauchsverdacht unter zwingender Beteiligung des Datenschutzbeauftragten.
 - **Geltend machen oder Abwehren rechtlicher Ansprüche:** Relevante Einträge werden extrahiert und können an Dritte (Juristen, Justiz) weitergegeben werden.
-- **Aufklären von Straftaten:** Bei konkretem Verdacht werden die Strafverfolgungsbehörden unterstützt, was die Übergabe von Protokolldaten beinhalten kann.
+- **Aufklären von Straftaten:** Grundsätzlich werden keine Daten an Strafverfolgungsbehörden herausgegeben. Bei konkretem Verdacht mit Vorweisen der Rechtmäßigkeit werden die Strafverfolgungsbehörden unterstützt.
 
 ## **5. Ausnahmen**
 
