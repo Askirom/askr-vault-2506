@@ -251,8 +251,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e8a6c529c14b2328",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
+    "bin/migrate.sh",
     "etc/templates/frontmatter.md",
     "usr/identity/askirom-pkm-os-v4.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
@@ -285,7 +286,6 @@
     "var/daily/2025-09-23.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-206 Mobile Datenträger.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EMPIC/EMPIC-25-001-vds10000/In Arbeit",
