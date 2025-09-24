@@ -27,7 +27,7 @@ Die anfallenden Protokolldaten werden ausschließlich für die in dieser Richtli
 ### **4.2 Rechtliche Grundlage**
 
 Die Protokollierung erfolgt im Rahmen der Interessensabwägung. Unser berechtigtes Interesse ist die Gewährleistung eines sicheren IT-Betriebs, die Abwehr von Haftungsansprüchen und die Aufklärung von Angriffen oder Straftaten.
-
+- [ ] #TSK Abnehmen durch DSB der EMPIC ➕ 2025-09-24 📅 2025-09-26
 ### **4.3 Technische Anforderungen (gemäß VdS 10000, 10.4.4)**
 
 1. **Umfang:** Jedes IT-System muss erfolgreiche und erfolglose Anmeldeversuche, Fehler und Informationssicherheitsereignisse protokollieren.
