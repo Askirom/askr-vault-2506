@@ -1,3 +1,12 @@
+### Ausgangssituation
+Im Jahr 2022 ist die Camille Bauer Metrawatt AG von einem weitreichenden Vorfall betroffen gewesen. Aus diesem Grund wurde zu dem Zeitpunkt eine Richtlinie für die Governance von IKTs erstellt. 
+Diese Richtlinie erfasst die wesentlichen Aspekte einer umfassenden ICT-Sicherheitsstrategie. Dazu gehören unter anderem:
+
+- Die Definition von Bedrohungsszenarien sowie die Erläuterung relevanter Begriffe von Viren bis Phishing.
+- Die klare Zuweisung von Verantwortlichkeiten, von der Gesamtverantwortung der Geschäftsführung bis hin zur Zuständigkeit für die ICT-Infrastruktur.
+- Konkrete technische und organisatorische Schutzmaßnahmen wie Datensicherungskonzepte (Back-ups), die Abgrenzung von Netzwerken (z.B. Gast-WLAN) und die Regelung von Administratorenrechten.
+- Ein detaillierter Plan für den Krisenfall, der die Einberufung eines Krisenstabs, eine feste Kommunikationskette und ein Notfall- und Wiederherstellungskonzept vorsieht.
+
 ### Bewertung der bestehenden Richtlinie
 
 Die ICT-Governance-Richtlinie der Camille Bauer Metrawatt AG aus 2022 ist fachlich solide und gut strukturiert. Sie definiert Verantwortlichkeiten und Krisenplanung auf nachvollziehbare Weise und stellt damit eine brauchbare Referenz dar.
