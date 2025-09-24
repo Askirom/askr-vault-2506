@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
+                "file": "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stellungnahme-ICT-Governance-Richtlinie"
+              "title": "E-Mail an betriebsrat360atifb.de"
             }
           },
           {
@@ -252,8 +252,12 @@
   },
   "active": "b82f61eac51170bb",
   "lastOpenFiles": [
-    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+    "srv/ifb/Untitled.md",
+    "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
+    "srv/GOSME/GOSME-25-002-betriebsrat360",
     "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
+    "srv/ifb",
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "srv/GOSME/GOSME-25-001-privacy",
     "srv/GOSME",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
@@ -282,12 +286,8 @@
     "srv/EMPIC/EMPIC-25-001-vds10000/In Arbeit",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig",
     "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
-    "srv/VEDES",
     "var/actions-dashboard.md",
     "var/daily/2025-09-22.md",
-    "var/daily/2025-09-20.md",
-    "var/daily/2025-09-19.md",
-    "EisriesenTicket.pdf",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
