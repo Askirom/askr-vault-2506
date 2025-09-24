@@ -1,6 +1,6 @@
-# Askirom PKM-OS — Folder & Flow Guide
+## Askirom PKM-OS — Folder & Flow Guide
 
-## Folder Map
+### Folder Map
 
 -   `/etc` → Templates, system rules
 -   `/bin` → Repeatable checklists/playbooks
@@ -21,7 +21,7 @@
 
 ---
 
-## Metadata Fields (Minimal Set)
+### Metadata Fields (Minimal Set)
 
 Every note starts with just enough inline Dataview fields:
 
@@ -34,7 +34,7 @@ That’s it. Add extras only if they’re useful.
 
 ---
 
-## Tasks (Actions)
+### Tasks (Actions)
 
 -   **Stored in**: `/var/action/`
 -   **Principle**: One note = one task
@@ -49,7 +49,7 @@ That’s it. Add extras only if they’re useful.
 
 ---
 
-## Projects
+### Projects
 
 -   **Stored in**: `/srv/<CLIENT>/<CLIENT-YY-###>_<slug>/`
 -   **Recommended files**:
@@ -67,14 +67,14 @@ That’s it. Add extras only if they’re useful.
 
 ---
 
-## Meetings (Rolling Client Logs)
+### Meetings (Rolling Client Logs)
 
 -   **Stored in**: `/var/meeting/`
 -   **Principle**: One append-only file per client. New meeting notes are added to the top of the file for reverse chronological order.
 -   **File Name**: `CLIENT.md` (e.g., `RCG.md`, `CLIFO.md`)
 
 The file itself contains the log. Each new meeting entry is separated by a horizontal rule (`---`) and begins with a heading that includes the date and topic.
-## Decisions
+### Decisions
 
 -   **Stored in**: `/var/decision/`
 
@@ -89,7 +89,7 @@ The file itself contains the log. Each new meeting entry is separated by a horiz
 
 ---
 
-## Daily Notes
+### Daily Notes
 
 -   **Stored in**: `/var/daily/`
 
@@ -103,7 +103,7 @@ The file itself contains the log. Each new meeting entry is separated by a horiz
 
 ---
 
-## Standards
+### Standards
 
 -   **Stored in**: `/usr/standards/`
 -   **Format**: PDFs with a sidecar `.md` file for metadata.
@@ -116,7 +116,7 @@ The file itself contains the log. Each new meeting entry is separated by a horiz
 
 ---
 
-## Naming Conventions
+### Naming Conventions
 
 -   **Dates**: `YYYY-MM-DD`
 -   **Projects**: `<CLIENT-YY-###>_<slug>`
