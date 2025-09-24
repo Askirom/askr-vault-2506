@@ -11,7 +11,8 @@ Diese Richtlinie gilt für alle Mitarbeiter (inkl. Praktikanten, Auszubildende),
 - **Jeder Nutzer** ist für die Einhaltung dieser Richtlinie verantwortlich.
 - Die **IT-Abteilung** stellt die IT-Infrastruktur bereit und ist Ansprechpartner für technische Fragen (`it@empic.aero`, Jira-Ticketsystem).
 - Der **Informationssicherheitsbeauftragte (ISB)** ist Ansprechpartner für Fragen zur Informationssicherheit (`informationssicherheitsbeauftragter@empic.de`).
-	- [ ] #TSK #Contact/UweFlaton prüft die E-Mail-Adresse für ISB #Status/waiting ➕ 2025-09-23 📅 2025-09-25
+	- [x] #TSK #Contact/UweFlaton prüft die E-Mail-Adresse für ISB #Status/waiting ➕ 2025-09-23 📅 2025-09-25 ✅ 2025-09-24
+		-> [[Entscheidungen VdS 10000]]
 - Der **Datenschutzbeauftragte (DSB)** ist Ansprechpartner für Fragen des Datenschutzes (`datenschutzbeauftragter@empic.de`). 
 
 ## **4. Regelungen**

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Decisions/Entscheidungen VdS 10000.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "E-Mail an betriebsrat360atifb.de"
+              "title": "Entscheidungen VdS 10000"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-201 IT-Nutzung"
+              "title": "IS-202 Protokollierung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -250,10 +252,18 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b82f61eac51170bb",
+  "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
-    "srv/ifb/Untitled.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Decisions/Entscheidungen VdS 10000.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
+    "usr/identity/askirom-pkm-os-v3.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Decisions",
     "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
+    "srv/ifb/Untitled.md",
     "srv/GOSME/GOSME-25-002-betriebsrat360",
     "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
     "srv/ifb",
@@ -263,31 +273,23 @@
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "var/daily/2025-09-24.md",
     "usr/identity/askirom-the-ashen-sovereign-v12.md",
-    "usr/identity/askirom-pkm-os-v3.md",
     "usr/identity/askirom-helper-prompt.md",
     "usr/identity/askirom-explanation-framework.md",
     "usr/identity/askirom-embody.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg",
     "srv/PAPHE",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "var/daily/2025-09-23.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-206 Mobile Datenträger.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Ressourcen",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Ressourcen/vds-10000.pdf",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Ressources",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/In Arbeit",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig",
     "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
     "var/actions-dashboard.md",
-    "var/daily/2025-09-22.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
