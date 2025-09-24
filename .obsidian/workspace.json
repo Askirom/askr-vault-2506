@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/VEDES/VEDES-25-001-vds10000.md",
+                "file": "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VEDES-25-001-vds10000"
+              "title": "2025-09-11_PAPHE_Auskunftsersuchen_MarGeg"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "IS-201 IT-Nutzung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -252,11 +250,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e8a6c529c14b2328",
+  "active": "b82f61eac51170bb",
   "lastOpenFiles": [
-    "var/daily/2025-09-23.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg",
+    "srv/PAPHE",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
+    "var/daily/2025-09-23.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
@@ -285,11 +286,8 @@
     "var/meeting/RCG-meetings.md",
     "usr/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
     "var/daily/2025-rolling.md",
-    "bin/Template-Daily-Snippet.md",
     "bin/Untitled.base",
     "arc/meeting-arc",
-    "arc/lib_legacy",
-    "arc/lib/contacts",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
