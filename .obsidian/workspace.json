@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -252,13 +252,14 @@
   },
   "active": "b82f61eac51170bb",
   "lastOpenFiles": [
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "var/daily/2025-09-24.md",
     "usr/identity/askirom-the-ashen-sovereign-v12.md",
     "usr/identity/askirom-pkm-os-v3.md",
     "usr/identity/askirom-helper-prompt.md",
     "usr/identity/askirom-explanation-framework.md",
     "usr/identity/askirom-embody.md",
-    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "srv/VEDES/VEDES-25-001-vds10000.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg",
     "srv/PAPHE",
@@ -285,7 +286,6 @@
     "var/daily/2025-09-19.md",
     "EisriesenTicket.pdf",
     "TaskForge.md",
-    "var/decision/RCG.md",
     "bin/Untitled.base",
     "arc/meeting-arc",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
