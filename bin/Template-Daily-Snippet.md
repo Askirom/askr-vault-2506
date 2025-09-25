@@ -5,19 +5,19 @@ created:
 tags:
   - askirom
 ---
-# {{date:yyyy-MM-DD}}
-# 09:00 (≤10 min)
+## {{date:yyyy-MM-DD}}
+## 09:00 (≤10 min)
 - 
 
-# Big thing (due Thu 2025-09-18)
+## Big Thing (due Thu 2025-09-18)
 
 
 
-# 21:00 (≤10 min)
+## 21:00 (≤10 min)
 
 
 
-# Tasks
+## Tasks
 - [ ] Bereitstellen der neuen Vertraulichkeitsverpflichtung [#TSK](app://obsidian.md/index.html#TSK) [#CLIENT/CLIFO](app://obsidian.md/index.html#CLIENT/CLIFO) ⏫ ➕ 2025-09-18 ⏳ 2025-09-19 📅 2025-09-19 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
 - [ ] Bereitstellen des DSI-Glossar auf Webseite [#TSK](app://obsidian.md/index.html#TSK) [#CLIENT/CLIFO](app://obsidian.md/index.html#CLIENT/CLIFO) ⏫ ➕ 2025-09-18 📅 2025-09-19 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
 - [ ] Hr. Eitenbichler Abstimmungstermin zusenden [#TSK](app://obsidian.md/index.html#TSK) ⏰ 09:00 ⏫ ➕ 2025-09-18 📅 2025-09-22 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
