@@ -34,4 +34,4 @@
 - Vertraulichkeitsklassifizierung sollte es überall geben
 - §3 müsste natürlich komplett angepasst werden
 - ebenso §4
-- 
+- alle anderen sind gut
