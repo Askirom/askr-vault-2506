@@ -25,6 +25,7 @@ Für die private Nutzung steht ausschließlich das WLAN **"EMPIC_Guests"** zur V
 1. Die private Nutzung ist nur in **geringem Umfang** erlaubt und darf die dienstliche Aufgabenerfüllung nicht beeinträchtigen.
 2. Das Abrufen, Verbreiten oder Speichern von strafrechtlich relevanten, sittenwidrigen oder urheberrechtlich geschützten Inhalten ist untersagt.
 3. Das Abrufen von **kostenpflichtigen Informationen oder Dienstleistungen** für den Privatgebrauch ist unzulässig.
+	- [ ] #TSK Spotify und andere Dienste (Musik) sollten erlaubt sein ➕ 2025-09-25
 4. Die Verfolgung von **kommerziellen oder sonstigen geschäftlichen Zwecken** im Rahmen der privaten Nutzung ist untersagt.
 5. Dienstliche Belange haben **stets Vorrang**. Die private Nutzung kann bei Bedarf jederzeit und ohne Vorankündigung eingeschränkt oder unterbunden werden.
 6. Die private Nutzung ist eine **freiwillige Vergünstigung**, aus der kein Rechtsanspruch erwächst. Das Unternehmen übernimmt keine Gewähr für die Verfügbarkeit oder Sicherheit der Verbindung.
