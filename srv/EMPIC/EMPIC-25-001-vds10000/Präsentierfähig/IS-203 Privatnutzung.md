@@ -1,7 +1,7 @@
 ## **1. Ziel Und Zweck**
 
-Diese Richtlinie definiert den verbindlichen Rahmen für die ausnahmsweise gestattete private Nutzung von IT-Ressourcen. Sie regelt die Bedingungen, unter denen Mitarbeitern der private Zugang zum Internet ermöglicht wird, und stellt die Einhaltung der Vorgaben aus der IS-Leitlinie, der DSGVO und der VdS 10000 sicher.
-
+Diese Richtlinie definiert den verbindlichen Rahmen für die ausnahmsweise gestattete private Nutzung von IT-Ressourcen. Sie regelt die Bedingungen, unter denen Mitarbeitern der private Zugang zum Internet ermöglicht wird, und stellt die Einhaltung der Vorgaben aus der IS-Leitlinie und der DSGVO sicher.
+- [ ] #TSK Abstimmen wie Laptops ausgrenzbar sind ➕ 2025-09-25 📅 2025-10-02
 ## **2. Geltungsbereich**
 
 Diese Richtlinie ist verbindlich für **alle Mitarbeiter** der EMPIC GmbH. Sie gilt für die Nutzung der explizit für die private Nutzung freigegebenen IT-Ressourcen.
