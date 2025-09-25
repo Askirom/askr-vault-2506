@@ -1,0 +1,10 @@
+- **Biersorten:** Spalter Hell, No1, Freiheit Radler sowie Gutmann hell und dunkel
+  - 20x Hell
+  - 5x No 1
+  - 4x Radler Mönchshof oder Felsenbräu
+  - 3x Radler Freiheit
+- **Nicht-alkoholische Getränke:** Wasser, weiße und gelbe Limo, Spezi, Apfelschorle
+  - 4x Wasser 
+  - 3x Spezi
+  - 2x gelbe Limo, 1x weiße Limo
+  - 3x Apfelschorle 

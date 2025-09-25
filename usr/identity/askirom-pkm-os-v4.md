@@ -77,13 +77,13 @@ tags: [security, compliance, BIA]
 ---
 ```
 
-# PROJECT: Business Impact Analysis (BIA) for CLIFO
+## PROJECT: Business Impact Analysis (BIA) for CLIFO
 
 - **Scope**: Conduct a full BIA for all critical business units.  
 - **Deadline**: 2025-12-15  
 - **Key Links**: [[meetings]], [[decisions]], [[backlog]]
 
-#### **Meetings & Decisions**
+### **Meetings & Decisions**
 
 - **Rule**: Store meeting/decision logs inside project folder.
 - **Format**: Append-only, reverse-chronological, entries separated by ---.
@@ -100,7 +100,7 @@ tags: [security, compliance, BIA]
 > relates:: [[meetings#2025-09-22 BIA Tooling Workshop]]
 ```
 
-#### **Actions (Tasks)**
+### **Actions (Tasks)**
 
 - **Standalone actions**: /var/action/ (one note each).
 - **Project tasks**: checklist items in backlog.md.
@@ -124,12 +124,12 @@ The script needs review by [[Anna Schmidt]].
 - **Output**: [[../srv/CLIFO/CLIFO-25-003_BIA/deliverables/BIA-Interview-Script-v1.md]]
 ```
 
-### **Naming Conventions**
+## **Naming Conventions**
 
 - Dates: YYYY-MM-DD
 - Projects: <CLIENT-YY-###>_slug (e.g., CLIFO-25-003_BIA)
 - Rule: Keep filenames short, descriptive, ASCII-safe.
-### **Dataview Example**
+## **Dataview Example**
 
 **Query: Find all active decisions across projects**
 ````
