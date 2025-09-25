@@ -35,3 +35,7 @@
 - §3 müsste natürlich komplett angepasst werden
 - ebenso §4
 - alle anderen sind gut
+
+## Unterweisung
+- Anfrage, ob ich Zugriff auf die LSI unterweisungsplattform erhalte
+- vor den Pfingstferien: Mitte 2026 neue Schulung
