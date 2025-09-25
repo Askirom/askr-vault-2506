@@ -7,31 +7,20 @@ tags:
 ---
 # {{date:yyyy-MM-DD}}
 # 09:00 (≤10 min)
-- Strike 1: Clockodo last week (2025-09-08…14)
-  stop: weekly summary visible
-  artifact: screenshot or CSV export
-- Strike 2 (10:00–10:45): Upload GMC awareness training
-  stop: file uploaded, visibility set, test open works in incognito
-  artifact: course link + screenshot
-- Maintenance (any time): 1 km walk
-  stop: 1 km reached
-  artifact: steps screenshot
+- 
 
 # Big thing (due Thu 2025-09-18)
-- Today 11:15–11:35 [Audit]: write 3-bullet outcome + acceptance criteria + blockers
-  artifact: note “Big-Thing v0 — scope + checklist”
-- Tue 10:00–12:00 [Execute]: draft v0.3 (all sections stubbed; 2 fully written)
-  artifact: doc link
-- Wed 10:00–11:00 [Audit] + 13:00–13:30 [Diplomacy]: review; request input
-  artifact: review notes + request sent
-- Thu 09:30–10:30 [Execute] + 15:00 buffer: finalize & deliver
-  artifact: sent message + final file link
 
-[[actions-dashboard#This Week|Test]] 
+
 
 # 21:00 (≤10 min)
-```dataview
-TABLE file.mtime as "Last Modified"
-FROM "var"
-SORT file.mtime DESC
-```
+
+
+
+# Tasks
+- [ ] Bereitstellen der neuen Vertraulichkeitsverpflichtung [#TSK](app://obsidian.md/index.html#TSK) [#CLIENT/CLIFO](app://obsidian.md/index.html#CLIENT/CLIFO) ⏫ ➕ 2025-09-18 ⏳ 2025-09-19 📅 2025-09-19 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
+- [ ] Bereitstellen des DSI-Glossar auf Webseite [#TSK](app://obsidian.md/index.html#TSK) [#CLIENT/CLIFO](app://obsidian.md/index.html#CLIENT/CLIFO) ⏫ ➕ 2025-09-18 📅 2025-09-19 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
+- [ ] Hr. Eitenbichler Abstimmungstermin zusenden [#TSK](app://obsidian.md/index.html#TSK) ⏰ 09:00 ⏫ ➕ 2025-09-18 📅 2025-09-22 (TaskForge)[](app://obsidian.md/index.html# "Edit task")
+- [ ] [#TSK](app://obsidian.md/index.html#TSK) [#Contact/UweFlaton](app://obsidian.md/index.html#Contact/UweFlaton) prüft die E-Mail-Adresse ➕ 2025-09-23 📅 2025-09-25 (IS-201 IT-Nutzung > **4.4 E-Mail Und Kommunikation**)[](app://obsidian.md/index.html# "Edit task")
+
+4 tasks

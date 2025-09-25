@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Einladungstext.md",
+                "file": "bin/Template-Daily-Snippet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Einladungstext"
+              "title": "Template-Daily-Snippet"
             }
           }
         ],
@@ -253,9 +253,13 @@
   },
   "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
-    "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Getränkeliste 2025.md",
-    "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Einladungstext.md",
+    "etc/templates/daily-note.md",
+    "var/daily/2025-09-25.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
+    "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Einladungstext.md",
+    "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Getränkeliste 2025.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest",
     "srv/MAIBAUM",
     "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
@@ -264,9 +268,7 @@
     "srv/GELA",
     "bin/migrate.sh",
     "etc/templates/frontmatter.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Decisions/Entscheidungen VdS 10000.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "usr/identity/askirom-pkm-os-v3.md",
@@ -286,9 +288,7 @@
     "usr/identity/askirom-helper-prompt.md",
     "usr/identity/askirom-explanation-framework.md",
     "usr/identity/askirom-embody.md",
-    "srv/VEDES/VEDES-25-001-vds10000.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg",
-    "var/daily/2025-09-23.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",

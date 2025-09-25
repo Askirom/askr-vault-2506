@@ -6,23 +6,23 @@ mood:
 gratitude: 
 ---
 
-# Daily Note: {{date:dddd, MMMM Do YYYY}}
+## Daily Note: {{date:dddd, MMMM Do YYYY}}
 
-## Today's Focus
+### Today's Focus
 - 
 
-## Tasks
+### Tasks
 - [ ] 
 - [ ] 
-### To be processed tasks
+#### To Be Processed Tasks
 ```dataview
 TASK
 WHERE !completed
 AND contains(tags, "#TR-OPEN")
 GROUP BY file.link
 ```
-## Notes
+### Notes
 - 
 
-## Daily Reflection
+### Daily Reflection
 - 
