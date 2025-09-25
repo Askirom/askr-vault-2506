@@ -29,4 +29,9 @@
 ## Vertraulichkeit
 - Vorlage liegt vor, abzustimmen
 
-## Datenschutzvorgaben
+## Dienstanweisung Datenschutz
+- ISB -> wird es nicht überall geben
+- Vertraulichkeitsklassifizierung sollte es überall geben
+- §3 müsste natürlich komplett angepasst werden
+- ebenso §4
+- 
