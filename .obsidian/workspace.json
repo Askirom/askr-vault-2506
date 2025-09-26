@@ -28,29 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+                "file": "var/daily/2025-09-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-11_PAPHE_Auskunftsersuchen_MarGeg"
-            }
-          },
-          {
-            "id": "bcef8caf8162a486",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.13"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.13"
+              "title": "2025-09-26"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,8 +251,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bcef8caf8162a486",
+  "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
+    "bin/Template-Daily-Snippet.md",
+    "etc/templates/daily-note.md",
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+    "var/daily/2025-09-26.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "srv/ILE/ILE Status H2 2025.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
@@ -273,8 +265,6 @@
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Einladungstext.md",
     "srv/ILE",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Getränkeliste 2025.md",
-    "bin/Template-Daily-Snippet.md",
-    "etc/templates/daily-note.md",
     "var/daily/2025-09-25.md",
     "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest",
@@ -295,12 +285,10 @@
     "srv/ifb/Untitled.md",
     "srv/GOSME/GOSME-25-002-betriebsrat360",
     "srv/ifb",
-    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "srv/GOSME/GOSME-25-001-privacy",
     "srv/GOSME",
     "var/daily/2025-09-24.md",
     "usr/identity/askirom-the-ashen-sovereign-v12.md",
-    "usr/identity/askirom-helper-prompt.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
