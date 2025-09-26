@@ -29,7 +29,7 @@
 ## 2025-09-26 Jour Fixe
 - [ ] #TSK Prüfen Art 26 Zentrale Dienste -> §17 Vertretungsvollmacht 📅 2025-10-02
 	- Hendrik hat dies schon freigegeben
-## 2025-09-26 AI-Tool für Profildatenbank
+## 2025-09-26 AI-Tool Für Profildatenbank
 - Analogic App aus Sharepoint synchronisiert in die Azure Cloud aus der Datenbank im Sharepoint
 - Azure Search + Azure AI; beides in Europa
 - Zugriff mit M365 SSO aber für alle Mitarbeiter
