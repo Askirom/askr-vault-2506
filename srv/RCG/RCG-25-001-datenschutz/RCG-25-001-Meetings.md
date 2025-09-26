@@ -25,3 +25,7 @@
 
 ### Notes
 -
+
+## 2025-09-26 Jour Fixe
+- [ ] #TSK Prüfen Art 26 Zentrale Dienste -> §17 Vertretungsvollmacht 📅 2025-10-02
+	- Hendrik hat dies schon freigegeben
