@@ -56,12 +56,15 @@
             "id": "7b499388d59ba782",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 8, Schriftverkehr zwischen Frau Lindner und Fa. Ritzer, 29.08.2025.13.20.28-Ceyhun Ceylan (Ceyhun.Ceylan@ritzergmbh.com).pdf"
+                "file": "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Bewertung RLE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Anlage 8, Schriftverkehr zwischen Frau Lindner und Fa. Ritzer, 29.08.2025.13.20.28-Ceyhun Ceylan (Ceyhun.Ceylan@ritzergmbh.com)"
+              "icon": "lucide-file",
+              "title": "Bewertung RLE"
             }
           }
         ],
@@ -280,12 +283,12 @@
   },
   "active": "7b499388d59ba782",
   "lastOpenFiles": [
+    "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 8, Schriftverkehr zwischen Frau Lindner und Fa. Ritzer, 29.08.2025.13.20.28-Ceyhun Ceylan (Ceyhun.Ceylan@ritzergmbh.com).pdf",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Briefing an RA Michael König – Fall Lindner.pdf",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Bewertung RLE.md",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 9, Auftrag HUK mit neuen Kontaktdaten VN (darunter geschäftlfiche Telefonnummer).pdf",
     "var/daily/2025-09-26.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Getränkeliste 2025.md",
-    "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 8, Schriftverkehr zwischen Frau Lindner und Fa. Ritzer, 29.08.2025.13.20.28-Ceyhun Ceylan (Ceyhun.Ceylan@ritzergmbh.com).pdf",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 7, Auszug aus Dietz Kommentar zu den VGB 2010.pdf",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 6, Mail von Fa. Brauer vor unserem Ortstermin, 21.08.2025.12.18.02-info-wuerzburg@tt-brauer.de (info-wuerzburg@tt-brauer.de).pdf",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 5, Hausverwaltung schickt uns Handynummer von Frau Lindner, 20.08.2025.16.43.23-Info  Indomo-Service (info@indomo-service.de).pdf",
