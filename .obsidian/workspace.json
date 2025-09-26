@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-09-26.md",
+                "file": "var/meeting/RCG-meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-26"
+              "title": "RCG-meetings"
             }
           }
         ],
@@ -253,10 +253,12 @@
   },
   "active": "e8a6c529c14b2328",
   "lastOpenFiles": [
+    "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
+    "srv/RCG/RCG-25-001-datenschutz/rcg-ikone-richtlinie.md",
+    "var/daily/2025-09-26.md",
     "bin/Template-Daily-Snippet.md",
     "etc/templates/daily-note.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
-    "var/daily/2025-09-26.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "srv/ILE/ILE Status H2 2025.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
@@ -287,8 +289,6 @@
     "srv/ifb",
     "srv/GOSME/GOSME-25-001-privacy",
     "srv/GOSME",
-    "var/daily/2025-09-24.md",
-    "usr/identity/askirom-the-ashen-sovereign-v12.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",

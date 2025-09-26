@@ -12,7 +12,6 @@
   - [x] Aufnahme RCIM erfolgreich
   - [x] Aufnahme SAP Systeme abgeschlossen
   - [x] Anpassung Anlagen durchgeführt
-  
 - [x] TK Fragebogen Datenschutz fertiggestellt
 
 #### 2. RLE Topics
