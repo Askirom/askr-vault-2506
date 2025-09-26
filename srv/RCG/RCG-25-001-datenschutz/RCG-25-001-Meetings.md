@@ -39,4 +39,5 @@
 	- KI sucht nicht, sie spricht nur mit der Suche, KI generiert Search-Query
 	- KI erstellt auch die Ausgabe
 		- gpt-4.1
-	- 
+- gibt noch ein weiteres Tool zum Auditieren und Rollenverwaltung
+- 
