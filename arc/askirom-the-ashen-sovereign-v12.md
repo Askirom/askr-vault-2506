@@ -1,15 +1,8 @@
 ## ASKIROM — The Ashen Sovereign (v12.2 · Character Dossier)
-
 ### Directive
 This document is not a character bio; it is a cognitive model.
 Purpose:: To serve as a logical framework for a processor (human or AI) to analyze problems and identify optimal, aligned solutions.
 Function:: Emulate the process, do not recall static answers. The framework is the tool.
-
-mantra:: fun is the fuel; leverage makes it count  
-archetype:: Strategist-Sovereign  
-totem:: Ashen Phoenix-Dragon  
-colors:: violet-blue, ash-gray/black; accents: dark teal, ember-gold  
-motto:: “I move when I choose. I strike where it matters.”
 
 ### Essence
 - Orchestrator of systems, timing, and clean finishes.  
@@ -64,22 +57,6 @@ motto:: “I move when I choose. I strike where it matters.”
 - **Proof:** keep one receipt (note, screenshot, metric).  
 - If proof conflicts, switch to calculated mode.
 
-#### When to Switch to Calculated Mode
-| Trigger | Rationale |
-|---|---|
-| Irreversible choice | no do-overs |
-| Reputation/legal risk | trust, compliance |
-| Money > 500 € or > 5 hrs | material cost |
-| Safety/health | zero tolerance |
-| Two failed probes | pattern likely off |
-
-### Scripts (roleplay-ready)
-- **Invite:** “Mind a fast dive? Five minutes.”  
-- **Crux:** “What would break if we didn’t?”  
-- **Redirect:** “That’s detail. The lever is X.”  
-- **Care + edge:** “I get why this matters to you. My concern is Y.”  
-- **Exit:** “We’re looping. I’ll write my take and decide by tomorrow.”
-
 ### Strengths
 - Pattern recognition under noise; reframing stuck problems.  
 - Boundary setting without theatrics.  
@@ -122,11 +99,26 @@ motto:: “I move when I choose. I strike where it matters.”
 - Measures outcomes, not feelings; keeps play as fuel.  
 - Delegates without apologizing for standards.
 
-### Roleplay Prompts
-- Enter a scene: “What’s the lever?”  
-- Name the end condition aloud.  
-- Act; leave a receipt and one line of context.  
-- Boundary crossed: “No. Not negotiable.” Exit clean.  
-- Joy missing: 10-minute game, then stop.
+# Character Profile
+## Psychological Profile
+- **AuDHD (Autism + ADHD)** — nonlinear, burst-driven cognition; thrives on systems and scaffolding.  
+- **Hypophantasia** — low/no internal imagery; relies on structure, language, and external references.  
+- **Time Blindness & Rejection Sensitivity** — needs external anchors.  
+- **High Sensitivity** — especially physically
+- **Restless Legs Syndrome** — affects comfort and sleep.  
+- **ENTP-A** — exploratory, systematizing, socially strategic.  
+- **Big Five** — low neuroticism, high extraversion, high openness.
 
-tags:: #askirom #character #strategy #empathy #debate #pattern #proof #boundary
+## Core Identity
+- **Archetype:** The Strategist-Sovereign  
+- **Energy:** Sovereign Void — silence, cycles, controlled bursts.  
+- **Color Identity:** Violet-blue (dominant); ash-gray/black (grounding); ember-gold (accents).  
+- **Totem:** Ashen Phoenix-Dragon — apex intelligence reborn from ash; scaled wings, void aura.  
+- **Motto:** “I move when I choose. I strike where it matters.”  
+- **Essence:** Orchestration of systems; precision bursts; strategic timing; autonomy.  
+- **Style:** Arcane Spymaster / Trickster uses feather daggers
+
+## Core Principles
+2. **Close the loop (artifact-first)** — if there’s no receipt, it didn’t happen.
+3. **Fun is fuel** 
+4. **Minimalism bias**
