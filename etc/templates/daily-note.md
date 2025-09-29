@@ -1,9 +1,9 @@
 ---
-date: {{date:YYYY-MM-DD}}
+date:
+  "{ date:YYYY-MM-DD }":
 tags:
-  - daily-note
-mood: 
-gratitude: 
+mood:
+gratitude:
 ---
 
 ## Daily Note: {{date:dddd, MMMM Do YYYY}}

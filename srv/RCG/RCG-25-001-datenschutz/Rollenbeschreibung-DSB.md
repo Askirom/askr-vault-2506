@@ -30,7 +30,7 @@ Zur Erfüllung seiner Aufgaben werden dem DSB die notwendigen Befugnisse zur Inf
 
 Die Rolle wird derzeitig durch XXXXX besetzt. Die Vertretung wird durch YYYYY gewährleistet.
 
-### 2.4 Kenntnisse und Fähigkeiten
+### 2.4 Kenntnisse Und Fähigkeiten
 
 Der DSB sollte folgende Kompetenzen besitzen für die Ausübung seiner Aufgaben:
 
