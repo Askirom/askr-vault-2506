@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-09-28.md",
+                "file": "srv/RCG/RCG-25-001-datenschutz/Rollenbeschreibung-DSB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-28"
+              "title": "Rollenbeschreibung-DSB"
             }
           }
         ],
@@ -283,12 +283,14 @@
   },
   "active": "7b499388d59ba782",
   "lastOpenFiles": [
+    "usr/identity/askirom-explanation-framework.md",
+    "var/daily/2025-09-29.md",
+    "bin/Template-Daily-Snippet.md",
+    "var/daily/2025-09-28.md",
     "arc/askirom-the-ashen-sovereign-v12.md",
     "usr/identity/askirom-the-ashen-sovereign-v13.md",
     "usr/identity/askirom-prompt.md",
-    "var/daily/2025-09-29.md",
     "usr/identity/askirom-the-ashen-sovereign-v12.md",
-    "var/daily/2025-09-28.md",
     "usr/identity/askirom-pkm-os-v4.md",
     "usr/identity/askirom-pkm-os-v3.md",
     "usr/identity/askirom-helper-prompt.md",
@@ -312,13 +314,11 @@
     "srv/RCG/RCG-25-001-datenschutz/rcg-pruefung-dm-av-vertrag.md",
     "srv/RCG/RCG-25-001-datenschutz/Rollenbeschreibung-DSB.md",
     "TaskForge.md",
-    "bin/Template-Daily-Snippet.md",
     "etc/templates/daily-note.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "srv/ILE/ILE Status H2 2025.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
