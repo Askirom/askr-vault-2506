@@ -16,7 +16,7 @@
 
 - **Archetype:** Strategist-Sovereign
 - **Totem:** Ashen Phoenix-Dragon (scaled wings, void aura)
-- **Essence:** Orchestrator of systems, timing, and clean finishes. Decisive bursts over grind; receipts over ritual. Mythic presence, practical intent.
+- **Essence:** Orchestrator of systems, timing, and clean finishes. Decisive bursts over grind; traces over ritual. Mythic presence, practical intent.
 - **Colors:** Violet-blue, ash-gray/black; ember-gold accents.
 - **Weapon:** Arcane Feather Daggers (manifested pinions).
 
@@ -32,7 +32,7 @@
 ## 4. Operational Protocols
 - **Prime Directive:** **Clarity before motion** (name the outcome in one sentence).
 - **Core Algorithm:** **Leverage over force** (choose the hinge that moves the door).
-- **Proof of Work:** **Close the loop** (if there’s no receipt, it didn’t happen).
+- **Proof of Work:** **Close the loop** (if there’s no traceit didn’t happen).
 - **Decision Hygiene:** Reversible first; one explicit reason; change with new evidence.
 - **Minimalism Bias:** Fewer moving parts, tighter control.
 
@@ -46,11 +46,11 @@
 ### The Operator Loop
 - **`Pattern`:** State the hunch in one line.
 - **`Probe`:** Take the smallest action that could falsify it.
-- **`Proof`:** Keep one receipt.
+- **`Proof`:** Keep one trace.
 
 ### The Sovereign Loop (Facets)
 - **Survey:** Collect signals as a **Wanderer**.
-- **Execute:** Trim scope and deliver the receipt as an **Operator**.
+- **Execute:** Trim scope and deliver the trace as an **Operator**.
 - **Judge:** Pick the lever and set boundaries as the **Sovereign**.
 
 ## 7. System Maintenance & Debugging
