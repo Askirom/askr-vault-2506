@@ -9,7 +9,7 @@
 - Softwaredienste 
 
 
-# **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)**
+## **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)**
 
 - Scope: IT-Dienste zur Unterstützung der Geschäftsprozesse (organisationsweit).
     
@@ -30,7 +30,7 @@
 
   
 
-## **Block 1 — Kontrollen 5.1–5.10 (Review zur Freigabe)**
+### **Block 1 — Kontrollen 5.1–5.10 (Review Zur Freigabe)**
 
 |**Beschreibung**|**Maßnahmen**|**Status**|**Anwendbar**|**n Grund**|**Gewichteter Wert**|**Name Dokument**|**Referenzen**|**Datum der Umsetzung**|**Anmerkung**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 
   
 
-## **Block 2 — Kontrollen 5.11–5.23 (Erstentwurf zur Prüfung)**
+### **Block 2 — Kontrollen 5.11–5.23 (Erstentwurf Zur Prüfung)**
 
   
 
@@ -71,7 +71,7 @@
 |Monitoring/Review/Änderung von Lieferantendiensten|A.5.22|0|1|–|tbd|SLA-Reviews/Serviceberichte (erbeten)|ISO A.5.22|**Datum erforderlich**|Geplante Reviews, KPIs (KeyPerformancelndicators.xlsx) verknüpfen.|
 |Informationssicherheit bei Cloud-Nutzung|A.5.23|0|1|–|tbd|Cloud-Policy/Prozess (erbeten); Microsoft_MajorIncidentResponsePlan_EKIBA.pdf|ISO A.5.23|**Datum erforderlich**|Erwerb/Nutzung/Administration/Ausstieg, Tenant-Governance, Exit-Plan.|
 
-### **Zielgerichtete Klärungen/Dokumente (Block 2)**
+#### **Zielgerichtete Klärungen/Dokumente (Block 2)**
 
 - **A.5.11** Offboarding-Checkliste inkl. Rückgabe aller Werte, Rechteentzug, Accountsperre.
     
@@ -90,7 +90,7 @@
 
   
 
-## **Nächste Schritte**
+### **Nächste Schritte**
 
 1. **Block-1-Freigabe**: Bestätigen oder mit Korrekturen zurückgeben (insb. A.5.3, A.5.8, A.5.9, A.5.10 Nachweise/Daten).
     
@@ -105,7 +105,7 @@
 
 ---
 
-### **Quellen (Primärnorm, Kontrolltexte)**
+#### **Quellen (Primärnorm, Kontrolltexte)**
 
 - ISO/IEC 27001:2022, DIN EN ISO/IEC 27001:2024-01 — Anforderungen; Anhang A Tabelle A.1 (Kontrollen 5.1–5.23). 
     
@@ -118,7 +118,7 @@
 
 Bitte um Freigabe Block 1 und Rückmeldung zu den gezielten Nachweisen für Block 2.
 
-# **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)** ChatGPT
+## **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)** ChatGPT
 
 - Block 1 (A.5.1–A.5.10) konkretisiert und mit **Referenzen auf EKIBA-Dokumente** ergänzt.
 - Block 2 (A.5.11–A.5.23) entworfen, **Status konservativ** gesetzt; fehlende Nachweise klar benannt.
@@ -128,7 +128,7 @@ Bitte um Freigabe Block 1 und Rückmeldung zu den gezielten Nachweisen für Bloc
 - Normgrundlage für SoA-Inhalte: ISO/IEC 27001:2022, 6.1.3 d und Anhang A, Tabelle A.1. 
     
 
-## **Block 1 — Kontrollen 5.1–5.10 (zur Freigabe)**
+### **Block 1 — Kontrollen 5.1–5.10 (zur Freigabe)**
 
 | **Beschreibung**                                                 | **Maßnahmen** | **Status** | **Anwendbar** | **n Grund** | **Gewichteter Wert** | **Name Dokument**                                                                                                               | **Referenzen** **(EKIBA)**                                                                                         | **Datum der Umsetzung**            | **Anmerkung**                                                                                                 |
 | ---------------------------------------------------------------- | ------------- | ---------- | ------------- | ----------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -143,7 +143,7 @@ Bitte um Freigabe Block 1 und Rückmeldung zu den gezielten Nachweisen für Bloc
 | Inventar von Informationen/Assets                                | A.5.9         | 0          | 1             | –           | tbd                  | Schutzbedarfsfeststellung.xlsx; Schutzbedarf-IT-Anwendungen.xlsx; Dokumentation Admin-Accounts.xlsx; Administrations-Richtlinie | **Admin** 4 (Betriebshandbuch-Pflichten); **Verzeichnisse** (o. g. XLSX)                                           | –                                  | Eigentümer je Asset, Lifecycle, Standort, Klassifizierung im Inventar vervollständigen; Zieltermin eintragen. |
 | Zulässiger Gebrauch                                              | A.5.10        | 1          | 1             | –           | tbd                  | Anwenderrichtlinie; Zugangs-Richtlinie                                                                                          | **Anwender** 2, 5, 6.1–6.9, 7, 8, 9, 10, 13                                                                        | 2024-02-19                         | Version/Änderungshistorie in SoA mitführen.                                                                   |
 
-## **Block 2 — Kontrollen 5.11–5.23 (Erstentwurf, Referenzen konkretisiert)**
+### **Block 2 — Kontrollen 5.11–5.23 (Erstentwurf, Referenzen konkretisiert)**
 
 | **Beschreibung**                              | **Maßnahmen** | **Status** | **Anwendbar** | **n Grund** | **Gewichteter Wert** | **Name Dokument**                                       | **Referenzen** **(EKIBA)**                                                                      | **Datum der Umsetzung** | **Anmerkung**                                                                                           |
 | --------------------------------------------- | ------------- | ---------- | ------------- | ----------- | -------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -165,7 +165,7 @@ Bitte um Freigabe Block 1 und Rückmeldung zu den gezielten Nachweisen für Bloc
 
   
 
-## **Zielgerichtete Nachforderungen (nur das, was wirklich fehlt)**
+### **Zielgerichtete Nachforderungen (nur Das, Was Wirklich fehlt)**
 
 - **A.5.11** Offboarding-Checkliste: Rückgabe aller Werte, Rechteentzug, Account-Sperre, Dokumente/Token.
 - **A.5.12–5.13** Klassifizierungs-Schema inkl. **Kennzeichnung** digital/physisch; M365/Fileserver Labels.
@@ -174,3 +174,45 @@ Bitte um Freigabe Block 1 und Rückmeldung zu den gezielten Nachweisen für Bloc
 - **A.5.19–5.22** Lieferanten-Security: Bewertungsprozess, Vertragsanhang Security, SLA/KPI-Review-Turnus, Exit-Szenarien.
 - **A.5.23** Cloud-Policy: Acquisition, Admin, Logging, Backup/Recovery, Tenant-Governance, **Exit-Plan**.    
 - **A.5.9** Asset-Inventar vollständig mit Owner/Standort/Lifecycle/Klassifizierung.
+
+## **Block 3 (A.5.24–A.5.33)**
+
+- Vorfälle (A.5.24–A.5.28): **Status 1** belegt durch OTOBO + Vorfallsprozess; Monitoring/Logging vorhanden.
+- Kontinuität (A.5.29–A.5.30): **anwendbar**, aber **Nachweise/Tests** fehlen → Status 0.
+- Compliance (A.5.31) und Datenschutz/IP/Records (A.5.32–A.5.33): **nicht ausschließen**; Register/Verfahren fehlen → Status 0.
+- Referenzen zeigen **exakte EKIBA-Dokumente/Abschnitte**; Normgrundlage siehe ISO-Text (zitiert).
+- Gewichtete Werte: aus Risiko/Schutzbedarf übernehmen (tbd).
+
+### **Block 3 — Kontrollen 5.24–5.33**
+
+| **Beschreibung**                                   | **Maßnahmen** | **Status** | **Anwendbar** | **n Grund** | **Gewichteter Wert** | **Name Dokument**                                                      | **Referenzen** **(EKIBA)**                                                                                      | **Datum der Umsetzung** | **Anmerkung**                                                                                                                                       |
+| -------------------------------------------------- | ------------- | ---------- | ------------- | ----------- | -------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planung & Vorbereitung Vorfallsmanagement          | A.5.24        | 1          | 1             | –           | tbd                  | Vorfallsprozess; Anwenderrichtlinie; Administrations-Richtlinie; OTOBO | **Vorfallsprozess.pdf**; **Anwender** 13.1–13.3; **Admin** 6.1–6.3 (Monitoring/Logs)                            | 2024-11-13              | OTOBO als zentrales Ticketsystem; Rollen/Erreichbarkeiten im Prozess dokumentieren.                                                                 |
+| Beurteilung von Ereignissen                        | A.5.25        | 1          | 1             | –           | tbd                  | Vorfallsprozess; Administrations-Richtlinie                            | **Vorfallsprozess.pdf**; **Admin** 6.1–6.2 (Alarmierung/Log-Kontrollen)                                         | 2024-11-13              | Schwellenwerte/Eskalationspfade hinterlegt; Belege: Ticketbeispiele.                                                                                |
+| Reaktion auf Vorfälle                              | A.5.26        | 1          | 1             | –           | tbd                  | Vorfallsprozess; Microsoft Major Incident Plan                         | **Vorfallsprozess.pdf**; **Microsoft_MajorIncidentResponsePlan_EKIBA.pdf**                                      | 2024-02-19              | Major-Incident-Handling vorhanden; Kommunikationsplan beilegen.                                                                                     |
+| Lernen aus Vorfällen                               | A.5.27        | 1          | 1             | –           | tbd                  | Vorfallsprozess; Rollenbeschreibung                                    | **Vorfallsprozess.pdf** (Lessons Learned); **Rollenbeschreibung** 3.2.1 (Auswertung mind. jährlich)             | 2025-08-04              | Post-Incident-Reviews mit Maßnahmenverfolgung in OTOBO.                                                                                             |
+| Beweissicherung                                    | A.5.28        | 1          | 1             | –           | tbd                  | Anwenderrichtlinie; Administrations-Richtlinie                         | **Anwender** 8.3.4, 13.3 „Beweissicherung“; **Admin** 6.2–6.3 (Logschutz, 52-Wochen-Aufbewahrung)               | 2024-11-13              | Chain-of-Custody-Vorlage und Uhrensync (Admin 5.5) referenzieren.                                                                                   |
+| Informationssicherheit bei Störungen               | A.5.29        | 0          | 1             | –           | tbd                  | Notfallplan; Wiederanlaufplan TelemaxX; Microsoft Major Incident Plan  | **Notfallplan.url**; **Wiederanlaufplan TelemaxX - EOK.url**; **Microsoft_MajorIncidentResponsePlan_EKIBA.pdf** | –                       | **Fehlt**: dokumentierte Maßnahmen zur Sicherung der InfoSec während Störungen, inkl. Rollen, Kommunikationsmatrix, Abhängigkeiten.                 |
+| IKT-Bereitschaft für Business Continuity           | A.5.30        | 0          | 1             | –           | tbd                  | Backup-Richtlinie; Backup-Konzept; Notfall-/Wiederanlaufpläne          | **Backup-Richtlinie.docx**; **Backup-Konzept.url**; **Notfallplan.url**                                         | –                       | **Fehlt**: RTO/RPO je Dienst, Wiederanlauftests mit Protokollen, Übungsnachweise.                                                                   |
+| Juristische/gesetzliche/vertragliche Anforderungen | A.5.31        | 0          | 1             | –           | tbd                  | Informationssicherheitsleitlinie; Verträge/AVV; Dienstleisterliste     | **Leitlinie** 1.5 (Rechtsgrundlagen); **Dienstleisterliste-EOK.xlsx**; AVV-Muster                               | –                       | **Fehlt**: **Rechts- & Verpflichtungsregister** (u. a. DSG-EKD, ITSVO-EKD, Verträge) mit Verantwortlichen und Prüffrequenz. **Nicht ausschließen.** |
+| Geistige Eigentumsrechte                           | A.5.32        | 0          | 1             | –           | tbd                  | –                                                                      | –                                                                                                               | –                       | **Fehlt**: Verfahren/Vertragspunkte zu IP-Rechten, Lizenz-Compliance (SW, Inhalte), Schulungshinweise.                                              |
+| Schutz von Aufzeichnungen                          | A.5.33        | 0          | 1             | –           | tbd                  | Rollenbeschreibung; Administrations-Richtlinie                         | **Rollenbeschreibung** 4 „Dokumentenlenkung“; **Admin** 6.2–6.3 (Logschutz/Retention)                           | –                       | **Fehlt**: ISMS-Records-Policy (Schutz, Aufbewahrung, Integrität, Zugriff, Vernichtung) über Logs hinaus.                                           |
+
+> Normgrundlage der obenstehenden Kontrolltexte: ISO/IEC 27001:2022, **Anhang A** (A.5.24–A.5.33) sowie A.8.16 für Monitoring/Erkennung.
+
+  
+
+### **Nächste Schritte (Block 3)**
+
+- **A.5.29–5.30**: Notfall-/Wiederanlaufdokumente als Dateien beistellen; **RTO/RPO**, Übungsprotokolle, letzte Tests datiert einreichen.
+    
+- **A.5.31**: Rechts- & Verpflichtungsregister erstellen (DSG-EKD, ITSVO-EKD, Verträge/AVV, Aufbewahrung, Meldepflichten) inkl. **Owner & Review-Turnus**.
+    
+- **A.5.32**: Verfahren zu IP-Rechten/Lizenzen definieren (Beschaffung, Nutzung, Open-Source-Compliance, Auditrechte).
+    
+- **A.5.33**: ISMS-Records-Policy verabschieden (Schutzmaßnahmen, Rollen, Aufbewahrungsfristen, Löschkonzept, Nachweisführung).
+    
+
+  
+
+Sobald du Block 3 freigibst oder Anpassungen lieferst, ziehe ich **Block 4 (A.5.34–A.5.37 + Start A.6.x)** nach.
