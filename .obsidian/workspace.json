@@ -127,8 +127,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]

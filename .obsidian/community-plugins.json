@@ -11,5 +11,6 @@
   "text-extractor",
   "obsidian-linter",
   "notebook-navigator",
-  "edit-in-neovim"
+  "edit-in-neovim",
+  "obsidian-local-rest-api"
 ]
