@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "srv/GOSME/GOSME-25-001-privacy/GOSME-25-001 Meetings.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
