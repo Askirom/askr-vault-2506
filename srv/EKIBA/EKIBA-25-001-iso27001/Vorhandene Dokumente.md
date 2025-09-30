@@ -48,7 +48,7 @@ tags: []
   - Wiederanlaufplan TelemaxX - EOK.url
 
 
-## SoA 
+## SoA
 Perfekt! Das hilft enorm. Jetzt kann ich präziser zuordnen.
 
 ---
