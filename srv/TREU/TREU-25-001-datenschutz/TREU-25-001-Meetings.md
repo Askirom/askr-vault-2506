@@ -1,4 +1,4 @@
-# 2025-09-30 Abstimmung KI
+## 2025-09-30 Abstimmung KI
 - OSS Modell
 	- mit und ohne Internet
 - DA liegt als Entwurf vor

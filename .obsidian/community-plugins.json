@@ -10,5 +10,6 @@
   "omnisearch",
   "text-extractor",
   "obsidian-linter",
-  "notebook-navigator"
+  "notebook-navigator",
+  "edit-in-neovim"
 ]
