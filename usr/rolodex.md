@@ -5,7 +5,7 @@ project::
 std:: 
 tags:: 
 
-# Andrea Ibisch
+## Andrea Ibisch
   :PROPERTIES:
   :EMAIL: 
   :PHONE: 
@@ -14,7 +14,7 @@ tags::
   :END:
   
 
-# Fabian Lauterbach                   
+## Fabian Lauterbach
   :PROPERTIES:
   :EMAIL: 
   :PHONE: 
@@ -23,7 +23,7 @@ tags::
   :END:
   
 
-# Gronkh
+## Gronkh
   :PROPERTIES:
   :EMAIL: 
   :PHONE: 
@@ -32,7 +32,7 @@ tags::
   :END:
   
 
-# Jan Phillip Scheller
+## Jan Phillip Scheller
   :PROPERTIES:
   :EMAIL: 
   :PHONE: 
@@ -41,7 +41,7 @@ tags::
   :END:
   
 
-# Silke Lilienberger-Hauke
+## Silke Lilienberger-Hauke
   :PROPERTIES:
   :EMAIL: silke.lilienberger@secudor.de
   :COMPANY: secudor GmbH
@@ -49,14 +49,14 @@ tags::
   :END:
   
 
-# Uwe Kirchgessner                   
+## Uwe Kirchgessner
   :PROPERTIES:
   :EMAIL: 
   :COMPANY: InfraStor GmbH
   :ID:       046a888d-67fd-4648-90a4-fa2cdc6035a8
   :END:
 
-# Yannick Lackus
+## Yannick Lackus
 :PROPERTIES:
 :EMAIL: yannick.lackus@ekiba.de
 :COMPANY: EKIBA
