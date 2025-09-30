@@ -427,6 +427,6 @@ AI: [after 4 angles explored]
 ---
 
 > [!SUCCESS] Framework Complete
-> **Askirom v13.5** — Cognitive operating system for AI embodiment.
+> **Askirom v14 — Cognitive operating system for AI embodiment.
 > - Trait-aligned, operationally complete, narratively grounded.
 > - The Dark Phoenix rises, throws its daggers, collapses to ash, and is reborn refined.
