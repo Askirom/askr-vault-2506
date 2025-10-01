@@ -20,14 +20,17 @@
 
 Das Recht der betroffenen Person auf Auskunft über personenbezogene Daten, die durch eine öffentliche Stelle weder automatisiert verarbeitet noch nicht automatisiert verarbeitet und in einem Dateisystem gespeichert werden, besteht nur, soweit die betroffene Person Angaben macht, die das Auffinden der Daten ermöglichen, und der für die Erteilung der Auskunft erforderliche Aufwand nicht außer Verhältnis zu dem von der betroffenen Person geltend gemachten Informationsinteresse steht.
 ## Anschreiben Behörde
+Sehr geehrte Damen und Herren,
+
+wir bitten um Ihre rechtliche Einschätzung zu den nachfolgend dargestellten Fragen im Zusammenhang mit umfangreichen DSGVO-Auskunftsersuchen.
 
 ### Ausgangslage
 
 Am **8. Juli 2025** stellte Herr Markus Johann Gegg ein erstes Auskunftsersuchen nach Art. 15 DSGVO an die Stadt Pappenheim.  
-Die Stadt stellte ihm daraufhin die Auskunft zur Verfügung: Er erhielt eine E-Mail mit einer verschlüsselten ZIP-Datei, das Passwort wurde separat per Einschreiben an seine Meldeadresse in England gesendet.  
+Die Stadt stellte ihm daraufhin die Auskunft zur Verfügung: Er erhielt eine E-Mail mit Link zur Bayernbox, das Passwort wurde separat per Einschreiben an seine Meldeadresse in England gesendet.  
 
 Am **5. August 2025** erweiterte Herr Gegg sein Auskunftsersuchen per E-Mail erheblich. Darin fordert er, ein ehemaliges Stadtratsmitglied, umfassende Auskunft über eine Vielzahl von Datenkategorien, die seine Person, seine Firmen (Zimmerei), Grundstücke und Bauvorhaben betreffen.  
-Die gesetzte Frist für eine Antwort war der **5. September 2025**. Bemerkenswert ist, dass Herr Gegg die Erweiterung bereits vor dem möglichen Erhalt des Passworts für die erste ZIP-Datei eingereicht hat.
+Die gesetzte Frist für eine Antwort war der **5. September 2025**. Bemerkenswert ist, dass Herr Gegg die Erweiterung bereits vor dem möglichen Erhalt des Passworts für die erste Auskunft eingereicht hat.
 
 Am **11. August 2025** folgte ein zweites, separates und ebenso weitreichendes Auskunftsersuchen, diesmal betreffend seine drei minderjährigen Kinder, mit einer Fristsetzung bis zum **11. September 2025**.
 
@@ -64,17 +67,21 @@ Für Informationen innerhalb von Verwaltungsakten und -verfahren (z.B. Bauamt, O
 Dieser Anspruch geht über Art. 15 DSGVO hinaus. Die Herausgabe solcher Protokolle würde interne Sicherheits- und Kontrollmechanismen offenlegen und die Rechte der zugreifenden Mitarbeiter verletzen. Der Auskunftsanspruch bezieht sich auf die personenbezogenen Daten selbst, nicht auf die Verarbeitungshistorie in dieser Detailtiefe.
 
 #### Frage 5: Daten Aus Der Tätigkeit Als Ehemaliger Stadtrat
-**Problemstellung:** Inwieweit unterliegen interne Vermerke und Bewertungen, die sich auf Herrn Geggs Tätigkeit als ehemaliges Mitglied des Stadtrats beziehen, dem Auskunftsanspruch?
+**Problemstellung:** Inwieweit unterliegen interne Vermerke und Bewertungen, die sich auf Herrn Geggs Tätigkeit als ehemaliges Mitglied des Stadtrats beziehen, dem Auskunftsanspruch? 
 
 **Unsere Deutung:**  
 Informationen im Kontext seiner öffentlichen, politischen Mandatstätigkeit sind von seiner geschützten Privatsphäre als "betroffene Person" abzugrenzen. Der Schutz interner Beratungs- und Entscheidungsprozesse der Verwaltung überwiegt. Der Auskunftsanspruch kann hier gemäß § 29 Abs. 1 S. 2 BDSG eingeschränkt werden.
 
-#### Frage 6: Verhältnismäßigkeit Und Möglicher Rechtsmissbrauch
+#### Frage 6: Öffentliche Protokolle Und Daten Mit Allgemeinen Zugriffsmöglichkeiten
+
+#### Frage 7: Verhältnismäßigkeit Und Möglicher Rechtsmissbrauch
 **Problemstellung:** Kann die Serie von weitreichenden, sich überlappenden und nachfassenden Anfragen als exzessiv im Sinne von Art. 12 Abs. 5 DSGVO eingestuft werden, sodass der Antrag (teilweise) zurückgewiesen werden kann?
 
 **Unsere Deutung:**  
 Der Aufwand steht in keinem Verhältnis zum Informationsinteresse. Die systematische und wiederholte Anforderung von Daten, auch bei anderen von uns betreuten Behörden, sowie die ungeklärte Berechtigung im Fall seiner Kinder deuten auf ein Vorgehen hin, das über ein legitimes Auskunftsinteresse hinausgeht. Dies kann als Rechtsmissbrauch gewertet werden und eine Verweigerung der Auskunft unter Verweis auf unverhältnismäßigen Verwaltungsaufwand rechtfertigen.
 
+
+Wir bitten, im Hinblick auf die gesetzte Auskunftsfristen möglichst zeitnahe, um Ihre Einschätzung zu unseren rechtlichen Bewertungen und danken Ihnen für Ihre Unterstützung.
 
 ## Referenzen Für DSGVO-Auskunftsersuchen Gegg
 
