@@ -93,8 +93,8 @@ Perfekt! Das hilft enorm. Jetzt kann ich präziser zuordnen.
 **Korrekturen/Anmerkungen zu Block 2?**
 
 Besonders bei **5.13 (Kennzeichnung)** bin ich unsicher - gibt es einen Prozess oder ist der noch zu entwickeln?
-# **Block 3 (A.5.24–A.5.33)**
-## **Block 3 — Kontrollen 5.24–5.33**
+## **Block 3 (A.5.24–A.5.33)**
+### **Block 3 — Kontrollen 5.24–5.33**
 
 | **Beschreibung**                                   | **Maßnahmen** | **Status** | **Anwendbar** | **n Grund** | **Gewichteter Wert** | **Name Dokument**                                                      | **Referenzen** **(EKIBA)**                                                                                      | **Datum der Umsetzung** | **Anmerkung**                                                                                                                                       |
 | -------------------------------------------------- | ------------- | ---------- | ------------- | ----------- | -------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
