@@ -73,6 +73,10 @@ Dieser Anspruch geht über Art. 15 DSGVO hinaus. Die Herausgabe solcher Protokol
 Informationen im Kontext seiner öffentlichen, politischen Mandatstätigkeit sind von seiner geschützten Privatsphäre als "betroffene Person" abzugrenzen. Der Schutz interner Beratungs- und Entscheidungsprozesse der Verwaltung überwiegt. Der Auskunftsanspruch kann hier gemäß § 29 Abs. 1 S. 2 BDSG eingeschränkt werden.
 
 #### Frage 6: Öffentliche Protokolle Und Daten Mit Allgemeinen Zugriffsmöglichkeiten
+**Problemstellung:** Besteht eine Auskunftspflicht nach Art. 15 DSGVO für Daten, die bereits öffentlich zugänglich sind oder einem allgemeinen Informationszugang unterliegen (z.B. öffentliche Stadtratsprotokolle, Bekanntmachungen, Bauleitpläne)?
+
+**Unsere Deutung:**  
+Der Auskunftsanspruch nach Art. 15 DSGVO dient dazu, der betroffenen Person Kenntnis über die Verarbeitung ihrer personenbezogenen Daten zu verschaffen. Sind Daten bereits öffentlich einsehbar oder über andere Zugangswege (z.B. Informationsfreiheitsgesetz, öffentliche Bekanntmachungen) ohne weiteres zugänglich, entfällt das Schutzbedürfnis. Eine erneute Zusammenstellung und Übermittlung im Rahmen der DSGVO-Auskunft wäre unverhältnismäßig und würde zu einem ungerechtfertigten Verwaltungsaufwand führen. Wir würden in solchen Fällen auf die bestehenden Zugangsmöglichkeiten verweisen und diese Daten nicht gesondert aufbereiten.
 
 #### Frage 7: Verhältnismäßigkeit Und Möglicher Rechtsmissbrauch
 **Problemstellung:** Kann die Serie von weitreichenden, sich überlappenden und nachfassenden Anfragen als exzessiv im Sinne von Art. 12 Abs. 5 DSGVO eingestuft werden, sodass der Antrag (teilweise) zurückgewiesen werden kann?
@@ -81,7 +85,15 @@ Informationen im Kontext seiner öffentlichen, politischen Mandatstätigkeit sin
 Der Aufwand steht in keinem Verhältnis zum Informationsinteresse. Die systematische und wiederholte Anforderung von Daten, auch bei anderen von uns betreuten Behörden, sowie die ungeklärte Berechtigung im Fall seiner Kinder deuten auf ein Vorgehen hin, das über ein legitimes Auskunftsinteresse hinausgeht. Dies kann als Rechtsmissbrauch gewertet werden und eine Verweigerung der Auskunft unter Verweis auf unverhältnismäßigen Verwaltungsaufwand rechtfertigen.
 
 
-Wir bitten, im Hinblick auf die gesetzte Auskunftsfristen möglichst zeitnahe, um Ihre Einschätzung zu unseren rechtlichen Bewertungen und danken Ihnen für Ihre Unterstützung.
+Für Ihre Einschätzung zu unseren rechtlichen Bewertungen wären wir Ihnen sehr dankbar. Da die Auskunftsfristen bereits laufen, würden wir uns über eine baldige Rückmeldung sehr freuen.
+
+Mit freundlichen Grüßen
+Joachim A. Hader 
+externer behördlicher Datenschutzbeauftragter Stadt Pappenheim 
+Mobil: +49 151 53872750 
+E-Mail: datenschutz@pappenheim.de 
+Web: www.pappenheim.de 
+Datenschutzhinweise: www.pappenheim.de/datenschutz
 
 ## Referenzen Für DSGVO-Auskunftsersuchen Gegg
 

@@ -1,19 +1,11 @@
 ## **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)**
 
 - Scope: IT-Dienste zur Unterstützung der Geschäftsprozesse (organisationsweit).
-    
 - Normbezug: ISO/IEC 27001:2022, Anhang A (93 Maßnahmen). SoA muss gemäß 6.1.3 d dokumentieren: Einbeziehung, Gründe, Implementierungsstatus, begründete Ausschlüsse. 
-    
 - Rechtslage: DSG-EKD gilt; 5.31/5.34 zwingend anwendbar, kein Ausschluss.
-    
 - Evidenzbasis (Auszug): Informationssicherheitsleitlinie (freigegeben 19.02.2024), Rollenbeschreibung (in Arbeit 04.08.2025), Richtlinien (Admin, Anwender, Patch, Backup, Change, Zugangs, Postfachzugriff, KI), Verzeichnisse (Risiko/Schutzbedarf, Admin-Accounts, Dienstleister, Remotezugänge), Vorfallsprozess, Change-Prozess, Netz-/Gebäudepläne, Microsoft Major Incident Response Plan.
-    
 - Offene Klärungen: HR-Controls 6.x (Anwendbarkeit bei „organisationsweit“), Secure Development 8.25-8.33 (Eigenentwicklung ja/nein), Asset-Inventar-Vollständigkeit, Cloud-Regeln.
-    
-- Bewertungsfeld „Gewichteter Wert“: bitte aus der Risiko-/Schutzbedarfsbewertung ableiten (z. B. max(C,I,A) oder organisationsspezifische Gewichtung).
-    
-
-  
+- Bewertungsfeld „Gewichteter Wert“: bitte aus der Risiko-/Schutzbedarfsbewertung ableiten (z. B. max(C,I,A) oder organisationsspezifische Gewichtung). 
 
 > Normreferenz: Anforderungen an SoA und Anhang-A-Kontrollen siehe ISO/IEC 27001:2022, 6.1.3 und Anhang A, Tabelle A.1 (Kontrollen 5.1–5.23 unten). 
 
