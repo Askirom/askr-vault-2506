@@ -11,6 +11,7 @@
 ### Agenda
 - Löschfrist 1 Jahr nach Wahlperiode
 - alle Themen und Fragen laufen über Betriebsrat-Postfach
-- 
+
+- Dienstag Mittwoch für VVT Termin
 
 
