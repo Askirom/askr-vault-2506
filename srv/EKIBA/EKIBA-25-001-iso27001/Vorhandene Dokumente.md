@@ -111,3 +111,4 @@ Besonders bei **5.13 (Kennzeichnung)** bin ich unsicher - gibt es einen Prozess 
 
 > Normgrundlage der obenstehenden Kontrolltexte: ISO/IEC 27001:2022, **Anhang A** (A.5.24–A.5.33) sowie A.8.16 für Monitoring/Erkennung.
 
+0911 817717 242
