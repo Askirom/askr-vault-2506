@@ -177,3 +177,18 @@ _(Anmerkung: In diesem Bereich gibt es keine explizite DSGVO-Norm „zum Schutz 
 - **Beweislast für exzessive Anträge** – _zutreffend._ Wie oben zu Art. 12 Abs. 5 erwähnt, liegt die **Beweislast eindeutig beim Verantwortlichen** . Das heißt, möchte ein Unternehmen oder eine Behörde einen Auskunftsantrag mit der Begründung „offensichtlich unbegründet“ oder „exzessiv“ ablehnen, **muss es substantiiert darlegen und ggf. nachweisen**, warum dieser Antrag missbräuchlich oder unzumutbar ist. Diese Vorgabe steht im Gesetz und wurde auch in Rechtsprechung und Literatur betont . In der Praxis fordern Gerichte daher eine sorgfältige Argumentation – bloße Behauptungen reichen nicht. Die zusammengefasste Aussage ist voll zutreffend und juristisch verankert: _„Der Verantwortliche hat den Nachweis für den offenkundig unbegründeten oder exzessiven Charakter des Antrags zu erbringen.“_  (Art. 12 Abs. 5 S. 2 DSGVO).
 
 **Quellen:** BFH, EuGH, OLG und VG-Urteile sowie Leitlinien/Arbeitspapiere wie oben jeweils zitiert. Jede Bewertung basiert auf den **verbundenen Fundstellen**, die das Vorliegen, den Inhalt und die rechtliche Verwendbarkeit der jeweiligen Quelle belegen.
+
+
+
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+      
+|Beschwerderecht|   |   |   |   |   |   |
+|Weiterhin besteht ein Beschwerderecht beim Bayerischen Landesbeauftragten für den  <br>Datenschutz. Diesen können Sie unter folgenden Kontaktdaten erreichen:  <br>Postanschrift: Postfach 22 12 19, 80502 München  <br>Adresse:  Wagmüllerstraße 18, 80538 München  <br>Telefon:  089 212672-0  <br>Telefax:  089 212672-50  <br>Online-Meldung https://www.datenschutz-bayern.de/service/complaint.html|   |   |   |   |   |   |
+||||||||
+|Recht auf Löschung, Berichtigung und Widerspruch|   |   |   |   |   |   |
+|Für den Fall, dass personenbezogene Daten über Sie nicht (mehr) zutreffend oder unvollständig sind, können Sie eine Berichtigung und gegebenenfalls Vervollständigung dieser Daten verlangen (Art. 16 DSGVO).|   |   |   |   |   |   |
+|Bei Vorliegen der gesetzlichen Voraussetzungen können Sie die Löschung Ihrer personenbezogenen Daten (Art. 17 DSGVO) oder die Einschränkung der Verarbeitung dieser Daten (Art. 18 DSGVO) verlangen. Das Recht auf Löschung nach Art. 17 Abs. 1 und 2 DSGVO besteht jedoch unter anderem dann nicht, wenn die Verarbeitung personenbezogener Daten erforderlich ist zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt (Art. 17 Abs. 3 Buchstabe b DSGVO).|   |   |   |   |   |   |
+|Falls Sie in die Verarbeitung eingewilligt haben und die Verarbeitung auf dieser Einwilligung beruht, können Sie die Einwilligung jederzeit für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Datenverarbeitung wird durch diesen nicht berührt.|   |   |   |   |   |   |
+|Aus Gründen, die sich aus Ihrer besonderen Situation ergeben, können Sie der Verarbeitung Sie betreffender personenbezogener Daten durch uns zudem jederzeit widersprechen (Art. 21 DSGVO). Sofern die gesetzlichen Voraussetzungen vorliegen, verarbeiten wir in der Folge Ihre personenbezogenen Daten nicht mehr.|   |   |   |   |   |   |
