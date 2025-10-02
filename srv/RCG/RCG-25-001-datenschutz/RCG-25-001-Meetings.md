@@ -40,38 +40,49 @@
 	- KI erstellt auch die Ausgabe
 		- gpt-4.1
 - gibt noch ein weiteres Tool zum Auditieren und Rollenverwaltung
-## 2025-10-02 Datenschutzfragen Reisekostentool
-- war schon in Polen im Einsatz mit Concur.
-### Verarbeitete Daten
-- Name des Mitarbeitenden
-- Personalnummer
-- E-Mail-Adresse
-- Kostenstelle des Mitarbeitenden
-- Business Partnernummer
-- Name des Vorgesetzten
-- Mitarbeiter Kreditor aus dem SAP Grow
-- Reiseantrag
-	- Reisebelege usw. bleiben in Sharepoint
-- Rollen- und Rechte
-	- Liste kundeneigen in PowerApp
-### Prozess
-- Reiseantrag
-	- Daten der Reise
-	- von wann bis wann
-	- Tagespauschalen
-	- pro Mitarbeiter -> Anmeldung heißt auch Name
-	- Vorgesetzter
-		- Freigabe
-- Speicherort(e)? 
-	-  Sharepoint M365 RC 
-- Softwarearchitektur/Dokumentation?
-	- PowerApp Umgebung
-- Secure Development Anforderungen?
-	- 
-- Verantwortlichkeiten?
-	- Application Owner
-		- Liebeskind Frank  
-	- Process Owner
-		- Kevin Hurnik
-	- System Owner
-		- Polen
+## **2025-10-02 · Datenschutzfragen Reisekostentool**
+### **Hintergrund**
+
+- Tool bereits in Polen im Einsatz (mit SAP Concur-Anbindung).
+- Erweiterung/Einführung auch für andere Standorte im Gespräch.
+### **Verarbeitete Daten**
+
+- Stammdaten Mitarbeitende:
+    - Name
+    - Personalnummer
+    - E-Mail-Adresse
+    - Kostenstelle
+    - Business Partnernummer
+    - Name des Vorgesetzten
+    - Kreditorenrolle aus SAP Grow
+- Antragsdaten:
+    - Reiseantrag mit Reisedaten (Zeitraum, Tagespauschalen etc.)
+    - Belege verbleiben in SharePoint
+- Rollen- und Rechteverwaltung:
+    - Kundenspezifische Liste in PowerApp
+### **Prozessablauf**
+1. Mitarbeitende stellen Reiseantrag (Angabe Reisezeitraum, Tagespauschalen, persönliche Zuordnung).
+2. Antrag geht an Vorgesetzten zur Freigabe.
+3. Datenverarbeitung und Abbildung im Tool.
+### **Speicherorte**
+
+- SharePoint (M365 RC) für Belege und Antragsunterlagen.
+
+### **Systemumgebung**
+
+- PowerApp-Umgebung als Applikationsplattform
+
+### **Offene Punkte / Klärungsbedarf**
+
+- Dokumentation der Softwarearchitektur.    
+- Umsetzung Secure Development-Anforderungen.
+- Klärung der Verantwortlichkeiten und Zuständigkeiten.
+
+### **Verantwortlichkeiten**
+
+- **Application Owner:** Frank Liebeskind    
+- **Process Owner:** Kevin Hurnik
+- **System Owner:** Polen (lokaler Betrieb)
+
+### Personalthemen
+- Personalabrechnung läuft über Thyssenkrupp
