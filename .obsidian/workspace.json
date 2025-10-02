@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+                "file": "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-11_PAPHE_Auskunftsersuchen_MarGeg"
+              "title": "RCG-25-001-Meetings"
             }
           }
         ],
@@ -298,13 +298,13 @@
   },
   "active": "24c91c6a0f3adfc0",
   "lastOpenFiles": [
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "usr/identity/Askirom Budget.md",
     "usr/identity/Untitled.md",
     "var/daily/2025-10-02.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/SoA.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/Vorhandene Dokumente.md",
     "srv/ARA/ARA-25-001-ki-bei-ara.md",
-    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "srv/ARA",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "srv/GOSME/GOSME-25-001-privacy/GOSME-25-001 Meetings.md",

@@ -95,7 +95,7 @@ E-Mail: datenschutz@pappenheim.de
 Web: www.pappenheim.de 
 Datenschutzhinweise: www.pappenheim.de/datenschutz
 
-## Anschreiben 2 (versand am ) Behörde
+## Anschreiben 2 (versand Am ) Behörde
 An: poststelle@datenschutz-bayern.de
 Cc:
 Bcc:

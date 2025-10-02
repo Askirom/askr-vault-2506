@@ -40,4 +40,38 @@
 	- KI erstellt auch die Ausgabe
 		- gpt-4.1
 - gibt noch ein weiteres Tool zum Auditieren und Rollenverwaltung
-- 
+## 2025-10-02 Datenschutzfragen Reisekostentool
+- war schon in Polen im Einsatz mit Concur.
+### Verarbeitete Daten
+- Name des Mitarbeitenden
+- Personalnummer
+- E-Mail-Adresse
+- Kostenstelle des Mitarbeitenden
+- Business Partnernummer
+- Name des Vorgesetzten
+- Mitarbeiter Kreditor aus dem SAP Grow
+- Reiseantrag
+	- Reisebelege usw. bleiben in Sharepoint
+- Rollen- und Rechte
+	- Liste kundeneigen in PowerApp
+### Prozess
+- Reiseantrag
+	- Daten der Reise
+	- von wann bis wann
+	- Tagespauschalen
+	- pro Mitarbeiter -> Anmeldung heißt auch Name
+	- Vorgesetzter
+		- Freigabe
+- Speicherort(e)? 
+	-  Sharepoint M365 RC 
+- Softwarearchitektur/Dokumentation?
+	- PowerApp Umgebung
+- Secure Development Anforderungen?
+	- 
+- Verantwortlichkeiten?
+	- Application Owner
+		- Liebeskind Frank  
+	- Process Owner
+		- Kevin Hurnik
+	- System Owner
+		- Polen
