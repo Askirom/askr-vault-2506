@@ -103,79 +103,142 @@ Betreff: Anfrage zur rechtlichen Einschätzung bei umfangreichen Auskunftsersuch
 
 Sehr geehrte Damen und Herren,
 
+  
+
 wir bitten um Ihre rechtliche Einschätzung zu den nachfolgend dargestellten Fragen im Zusammenhang mit umfangreichen DSGVO-Auskunftsersuchen.
 
-### Ausgangslage
+  
 
-Am **8. Juli 2025** stellte eine betroffene Person ein erstes Auskunftsersuchen nach Art. 15 DSGVO an die Stadt Pappenheim.  
-Die Stadt stellte daraufhin die Auskunft zur Verfügung: Er erhielt eine E-Mail mit Link zur Bayernbox, das Passwort wurde separat per Einschreiben an seine Meldeadresse in England gesendet.  
+Ausgangslage
 
-Am **5. August 2025** erweiterte die betroffene Person ihr Auskunftsersuchen per E-Mail erheblich. Dabei forderte sie, ein ehemaliges Stadtratsmitglied, umfassende Auskunft über eine Vielzahl von Datenkategorien, die ihre Person, ihre Firmen (Zimmerei), Grundstücke und Bauvorhaben betreffen.  
-Die gesetzte Frist für eine Antwort war der **5. September 2025**. Bemerkenswert ist, dass die Erweiterung bereits vor dem möglichen Erhalt des Passworts für die erste Auskunft eingereicht wurde.
+  
 
-Am **11. August 2025** folgte ein zweites, separates und ebenso weitreichendes Auskunftsersuchen, diesmal betreffend die drei minderjährigen Kinder der betroffenen Person, mit einer Fristsetzung bis zum **11. September 2025**.
+Am 8. Juli 2025 stellte eine betroffene Person ein erstes Auskunftsersuchen nach Art. 15 DSGVO an die Stadt Pappenheim.
 
-Die Stadt Pappenheim hat daraufhin am **15. August 2025** zwei Schreiben an die betroffene Person versandt:
-1. Mitteilung über die **Fristverlängerung** für das erweiterte Ersuchen vom 5. August um zwei Monate bis zum **5. November 2025**, begründet mit der Komplexität, dem Umfang und dem Schutz der Rechte Dritter.  
-2. Aufforderung, für das Ersuchen bezüglich der Kinder die **elterliche Sorge nachzuweisen**, bevor die gesetzliche Monatsfrist zur Bearbeitung beginnt. Dies dient der zweifelsfreien Identifizierung und dem Schutz der Kinder.
+Die Stadt stellte daraufhin die Auskunft zur Verfügung: Er erhielt eine E-Mail mit Link zur Bayernbox, das Passwort wurde separat per Einschreiben an seine Meldeadresse in England gesendet.
+
+  
+
+Am 5. August 2025 erweiterte die betroffene Person ihr Auskunftsersuchen per E-Mail erheblich. Dabei forderte sie, ein ehemaliges Stadtratsmitglied, umfassende Auskunft über eine Vielzahl von Datenkategorien, die ihre Person, ihre Firmen (Zimmerei), Grundstücke und Bauvorhaben betreffen.
+
+Die von der betroffenen Person gesetzte Frist für eine Antwort war der 5. September 2025. Bemerkenswert ist, dass die Erweiterung bereits vor dem möglichen Erhalt des Passworts für die erste Auskunft eingereicht wurde.
+
+  
+
+Am 11. August 2025 folgte ein zweites, separates und ebenso weitreichendes Auskunftsersuchen, diesmal betreffend die drei minderjährigen Kinder der betroffenen Person, mit einer Fristsetzung bis zum 11. September 2025.
+
+  
+
+Die Stadt Pappenheim hat daraufhin am 15. August 2025 zwei Schreiben an die betroffene Person versandt:
+
+1. Mitteilung über die Fristverlängerung für das erweiterte Ersuchen vom 5. August um zwei Monate bis zum 5. November 2025, begründet mit der Komplexität, dem Umfang und dem Schutz der Rechte Dritter.
+
+2. Aufforderung, für das Ersuchen bezüglich der Kinder die elterliche Sorge nachzuweisen, bevor die gesetzliche Monatsfrist zur Bearbeitung beginnt. Dies dient der zweifelsfreien Identifizierung und dem Schutz der Kinder.
+
+  
 
 Die Breite und Tiefe der Anfragen, die Systematik des Vorgehens sowie die Berührung verschiedener Rechtsbereiche führen zu erheblichen Unsicherheiten bei der rechtskonformen Bearbeitung.
 
-### Fragen
+  
 
-#### Frage 1: Daten Im Geschäftlichen Kontext (GmbH)
-**Problemstellung:** Sind Daten, die im Namen der Zimmerei (GmbH) von der betroffenen Person verarbeitet wurden, als deren personenbezogene Daten im Sinne der DSGVO zu werten und somit vollumfänglich zu beauskunften?
+Fragen
 
-**Unsere Deutung:**  
+  
+
+Frage 1: Daten im geschäftlichen Kontext (GmbH)
+
+Problemstellung: Sind Daten, die im Namen der Zimmerei (GmbH) von der betroffenen Person verarbeitet wurden, als deren personenbezogene Daten im Sinne der DSGVO zu werten und somit vollumfänglich zu beauskunften?
+
+Unsere Deutung:
+
 Die DSGVO schützt natürliche Personen. Daten einer juristischen Person (GmbH) fallen grundsätzlich nicht unter den Auskunftsanspruch des Geschäftsführers oder Inhabers als Privatperson. Eine Auskunftspflicht könnte nur dann bestehen, wenn Daten der GmbH untrennbar mit den privaten, personenbezogenen Daten der betroffenen Person verknüpft sind und eine Trennung nicht möglich ist. Dies sehen wir hier nicht als gegeben an.
 
-#### Frage 2: Schutz Der Rechte Dritter in E-Mail-Korrespondenz
-**Problemstellung:** Wie ist der Auskunftsanspruch bezüglich interner und externer E-Mails zu handhaben, ohne die Rechte und Freiheiten der Verfasser (Mitarbeiter) oder anderer darin genannter Personen unzulässig zu beeinträchtigen (Art. 15 Abs. 4 DSGVO)?
+  
 
-**Unsere Deutung:**  
+Frage 2: Schutz der Rechte Dritter in E-Mail-Korrespondenz
+
+Problemstellung: Wie ist der Auskunftsanspruch bezüglich interner und externer E-Mails zu handhaben, ohne die Rechte und Freiheiten der Verfasser (Mitarbeiter) oder anderer darin genannter Personen unzulässig zu beeinträchtigen (Art. 15 Abs. 4 DSGVO)?
+
+Unsere Deutung:
+
 Der Schutz der Rechte Dritter überwiegt in vielen Fällen. Die Offenlegung interner Meinungsäußerungen, Bewertungen oder vertraulicher Informationen über Dritte wäre ein unverhältnismäßiger Eingriff. Jeder Einzelfall müsste geprüft und ggf. großflächig geschwärzt werden. Die reine Namensnennung der betroffenen Person in einer E-Mail macht nicht automatisch den gesamten Inhalt zu ihrem personenbezogenen Datum. Wir würden diese E-Mails auf Grund des unverhältnismäßigen Aufwands nicht beauskunften.
 
-#### Frage 3: Verhältnis Zu Spezialgesetzlichen Regelungen (BayVwVfG)
-**Problemstellung:** Hat der allgemeine Auskunftsanspruch nach Art. 15 DSGVO Vorrang vor dem bereichsspezifischen Akteneinsichtsrecht nach Art. 29 BayVwVfG, welches ein "rechtliches Interesse" voraussetzt?
+  
 
-**Unsere Deutung:**  
+Frage 3: Verhältnis zu spezialgesetzlichen Regelungen (BayVwVfG)
+
+Problemstellung: Hat der allgemeine Auskunftsanspruch nach Art. 15 DSGVO Vorrang vor dem bereichsspezifischen Akteneinsichtsrecht nach Art. 29 BayVwVfG, welches ein "rechtliches Interesse" voraussetzt?
+
+Unsere Deutung:
+
 Für Informationen innerhalb von Verwaltungsakten und -verfahren (z.B. Bauamt, Ordnungsbehörde) hat das Fachrecht (BayVwVfG) als "lex specialis" Vorrang. Der DSGVO-Anspruch darf nicht dazu dienen, die Hürden des Fachrechts zu umgehen. Die betroffene Person müsste für die Einsicht in solche Verfahrensakten weiterhin ihr rechtliches Interesse begründen.
 
-#### Frage 4: Auskunftsanspruch Bezüglich Zugriffsprotokollen
-**Problemstellung:** Besteht eine Pflicht, detaillierte interne Zugriffsprotokolle offenzulegen, die zeigen: "Wer hatte wann Einsicht in welche Daten?"
+  
 
-**Unsere Deutung:**  
+Frage 4: Auskunftsanspruch bezüglich Zugriffsprotokollen
+
+Problemstellung: Besteht eine Pflicht, detaillierte interne Zugriffsprotokolle offenzulegen, die zeigen: "Wer hatte wann Einsicht in welche Daten?"
+
+Unsere Deutung:
+
 Dieser Anspruch geht über Art. 15 DSGVO hinaus. Die Herausgabe solcher Protokolle würde interne Sicherheits- und Kontrollmechanismen offenlegen und die Rechte der zugreifenden Mitarbeiter verletzen. Der Auskunftsanspruch bezieht sich auf die personenbezogenen Daten selbst, nicht auf die Verarbeitungshistorie in dieser Detailtiefe.
 
-#### Frage 5: Daten Aus Der Tätigkeit Als Ehemaliger Stadtrat
-**Problemstellung:** Inwieweit unterliegen interne Vermerke und Bewertungen, die sich auf die Tätigkeit der betroffenen Person als ehemaliges Mitglied des Stadtrats beziehen, dem Auskunftsanspruch? 
+  
 
-**Unsere Deutung:**  
+Frage 5: Daten aus der Tätigkeit als ehemaliger Stadtrat
+
+Problemstellung: Inwieweit unterliegen interne Vermerke und Bewertungen, die sich auf die Tätigkeit der betroffenen Person als ehemaliges Mitglied des Stadtrats beziehen, dem Auskunftsanspruch?
+
+Unsere Deutung:
+
 Informationen im Kontext einer öffentlichen, politischen Mandatstätigkeit sind von der geschützten Privatsphäre der betroffenen Person abzugrenzen. Der Schutz interner Beratungs- und Entscheidungsprozesse der Verwaltung überwiegt. Der Auskunftsanspruch kann hier gemäß § 29 Abs. 1 S. 2 BDSG eingeschränkt werden.
 
-#### Frage 6: Öffentliche Protokolle Und Daten Mit Allgemeinen Zugriffsmöglichkeiten
-**Problemstellung:** Besteht eine Auskunftspflicht nach Art. 15 DSGVO für Daten, die bereits öffentlich zugänglich sind oder einem allgemeinen Informationszugang unterliegen (z.B. öffentliche Stadtratsprotokolle, Bekanntmachungen, Bauleitpläne)?
+  
 
-**Unsere Deutung:**  
+Frage 6: Öffentliche Protokolle und Daten mit allgemeinen Zugriffsmöglichkeiten
+
+Problemstellung: Besteht eine Auskunftspflicht nach Art. 15 DSGVO für Daten, die bereits öffentlich zugänglich sind oder einem allgemeinen Informationszugang unterliegen (z.B. öffentliche Stadtratsprotokolle, Bekanntmachungen, Bauleitpläne)?
+
+Unsere Deutung:
+
 Der Auskunftsanspruch nach Art. 15 DSGVO dient dazu, der betroffenen Person Kenntnis über die Verarbeitung ihrer personenbezogenen Daten zu verschaffen. Sind Daten bereits öffentlich einsehbar oder über andere Zugangswege (z.B. Informationsfreiheitsgesetz, öffentliche Bekanntmachungen) ohne weiteres zugänglich, entfällt das Schutzbedürfnis. Eine erneute Zusammenstellung und Übermittlung im Rahmen der DSGVO-Auskunft wäre unverhältnismäßig und würde zu einem ungerechtfertigten Verwaltungsaufwand führen. Wir würden in solchen Fällen auf die bestehenden Zugangsmöglichkeiten verweisen und diese Daten nicht gesondert aufbereiten.
 
-#### Frage 7: Verhältnismäßigkeit Und Möglicher Rechtsmissbrauch
-**Problemstellung:** Kann die Serie von weitreichenden, sich überlappenden und nachfassenden Anfragen als exzessiv im Sinne von Art. 12 Abs. 5 DSGVO eingestuft werden, sodass der Antrag (teilweise) zurückgewiesen werden kann?
+  
 
-**Unsere Deutung:**  
+Frage 7: Verhältnismäßigkeit und möglicher Rechtsmissbrauch
+
+Problemstellung: Kann die Serie von weitreichenden, sich überlappenden und nachfassenden Anfragen als exzessiv im Sinne von Art. 12 Abs. 5 DSGVO eingestuft werden, sodass der Antrag (teilweise) zurückgewiesen werden kann?
+
+Unsere Deutung:
+
 Der Aufwand steht in keinem Verhältnis zum Informationsinteresse. Die systematische und wiederholte Anforderung von Daten, auch bei anderen von uns betreuten Behörden, sowie die ungeklärte Berechtigung im Fall der Kinder deuten auf ein Vorgehen hin, das über ein legitimes Auskunftsinteresse hinausgeht. Dies kann als Rechtsmissbrauch gewertet werden und eine Verweigerung der Auskunft unter Verweis auf unverhältnismäßigen Verwaltungsaufwand rechtfertigen.
+
+  
 
 Für Ihre Einschätzung zu unseren rechtlichen Bewertungen wären wir Ihnen sehr dankbar. Da die Auskunftsfristen bereits laufen, würden wir uns über eine baldige Rückmeldung sehr freuen.
 
-Hinweis:  
-Die vollständigen, bereits an die betroffene Person übermittelten Unterlagen liegen vor. Wir stellen diese der Aufsichtsbehörde bei Bedarf gerne über einen sicheren Übermittlungsweg bereit.
+  
 
-Mit freundlichen Grüßen  
-Joachim A. Hader  
-externer behördlicher Datenschutzbeauftragter Stadt Pappenheim  
-Mobil: +49 151 53872750  
-E-Mail: datenschutz@pappenheim.de  
-Web: www.pappenheim.de  
+Hinweis:
+
+Die vollständigen, bereits an die betroffene Person übermittelten Unterlagen liegen vor. Wir stellen Ihnen diese bei Bedarf gerne über einen sicheren Übermittlungsweg bereit.
+
+  
+
+Mit freundlichen Grüßen
+
+  
+
+Joachim A. Hader
+
+externer behördlicher Datenschutzbeauftragter Stadt Pappenheim
+
+Mobil: +49 151 53872750
+
+E-Mail: datenschutz@pappenheim.de
+
+Web: www.pappenheim.de
+
 Datenschutzhinweise: www.pappenheim.de/datenschutz
 
 ## Referenzen Für DSGVO-Auskunftsersuchen Gegg
