@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Kasse Vormittag Fällfest Maibaum.md",
+                "file": "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kasse Vormittag Fällfest Maibaum"
+              "title": "Antwort auf Frage wie ist zu dokumentieren"
             }
           }
         ],
@@ -297,8 +297,11 @@
   },
   "active": "24c91c6a0f3adfc0",
   "lastOpenFiles": [
-    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Kasse Vormittag Fällfest Maibaum.md",
+    "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
+    "srv/BVD/BVD-002-prüfaufgaben-dsb",
+    "srv/BVD",
+    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "usr/identity/Askirom Budget.md",
     "usr/identity/Untitled.md",
@@ -329,10 +332,7 @@
     "var/meeting/EKIBA-meetings.md",
     "var/meeting/VEDES-meetings.md",
     "var/daily/2025-09-26.md",
-    "var/daily/2025-09-28.md",
     "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Briefing an RA Michael König – Fall Lindner.pdf",
-    "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 7, Auszug aus Dietz Kommentar zu den VGB 2010.pdf",
-    "srv/RAKOE/RAKOE-25-001-abmahnung-weitergabe-daten/Attachements/Anlage 6, Mail von Fa. Brauer vor unserem Ortstermin, 21.08.2025.12.18.02-info-wuerzburg@tt-brauer.de (info-wuerzburg@tt-brauer.de).pdf",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",

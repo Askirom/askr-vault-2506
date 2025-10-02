@@ -1,8 +1,8 @@
-# Kassenstand Dorffest
+## Kassenstand Dorffest
 
-## Gesamt: 514 €
+### Gesamt: 514 €
 
-### Gesamtbestand
+#### Gesamtbestand
 | Euro | Menge | Gesamt |
 | ---- | ----- | ------ |
 | 2    | 45    | 90     |
@@ -18,7 +18,7 @@
 
 ---
 
-### In Kasse (Start)
+#### In Kasse (Start)
 | Euro | Menge | Gesamt |
 | ---- | ----- | ------ |
 | 2    | 30    | 60     |
@@ -32,7 +32,7 @@
 
 ---
 
-### Reserve im Mäppchen (schwarz)
+#### Reserve Im Mäppchen (schwarz)
 | Euro | Menge | Gesamt |
 | ---- | ----- | ------ |
 | 2    | 15    | 30     |
@@ -48,7 +48,7 @@
 
 ---
 
-## Übersicht
+### Übersicht
 - **Gesamt vorbereitet:** 514 €  
 - **Start in Kasse:** 216 €  
 - **Reserve im Mäppchen:** 298 €  
