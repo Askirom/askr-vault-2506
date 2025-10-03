@@ -52,3 +52,9 @@
 - **Gesamt vorbereitet:** 514 €  
 - **Start in Kasse:** 216 €  
 - **Reserve im Mäppchen:** 298 €  
+# rausgenommen 2330
+- 200
+- 170
+- 90
+- 40
+- 
