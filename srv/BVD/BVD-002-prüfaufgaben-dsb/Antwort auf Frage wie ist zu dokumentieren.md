@@ -1,11 +1,11 @@
-# **Wie ist ein TOM-Audit gegenüber dem Verantwortlichen zu dokumentieren**
+## **Wie Ist Ein TOM-Audit Gegenüber Dem Verantwortlichen Zu dokumentieren**
 
-## **Kurzzusammenfassung**
+### **Kurzzusammenfassung**
 
 - Dokumentation muss nachweisen, **welche** Maßnahmen geprüft wurden, **wie** geprüft wurde, **welche** Ergebnisse vorliegen, **wer** verantwortlich ist und **welche** Korrekturmaßnahmen folgen.
 - Zweck: Nachweis gegenüber Aufsichtsbehörde, Rechenschaftspflicht und Basis für Haftungsabwehr (Art. 32 DSGVO). 
 
-## **Mindestinhalt eines TOM-Audit-Berichts (Pflichtangaben)**
+### **Mindestinhalt Eines TOM-Audit-Berichts (Pflichtangaben)**
 
 1. **Identifikation**
     - Audit-Titel, Datum, Version des Berichts, Prüfer / Prüforganisation (inkl. Rollen).
@@ -59,7 +59,7 @@
 
 ---
 
-## **Formale Anforderungen / Beweiskraft**
+### **Formale Anforderungen / Beweiskraft**
 
 - Dokumentation muss **nachvollziehbar, unveränderbar und abrufbar** sein (Logs, Zeitstempel, Prüfer-Signatur). Die reine Vertragsprüfung reicht nicht; es müssen **Nachweise der tatsächlichen Umsetzung** vorliegen. 
     
@@ -68,7 +68,7 @@
 
 ---
 
-## **Typische Nachweis-Evidenz (konkret)**
+### **Typische Nachweis-Evidenz (konkret)**
 
 - System-Konfigurations-Snapshots (hash, timestamp)
     
@@ -85,7 +85,7 @@
 
 ---
 
-## **Reporting-Template (kleine Tabelle für Obsidian)**
+### **Reporting-Template (kleine Tabelle Für Obsidian)**
 
 |**Abschnitt**|**Kurzinhalt**|
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## **Entscheidungen & Trade-offs (kurz)**
+### **Entscheidungen & Trade-offs (kurz)**
 
 - **Detailliert vs. handhabbar**: Vollständige technische Dump-Evidenz schützt besser, erzeugt aber Betriebsaufwand und Datenschutzfragen (Log-Redaction notwendig). Empfehlung: Evidenz selektiv, mit Prüfsummen/Hash zur Integrität. 
     
@@ -109,7 +109,7 @@
 
 ---
 
-## **Nächste Schritte (konkret, priorisiert)**
+### **Nächste Schritte (konkret, priorisiert)**
 
 1. **Audit-Template übernehmen** (siehe Tabelle) und in Obsidian als Template anlegen.
     
@@ -126,7 +126,7 @@
 
 ---
 
-## **Praxistipps / Fallen**
+### **Praxistipps / Fallen**
 
 - **„Contract-only“ Nachweis reicht nicht.** Audits ohne technische/operationale Evidenz sind gegenüber Aufsichtsbehörden schwach. 
     
@@ -137,14 +137,14 @@
 
 ---
 
-## **Unsicherheiten / Fälle, wo man besser nachfragt**
+### **Unsicherheiten / Fälle, Wo Man Besser nachfragt**
 
 - Wie genau die lokale Aufsichtsbehörde (z. B. BayLDA / BfDI) Evidence-Tiefe erwartet, variiert regional; bei kritischen Prozessen besser ein kurzes Pre-Check-Meeting mit der jeweiligen Behörde oder ein externes Gutachten vereinbaren. 
     
 
 ---
 
-## **Wichtige Rechts- / Norm-Bezüge (Primärquellen)**
+### **Wichtige Rechts- / Norm-Bezüge (Primärquellen)**
 
 - Art. 32 DSGVO (Sicherheit der Verarbeitung). 
     
