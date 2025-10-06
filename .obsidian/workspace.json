@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+                "file": "srv/BEWERBUNG/Template-Bewerbungsschreiben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-11_PAPHE_Auskunftsersuchen_MarGeg"
+              "title": "Template-Bewerbungsschreiben"
             }
           }
         ],
@@ -297,6 +297,8 @@
   },
   "active": "24c91c6a0f3adfc0",
   "lastOpenFiles": [
+    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
+    "srv/BEWERBUNG/Template-Bewerbungsschreiben.md",
     "srv/BEWERBUNG/photo_2025-10-06 09.32.58.jpeg",
     "srv/BEWERBUNG/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
     "srv/BEWERBUNG/ISO27001-ISO-Zertifikat.pdf",
@@ -311,7 +313,6 @@
     "srv/BVD/BVD-002-prüfaufgaben-dsb",
     "srv/BVD",
     "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
-    "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
     "usr/identity/Askirom Budget.md",
     "usr/identity/Untitled.md",
     "var/daily/2025-10-02.md",
@@ -342,7 +343,6 @@
     "lib/personal/attachments/c07bacc6-5b3b-4e0d-b0f6-6085bbaba9cf-1-102-o.jpeg",
     "lib/personal/attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-1-102-o.jpeg",
     "lib/personal/Attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-1-102-o.jpeg",
-    "lib/personal/Attachments/8244e720-237e-473d-b8ab-63ee8d54e7fd-4-5005-c.jpeg",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
     "99 Archive/1 Personal/Personal Projects/PERS - MoCs/PS5 Blue Prince Overview.canvas"
   ]
