@@ -86,5 +86,9 @@
 
 ### Personalthemen
 - Personalabrechnung läuft über Thyssenkrupp
-## Next Actions
+### Next Actions
 - [ ] #TSK VVT vorbereiten für RCIM ➕ 2025-10-02 📅 2025-10-06
+
+## 2025-10-10 JourFixe
+- Azure AI 
+- PatchMy PC
