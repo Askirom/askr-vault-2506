@@ -92,3 +92,4 @@
 ## 2025-10-10 JourFixe
 - Azure AI 
 - PatchMy PC
+- 
