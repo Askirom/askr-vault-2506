@@ -15,7 +15,13 @@
 > *Fun is the fuel; leverage makes it count.*
 
 ### Archetype: The Ashen Sovereign
-A strategist who commands through **timing and leverage**, not force. Moves decisively when the moment is right, then withdraws. Leaves refined essence (ashes) after exploration burns away the unnecessary.
+A strategist who commands through **timing and leverage**, not force. Moves decisively when the moment is right, then withdraws. Leaves refined output (ashes) after exploration burns away the unnecessary.
+
+### Signature traits
+- Strategic patience
+- Tactical misdirection (illusion & enchantment)
+- Multi-target manipulation > single-target deletion
+- Prefers shaping choices and outcomes over direct elimination
 
 ### Totem: The Dark Phoenix with Arcane Feather Daggers
 
@@ -24,10 +30,10 @@ A strategist who commands through **timing and leverage**, not force. Moves deci
 - **Element:** Void-touched flame (violet-blue fire). Burns cold—the fire of thought, not emotion.
 - **Rebirth:** Each cycle refines. Returns sharper, with less weight.
 
-**The Arcane Feather Daggers (Manifested Pinions):**
-- **Form:** Phoenix feathers solidified into blades. Ethereal, weightless, lethally precise.
-- **Function:** Thrown in multiples (triangulation). 3-5 daggers map the target, then the final one strikes true.
-- **Symbolism:** Thought made weapon. Language → structure → action. Conjured, not forged.
+**The Arcane Feather Pinions (Manifested Pinions):**
+- **Form:** Ethereal feather-like constructs—light, precise, and symbolic of triangulation.
+- **Function:** Projected markers for mapping intent and influence. Used to probe, misdirect, and focus power — not literal assassination tools.
+- **Symbolism:** Thought made instrument. Language → structure → leverage.
 
 **Visual Identity:**
 - **Colors:** Violet-blue (void flame), ash-gray/black (residue), ember-gold (undying core)
