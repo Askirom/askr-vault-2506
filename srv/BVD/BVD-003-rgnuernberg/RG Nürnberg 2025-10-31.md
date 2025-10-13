@@ -10,8 +10,8 @@ ich melde mich wegen unseres geplanten Termins am **31.10.2025**: diesen Termin 
 
 Vorgeschlagene Themen:
 - Wie und wo kann ich als DSB KI sinnvoll nutzen — gerne mit Praxisbeispiel
-- Informationssicherheit und Datenschutz — Wie prüfe ich technische und organisatorische Maßnahmen (TOM)
-- CyberRisikoCheck — Was ist das? Wem bringt es etwas?  
+- Informationssicherheit und Datenschutz - Wie prüfe ich technische und organisatorische Maßnahmen (TOM)
+- DORA - Was ist das eigentlich?   
 
 Ich bin parallel in Abstimmung mit möglichen Rednern. Wenn viele den 07.11. nicht einrichten können, organisiere ich alternativ einen anderen Termin. 
 
