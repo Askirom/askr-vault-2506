@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-10-13.md",
-                "mode": "source",
+                "file": "srv/SECUD/Kundentermine Datenschutz.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-13"
+              "title": "Kundentermine Datenschutz"
             }
           }
         ],
@@ -312,8 +312,11 @@
   },
   "active": "13fb7f67ff381fb1",
   "lastOpenFiles": [
-    "usr/identity/Askirom v14.md",
+    "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf.md",
+    "srv/SECUD/Kundentermine Datenschutz.md",
+    "srv/SECUD",
     "var/daily/2025-10-13.md",
+    "usr/identity/Askirom v14.md",
     "var/daily/2025-10-12.md",
     "usr/identity/askirom-the-ashen-sovereign-v13.md",
     "usr/identity/Askirom Budget.md",
@@ -339,7 +342,6 @@
     "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
     "srv/BEWERBUNG",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Kasse Vormittag Fällfest Maibaum.md",
-    "srv/BVD/BVD-002-prüfaufgaben-dsb",
     "usr/identity/Untitled.md",
     "var/daily/2025-10-02.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/SoA.md",
@@ -347,8 +349,6 @@
     "srv/ARA/ARA-25-001-ki-bei-ara.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/§ 29 Absatz 1 Satz 2 BDSG.md",
     "srv/GOSME/GOSME-25-001-privacy/GOSME-25-001 Meetings.md",
-    "srv/GOSME/GOSME-25-001-privacy/Untitled.md",
-    "srv/EKIBA/EKIBA-25-001-iso27001/Anwender- und Administrationsrichtlinie.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
