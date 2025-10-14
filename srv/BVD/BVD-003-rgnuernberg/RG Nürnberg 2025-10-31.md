@@ -17,3 +17,6 @@ Ich bin parallel in Abstimmung mit möglichen Rednern. Wenn viele den 07.11. nic
 
 
 Vielen Dank — ich freue mich auf eure Rückmeldungen.
+
+
+robert@straub.live

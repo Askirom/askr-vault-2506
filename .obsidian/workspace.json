@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
+                "file": "srv/BVD/BVD-003-rgnuernberg/RG Nürnberg 2025-10-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG-25-001-Meetings"
+              "title": "RG Nürnberg 2025-10-31"
             }
           }
         ],
@@ -310,8 +310,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "13fb7f67ff381fb1",
   "lastOpenFiles": [
+    "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
+    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "var/daily/2025-10-14.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
     "var/daily/2025-10-13.md",
@@ -324,7 +326,6 @@
     "var/daily/2025-10-12.md",
     "usr/identity/askirom-the-ashen-sovereign-v13.md",
     "usr/identity/Askirom Budget.md",
-    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "var/daily/2025-10-10.md",
     "var/daily/Stadt Pappenheim.md",
     "var/daily/2025-10-09.md",
@@ -343,7 +344,6 @@
     "srv/BEWERBUNG/2025-10-RLE-CV-v2.pdf",
     "srv/BEWERBUNG/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/BEWERBUNG/RLE CV.md",
-    "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Kasse Vormittag Fällfest Maibaum.md",
     "usr/identity/Untitled.md",
     "var/daily/2025-10-02.md",
