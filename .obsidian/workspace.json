@@ -161,8 +161,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,7 +310,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "13fb7f67ff381fb1",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
     "var/daily/2025-10-14.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",

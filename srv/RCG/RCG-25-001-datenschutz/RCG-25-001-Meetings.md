@@ -92,4 +92,8 @@
 ## 2025-10-10 JourFixe
 - Azure AI 
 - PatchMy PC
+
+## 2025-10-14 Löschkonzept
+- P&C Düsseldorf wird jetzt eingeführt
+- Blickpunkt.io
 - 
