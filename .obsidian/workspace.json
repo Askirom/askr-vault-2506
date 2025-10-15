@@ -86,15 +86,12 @@
             "id": "13fb7f67ff381fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "srv/BVD/BVD-003-rgnuernberg/RG Nürnberg 2025-10-31.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "srv/BEWERBUNG/IHK-DSB-2019.pdf"
               },
-              "icon": "lucide-file",
-              "title": "RG Nürnberg 2025-10-31"
+              "icon": "lucide-file-text",
+              "title": "IHK-DSB-2019"
             }
           }
         ],
@@ -312,12 +309,17 @@
   },
   "active": "13fb7f67ff381fb1",
   "lastOpenFiles": [
+    "srv/BEWERBUNG/Bericht über deine digitalen Kompetenzen.pdf",
+    "srv/BEWERBUNG/ISO27001-ISO-Zertifikat.pdf",
+    "srv/BEWERBUNG/photo_2025-10-06 09.32.58.jpeg",
+    "srv/BEWERBUNG/RLE CV.md",
+    "srv/BEWERBUNG/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
+    "srv/BVD/BVD-003-rgnuernberg/RG Nürnberg 2025-10-31.md",
     "srv/BVD/BVD-002-prüfaufgaben-dsb/Antwort auf Frage wie ist zu dokumentieren.md",
     "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "var/daily/2025-10-14.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
     "var/daily/2025-10-13.md",
-    "srv/BVD/BVD-003-rgnuernberg/RG Nürnberg 2025-10-31.md",
     "srv/SECUD/Kundentermine Datenschutz.md",
     "srv/BVD/BVD-003-rgnuernberg",
     "usr/standards/iso-27701.2-infosec-cyber-privacy-management.pdf.md",
@@ -336,19 +338,13 @@
     "srv/BEWERBUNG/Template-Bewerbungsschreiben.md",
     "srv/GOSME/2025-10-06-GMS-Abstimmung-Tool.md",
     "srv/PAPHE/PAPHE-25-001-auskunft-margeg/2025-09-11_PAPHE_Auskunftsersuchen_MarGeg.md",
-    "srv/BEWERBUNG/photo_2025-10-06 09.32.58.jpeg",
-    "srv/BEWERBUNG/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
-    "srv/BEWERBUNG/ISO27001-ISO-Zertifikat.pdf",
     "srv/BEWERBUNG/ISO27001-Foundation-Zertifikat.pdf",
     "srv/BEWERBUNG/2025-10-Robin-Leitner-v2.pdf",
     "srv/BEWERBUNG/2025-10-RLE-CV-v2.pdf",
-    "srv/BEWERBUNG/Bericht über deine digitalen Kompetenzen.pdf",
-    "srv/BEWERBUNG/RLE CV.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/Kasse Vormittag Fällfest Maibaum.md",
     "usr/identity/Untitled.md",
     "var/daily/2025-10-02.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/SoA.md",
-    "srv/EKIBA/EKIBA-25-001-iso27001/Vorhandene Dokumente.md",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
     "lib/personal/attachments/f42f5dce-b18b-48d0-897b-58f9211d773e-4-5005-c.jpeg",
