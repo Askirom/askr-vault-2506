@@ -10,3 +10,4 @@
 	- 4 Mitarbeiter
 	- kein SoC inHouse
 - ISM bei Rödl, wohnt in Regensburg
+- 
