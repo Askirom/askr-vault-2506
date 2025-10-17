@@ -10,4 +10,6 @@
 	- 7 Mitarbeiter
 	- kein SoC inHouse
 - ISM bei Rödl, wohnt in Regensburg
-- 
+- Nächste Schritte:
+	- Tätigkeitsbereich bekannt
+	- Ich muss melden, ob ich Interesse habe
