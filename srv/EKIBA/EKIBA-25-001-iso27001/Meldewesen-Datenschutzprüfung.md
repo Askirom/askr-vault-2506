@@ -1,3 +1,3 @@
-## EKD macht Prüfung
+## EKD Macht Prüfung
 - abstimmen mit Werner, Yannick und Hauth, Sophia
 - Datenschutzprüfung
