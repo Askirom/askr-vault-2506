@@ -1,0 +1,12 @@
+- Bernd Rödl
+- 6400 Mitarbeiter
+- 50 Länder -> Ausgebaut aber viel für Deutsche und den Mittelstand
+	- aber das ist mehr Claim und ist größer angesetzt
+- viele GmbHs -> GDS ist interner IT-Betrieb 170-180 Mitarbeiter
+	- CISO Office -> Teil der internen IT
+	- externe Beratung ist nicht dabei
+- MA in CISO Office
+- Information Security und IT Security
+	- 4 Mitarbeiter
+	- kein SoC inHouse
+- ISM bei Rödl, wohnt in Regensburg
