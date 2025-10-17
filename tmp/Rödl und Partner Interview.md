@@ -7,7 +7,7 @@
 	- externe Beratung ist nicht dabei
 - MA in CISO Office
 - Information Security und IT Security
-	- 4 Mitarbeiter
+	- 7 Mitarbeiter
 	- kein SoC inHouse
 - ISM bei Rödl, wohnt in Regensburg
 - 
