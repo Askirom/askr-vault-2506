@@ -96,4 +96,8 @@
 ## 2025-10-14 Löschkonzept
 - P&C Düsseldorf wird jetzt eingeführt
 - Blickpunkt.io
+
+## 2025-10-20 Abstimmung Unterweisungen
+- Formatierung -> Überschriften Fett machen
+- pbD noch definieren
 - 

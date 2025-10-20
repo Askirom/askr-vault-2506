@@ -47,7 +47,7 @@ VEDES wird regelmäßige Risikobewertungen durchführen, um potenzielle Bedrohun
 
 Der Zugang zu Informationssystemen und Daten wird auf das notwendige Minimum beschränkt und basiert auf dem Prinzip des geringsten Privilegs.
 
-### Physische- und Umgebungssicherheit:
+### Physische- Und Umgebungssicherheit:
 
 Geeignete Maßnahmen werden ergriffen, um die physische Sicherheit der IT-Infrastruktur zu gewährleisten.
 
@@ -57,11 +57,11 @@ Im Falle eines IT-Sicherheitsvorfalls wird die VEDES schnell und effektiv reagie
 
 Es wird ein klar definierter Prozess zur Meldung und Untersuchung von Sicherheitsvorfällen eingerichtet.
 
-### Datenschutz und Compliance:
+### Datenschutz Und Compliance:
 
 Die VEDES wird geltende Datenschutzgesetze und -vorschriften einhalten und regelmäßige Audits durchführen, um die Compliance zu überprüfen.
 
-### Bewußtsein und Schulung:
+### Bewußtsein Und Schulung:
 
 Alle Mitarbeiter werden regelmäßig in Bezug auf Informationssicherheit geschult und sind sich ihrer Verantwortlichkeiten bewusst. Alle Mitarbeiter sind für die Einhaltung dieser Leitlinie verantwortlich. Spezifische Rollen und Verantwortlichkeiten für IT-Sicherheitsbelange sollten klar definiert und zugewiesen werden.
 
