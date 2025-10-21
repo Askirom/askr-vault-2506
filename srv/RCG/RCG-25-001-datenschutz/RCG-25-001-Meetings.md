@@ -100,4 +100,69 @@
 ## 2025-10-20 Abstimmung Unterweisungen
 - Formatierung -> Überschriften Fett machen
 - pbD noch definieren
-- 
+
+
+
+
+**Kurz-Checkliste der Vergleichsaspekte**
+
+- Service-Grenze und Datenresidenz
+- Speicherung und Aufbewahrung von Eingaben, Ausgaben und Protokollen
+- Trainingsnutzung und Zugriff durch Modellanbieter
+- Missbrauchs-/Inhaltskontrollen und Logging
+- Einbindung externer Tools und deren Rechtsgrundlage
+- Schlüsselmanagement und Verschlüsselung
+- Admin-Kontrollen, Audit und Export
+
+# **Copilot Studio (Agents): Datenverarbeitung**
+
+**Ablauf und Speicherorte.**
+
+Prompts laufen innerhalb der Power-Platform/M365-Umgebung. Generative Antworten nutzen Azure OpenAI und optional Bing Search. Außerhalb der USA kann eine regionsübergreifende Verarbeitung nötig sein; Admins müssen diese explizit erlauben. Für EU-Tenants existiert die EU Data Boundary, inkl. aktualisiertem Hinweis, dass Copilot Studio pseudonymisierte personenbezogene Daten innerhalb der EU-Grenze verarbeitet. Bing-basierte Funktionen unterliegen separaten Nutzungs- und Datenschutzbedingungen. 
+
+**Transkripte.**
+
+Unterhaltungstranskripte werden standardmäßig in Dataverse gespeichert. Admins können Speicherung, Zugriff, Download und Aufbewahrung granular steuern. Die Standardaufbewahrung beträgt 30 Tage und kann angepasst oder komplett deaktiviert werden. 
+
+**Trainingsnutzung.**
+
+Für Copilot-Funktionen innerhalb M365 gilt: Prompts, Antworten und über Microsoft Graph zugriffene Daten werden nicht zum Training von Foundation-Modellen verwendet. Für Azure-OpenAI-Verarbeitung im Power-Platform-Kontext nennt Microsoft zudem explizit: „Wir verwenden Ihre Daten nicht zum Trainieren, Neutrainieren oder Verbessern von Azure-OpenAI-Foundation-Modellen.“ 
+
+**Sicherheit, Governance und Schlüssel.**
+
+Copilot Studio bietet DLP-Policies, Purview/Sentinel-Auditing, Option für CMK, sowie konfigurierbare Veröffentlichungs- und Datenbewegungs-Sperren. 
+
+# **Azure AI bereitgestellte Modelle/Agenten: Datenverarbeitung**
+
+**Ablauf und Speicherorte.**
+
+Bei Azure Direct Models (inkl. Azure OpenAI) werden Prompts inferiert, optionale zustandsbehaftete Features wie Responses API, Threads oder Stored Completions speichern Daten in Ihrem Azure-Tenant in der gewählten Geografie. Daten sind ruhend verschlüsselt; CMK ist möglich. 
+
+**Trainingsnutzung und Anbieterzugriff.**
+
+Prompts, Outputs, Embeddings und Trainingsdaten sind nicht für andere Kunden oder Modellanbieter sichtbar und werden nicht zum Training von Foundation-Modellen genutzt. 
+
+**Missbrauchs-/Inhaltskontrollen.**
+
+Azure führt Content Safety und Abuse-Monitoring durch. Für regulierte Kunden kann das Speichern für Abuse-Monitoring auf Antrag modifiziert werden; der Status ist im Portal/CLI prüfbar. 
+
+**Serverless/Model-Catalog und Stateless-Betrieb.**
+
+Bei Serverless-API-Deployments speichert der Dienst keine Prompts oder Outputs; Microsoft teilt diese nicht mit dem Modellpublisher. Verarbeitung bleibt innerhalb der gewählten Geografie. 
+
+**Azure AI Agent Service.**
+
+Agent-Daten für stateful Entities werden in der zugehörigen Azure-OpenAI-Ressource in Ihrer Geografie gespeichert. Prompts/Outputs sind nicht für andere Kunden oder Dritt-Modellanbieter verfügbar. Beim Einsatz externer Tools wie „Grounding with Bing Search“ gelten deren eigene Bedingungen. 
+
+# **Zentrale Unterschiede**
+
+- **Service-Grenze:** Copilot Studio läuft in Power Platform/M365 mit Dataverse als primärem Speicher für Chats. Azure AI läuft in Ihrem Azure-Abo mit Ressourcen- und Netzwerk-Kontrollen auf Subscription-Ebene. 
+- **Speicher-Default:** Copilot speichert Gesprächsprotokolle standardmäßig in Dataverse; Azure AI speichert nur bei Nutzung zustandsbehafteter Features oder expliziten Speichern. 
+- **Datenbewegung:** Copilot kann für Kapazität auf andere Regionen ausweichen; EU-Boundary greift für EU-Tenants. Azure AI bleibt in der von Ihnen gewählten Azure-Geografie, inkl. DataZone/Global-Optionen je nach Deployment. 
+- **Externe Tools:** Copilot-Bing und Azure-Agents-Bing sind Microsoft-as-Controller-Dienste mit separaten Terms. Architekturentscheidungen für Bing beeinflussen Rechtslage und Telemetrie. 
+- **Trainingsnutzung:** M365-Copilot und Power-Platform-Generative-Funktionen sowie Azure Direct Models nutzen Kundendaten nicht zum Modelltraining. 
+- **Schlüssel/Audit:** Copilot Studio bietet CMK, DLP und Purview/Sentinel-Audits. Azure AI bietet CMK für gespeicherte Daten und feingranulares Logging auf Ressourcenebene. 
+
+# **Kurz-Validierung**
+
+Abgedeckt: Grenze/Residenz, Speicherung/Aufbewahrung, Trainingsnutzung, Missbrauchs-Kontrollen, externe Tools, Verschlüsselung/CMK, Admin-Kontrollen/Audit. Für eine DPIA fehlen nur tenantspezifische Einstellungen wie konkrete Regionen, aktivierte Features, Logging-Policy und etwaige Bing-Nutzung.
