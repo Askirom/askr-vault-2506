@@ -166,3 +166,28 @@ Agent-Daten für stateful Entities werden in der zugehörigen Azure-OpenAI-Resso
 # **Kurz-Validierung**
 
 Abgedeckt: Grenze/Residenz, Speicherung/Aufbewahrung, Trainingsnutzung, Missbrauchs-Kontrollen, externe Tools, Verschlüsselung/CMK, Admin-Kontrollen/Audit. Für eine DPIA fehlen nur tenantspezifische Einstellungen wie konkrete Regionen, aktivierte Features, Logging-Policy und etwaige Bing-Nutzung.
+
+
+
+
+# **Azure AI (Azure OpenAI / Azure Direct Models)**
+
+- Microsoft hostet die OpenAI-Modelle in Azure. Keine Interaktion mit OpenAIs eigenen Diensten. Prompts/Outputs sind **nicht** für OpenAI verfügbar. 
+- Ergebnis: OpenAI ist **kein** Subprozessor; Verarbeitung bleibt unter Microsoft/Azure-Vertrag (DPA/Produktbedingungen). 
+
+# **Copilot Studio (Agents)**
+
+- Standardmodelle: Copilot nutzt **Azure OpenAI**, nicht OpenAIs öffentliche Services; Verarbeitung im Microsoft 365-Boundary/Power-Platform. Ergebnis: OpenAI **kein** Subprozessor. 
+- Externe Modelle: Wenn Sie in Copilot Studio ein **externes** Modell auswählen (z. B. Anthropic), wird es **außerhalb** von Microsoft gehostet und unterliegt den Bedingungen des Anbieters. Ergebnis: der externe Anbieter wird Dritt­empfänger/Subprozessor in Ihrer Kette. 
+- Eigene Anbindungen: Binden Sie die **OpenAI-API** explizit per Konnektor/HTTP ein, gehen Daten direkt an OpenAI. Ergebnis: OpenAI wird **Ihr** Subprozessor. 
+
+# **Praxis-Matrix**
+
+- **Azure OpenAI / Azure Direct Models** → Microsoft hostet. OpenAI kein Subprozessor. 
+- **Copilot Studio mit Standardmodell** → Microsoft hostet. OpenAI kein Subprozessor. 
+- **Copilot Studio mit externem Modell** → Anbieter hostet. Anbieter wird Subprozessor. 
+- **Copilot Studio via OpenAI-Konnektor/HTTP** → OpenAI hostet. OpenAI wird Subprozessor. 
+
+Hinweis: Microsoft dokumentiert für Azure Direct Models explizit, dass Eingaben/Ausgaben **nicht** an OpenAI oder andere Model-Publisher gehen und die Modelle nicht mit Kundendaten trainiert werden; die Dienste interagieren nicht mit OpenAIs eigenen APIs. 
+
+Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
