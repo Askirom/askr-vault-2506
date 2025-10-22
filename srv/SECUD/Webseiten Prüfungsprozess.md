@@ -1,8 +1,8 @@
-# **Vorbereitung**
+## **Vorbereitung**
 - Browser mit uBlock Origin und Entwickler-Werkzeugen (Netzwerk-Tab).
 - Pro Seite ein Prüfprotokoll: URL, Datum/Uhrzeit, Screenshots, gesetzte Cookies vor/nach Consent, Dritt­domains.  
 
-# **1) Formulare prüfen**
+## **1) Formulare prüfen**
 
 **Vorgehen**
 
@@ -27,7 +27,7 @@
 | Echte Einwilligung nur für Marketing        |              |               |
 | Dritttools genannt (Anbieter/Zweck)         |              |               |
 
-# **2) Technische Verbindungen identifizieren (uBlock/Netzwerk)**
+## **2) Technische Verbindungen Identifizieren (uBlock/Netzwerk)**
 
 **Vorgehen**
 
@@ -48,14 +48,14 @@
 | cdn.example.com   | CDN          | Auslieferung | Nein                   | Ja               | Nennung im Hinweis     |
 | analytics.example | Analytics    | Statistik    | Ja                     | Nein             | Nur nach Consent laden |
 
-# **3) Ergebnisse hinterfragen**
+## **3) Ergebnisse hinterfragen**
 
 - Stimmt die CMP-Konfiguration? Bei „Ablehnen“ dürfen Statistik/Marketing/Komfort nicht laufen. 
 - CNAME-Maskierung erkennen: scheinbar eigene Subdomain, tatsächlich Drittanbieter. Ggf. IT einbinden.
 - Drittlandübermittlungen prüfen: Werden Daten an Nicht-EU/EWR übermittelt? Auftragsverarbeitung/geeignete Garantien müssen im Hinweis stehen.
 - Serverseitige Alternativen erwägen (z. B. serverseitiges CAPTCHA/Spam-Schutz), wenn Zweck ohne Dritttracking erreichbar ist.
 
-# **4) Logs und Löschfristen (Anfrage an Betreiber/Hoster)**
+## **4) Logs Und Löschfristen (Anfrage an Betreiber/Hoster)**
 
 **Abzufragen**
 - Welche Logarten: Access, Error, Security, Application, Consent-Logs.
@@ -72,12 +72,12 @@
     - Incident-Beweise: länger, aber gesondert dokumentiert.
 - Immer: Zweckbindung, Notwendigkeit, regelmäßige Löschung nach Ablauf.
 
-# **5) Datenschutzhinweis erstellen/aktualisieren**
+## **5) Datenschutzhinweis erstellen/aktualisieren**
 
 
   
 
-# **Akzeptanzkriterien der Prüfung**
+## **Akzeptanzkriterien Der Prüfung**
 
 - Keine „Zustimmung zur Datenschutzerklärung“-Checkbox bei Kontakt/Bewerbung.    
 - Nicht notwendige Cookies/Tracker laden **erst nach** Einwilligung; Ablehnen ist gleichwertig möglich.

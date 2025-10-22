@@ -1,0 +1,303 @@
+DATENSCHUTZERKLÄRUNG – [WEBSITE-NAME EINFÜGEN]
+
+DATENSCHUTZHINWEISE
+
+Diese Datenschutzerklärung informiert Sie über die Verarbeitung Ihrer personenbezogenen Daten im Rahmen dieses Internetauftritts. Sie klärt Sie auch über die Speicherung und das Auslesen von Informationen auf Ihrem Endgerät im Sinne des § 25 TDDDG auf.
+
+========================================
+1 NAME UND ANSCHRIFT DES VERANTWORTLICHEN
+========================================
+
+Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+
+<Kunde / Ihr Firmenname>
+<Ihre Straße>
+<Ihre PLZ_Ort>
+E-Mail: <Ihre E-Mail>
+Telefon: <Ihre Telefonnummer>
+
+========================================
+2 DATENSCHUTZBEAUFTRAGTER (DSB)
+========================================
+
+[HINWEIS: Nur ausfüllen, falls gesetzlich verpflichtet und ein DSB benannt wurde. Sonst diesen Abschnitt komplett löschen.]
+
+Wir haben einen Datenschutzbeauftragten bestellt. Sie erreichen diesen unter:
+
+<Name/Firma des DSB>
+<Anschrift des DSB>
+E-Mail: <E-Mail des DSB>
+
+========================================
+3 IHRE RECHTE ALS BETROFFENE PERSON
+========================================
+
+Sie haben als von der Datenverarbeitung betroffene Person jederzeit folgende Rechte:
+
+* Recht auf Auskunft (Art. 15 DSGVO): Sie haben das Recht, Auskunft darüber zu verlangen, ob und welche Daten von Ihnen bei uns verarbeitet werden.
+* Recht auf Berichtigung (Art. 16 DSGVO): Sie haben das Recht, die Berichtigung Sie betreffender unrichtiger Daten zu verlangen.
+* Recht auf Löschung (Art. 17 DSGVO): Sie haben das Recht, die Löschung Ihrer Daten zu verlangen, sofern keine rechtlichen Verpflichtungen (z. B. gesetzliche Aufbewahrungsfristen) dem entgegenstehen.
+* Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO): Sie haben das Recht, eine Einschränkung der Verarbeitung Ihrer Daten zu verlangen.
+* Recht auf Datenübertragbarkeit (Art. 20 DSGVO): Sie haben das Recht, Daten, die Sie uns bereitgestellt haben, in einem gängigen, maschinenlesbaren Format zu erhalten.
+* Recht auf Widerruf der Einwilligung (Art. 7 Abs. 3 DSGVO): Sofern die Verarbeitung auf Ihrer Einwilligung beruht, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+---
+Ihr Widerspruchsrecht nach Art. 21 DSGVO
+
+Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 lit. f DSGVO (Datenverarbeitung auf der Grundlage einer Interessenabwägung) erfolgt, Widerspruch einzulegen.
+
+Legen Sie Widerspruch ein, werden wir Ihre personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen überwiegen.
+---
+
+* Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DSGVO): Sie haben das Recht auf Beschwerde bei einer Aufsichtsbehörde.
+
+[HINWEIS: Fügen Sie hier die für Sie zuständige Landesdatenschutzbehörde ein, z. B.: "Die für uns zuständige Aufsichtsbehörde ist: <Name, Anschrift der Behörde>"]
+
+========================================
+4 COOKIES, CONSENT MANAGEMENT UND LOCAL STORAGE
+========================================
+
+4.1 Welche Daten werden für welchen Zweck verarbeitet?
+Unsere Website verwendet Cookies und vergleichbare Technologien (z. B. Local Storage), um Informationen auf Ihrem Endgerät zu speichern oder auszulesen.
+
+* Technisch erforderliche Technologien: Diese sind notwendig, um Grundfunktionen der Website sicherzustellen (z. B. Sitzungssteuerung, Sicherheit).
+* Optionale Technologien (Analyse, Marketing, Externe Medien): Diese dienen Komfort, Statistik oder Marketing und werden nur nach Ihrer ausdrücklichen Einwilligung eingesetzt.
+* Local Storage: Wir nutzen Local Storage (einen dauerhaften Speicher in Ihrem Browser), um Ihre Einwilligungseinstellungen zu speichern (z. B. ob Sie der Anzeige von YouTube-Videos zugestimmt haben). Diese Einträge enthalten keine personenbezogenen Daten, sondern nur die Information "zugestimmt" oder "abgelehnt".
+
+Zweck ist die Sicherstellung der Funktionsfähigkeit sowie – sofern Sie eingewilligt haben – die Analyse und Verbesserung unseres Angebots.
+
+4.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
+* Das Speichern/Auslesen technisch erforderlicher Informationen (inkl. der Local Storage-Einträge für den Consent-Nachweis) erfolgt auf Grundlage von § 25 Abs. 2 Nr. 2 TTDSG. Die anschließende Datenverarbeitung erfolgt auf Basis unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
+* Das Speichern/Auslesen aller optionalen Informationen erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (§ 25 Abs. 1 TTDSG i. V. m. Art. 6 Abs. 1 lit. a DSGVO).
+
+4.3 Gibt es weitere Empfänger?
+Bei Nutzung optionaler Technologien können Daten an Drittanbieter (z. B. Google) übermittelt werden. Eine detaillierte Liste aller eingesetzten Tools und Anbieter finden Sie in den Einstellungen unseres Cookie-Consent-Tools (Cookie-Banner).
+
+4.4 Wie lange werden die Daten gespeichert?
+* Sitzungs-Cookies werden nach Schließen des Browsers gelöscht.
+* Die genaue Speicherdauer optionaler Cookies entnehmen Sie bitte den Einstellungen unseres Cookie-Consent-Tools.
+* Im Local Storage gespeicherte Einwilligungseinstellungen bleiben dauerhaft gespeichert, bis Sie diese im Browser löschen oder in unseren Einstellungen widerrufen.
+
+4.5 Widerrufs- und Beseitigungsmöglichkeit
+Sie können Ihre Einwilligung jederzeit für die Zukunft widerrufen, indem Sie die Cookie-Einstellungen (meist über einen Link in der Fußzeile oder ein "Fingerabdruck"-Symbol) erneut aufrufen und Ihre Auswahl ändern.
+
+========================================
+5 BEREITSTELLUNG DER WEBSITE UND SERVER-LOGFILES
+========================================
+
+5.1 Welche Daten werden für welchen Zweck verarbeitet?
+Bei jedem Aufruf unserer Website erfasst unser System automatisiert Daten (Server-Logfiles), die Ihr Browser übermittelt.
+(Vorlage übernommen aus dem Beispiel Fürth):
+* Datum und Uhrzeit der Anforderung
+* Name der angeforderten Datei
+* Seite, von der aus die Datei angefordert wurde (Referrer-URL)
+* Zugriffsstatus (z. B. Datei übertragen, Datei nicht gefunden)
+* Verwendeter Webbrowser und verwendetes Betriebssystem (User-Agent)
+* IP-Adresse des anfordernden Rechners (i. d. R. anonymisiert)
+* Übertragene Datenmenge
+
+Zweck: Gewährleistung der Stabilität, Fehleranalyse und Abwehr von Angriffen (technische Sicherheit).
+
+5.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
+Art. 6 Abs. 1 lit. f DSGVO (Unser berechtigtes Interesse am sicheren und funktionsfähigen Betrieb unserer Website).
+
+5.3 Gibt es weitere Empfänger?
+Empfänger der Daten ist unser Hosting-Dienstleister (Auftragsverarbeiter):
+
+[HINWEIS: Hoster hier eintragen.]
+Name/Firma des Hosters: <Name des Hosters, z. B. IONOS SE, Strato AG, All-Inkl...>
+Anschrift: <Anschrift Hoster>
+Datenschutzhinweise: <LINK zur DSE des Hosters>
+
+Wir haben mit diesem Anbieter einen Vertrag zur Auftragsverarbeitung (AVV) gemäß Art. 28 DSGVO geschlossen. Der Serverstandort ist <z. B. Deutschland / EU>.
+
+5.4 Wie lange werden die Daten gespeichert?
+Logfiles werden i. d. R. nach <z. B. 7 Tagen> gelöscht oder anonymisiert.
+
+========================================
+6 KONTAKTFORMULAR UND E-MAIL-KONTAKT
+========================================
+
+6.1 Welche Daten werden für welchen Zweck verarbeitet?
+Wenn Sie uns per Kontaktformular oder E-Mail kontaktieren, werden die von Ihnen übermittelten Daten (z. B. Name, E-Mail-Adresse, Inhalt Ihrer Anfrage) zur Bearbeitung Ihres Anliegens verarbeitet.
+Zweck: Beantwortung Ihrer Anfrage.
+
+6.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
+* Art. 6 Abs. 1 lit. b DSGVO (falls Ihre Anfrage auf einen Vertrag abzielt).
+* Art. 6 Abs. 1 lit. f DSGVO (unser berechtigtes Interesse) bei allen allgemeinen Anfragen.
+
+6.3 Wie lange werden die Daten gespeichert?
+Wir löschen Ihre Anfrage, sobald sie nicht mehr erforderlich ist. Sofern Ihre Anfrage gesetzlichen Aufbewahrungsfristen (z. B. 6 oder 10 Jahre nach HGB/AO) unterliegt, werden die Daten gesperrt und nach Fristablauf gelöscht.
+
+========================================
+7 NEWSLETTER
+========================================
+[HINWEIS: Löschen, falls nicht angeboten.]
+
+7.1 Welche Daten werden für welchen Zweck verarbeitet?
+Bei der Anmeldung zu unserem Newsletter erheben wir Ihre E-Mail-Adresse. Um Ihre Einwilligung nachzuweisen (Double-Opt-In-Verfahren), speichern wir die IP-Adresse sowie Datum/Uhrzeit der Anmeldung und der Bestätigung.
+Zweck: Versand des Newsletters und Nachweis der Einwilligung.
+
+7.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
+Der Versand erfolgt auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die Protokollierung erfolgt auf Basis unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) am Nachweis eines ordnungsgemäßen Verfahrens.
+
+7.3 Gibt es weitere Empfänger?
+Für den Versand nutzen wir einen Dienstleister:
+
+[HINWEIS: Newsletter-Tool hier eintragen.]
+Name/Firma: <z. B. Sendinblue GmbH, Mailchimp (The Rocket Science Group LLC)>
+Anschrift: <Anschrift Dienstleister>
+Datenschutzhinweise: <LINK zur DSE des Dienstleisters>
+Grundlage des Datentransfers (falls USA): <z. B. EU-U.S. Data Privacy Framework (DPF) oder Standardvertragsklauseln (SCCs)>
+
+Wir haben mit dem Anbieter einen AVV (Art. 28 DSGVO) geschlossen.
+
+7.4 Widerrufs- und Beseitigungsmöglichkeit
+Sie können Ihre Einwilligung jederzeit widerrufen (z. B. über den Abmelde-Link in jedem Newsletter).
+
+========================================
+8 GOOGLE ANALYTICS
+========================================
+[HINWEIS: Löschen, falls nicht genutzt. IP-Anonymisierung muss aktiviert sein!]
+
+8.1 Welche Daten werden für welchen Zweck verarbeitet?
+Wir nutzen Google Analytics zur statistischen Analyse des Nutzerverhaltens. Verarbeitet werden pseudonymisierte Nutzungsdaten (z. B. aufgerufene Seiten, Klickpfade) und Ihre gekürzte IP-Adresse (IP-Anonymisierung).
+Zweck: Statistische Reichweitenanalyse und Optimierung unserer Website.
+
+8.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
+Ausschließlich auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG), die Sie über unser Cookie-Consent-Tool erteilen.
+
+8.3 Gibt es weitere Empfänger?
+Empfänger der Daten ist:
+Name/Firma: Google Ireland Limited (sowie verbundene Unternehmen, insb. Google LLC, USA)
+Anschrift: Gordon House, Barrow Street, Dublin 4, Irland
+Datenschutzhinweise: https://policies.google.com/privacy
+Grundlage des Datentransfers: Google ist nach dem EU-U.S. Data Privacy Framework (DPF) zertifiziert. Zudem haben wir Standardvertragsklauseln (SCCs) abgeschlossen.
+
+8.4 Wie lange werden die Daten gespeichert?
+Die bei Google Analytics gespeicherten Daten werden nach <z. B. 14 Monaten> automatisch gelöscht.
+
+8.5 Widerrufs- und Beseitigungsmöglichkeit
+Sie können Ihre Einwilligung jederzeit in unseren Cookie-Einstellungen widerrufen.
+
+========================================
+9 EINBINDUNG VON YOUTUBE-VIDEOS (2-KLICK-LÖSUNG)
+========================================
+[HINWEIS: Löschen, falls nicht genutzt.]
+
+**(Mustertext inspiriert von Beispiel Fürth):**
+Auf unserer Webseite sind Videos der Plattform YouTube eingebunden. Standardmäßig werden dabei lediglich deaktivierte Vorschaubilder (Thumbnails) geladen, die keine automatisierte Verbindung mit den Servern von YouTube herstellen. Damit erhält YouTube beim bloßen Aufruf der Seite keine Daten von Ihnen.
+
+Sie können selbst entscheiden, ob die YouTube-Videos aktiviert werden sollen. Erst wenn Sie das Abspielen der Videos durch einen Klick auf das Video oder einen "Akzeptieren"-Button freigeben (Einwilligung), werden die dafür erforderlichen Daten (u. a. die Internetadresse der aktuellen Seite sowie Ihre IP-Adresse) an YouTube übermittelt.
+
+Um die von Ihnen gewünschte Einstellung zu speichern, setzen wir einen Eintrag in den "Local Storage" Ihres Browsers (siehe Abschnitt 4.1).
+
+**9.1 Welche Daten werden für welchen Zweck verarbeitet?**
+Nach Ihrer Einwilligung werden IP-Adresse, Browser-Informationen, die aufgerufene Seite und Player-Events (z. B. Start/Stopp) an YouTube übermittelt.
+Zweck: Anzeige von Videoinhalten.
+
+**9.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?**
+Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG).
+
+**9.3 Gibt es weitere Empfänger?**
+Empfänger der Daten ist:
+Name/Firma: Google Ireland Limited / YouTube (sowie Google LLC, USA)
+Anschrift: Gordon House, Barrow Street, Dublin 4, Irland
+Datenschutzhinweise: https://policies.google.com/privacy
+Grundlage des Datentransfers: Siehe Abschnitt 8.3 (Google Analytics).
+
+**9.4 Widerrufs- und Beseitigungsmöglichkeit**
+Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die Cookie-/Consent-Einstellungen auf unserer Website ändern.
+
+========================================
+10 EINBINDUNG VON GOOGLE MAPS (2-KLICK-LÖSUNG)
+========================================
+[HINWEIS: Löschen, falls nicht genutzt.]
+
+**(Mustertext inspiriert von Beispiel Fürth):**
+Wir nutzen auf dieser Seite Kartenmaterial von Google Maps, das wir über eine "Zwei-Klick-Lösung" einbinden. Standardmäßig wird zunächst nur ein Hinweis oder ein Vorschaubild der Karte angezeigt. Es werden dabei keine Daten an Google übermittelt.
+
+Erst wenn Sie die Anzeige der Karte durch einen Klick auf "Karte anzeigen" (oder ähnlich) freigeben, erteilen Sie Ihre Einwilligung. Daraufhin wird eine Verbindung zu den Servern von Google hergestellt, um die Karte zu laden.
+
+**10.1 Welche Daten werden für welchen Zweck verarbeitet?**
+Nach Ihrer Einwilligung werden Ihre IP-Adresse, Browser-Informationen und die aufgerufene Seite an Google übermittelt.
+Zweck: Anzeige interaktiver Karten, Erleichterung der Anfahrtsplanung.
+
+**10.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?**
+Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG).
+
+**10.3 Gibt es weitere Empfänger?**
+Empfänger der Daten ist:
+Name/Firma: Google Ireland Limited (sowie Google LLC, USA)
+Anschrift: Gordon House, Barrow Street, Dublin 4, Irland
+Datenschutzhinweise: https://policies.google.com/privacy
+Grundlage des Datentransfers: Siehe Abschnitt 8.3 (Google Analytics).
+
+**10.4 Widerrufs- und Beseitigungsmöglichkeit**
+Sie können Ihre Einwilligung jederzeit in unseren Cookie-Einstellungen widerrufen.
+
+========================================
+11 GOOGLE WEBFONTS
+========================================
+
+[HINWEIS: Prüfen Sie die Einbindung. Variante A ist datenschutzfreundlich. Nutzen Sie Variante B nur, wenn technisch notwendig.]
+
+**Variante A (Lokal gehostet – Empfohlen):**
+Wir nutzen auf dieser Website Schriftarten (Webfonts), die lokal auf unserem eigenen Server (bzw. dem unseres Hosters) gespeichert sind. Es findet beim Laden der Schriftarten keine Verbindung zu Servern von Google oder anderen Drittanbietern statt. Rechtsgrundlage ist unser berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO) an einer einheitlichen und performanten Darstellung unserer Inhalte.
+
+**Variante B (Von Google Servern geladen):**
+Wir nutzen Google Fonts, um Schriftarten einheitlich darzustellen. Beim Aufruf einer Seite lädt Ihr Browser die Fonts von Google-Servern. Hierbei wird Ihre IP-Adresse an Google übertragen.
+Rechtsgrundlage: Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG) über unser Consent-Tool.
+Empfänger: Google (Details siehe Abschnitt 10.3).
+
+========================================
+12 SOCIAL MEDIA PLUGINS (SHARIFF / 2-KLICK-LÖSUNG)
+========================================
+[HINWEIS: Löschen, falls nicht genutzt.]
+
+Wir setzen datenschutzfreundliche "Shariff"-Buttons (oder eine vergleichbare 2-Klick-Lösung) ein. Standardmäßig sind dies nur Grafiken, die keinen Kontakt zu den sozialen Netzwerken herstellen.
+
+Erst wenn Sie aktiv auf einen Button (z. B. "Teilen") klicken, wird eine Verbindung zum jeweiligen Netzwerk (z. B. Facebook, X) hergestellt und Daten (IP-Adresse, besuchte Seite) übermittelt. Diese Datenübermittlung durch Ihren Klick erfolgt auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+Empfänger sind die jeweiligen Betreiber (z. B. Meta Platforms Ireland Ltd., Twitter International Unlimited Company).
+
+========================================
+13 WEBSEITENANALYSE MIT MATOMO (DATENSCHUTZFREUNDLICH)
+========================================
+[HINWEIS: Löschen, falls nicht genutzt. Dies ist eine Alternative zu Google Analytics.]
+
+**(Mustertext inspiriert von Beispiel Fürth):**
+Zu Optimierungszwecken unseres Webauftritts nutzen wir den Webanalysedienst Matomo, den wir auf unserem eigenen Server (bzw. bei unserem Hoster in der EU) betreiben.
+
+Wir haben Matomo so konfiguriert, dass es datenschutzfreundlich arbeitet:
+1. Cookies werden nicht verwendet. Stattdessen nutzen wir eine Technik namens "Device-Fingerprint" (Erkennung anhand anonymisierter Umgebungsvariablen des Browsers).
+2. Ihre IP-Adresse wird vor der Speicherung um <z. B. 2 Bytes> gekürzt (z. B. 192.168.x.x) und ist somit anonymisiert.
+
+Eine Übermittlung oder Weiterverarbeitung durch Dritte erfolgt nicht. Die anonymisierten Daten lassen keine Rückschlüsse auf Sie als Person zu.
+
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (Unser berechtigtes Interesse an der statistischen Analyse und Optimierung unserer Website).
+
+[HINWEIS: Hier sollte ein Matomo Opt-Out-iFrame eingefügt werden, falls Sie Matomo nutzen.]
+
+========================================
+14 DATENVERARBEITUNG AUF UNSEREN SOCIAL-MEDIA-PROFILEN
+========================================
+[HINWEIS: Nur relevant, wenn Sie eigene Profile (z. B. Facebook-Fanpage, Instagram) betreiben.]
+
+Wir betreiben Profile auf sozialen Netzwerken (z. B. Facebook, Instagram, LinkedIn). Für die Datenverarbeitung auf diesen Plattformen (insbesondere für Analyse-Dienste wie "Facebook Insights") sind wir teilweise gemeinsam mit dem Plattformbetreiber verantwortlich (Art. 26 DSGVO).
+
+Wenn Sie unsere Profile besuchen, verarbeiten die Betreiber Ihre Daten für eigene Zwecke (Analyse, personalisierte Werbung). Wir erhalten lediglich anonymisierte, statistische Auswertungen.
+
+Rechtsgrundlage für unseren Betrieb der Profile ist unser berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO) an einer zeitgemäßen Außendarstellung.
+
+Informationen zur gemeinsamen Verantwortung mit Meta (Facebook/Instagram) und Ihren Rechten finden Sie hier:
+https://www.facebook.com/legal/terms/page_controller_addendum
+
+========================================
+15 AKTUALITÄT UND ÄNDERUNG DIESER DATENSCHUTZERKLÄRUNG
+========================================
+
+Diese Datenschutzerklärung ist aktuell gültig.
+Durch die Weiterentwicklung unserer Website oder aufgrund geänderter rechtlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung anzupassen.
+
+Stand: <Aktuelles Datum>
