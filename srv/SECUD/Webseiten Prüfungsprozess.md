@@ -29,8 +29,6 @@
 
 # **2) Technische Verbindungen identifizieren (uBlock/Netzwerk)**
 
-  
-
 **Vorgehen**
 
 - Seite ohne Consent laden. Alle Requests/Cookies erfassen: Domain, Typ, Zeitpunkt, blockiert/zugelassen.
@@ -62,7 +60,7 @@
 **Abzufragen**
 - Welche Logarten: Access, Error, Security, Application, Consent-Logs.
 - Inhalt je Log: IP, Zeitstempel, URL, Status, User-Agent etc.
-- Zweck je Log: Sicherheit, Betrieb, Fehlersuche, Nachweis.
+- Zweck je Log: Sicherheit, Betrieb, Fehlersuche, Nachweis. 
 - **Speicherfristen je Log** und Begründung; Rolling-Deletion; Vorfall-Ausnahmen dokumentiert.
 - Speicherort, Auftragsverarbeiter, Zugriffs-/Rollen-konzept, Verschlüsselung.
 
