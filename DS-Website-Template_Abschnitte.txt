@@ -67,8 +67,8 @@ Unsere Website verwendet Cookies und vergleichbare Technologien (z. B. Local Sto
 Zweck ist die Sicherstellung der Funktionsfähigkeit sowie – sofern Sie eingewilligt haben – die Analyse und Verbesserung unseres Angebots.
 
 4.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
-* Das Speichern/Auslesen technisch erforderlicher Informationen (inkl. der Local Storage-Einträge für den Consent-Nachweis) erfolgt auf Grundlage von § 25 Abs. 2 Nr. 2 TTDSG. Die anschließende Datenverarbeitung erfolgt auf Basis unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
-* Das Speichern/Auslesen aller optionalen Informationen erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (§ 25 Abs. 1 TTDSG i. V. m. Art. 6 Abs. 1 lit. a DSGVO).
+* Das Speichern/Auslesen technisch erforderlicher Informationen (inkl. der Local Storage-Einträge für den Consent-Nachweis) erfolgt auf Grundlage von § 25 Abs. 2 Nr. 2 TDDDG. Die anschließende Datenverarbeitung erfolgt auf Basis unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
+* Das Speichern/Auslesen aller optionalen Informationen erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (§ 25 Abs. 1 TDDDG i. V. m. Art. 6 Abs. 1 lit. a DSGVO).
 
 4.3 Gibt es weitere Empfänger?
 Bei Nutzung optionaler Technologien können Daten an Drittanbieter (z. B. Google) übermittelt werden. Eine detaillierte Liste aller eingesetzten Tools und Anbieter finden Sie in den Einstellungen unseres Cookie-Consent-Tools (Cookie-Banner).
@@ -165,7 +165,7 @@ Wir nutzen Google Analytics zur statistischen Analyse des Nutzerverhaltens. Vera
 Zweck: Statistische Reichweitenanalyse und Optimierung unserer Website.
 
 8.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?
-Ausschließlich auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG), die Sie über unser Cookie-Consent-Tool erteilen.
+Ausschließlich auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TDDDG), die Sie über unser Cookie-Consent-Tool erteilen.
 
 8.3 Gibt es weitere Empfänger?
 Empfänger der Daten ist:
@@ -197,7 +197,7 @@ Nach Ihrer Einwilligung werden IP-Adresse, Browser-Informationen, die aufgerufen
 Zweck: Anzeige von Videoinhalten.
 
 **9.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?**
-Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG).
+Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TDDDG).
 
 **9.3 Gibt es weitere Empfänger?**
 Empfänger der Daten ist:
@@ -214,7 +214,6 @@ Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die Cookie-/Consen
 ========================================
 [HINWEIS: Löschen, falls nicht genutzt.]
 
-**(Mustertext inspiriert von Beispiel Fürth):**
 Wir nutzen auf dieser Seite Kartenmaterial von Google Maps, das wir über eine "Zwei-Klick-Lösung" einbinden. Standardmäßig wird zunächst nur ein Hinweis oder ein Vorschaubild der Karte angezeigt. Es werden dabei keine Daten an Google übermittelt.
 
 Erst wenn Sie die Anzeige der Karte durch einen Klick auf "Karte anzeigen" (oder ähnlich) freigeben, erteilen Sie Ihre Einwilligung. Daraufhin wird eine Verbindung zu den Servern von Google hergestellt, um die Karte zu laden.
@@ -224,7 +223,7 @@ Nach Ihrer Einwilligung werden Ihre IP-Adresse, Browser-Informationen und die au
 Zweck: Anzeige interaktiver Karten, Erleichterung der Anfahrtsplanung.
 
 **10.2 Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?**
-Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG).
+Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TDDDG).
 
 **10.3 Gibt es weitere Empfänger?**
 Empfänger der Daten ist:
@@ -247,7 +246,7 @@ Wir nutzen auf dieser Website Schriftarten (Webfonts), die lokal auf unserem eig
 
 **Variante B (Von Google Servern geladen):**
 Wir nutzen Google Fonts, um Schriftarten einheitlich darzustellen. Beim Aufruf einer Seite lädt Ihr Browser die Fonts von Google-Servern. Hierbei wird Ihre IP-Adresse an Google übertragen.
-Rechtsgrundlage: Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TTDSG) über unser Consent-Tool.
+Rechtsgrundlage: Auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TDDDG) über unser Consent-Tool.
 Empfänger: Google (Details siehe Abschnitt 10.3).
 
 ========================================
