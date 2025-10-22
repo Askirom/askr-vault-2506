@@ -1,5 +1,5 @@
 # **Vorbereitung**
-- Browser mit uBlock Origin und Entwickler-Werkzeugen (Netzwerk-Tab).    
+- Browser mit uBlock Origin und Entwickler-Werkzeugen (Netzwerk-Tab).
 - Pro Seite ein Prüfprotokoll: URL, Datum/Uhrzeit, Screenshots, gesetzte Cookies vor/nach Consent, Dritt­domains.  
 
 # **1) Formulare prüfen**

@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-10-22.md",
+                "file": "srv/SECUD/Webseiten Prüfungsprozess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-22"
+              "title": "Webseiten Prüfungsprozess"
             }
           }
         ],
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -304,7 +305,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,13 +329,13 @@
   },
   "active": "275d32d409cd2e48",
   "lastOpenFiles": [
+    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "var/daily/2025-10-22.md",
     "DS-Website-Template_Abschnitte.txt",
     "srv/SECUD/Dry Run Vanessa ChatGPT & Co.md",
     "srv/SECUD/Webseiten Prüfungsprozess.md",
     "srv/SECUD/Kundentermine Datenschutz.md",
     "srv/SECUD/Virtaflex Folien.md",
-    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "srv/VEDES/IS-100 Informationssicherheitsleitlinie.md",
     "srv/VEDES/IS-202 Protokollierung.md",
     "srv/VEDES/IS-000 Dokumentenorganisation.md",
