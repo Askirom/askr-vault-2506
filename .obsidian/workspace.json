@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
+                "file": "srv/SECUD/Virtaflex Folien.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG-25-001-Meetings"
+              "title": "Virtaflex Folien"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AV Prüfung",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,6 +312,9 @@
   },
   "active": "13fb7f67ff381fb1",
   "lastOpenFiles": [
+    "srv/SECUD/Dry Run Vanessa ChatGPT & Co.md",
+    "srv/SECUD/Virtaflex Folien.md",
+    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "srv/VEDES/IS-100 Informationssicherheitsleitlinie.md",
     "srv/VEDES/IS-202 Protokollierung.md",
     "srv/VEDES/IS-000 Dokumentenorganisation.md",
@@ -337,7 +340,6 @@
     "srv/EKIBA/EKIBA-25-001-iso27001/Meldewesen-Datenschutzprüfung.md",
     "srv/BEWERBUNG/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
     "srv/BEWERBUNG/downloadfile.PDF",
-    "var/daily/2025-10-17.md",
     "srv/BEWERBUNG/2025-10-RLE-CV-v2.pdf",
     "srv/BEWERBUNG/IHK-DSB-2019.pdf",
     "usr/identity/Signature-RLE 2024.png",
@@ -345,9 +347,7 @@
     "srv/BEWERBUNG/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/BEWERBUNG/ISO27001-ISO-Zertifikat.pdf",
     "srv/BEWERBUNG/photo_2025-10-06 09.32.58.jpeg",
-    "srv/BEWERBUNG/RLE CV.md",
     "srv/BEWERBUNG/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
-    "srv/BVD/BVD-003-rgnuernberg/RG Nürnberg 2025-10-31.md",
     "srv/BVD/BVD-003-rgnuernberg",
     "srv/SECUD",
     "srv/BEWERBUNG/20251006143817.pdf",
