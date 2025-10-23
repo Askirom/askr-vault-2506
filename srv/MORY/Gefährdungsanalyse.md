@@ -10,4 +10,5 @@
 ### G0.3
 - Wassermelder im Serverraum
 	- ist noch zu prüfen, ob der vorhanden ist
-- 
+### G0.5 
+- nicht in Hochwassergebiet von Pleinfeld
