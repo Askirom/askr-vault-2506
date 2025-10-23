@@ -1,13 +1,13 @@
 ## Richtlinien
 ### Metadaten
 - Titel
-- Zielgruppe
+- Vertraulichkeit
 - Version
 - Status
 - Gültig ab
 - Erstellt von
 - Freigegeben von
-- Nächste Prüfung
+- ~~Nächste Prüfung~~
 ### Gliederung
 - Ziel und Zweck
 - Geltungsbereich
