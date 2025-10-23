@@ -21,7 +21,7 @@ Diese Leitlinie gilt für alle Mitarbeiter, Auftragnehmer, Berater, Kunden und a
 ## Beschluß:
 
 Die Geschäftsführung hat aus oben genannten Gründen gemeinsam mit den betrieblichen Datenschutzbeauftragten, dem Informationssicherheitsteam (IST), dem ISB die nachstehenden Leitlinie für Informationssicherheit beschlossen. 
-Bekanntgabe und Verfügbarmachung
+## Bekanntgabe Und Verfügbarmachung
 Die Leitlinie wird **spätestens fünf Werktage nach jeder Freigabe** auf xyz veröffentlicht sowie eine Information per E‑Mail an alle internen Nutzer versandt. 
 
 ## Informationssicherheitsprozess:
@@ -69,25 +69,26 @@ Alle Mitarbeiter werden regelmäßig in Bezug auf Informationssicherheit geschul
 
 Die Maßnahmen umfassen sowohl technische und organisatorische Vorkehrungen als auch für alle Mitarbeiter verbindliche Regeln und Vorgaben.
 
-Die Regeln und Vorgaben werden in Form von Richtlinien und dem Sicherheitshandbuch hinterlegt. Sie sind zu befolgen. 
+Die Regeln und Vorgaben werden in Form von Richtlinien und dem Arbeitsanweisung hinterlegt. Sie sind zu befolgen. 
 
 ## Verantwortlichkeiten
 
-|                                               |                                                                                                       |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Geschäftsführung**                          | Gesamtverantwortung für ISMS, Ressourcen­bereitstellung, jährliche Review & Freigabe dieser Leitlinie |
-| **Informationssicherheitsbeauftragter (ISB)** | Initiiert, steuert und überwacht den Informationssicherheitsprozess                                   |
-| **Informationssicherheitsteam (IST)**         | Unterstützt ISB, koordiniert Sicherheitsmaßnahmen, beobachtet neue Bedrohungen                        |
-| **IT‑Verantwortlicher**                       | Setzt technische/organisatorische Maßnahmen um, stimmt sich mit ISB ab                                |
-| **Administratoren**                           | Implementieren technische Maßnahmen, melden Verbesserungsvorschläge                                   |
-| **Vorgesetzte**                               | Stellen Einhaltung der Maßnahmen durch unterstellte Nutzer sicher                                     |
-| **Projektverantwortliche**                    | Konsultieren ISB bei Projekten mit IT‑Auswirkung                                                      |
-| **Mitarbeitende**                             | Halten Maßnahmen ein, melden Störungen/Vorfälle                                                       |
-| **Lieferanten & Auftragnehmer**               | Befolgen einschlägige Sicherheitsregeln bei Zugriff auf VEDES‑Ressourcen                              |
+|                                               |                                                                                                                                             |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vorstand**                                  | Gesamtverantwortung für ISMS, Ressourcen­bereitstellung, jährliche Review & Freigabe dieser Leitlinie                                       |
+| **Informationssicherheitsbeauftragter (ISB)** | Initiiert, steuert und überwacht den Informationssicherheitsprozess                                                                         |
+| **Informationssicherheitsteam (IST)**         | Unterstützt ISB, koordiniert Sicherheitsmaßnahmen, beobachtet neue Bedrohungen -> Daraus AG mit Compliance-Beauftragter, ISB und IT-Leitung |
+| **IT‑Leitung**                                | Setzt technische/organisatorische Maßnahmen um, stimmt sich mit ISB ab                                                                      |
+| **interne Administratoren**                   | Implementieren technische Maßnahmen, melden Verbesserungsvorschläge                                                                         |
+| **Vorgesetzte**                               | Stellen Einhaltung der Maßnahmen durch unterstellte Nutzer sicher                                                                           |
+| **Projektverantwortliche**                    | Konsultieren ISB und IT-Leitung bei Projekten mit IT‑Auswirkung                                                                             |
+| **Mitarbeitende**                             | Halten Maßnahmen ein, melden Störungen/Vorfälle                                                                                             |
+| **Lieferanten & Auftragnehmer**               | Befolgen einschlägige Sicherheitsregeln bei Zugriff auf VEDES‑Ressourcen                                                                    |
+|                                               |                                                                                                                                             |
 
 ## Sanktionen:
 
-Mitarbeiter, die gegen diese Leitlinie verstoßen, können mit Sanktionen belegt werden. 
+Siehe Code of Conduct der VEDES. 
 
 ## Überprüfung Und Aktualisierung:
 

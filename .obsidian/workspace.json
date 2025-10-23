@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/VEDES/IS-000 Dokumentenorganisation.md",
+                "file": "srv/VEDES/IS-200 ISMS Richtlinie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-000 Dokumentenorganisation"
+              "title": "IS-200 ISMS Richtlinie"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -238,6 +237,13 @@
   },
   "active": "b76e2d00fa1b38a4",
   "lastOpenFiles": [
+    "srv/VEDES/IS-201 IT-Nutzung.md",
+    "srv/VEDES/IS-203 Privatnutzung 1.md",
+    "srv/VEDES/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer 1.md",
+    "srv/VEDES/IS-207 IT-Outsourcing 1.md",
+    "srv/VEDES/IS-206 Mobile Datenträger 1.md",
+    "srv/VEDES/IS-205 Mobile Device Management 1.md",
+    "srv/VEDES/IS-100 Informationssicherheitsleitlinie.md",
     "srv/VEDES/IS-000 Dokumentenorganisation.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/Vorhandene Dokumente.md",
@@ -255,19 +261,12 @@
     "srv/SECUD/Dry Run Vanessa ChatGPT & Co.md",
     "srv/SECUD/Kundentermine Datenschutz.md",
     "srv/SECUD/Virtaflex Folien.md",
-    "srv/VEDES/IS-100 Informationssicherheitsleitlinie.md",
     "srv/VEDES/IS-202 Protokollierung.md",
     "srv/VEDES/IS-200 ISMS Richtlinie.md",
-    "srv/VEDES/IS-201 IT-Nutzung.md",
-    "srv/VEDES/IS-207 IT-Outsourcing 1.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
-    "srv/VEDES/IS-206 Mobile Datenträger 1.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-206 Mobile Datenträger.md",
-    "srv/VEDES/IS-205 Mobile Device Management 1.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
-    "srv/VEDES/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer 1.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
-    "srv/VEDES/IS-203 Privatnutzung 1.md",
     "srv/BEWERBUNG/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
     "srv/BEWERBUNG/downloadfile.PDF",
     "srv/BEWERBUNG/2025-10-RLE-CV-v2.pdf",
