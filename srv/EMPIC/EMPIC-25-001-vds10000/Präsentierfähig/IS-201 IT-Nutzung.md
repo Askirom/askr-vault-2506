@@ -42,7 +42,7 @@ Diese Richtlinie gilt für alle Mitarbeiter (inkl. Praktikanten, Auszubildende),
 1. **Phishing und Anhänge:** Öffnen Sie keine E-Mail-Anhänge von unbekannten Absendern. Seien Sie bei verdächtigen E-Mails, die zur Eingabe von Zugangsdaten auffordern, besonders vorsichtig. Leiten Sie verdächtige E-Mails zur Prüfung an `security-check@empic.de` weiter.
 	- [x] #TSK #Contact/UweFlaton prüft die E-Mail-Adresse ➕ 2025-09-23 📅 2025-09-25 ✅ 2025-09-26
 2. **Vertrauliche Daten:** Versenden Sie sensible Informationen nicht unverschlüsselt per E-Mail. Nutzen Sie die von der IT bereitgestellten sicheren Verfahren.
-	- [ ] #TSK Verfahren zum sicheren Versenden von sensiblen Daten muss definiert werden #Contact/UweFlaton  ➕ 2025-09-23 📅 2025-10-10
+	- [ ] #TSK Verfahren zum sicheren Versenden von sensiblen Daten muss definiert werden #Contact/UweFlaton ➕ 2025-09-23 📅 2025-11-07
 3. **Videokonferenzen:** Verwenden Sie primär die von EMPIC bereitgestellten Systeme. Die Nutzung anderer Systeme ist nur nach Rücksprache mit der IT oder als eingeladener Teilnehmer gestattet.
 
 ### **4.5 Mobiles Arbeiten Und Datenträger**
