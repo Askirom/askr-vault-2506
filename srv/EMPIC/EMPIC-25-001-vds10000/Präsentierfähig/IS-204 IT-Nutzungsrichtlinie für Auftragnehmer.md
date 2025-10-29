@@ -27,7 +27,7 @@ Die IT-Infrastruktur der EMPIC steht ausschließlich zur Erfüllung der vertragl
 ### **4.3 Zugriff Auf Die IT-Infrastruktur Und Fremdsysteme**
 
 1. Jeder Zugriff auf nichtöffentliche Teile der IT-Infrastruktur muss im Vorfeld mit der EMPIC-IT abgestimmt und freigegeben werden.
-2. IT-Systeme des Auftragnehmers, die auf die IT-Infrastruktur zugreifen, müssen über folgende grundlegende Sicherheitsmaßnahmen verfügen:
+2. IT-Systeme des Auftragnehmers, die auf die IT-Infrastruktur zugreifen, müssen mindestens über folgende grundlegende Sicherheitsmaßnahmen verfügen:
     - Ein aktiver und tagesaktueller Echtzeitschutz vor Schadsoftware.
     - Ein Betriebssystem, das zeitnah mit den Sicherheitsupdates des Herstellers versorgt wird.
     - Es dürfen sich keine "Hackertools" auf dem System befinden.
@@ -37,7 +37,7 @@ Die IT-Infrastruktur der EMPIC steht ausschließlich zur Erfüllung der vertragl
 
 1. Daten der EMPIC dürfen nicht eigenmächtig verschlüsselt oder vor dem Zugriff geschützt werden. Notwendige Schutzverfahren werden von der EMPIC bereitgestellt.
 2. Unternehmensdaten dürfen nur dann auf mobile Datenträger (Laptops, USB-Sticks etc.) oder externe Systeme (Cloud-Speicher etc.) übertragen werden, wenn dies vertraglich vereinbart und für die Leistungserbringung zwingend erforderlich ist.
-3. Die Verwendung von mobilen Datenträgern muss explizit durch die EMPIC-IT genehmigt werden. Jeder Datenträger ist vor der Nutzung auf Schadsoftware zu prüfen und vertraulich zu behandeln.
+3. Die Verwendung von USB-Sticks, externen Festplatten etc. muss explizit durch die EMPIC-IT genehmigt werden. Jeder Datenträger ist vor der Nutzung auf Schadsoftware zu prüfen und vertraulich zu behandeln.
 
 ## **5. Ausnahmen**
 
