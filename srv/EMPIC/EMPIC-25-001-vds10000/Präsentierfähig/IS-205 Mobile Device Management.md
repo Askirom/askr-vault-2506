@@ -1,10 +1,10 @@
 ## **1. Ziel Und Zweck**
 
-Diese Richtlinie definiert den verbindlichen Rahmen für die Ausgabe, Verwaltung und Nutzung von mobilen Endgeräten (Smartphones und Tablets) bei EMPIC. Ziel ist es, durch den Einsatz einer Mobile-Device-Management-Lösung (MDM) die Unternehmensdaten auf diesen Geräten zu schützen und die Einhaltung der Vorgaben aus der DSGVO und der VdS 10000 sicherzustellen.
+Diese Richtlinie definiert den verbindlichen Rahmen für die Ausgabe, Verwaltung und Nutzung von mobilen Endgeräten (Laptops, Smartphones und Tablets) bei EMPIC. Ziel ist es, durch den Einsatz einer Mobile-Device-Management-Lösung (MDM) die Unternehmensdaten auf diesen Geräten zu schützen und die Einhaltung der Vorgaben aus der DSGVO und der VdS 10000 sicherzustellen.
 
 ## **2. Geltungsbereich**
 
-Diese Richtlinie gilt für alle von EMPIC bereitgestellten oder für dienstliche Zwecke genutzten **Smartphones und Tablets**. Sie ist für alle Mitarbeiter, die ein solches Gerät nutzen, verbindlich. Notebooks fallen nicht unter diese Richtlinie und werden wie Desktop-Geräte behandelt.
+Diese Richtlinie gilt für alle von EMPIC bereitgestellten oder für dienstliche Zwecke genutzten **Laptops, Smartphones und Tablets**. Sie ist für alle Mitarbeiter, die ein solches Gerät nutzen, verbindlich.
 
 ## **3. Zuständigkeiten / Verantwortlichkeiten**
 
@@ -18,25 +18,26 @@ Die allgemeinen Verantwortlichkeiten sind in der **IS-Leitlinie (IS-100)** defin
 ### **4.1 Grundsätze Der Verwaltung**
 
 1. Alle mobilen Endgeräte, die auf Unternehmensressourcen zugreifen, müssen in der MDM-Lösung (Microsoft Intune) der EMPIC registriert und verwaltet werden.
-2. Die MDM-Lösung trennt auf dem Gerät dienstliche und private Daten in einem geschützten "Arbeitsbereich".
+2. Die MDM-Lösung trennt auf den Smartphones dienstliche und private Daten in einem geschützten "Arbeitsbereich".
 3. Durch die MDM-Lösung werden zentrale Sicherheitsvorgaben wie die Verschlüsselung des Gerätespeichers und ein Zugangsschutz (PIN) durchgesetzt.
 4. Bei Verlust eines Gerätes kann die IT-Abteilung die dienstlichen Daten aus der Ferne löschen.
 
 ### **4.2 Private Nutzung**
 
 1. Die private Nutzung von **dienstlichen Smartphones** ist gestattet, sofern das Gerät in der MDM-Lösung registriert und richtlinienkonform ("compliant") ist.
-2. Die private Nutzung von **dienstlichen Tablets** ist untersagt.
+2. Die private Nutzung von **dienstlichen Laptops und Tablets** ist untersagt.
 
 ### **4.3 Anforderungen an Die Gerätesicherheit (Compliance)**
 
 Ein Endgerät gilt nur dann als richtlinienkonform, wenn alle folgenden Kriterien erfüllt sind:
 
 - Der Gerätespeicher ist vollständig verschlüsselt.
-- Das Betriebssystem wurde nicht manipuliert (kein Jailbreak/Root).
+- Das Betriebssystem wurde nicht manipuliert (kein Jailbreak/Root bei Smartphones/Tablets).
 - Eine Geräte-PIN mit mindestens sechs Stellen ist aktiviert.
-- Es sind ausschließlich Apps aus den offiziellen App-Stores des Herstellers installiert.
+- Bei Smartphones und Tablets sind ausschließlich Apps aus den offiziellen App-Stores des Herstellers installiert.
+- Bei Laptops sind ausschließlich von der EMPIC-IT freigegebene Programme installiert.
 - Das Gerät ist aktiv in der MDM-Lösung registriert und der Status ist gültig.
-- Ein automatischer Sperrbildschirm ist nach maximal drei Minuten Inaktivität aktiv.
+- Geräte müssen sich bei Nichtnutzung automatisch sperren: Smartphones nach maximal 3 Minuten, Laptops und Tablets nach maximal 15 Minuten.
 - Das Betriebssystem entspricht der von der IT geforderten Mindestversion.
 
 Der Compliance-Status wird von der IT überwacht. Verstöße können zum Entzug des Zugriffs auf Unternehmensressourcen führen.
@@ -50,7 +51,7 @@ Der Compliance-Status wird von der IT überwacht. Verstöße können zum Entzug 
 
 ### **4.5 Umgang Mit Unternehmensdaten**
 
-Dienstliche Daten (inklusive geschäftlicher Kontakte) dürfen ausschließlich innerhalb der durch die MDM-Lösung verwalteten Apps ("Arbeitsbereich") gespeichert und verarbeitet werden.
+Dienstliche Daten (inklusive geschäftlicher Kontakte) auf Smartphones dürfen ausschließlich innerhalb der durch die MDM-Lösung verwalteten Apps ("Arbeitsbereich") gespeichert und verarbeitet werden. Für Laptops gelten die allgemeinen Regelungen der IS-201.
 
 ### **4.6 Vorgehen Bei Verlust, Schaden Oder Störung**
 
