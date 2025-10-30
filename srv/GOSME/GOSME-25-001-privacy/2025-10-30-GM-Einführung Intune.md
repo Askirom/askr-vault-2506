@@ -1,0 +1,10 @@
+- CIS Recommendations werden angewandt
+	- iOS Benchmarks
+	- Android Benchmarks
+	- Microsoft Security Baseline
+	- Screen Sharing
+- Mobile Geräte erstmal
+	- Android
+	- iOS
+	- Laptops sind noch nicht geplant
+- Nur für Nürnberger Unternehmen
