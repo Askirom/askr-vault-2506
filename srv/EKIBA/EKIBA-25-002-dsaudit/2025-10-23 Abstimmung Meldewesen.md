@@ -81,15 +81,25 @@
 
 ==Hier aufgehört==
 
+
+Update 2025-10-30:
+- Standard in DaviP für Berechtigungsgruppe (Adminberechtigung) ist nicht mehr vorausgewählt
+- Passwörter können über 1Password zur Verfügung gestellt werden
+	- aber wir bleiben bei ekiba zu ekiba intern. D.h. die internen Mails sind verschlüsselt
+	- ab 2026 steht SSO zur Verfügung und es wird darauf gewechselt 
+
 ---
 
 ## 7. Wie Wird Das Recht Auf Einschränkung (§ 22) Technisch Umgesetzt?
 * Das ist oft schwerer als Löschen: Wie können wir einen Datensatz technisch "sperren"?
-* Gibt es ein Flag im System?
+* Gibt es ein Flag im System? Flag ist vorhanden wird aber nicht durch die Kirche gesetzt 
 * Wie wird *technisch sichergestellt*, dass ein gesperrter Datensatz (außer zur Speicherung) nicht mehr verarbeitet wird?
 
 *Notizen/Antworten:*
-* ...
+* Familienwiderspruch -> Daten werden dann für die IT nicht mehr angezeigt
+	* wird durch den Betroffenen bei der Einwohnermeldebehörde eingereicht
+	* Umgemeindungen -> man kann sich auch woanders als Mitglied eintragen lassen
+	* KMG ![[Pasted image 20251030142101.png]]
 * ...
 
 
@@ -99,18 +109,23 @@
 * In welchem Format erfolgt der Export? (Muss "strukturiert, gängig und maschinenlesbar" sein)
 
 *Notizen/Antworten:*
-* ...
+* muss beim Pfarramt beantragt
+* Exportfunktion ist möglich mit allen Personendaten (erweiterter mit kirchlichen Amtshandlungen und normaler Satz)
+* pdf-Format
 * ...
 
 
 ## 9. Wie Sieht Das Backup- Und Wiederherstellungskonzept Aus?
 * Wie oft werden Backups erstellt?
 * Wo werden sie aufbewahrt (räumlich getrennt? offline?)
-* Wann wurde die Wiederherstellung der Meldewesen-Datenbank das letzte Mal *vollständig* getestet?
+* Wann wurde die Wiederherstellung der Meldewesen-Datenbank das letzte Mal getestet?
 * Wie lange würde eine Wiederherstellung im Ernstfall dauern?
 
 *Notizen/Antworten:*
-* ...
+* Backup wird durch KRZ durchgeführt
+	* gibt es Vereinbarungen
+* Risikobewertung muss vom Meldewesen abgenommen werden
+* Ausfallzeiten sehr niedrig nach Erfahrung -> Beispiel-Tickets werden von Sophia bereitgestellt
 * ...
 
 
@@ -122,7 +137,10 @@
 * Wie hilft die IT bei der Dokumentation der Panne?
 
 *Notizen/Antworten:*
-* ...
+* Monitoring auf die Anwendung wird durch KRZ sichergestellt
+* Incident Response wird nicht durch IT bearbeitet
+* Ist bekannt und wurde sofort benannt
+* Die IT unterstützt technisch unverzüglich, aber es gibt keine direkte Einbeziehung der IT in diesem Bereich
 * ...
 
 
@@ -134,5 +152,14 @@
 * Wie wird der Fernzugriff technisch gesichert und protokolliert?
 
 *Notizen/Antworten:*
+* KRZ
+* Evacon für das digitale Kirchenbuch -> Test-User für DaviP
+	* Firma Luca setzt technisch die Anforderungen um
+	* Evacon ist Berater / Übersetzer an Firma Luca
+	* Kontakt zu Evacon in Verantwortung von Meldewesen
 * ...
-* ...
+
+
+## 12. Digitales Kirchenbuch Ergänzung
+- das digitale Kirchenbuch ist nicht ohne DaviP-Zugang erreichbar
+- die Rechtegruppen 

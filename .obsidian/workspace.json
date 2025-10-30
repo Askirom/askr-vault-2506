@@ -26,12 +26,15 @@
             "id": "65dd982deba5c6f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "etc/SEPA-Basislastschrift-Mandat-FFW.pdf"
+                "file": "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "SEPA-Basislastschrift-Mandat-FFW"
+              "icon": "lucide-file",
+              "title": "2025-10-23 Abstimmung Meldewesen"
             }
           }
         ],
@@ -102,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -248,11 +252,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "65dd982deba5c6f3",
   "lastOpenFiles": [
+    "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
+    "srv/EKIBA/EKIBA-25-002-dsaudit/assets",
+    "etc/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "etc/SEPA-Mandat-FFW.pdf",
     "srv/GOSME/GOSME-25-001-privacy/2025-10-30-GM-Einführung Intune.md",
-    "etc/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
     "srv/ARA/KI-Nutzungshinweis.md",
     "var/daily/Einzahlung Konto 2025-10-30.md",
@@ -284,8 +290,6 @@
     "DS-Website-Template_Abschnitte.txt",
     "srv/GMS/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
     "srv/BEWERBUNG/downloadfile.PDF",
-    "srv/GMS/2025-10-RLE-CV-v2.pdf",
-    "srv/GMS/IHK-DSB-2019.pdf",
     "usr/identity/Signature-RLE 2024.png",
     "usr/identity/Signature-RLE 2024_transparent.png",
     "srv/GMS/photo_2025-10-06 09.32.58.jpeg",
