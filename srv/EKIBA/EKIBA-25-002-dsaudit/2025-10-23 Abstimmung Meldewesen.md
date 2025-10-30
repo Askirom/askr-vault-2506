@@ -1,218 +1,96 @@
-## **1. Verantwortlichkeiten IT vs. Meldewesen**
 
-- **Verantwortliche Stelle:** Meldewesen.
-- **Organisatorische Einbindung IT:** IT ist Teil der verantwortlichen Stelle (kein externer AV-Dienstleister).
-    
-- **Schriftliche Regelungen:** Es existieren SLAs; schriftliche Weisungen sind vorhanden.
-    
-    **ToDo:** Timo klärt Details/Scope der SLAs. (Aktion: Timo)
-    
-- **Weisungsbefugnis:** Wird formal durch die schriftliche Weisung/SLA geregelt (Details in SLA).
-    
+  - [ ] #TSK to Review bevor an Kunden gesendet ⏫ ➕ 2025-10-30 ⏳ 2025-10-31 📅 2025-10-31
 
-  
+# Meldewesen — IT / DaviP (Meeting-Zusammenfassung)
 
-## **2. Admin-Zugriff auf Echtdaten**
+**Letzte Aktualisierung:** 2025-10-30  
+**Kurz:** Verantwortlichkeiten, Zugriffs- und Sicherheitsfragen zu DaviP / Digitales Kirchenbuch; offene Punkte und konkrete To-Dos.  
 
-- **Umgebung:** Pre-Prod vorhanden; Echtdaten im Produktivsystem (Supervisor-Zugriff).
-    
-- **Rollen:** 1st-Level-Support hat eigene Rolle mit beschränkten Rechten; Sekretäre haben alle Rechte; Pfarrer Leserechte.
-    
-- **Zugriffsregelung / Onboarding:**
-    
-    - Onboarding: Initiales Einmalpasswort per E-Mail an persönliche EKIBA-Adresse; erstes Login erzwingt Passwortänderung.
-        
-    - MFA ist Pflicht für alle (eingestellt für externe und interne).
-        
-    - Automatische Abmeldung: DaviP-online 60 Min, DaviP-org 120 Min.
-        
-    - Passwörter können via 1Password bereitgestellt werden (EKIBA-intern bleibt E-Mail-Kommunikation intern/verschlüsselt).
-        
-    
-- **Verpflichtungen & Sensibilisierung:** DaviP Sensibilisierungsschulung + Verpflichtungserklärung im März 2025 durchgeführt.
-    
-- **Protokollierung:** Admin-Protokolle existieren; genaue Speicherung/Ort unklar (siehe offene Punkte).
-    
-- **Frage nach Rechtsgrundlage:** Zugriff erfolgt z.B. zur Wartung — Rechtsgrundlage muss dokumentiert werden.
-    
+## 1 — Kernpunkte
+- **Verantwortliche Stelle:** Meldewesen  
+- **IT:** Teil der verantwortlichen Stelle (kein externer AV). SLAs und schriftliche Weisungen vorhanden; Details prüfen.  
+- **Hosting / Betrieb:** KRZ als Betreiber/Verantwortlicher für Infrastruktur/Backups (Details teilweise offen).  
+- **Update (2025-10-30):** Admin-Gruppe in DaviP ist nicht mehr vorausgewählt; SSO geplant für 2026; Passwörter können via 1Password bereitgestellt werden (EKIBA-intern).
 
-  
+## 2 — Admin-Zugriff & Rollen
+- Pre-Prod vorhanden; Produktivdaten über Supervisor-Zugriff geschützt.  
+- Rollen: 1st-Level mit limitierten Rechten; Sekretäre mit umfangreichen Rechten; Pfarrer: Leserechte.  
+- Onboarding: Einmalpasswort → erzwungene Änderung beim ersten Login; initialer Zugang 6 Monate (externe werden geschult); nach Schulung dauerhafte Freischaltung durch Admin.  
+- MFA: Pflicht. Auto-Logout: DaviP-online 60 min / DaviP-org 120 min.  
+- Schulung/Verpflichtung: DaviP Sensibilisierungsschulung + Verpflichtungserklärung (März 2025).  
+- Protokollierung: Admin-Logs vorhanden; Aufbewahrung ~3 Monate / ~10.000 Einträge — Speicherort unklar.
 
-## **3. Datenschutz durch Technikgestaltung (Art. 25 DSGVO / §28 analoge Umsetzung)**
+## 3 — Datenschutz durch Technikgestaltung (Art. 25 DSGVO)
+- Berechtigungsmodell: Admin-Gruppe ist nicht vorausgewählt (restriktiver Default).  
+- Prinzip: möglichst restriktive Vergabe, mit definierten Ausnahmen (z. B. Sekretäre).  
+- SSO (2026) wird Auswirkungen auf Provisioning und Auth-Flows haben — prüfen.
 
-- **Berechtigungskonzept:** Default für Admin-Gruppe in DaviP ist nicht mehr vorausgewählt (Update 30.10.2025). Standardverhalten ist restriktiver.
-    
-- **Benutzeranlage:** IT richtet neue Anwender ein; neue Nutzer haben initial 6 Monate Zugang zu DaviP (externe werden in diesem Zeitraum geschult); nach Schulung erfolgt dauerhafte Freischaltung durch Admin.
-    
-- **Default Policy:** Implizit Default-Deny für Admin-Berechtigungsgruppe (s. Update), aber für Anwenderverhalten sind Ausnahmen (z.B. Sekretäre).
-    
-- **SSO:** Ab 2026 SSO geplant und soll eingeführt werden.
-    
+## 4 — Verschlüsselung
+- TLS: öffentliches Zertifikat (Sectigo) vorhanden.  
+- Daten-at-rest / Backup-Verschlüsselung: KRZ verwaltet; konkrete technische Nachweise fehlen.
 
-  
+## 5 — Netzwerk / Logging / Patch-Management
+- Hosting / Segmentierung / Firewall: nicht abschließend dokumentiert — KRZ abfragen.  
+- Applikationslogs: in der Anwendung einsehbar; Standort/Archivierung unklar.  
+- Patch-Management, IDS/IPS: Informationen fehlen.
 
-## **4. Verschlüsselung (at rest / in transit / Backups)**
+## 6 — Löschung (Recht auf Löschen)
+- Ablauf: Löschanträge an KRZ → KRZ führt Löschung durch; Meldewesen steuert/beantragt.  
+- Soft vs. Hard Delete: unklar (Löschkonzept liegt vor; Umsetzung prüfen).  
+- Backups: Prozess zur endgültigen Entfernung aus Backups unklar.
 
-- **TLS:** Öffentliche SSL-Zertifikate (Sectigo) vorhanden — kein Self-Signed.
-    
-- **Daten at rest / Backups:** KRZ verwaltet Verschlüsselung. Verantwortliche(n) für konkrete Umsetzung noch zu klären.
-    
-- **ToDo:** Anfrage an KRZ zur Klärung: (a) Daten-at-rest Verschlüsselung in DB/FS, (b) Backup-Verschlüsselung, (c) Schlüsselmanagement. (Aktion: Meldewesen → KRZ)
-    
+## 7 — Einschränkung (Recht auf Sperre)
+- Systemflag für „gesperrt“ vorhanden, wird aber nicht flächendeckend von der Kirche gesetzt.  
+- Familienwiderspruch führt dazu, dass Daten IT-seitig nicht mehr angezeigt werden.  
+- Technische Garantie, dass gesperrte Datensätze nicht weiterverarbeitet werden, muss validiert werden.
 
-  
+## 8 — Auskunft & Datenübertragbarkeit
+- Exportfunktion vorhanden; enthält Personendaten und Amtshandlungen.  
+- Format aktuell: PDF — **nicht** strukturiert/maschinenlesbar → möglicher Mangel bzgl. §20 (Datenübertragbarkeit).
 
-## **5. Netzwerkschutz / Infrastruktur**
+## 9 — Backup & Wiederherstellung
+- Backups werden vom KRZ durchgeführt; Vereinbarungen existieren, Detaildokumentation fehlt.  
+- Restore-Tests / RTO/RPO: nicht dokumentiert in den Notizen.
 
-- **Server-Hosting / Segmentierung:** Status nicht abschließend dokumentiert. KRZ vermutlich Betreiber/Host.
-    
-- **Protokolle / Logs:** Applikationsprotokolle sind in der Anwendung durch Admins einsehbar; circa 10.000 Protokolle werden ~3 Monate vorgehalten. Speicherort/Archivierung unklar.
-    
-- **Patch-Management / IDS:** Informationen unvollständig — Patchprozess beim KRZ erfragen; Einsatz von IDS/IPS unklar.
-    
-- **ToDo:** Netzwerksegmentierung, Firewall-Regeln und Patch-Zyklen beim KRZ anfragen. (Aktion: IT / Meldewesen → KRZ)
-    
+## 10 — Incident Response
+- Monitoring erfolgt durch KRZ.  
+- Operative Incident-Bearbeitung nicht vollständig durch IT; Meldewesen hat Meldewege (Pflicht nach §32 Abs. 2).  
+- 24/7-Ansprechpartner und exakte interne Meldewege sind schriftlich festzuhalten.
 
-  
+## 11 — Externe Dienstleister / AV-Verträge
+- Beteiligte: KRZ (Hosting), Evacon (digitales Kirchenbuch / Beratung), Firma Luca (technische Umsetzung).  
+- Fernzugriffe, vorhandene AV-Verträge und Protokollierung sind zu prüfen und vertraglich/technisch zu sichern.
 
-## **6. Recht auf Löschung (§ 17 DSGVO)**
+## 12 — Digitales Kirchenbuch (DKB)
+- Zugriff nur über DaviP; DaviP-Rechtegruppen werden auf DKB übernommen.  
+- Schulungen umfassen DKB.  
+- Löschumsetzung durch KRZ nach Beantragung.  
+- Regelmäßige Überprüfung der Admin-Berechtigungen empfohlen (Auditplan: Yannick L.).
 
-- **Prozess:** Löschanträge gehen an das KRZ; KRZ führt Löschung durch, Meldewesen steuert/beantragt.
-    
-- **Art der Löschung:** Unklar ob Hard-Delete oder Soft-Delete; Löschkonzept des Meldewesens scheint vorzuliegen, Umsetzung liegt beim KRZ.
-    
-- **Backups:** Wie/ wann Daten aus Backups endgültig entfernt werden, ist offen (siehe offene Punkte).
-    
-- **ToDo:** Nachweis Verfahren: Soft vs. Hard Delete, Backups-Retention & Löschprozess dokumentieren lassen. (Aktion: Meldewesen → KRZ)
-    
+## Priorisierte Action Items
+| Owner | Aufgabe | Priorität | Vorschlag Frist |
+|---|---|---:|---:|
+| Timo | SLA-Kopie + Kommentar zum Scope der Weisungsbefugnis liefern | Hoch | 2 Wochen |
+| Meldewesen → KRZ | Schriftliche Auskunft: DB-at-rest Verschlüsselung, Backup-Verschlüsselung, Schlüsselmanagement, Backup-Retention, Restore-Testdatum, Hosting-Segmentierung, Patch-Zyklen, IDS/IPS | Hoch | 2 Wochen |
+| IT / DaviP-Hersteller | Prüfen: strukturierter Export (CSV/JSON/XML) für Auskunft / Datenübertragbarkeit | Mittel | 3 Wochen |
+| Meldewesen + IT | Speicherort und Aufbewahrung der Applikationsprotokolle klären | Mittel | 2 Wochen |
+| Meldewesen + IT | Interner Incident-Meldeplan (inkl. 24/7-Kontakt) dokumentieren | Hoch | 1 Woche |
+| Meldewesen (Verträge) | AV-Verträge & Fernzugriffslösungen für Evacon/Luca prüfen und dokumentieren | Hoch | 2 Wochen |
+| Yannick L. | Admin-Review in Auditplan aufnehmen | Mittel | 1 Woche |
 
-  
+(Bei Erledigung: ✔️ in der entsprechenden Zeile ergänzen)
 
-## **7. Recht auf Einschränkung (§ 18 DSGVO)**
+## Offene Fragen / Unsicherheiten
+- Wo liegen die Applikationsprotokolle physisch (Pfad / Storage / Zugriffskontrolle)?  
+- Werden Datensätze hard- oder soft-gelöscht? Wie wird Backup-Retention dabei berücksichtigt?  
+- Wann war der letzte Restore-Test (Datum)? RTO & RPO dokumentiert?  
+- Ist strukturierter Export technisch vorhanden oder planbar (CSV/JSON/XML)?  
+- Besteht Fernzugriff für Evacon/Luca: welche Konten, VPN/Bastion, Audit-Logs?  
+- Sind IDS/IPS aktiv und wer betreibt / betreut diese Systeme?
 
-- **Technische Sperre:** System hat Flag für „gesperrt“, aber Kirche setzt dieses Flag nicht; Familienwiderspruch führt dazu, dass Daten für IT nicht mehr angezeigt werden.
-    
-- **Verarbeitungssperre:** Technische Sicherstellung, dass gesperrte Datensätze nicht verarbeitet werden, muss geprüft/validiert werden.
-    
-- **ToDo:** Prozess zur Sicherstellung der Nicht-Verarbeitung gesperrter Datensätze prüfen und ggf. Audit-Regel aufnehmen. (Aktion: Meldewesen + IT)
-    
+**Hinweis:** Antworten, die vom KRZ kommen, idealerweise schriftlich dokumentieren (Beleg für Audit).
 
-  
-
-## **8. Auskunft (§ 15) & Datenübertragbarkeit (§ 20)**
-
-- **Exportfunktion:** Export für einzelne Datensätze vorhanden; enthält Personendaten und (erweiterte) kirchliche Amtshandlungen.
-    
-- **Format:** Aktuell Export als PDF verfügbar — **nicht** strukturiert/maschinenlesbar. Das ist ein möglicher Mangel für § 20 (Datenübertragbarkeit verlangt „strukturiert, gängig und maschinenlesbar“).
-    
-- **ToDo:** Prüfen, ob strukturierter Export (CSV/JSON/XML) möglich; ansonsten technisch nachrüsten oder Verfahren zur konformen Übermittlung etablieren. (Aktion: IT / DaviP-Hersteller)
-    
-
-  
-
-## **9. Backup & Wiederherstellung**
-
-- **Verantwortlich:** Backups werden durch KRZ durchgeführt; es gibt Vereinbarungen (Scope unklar).
-    
-- **Tests / RTO:** Letzter Restore-Test nicht dokumentiert in den Notizen; Ausfallzeit-Erfahrungen sind gering (Beispiel-Tickets von Sophia vorhanden).
-    
-- **ToDo:** Dokumentierte Backup-Frequenz, geografische Aufbewahrung, Restore-Testdatum, zu erwartende Wiederherstellungszeit (RTO) erfragen und im Risikobewertungs-Dokument vermerken. (Aktion: KRZ + Meldewesen)
-    
-
-  
-
-## **10. Datenpannen / Incident Response**
-
-- **Monitoring:** Anwendung wird vom KRZ überwacht; IT erkennt Ereignisse via KRZ-Monitoring.
-    
-- **Interne Meldung:** Incident Response wird nicht (vollständig) durch IT bearbeitet; Meldeweg an Leitung Meldewesen ist bekannt (Pflicht nach § 32 Abs. 2).
-    
-- **Verantwortlichkeiten:** IT unterstützt technisch „unverzüglich“, die operative PAnnebearbeitung liegt beim Meldewesen/Leitung.
-    
-- **ToDo:** Genaue interne Meldewege, Benachrichtigungskette (inkl. 24/7-Ansprechpartner) und Verantwortlichkeiten schriftlich festhalten. (Aktion: Meldewesen + IT)
-    
-
-  
-
-## **11. Externe Dienstleister / AV-Verträge (§ 28/§30)**
-
-- **Beteiligte Firmen:** KRZ (Hosting/Administration), Evacon (digitales Kirchenbuch / Test-User für DaviP), Firma Luca (technische Umsetzung Anforderungen), Evacon als Berater/Übersetzer für Luca.
-    
-- **Fernzugriff:** Remote-Zugriff für Evacon/Luca unklar — muss geklärt und technisch sowie vertraglich abgesichert/protokolliert werden.
-    
-- **ToDo:** Prüfen: vorhandene AV-Verträge, Regelungen für Fernzugriff, Protokollierung und technische Absicherung. (Aktion: Meldewesen → Vertragsmanagement / IT)
-    
-
-  
-
-## **12. Digitales Kirchenbuch (DKB) — Ergänzungen**
-
-- DKB nur über DaviP zugänglich; Rechte aus DaviP werden auf DKB übernommen (z. B. Berechtigung „Zugriff auf Kirchenbuch“).
-    
-- Schulung umfasst DKB.
-    
-- Löschkonzept liegt vor; Durchführung der Löschung erfolgt durch KRZ nach Beantragung durch Meldewesen.
-    
-- Remote-Zugriff für Evacon/Luca auf DKB unklar — klären.
-    
-- Regelmäßige Überprüfung der Adminberechtigungen durch IT-Bearbeiterin; Auditplan-Aufnahme durch Yannick L. vorgeschlagen.
-    
-
-  
-
-## **Update — Stand 2025-10-30 (wichtig)**
-
-- Admin-Berechtigungsgruppe in DaviP ist standardmäßig **nicht mehr vorausgewählt**.
-    
-- Passwörter können über 1Password bereitgestellt werden; Kommunikation EKIBA→EKIBA intern bleibt verschlüsselt.
-    
-- SSO wird ab 2026 verfügbar und soll eingeführt werden.
-    
-
-  
-
-# **Action Items (priorisiert)**
-
-1. **SLAs prüfen / Scope klären** — Timo. (Hohe Priorität)
-    
-2. **KRZ: Verschlüsselung / Backup / Löschprozesse / Hosting-Details / Patch-Management / IDS** — Meldewesen → Anfrage an KRZ. (Hohe Priorität)
-    
-3. **Exportformat für Auskunft/Datenübertragbarkeit prüfen (maschinenlesbar)** — IT + DaviP-Hersteller. (Mittlere Priorität)
-    
-4. **Protokoll-Speicherort und Aufbewahrungsdauer (Logs)** — IT / KRZ klären. (Mittlere Priorität)
-    
-5. **Dokumentation Incident-Meldeweg + 24/7-Kontakt** — Meldewesen + IT. (Hohe Priorität)
-    
-6. **AV-Verträge & Fernzugriff für Evacon/Luca prüfen** — Meldewesen (Vertragsmanagement). (Hohe Priorität)
-    
-7. **Auditplan-Eintrag: regelmäßige Überprüfung Adminberechtigungen** — Yannick L. (Aktion: Yannick L. eintragen). (Mittlere Priorität)
-    
-
-  
-
-# **Offene Fragen / Unsicherheiten (müssen geklärt werden)**
-
-- Speicherort der Applikationsprotokolle (physisch/Netzwerk/Dateisystem).
-    
-- Konkrete technische Umsetzung der Daten-at-rest-Verschlüsselung in DB/FS (KRZ).
-    
-- Ob Löschungen als Hard-Delete oder Soft-Delete umgesetzt werden; Prozesse für Löschung aus Backups.
-    
-- Ob strukturierter Export (CSV/JSON/XML) technisch möglich oder geplant.
-    
-- Details zur Fernwartung von Evacon/Luca: Zugangskonten, Protokollierung, VPN/Bastion.
-    
-- Letzter Restore-Test (Datum) und dokumentiertes RTO/RPO.
-    
-
-  
-
-# **Vorschlag für das weitere Vorgehen (konkret, kurz)**
-
-1. Meldewesen formuliert eine koordinierte Anfrage/Checklist an KRZ (Punkte: Verschlüsselung, Backups, Patch-Management, Logs, Restore-Test, Hosting/Segmentierung, Fernzugriff). Ziel: schriftliche Antworten/Belege. (Deadline vorschlagen z.B. 2 Wochen)
-    
-2. IT und Meldewesen prüfen Export-Capabilities von DaviP (PDF vs. strukturiert). Falls nicht vorhanden: Budget/Scope-Vorschlag für Implementierung.
-    
-3. Timo liefert SLA-Kopie und Kurzkommentar zum Umfang der IT-Weisungsbefugnis.
-    
-4. Yannick L. nimmt regelmäßige Admin-Review in Auditplan auf.
+## Nächste Schritte (konkret)
+1. Meldewesen sendet koordinierte Anfrage/Checkliste an KRZ (Punkte aus Action Items).  
+2. Antworten zentral sammeln unter: `/srv/Meldewesen/Audit/2025-10` (je Antwort als PDF/Anhang ablegen).  
+3. Nach Eingang: Review → Anpassung Auditplan / Risikobewertung / SOPs (Löschung, Incident, Admin-Reviews).
