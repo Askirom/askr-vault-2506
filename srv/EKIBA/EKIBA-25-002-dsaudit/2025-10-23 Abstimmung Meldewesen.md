@@ -162,4 +162,14 @@ Update 2025-10-30:
 
 ## 12. Digitales Kirchenbuch Ergänzung
 - das digitale Kirchenbuch ist nicht ohne DaviP-Zugang erreichbar
-- die Rechtegruppen 
+- die Rechtegruppen von DaviP werden auf das DKB übertragen
+	- mit der Berechtigung " Zugriff auf Kirchbuch"
+- Schulung beinhaltet auch DKB
+- keine Anmeldung außerhalb von DaviP beim DKB
+- Amtshandlungen werden darin dokumentiert
+- Löschkonzept Meldewesen scheint vorzuliegen
+	- aber Durchführen der Löschung amcht das KRZ und Beantragen / Steuern das Meldewesen
+- Speicherort -> wahrscheinlich beim KRZ 
+- Remote-Zugriff unklar -> gibt es diesen für Evacon / Luca?
+- Regelmäßige Überprüfung der Adminberechtigungen durch IT-Bearbeiterin
+	- sollte in den Auditplan aufgenommen werden durch Yannick L.
