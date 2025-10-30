@@ -26,15 +26,12 @@
             "id": "65dd982deba5c6f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "srv/GOSME/GOSME-25-001-privacy/2025-10-30-GM-Einführung Intune.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "etc/SEPA-Basislastschrift-Mandat-FFW.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-10-30-GM-Einführung Intune"
+              "icon": "lucide-file-text",
+              "title": "SEPA-Basislastschrift-Mandat-FFW"
             }
           }
         ],
@@ -251,10 +248,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "65dd982deba5c6f3",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
-    "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
+    "etc/SEPA-Mandat-FFW.pdf",
     "srv/GOSME/GOSME-25-001-privacy/2025-10-30-GM-Einführung Intune.md",
+    "etc/SEPA-Basislastschrift-Mandat-FFW.pdf",
+    "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
     "srv/ARA/KI-Nutzungshinweis.md",
     "var/daily/Einzahlung Konto 2025-10-30.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/MaibaumKasseBar_2025-10-29_18-15-42_251029_181601.pdf",
@@ -279,7 +278,6 @@
     "srv/VEDES/IS-205 Mobile Device Management 1.md",
     "srv/VEDES/IS-100 Informationssicherheitsleitlinie.md",
     "srv/VEDES/IS-000 Dokumentenorganisation.md",
-    "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
     "DS-Website-Template_Abschnitte.txt.sb-d042bcbe-kFUZIX",
@@ -290,7 +288,6 @@
     "srv/GMS/IHK-DSB-2019.pdf",
     "usr/identity/Signature-RLE 2024.png",
     "usr/identity/Signature-RLE 2024_transparent.png",
-    "srv/GMS/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/GMS/photo_2025-10-06 09.32.58.jpeg",
     "archive/var/spool/jobs/assets/Pasted image 20250722165909.png",
     "archive/var/spool/jobs/assets/Pasted image 20250722165521.png",
