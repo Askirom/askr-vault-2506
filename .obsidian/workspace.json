@@ -41,12 +41,15 @@
             "id": "c36dac49a6dd788b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf"
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "vds-10000"
+              "icon": "lucide-file",
+              "title": "IS-208 Speicherorte"
             }
           }
         ],
@@ -265,6 +268,8 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
+    "etc/Workout 2025-11.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EMPIC/EMPIC-25-001-vds10000/Decisions/Entscheidungen VdS 10000.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
@@ -295,13 +300,11 @@
     "srv/SECUD/Webseiten Prüfungsprozess.md",
     "srv/SECUD/Datenschutzerklärung Template.md",
     "var/daily/2025-10-24.md",
-    "srv/VEDES/IS-200 ISMS Richtlinie.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
     "DS-Website-Template_Abschnitte.txt.sb-d042bcbe-kFUZIX",
     "DS-Website-Template_Abschnitte.txt",
     "srv/GMS/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
-    "srv/BEWERBUNG/downloadfile.PDF",
     "usr/identity/Signature-RLE 2024.png",
     "usr/identity/Signature-RLE 2024_transparent.png",
     "srv/GMS/photo_2025-10-06 09.32.58.jpeg",
