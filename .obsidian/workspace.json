@@ -41,15 +41,12 @@
             "id": "c36dac49a6dd788b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "var/daily/2025-11-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-03"
+              "icon": "lucide-file-text",
+              "title": "vds-10000"
             }
           }
         ],
@@ -268,6 +265,14 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
+    "srv/EMPIC/EMPIC-25-001-vds10000/Decisions/Entscheidungen VdS 10000.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-207 IT-Outsourcing.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-206 Mobile Datenträger.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "var/daily/2025-11-03.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "var/daily/Rücksendung Caro iPad.md",
@@ -283,10 +288,6 @@
     "var/daily/Einzahlung Konto 2025-10-30.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/MaibaumKasseBar_2025-10-29_18-15-42_251029_181601.pdf",
     "var/daily/2025-10-29.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
@@ -295,10 +296,6 @@
     "srv/SECUD/Datenschutzerklärung Template.md",
     "var/daily/2025-10-24.md",
     "srv/VEDES/IS-200 ISMS Richtlinie.md",
-    "srv/VEDES/IS-201 IT-Nutzung.md",
-    "srv/VEDES/IS-203 Privatnutzung 1.md",
-    "srv/VEDES/IS-204 IT-Nutzungsrichtlinie für Auftragnehmer 1.md",
-    "srv/VEDES/IS-207 IT-Outsourcing 1.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
     "DS-Website-Template_Abschnitte.txt.sb-d042bcbe-kFUZIX",
