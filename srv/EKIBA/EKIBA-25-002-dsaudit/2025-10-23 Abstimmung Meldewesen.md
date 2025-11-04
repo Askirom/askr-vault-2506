@@ -79,7 +79,7 @@
 - Besteht Fernzugriff für Evacon/Luca: welche Konten, VPN, Audit-Logs?  
 - Sind IDS/IPS aktiv und wer betreibt / betreut diese Systeme?
 
-### **Dokumente, die bereitliegen müssen (auf einen Blick)**
+### **Dokumente, Die Bereitliegen Müssen (auf Einen Blick)**
 
 - SLA / schriftliche Weisung IT ↔ Meldewesen
 - Rollenmatrix (Erklärung, welche Rolle tut was) + Berechtigungsdokumentation

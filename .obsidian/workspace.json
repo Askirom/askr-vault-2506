@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23 Abstimmung Meldewesen"
+              "title": "IS-000 Dokumentenorganisation"
             }
           }
         ],
@@ -268,7 +268,10 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
+    "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "var/daily/2025-11-04.md",
     "etc/Workout 2025-11.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
@@ -280,7 +283,6 @@
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "var/daily/2025-11-03.md",
-    "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "var/daily/Rücksendung Caro iPad.md",
     "var/daily/Untitled.md",
     "var/daily/2025-10-30.md",
@@ -296,10 +298,8 @@
     "var/daily/2025-10-29.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
     "var/daily/2025-10-27.md",
     "srv/SECUD/Webseiten Prüfungsprozess.md",
-    "srv/SECUD/Datenschutzerklärung Template.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
     "DS-Website-Template_Abschnitte.txt.sb-d042bcbe-kFUZIX",
