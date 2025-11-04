@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-210"
+              "title": "IS-212 Datensicherung"
             }
           }
         ],
@@ -270,7 +270,8 @@
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210 Sicherheitsvorfälle.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
@@ -300,7 +301,6 @@
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/MaibaumKasseBar_2025-10-29_18-15-42_251029_181601.pdf",
     "var/daily/2025-10-29.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-200 ISMS Richtlinie.md",
-    "var/daily/2025-10-27.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
     "DS-Website-Template_Abschnitte.txt.sb-d042bcbe-kFUZIX",
