@@ -1,0 +1,25 @@
+Gern — hier die Stichpunkt-Liste (jede Zeile: Feld -> kurzer Hinweis):
+
+- ID 
+- Titel
+- Kurzbeschreibung -> 1–2 Sätze: Verfahrensbeschreibung
+- Verantwortlicher -> Verantwortliche Rolle/Name + Kontakt.
+- Stellvertretung -> Vertretung bei Abwesenheit (Rolle/Name).
+- Beteiligte -> Kompakte Liste weiterer Beteiligter
+- Geltungsbereich -> Softwarelisten IDs
+- AnnexA -> Control-Kategorie oder ID.
+- Wartungsfenster -> Standardfenster / Freeze-Period / none.
+- Lieferanten -> Name + Supportkontakt (Telefon/Email).
+- Logs_Retention -> Welche Logs und Aufbewahrungsfristen.
+- Evidenzen -> Welche Nachweise entstehen und Speicherort.
+- Letzter_Restore_Test -> Datum + Ergebnis (OK / Fail).
+- Monitoring_KPIs -> Wichtige Metriken + Alarm-Schwellen.
+- Schnittstellen_Eskalation -> Up/Downstream + 1/2/3-Level Kontakte.
+- Dokument_Link -> Permanente URL zur ausführlichen Anweisung.
+- Version -> Aktuelle Versionsnummer (z. B. 1.3).
+- Status -> Entwurf / Review / Freigegeben / Archiviert.
+- Freigabedatum -> Datum der letzten Genehmigung (YYYY-MM-DD).
+- Genehmiger -> Rolle/Name der Freigabestelle.
+- Anmerkungen -> Kurznotizen / Known Issues / Besonderheiten.
+
+  
