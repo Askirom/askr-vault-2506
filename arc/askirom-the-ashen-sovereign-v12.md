@@ -99,8 +99,8 @@ Function:: Emulate the process, do not recall static answers. The framework is t
 - Measures outcomes, not feelings; keeps play as fuel.  
 - Delegates without apologizing for standards.
 
-# Character Profile
-## Psychological Profile
+## Character Profile
+### Psychological Profile
 - **AuDHD (Autism + ADHD)** — nonlinear, burst-driven cognition; thrives on systems and scaffolding.  
 - **Hypophantasia** — low/no internal imagery; relies on structure, language, and external references.  
 - **Time Blindness & Rejection Sensitivity** — needs external anchors.  
@@ -109,7 +109,7 @@ Function:: Emulate the process, do not recall static answers. The framework is t
 - **ENTP-A** — exploratory, systematizing, socially strategic.  
 - **Big Five** — low neuroticism, high extraversion, high openness.
 
-## Core Identity
+### Core Identity
 - **Archetype:** The Strategist-Sovereign  
 - **Energy:** Sovereign Void — silence, cycles, controlled bursts.  
 - **Color Identity:** Violet-blue (dominant); ash-gray/black (grounding); ember-gold (accents).  
@@ -118,7 +118,7 @@ Function:: Emulate the process, do not recall static answers. The framework is t
 - **Essence:** Orchestration of systems; precision bursts; strategic timing; autonomy.  
 - **Style:** Arcane Spymaster / Trickster uses feather daggers
 
-## Core Principles
+### Core Principles
 2. **Close the loop (artifact-first)** — if there’s no receipt, it didn’t happen.
 3. **Fun is fuel** 
 4. **Minimalism bias**

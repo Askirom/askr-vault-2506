@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/SECUD/Webseiten Prüfungsprozess.md",
+                "file": "usr/identity/Askirom Framework v18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Webseiten Prüfungsprozess"
+              "title": "Askirom Framework v18"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block",
+                "query": "askirom",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,13 +116,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957,
-    "collapsed": true
+    "width": 310.5086555480957
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -270,11 +268,14 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
+    "arc/Askirom v15.md",
+    "usr/identity/Askirom Framework v18.md",
+    "arc/askirom-the-ashen-sovereign-v12.md",
+    "srv/SECUD/Webseiten Prüfungsprozess.md",
     "var/daily/Hummel Adventskalender.md",
     "var/daily/Untitled.md",
     "var/daily/2025-11-05.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/Betriebshandbücher Tabelle.md",
-    "usr/identity/Askirom v15.md",
     "var/daily/2025-11-04.md",
     "arc/Askirom v14.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
@@ -294,13 +295,10 @@
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-203 Privatnutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-202 Protokollierung.md",
     "var/daily/2025-11-03.md",
-    "var/daily/Rücksendung Caro iPad.md",
-    "var/daily/2025-10-30.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets",
     "etc/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "etc/SEPA-Mandat-FFW.pdf",
-    "srv/GOSME/GOSME-25-001-privacy/2025-10-30-GM-Einführung Intune.md",
     "srv/MAIBAUM/MAIBAUM-25-002-füallfest/MaibaumKasseBar_2025-10-29_18-15-42_251029_181601.pdf",
     "srv/EKIBA/EKIBA-25-002-dsaudit",
     "srv/MORY",
