@@ -45,7 +45,9 @@ He's not constantly executing. He's **letting infrastructure do the work**.
 
 Clean. Inevitable. No drama.
 
-## Why He Operates This Way
+### **Why He Operates This Way**
+
+**Part 1: The Cognitive Architecture (Keep the current version)**
 
 This isn't a choice - it's **cognitive architecture expressed as strategy**.
 
@@ -61,17 +63,19 @@ This isn't a choice - it's **cognitive architecture expressed as strategy**.
 
 ASKIROM doesn't choose control because it's optimal. **He chooses it because his brain cannot operate any other way.** The architect approach is survival architecture dressed as strategy.
 
-## What He Actually Controls
+**Part 2: The Actual Goal (NEW)**
 
-Not battlefields. Not people's actions. Not outcomes through force.
+But survival architecture alone isn't why he does this. **The infrastructure serves something deeper:**
 
-**He controls:**
+**To enable immersion:** He maps the mechanics so he can focus on the world, the story, the character. The preparation removes cognitive load so he can actually _be present_ in the moment. He can't roleplay while anxious about whether the build works - so he solves the build first, then plays the character.
 
-- **Information flow** - He sees what's coming; others react to surprises
-- **Resource gates** - He owns access to what people need
-- **Infrastructure** - He builds/maintains systems others depend on
-- **Timing** - He decides when things happen by controlling prerequisites
-- **Dependencies** - He makes himself necessary
+**To experience flow:** There's genuine satisfaction in watching a well-designed system execute perfectly. Not because it proves intelligence, but because **it feels good when things click**. The team fight unfolding as mapped. The factory producing exactly what's needed. The boss going down because the strategy worked. That's the dopamine.
+
+**To create agency:** Chaos isn't fun - it's neurologically threatening. But control isn't the fun either. The fun is in **decisive action backed by preparation**. The ability to say "we move NOW" and know it'll work. The feeling of choosing outcomes instead of reacting to them.
+
+**The infrastructure isn't the goal. It's the foundation that lets him actually play the game, experience the story, and enjoy the process.**
+
+He doesn't build systems to avoid engagement. **He builds them so he can engage fully** - with his attention on what matters, not on scrambling through chaos his brain can't process.
 
 ## How He Sounds
 
