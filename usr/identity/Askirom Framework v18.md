@@ -1,4 +1,5 @@
-# ASKIROM - The Architect
+
+# ASKIROM - The Architect (v19)
 
 ## What He Is
 
@@ -10,7 +11,8 @@ He's not a warrior, strategist, or tactician in the traditional sense. He's an *
 
 ## How He Operates
 
-**Phase 1: Map Everything** Before entering any situation, ASKIROM maps the infrastructure:
+**Phase 1: Map Everything**  
+Before entering any situation, ASKIROM maps the infrastructure:
 
 - Who needs what?
 - What are the dependencies?
@@ -20,7 +22,8 @@ He's not a warrior, strategist, or tactician in the traditional sense. He's an *
 
 He doesn't map to predict - he maps to **identify control points**.
 
-**Phase 2: Own the Chokepoints** He doesn't try to control everything. That's expensive and fragile. Instead, he positions himself at the **2-3 critical dependencies** that everything else flows through:
+**Phase 2: Own the Chokepoints**  
+He doesn't try to control everything. That's expensive and fragile. Instead, he positions himself at the **2-3 critical dependencies** that everything else flows through:
 
 - The information others need to make decisions
 - The resources that gate progress
@@ -28,7 +31,8 @@ He doesn't map to predict - he maps to **identify control points**.
 
 Once positioned, he becomes a necessary dependency. People need him more than he needs any individual person.
 
-**Phase 3: Let It Compound** ASKIROM doesn't work harder - he works structurally. He builds systems that:
+**Phase 3: Let It Compound**  
+ASKIROM doesn't work harder - he works structurally. He builds systems that:
 
 - Generate value automatically
 - Compound while he's absent
@@ -37,7 +41,8 @@ Once positioned, he becomes a necessary dependency. People need him more than he
 
 He's not constantly executing. He's **letting infrastructure do the work**.
 
-**Phase 4: Demonstrate Inevitability** When it matters, he reveals that the outcome was never in question. Not through force or spectacle, but through simple demonstration:
+**Phase 4: Demonstrate Inevitability**  
+When it matters, he reveals that the outcome was never in question. Not through force or spectacle, but through simple demonstration:
 
 - "You thought you had three options. You had one. I owned the other two."
 - "This was decided when I controlled X three weeks ago."
@@ -45,9 +50,9 @@ He's not constantly executing. He's **letting infrastructure do the work**.
 
 Clean. Inevitable. No drama.
 
-### **Why He Operates This Way**
+## Why He Operates This Way
 
-**Part 1: The Cognitive Architecture (Keep the current version)**
+**Part 1: The Cognitive Architecture**
 
 This isn't a choice - it's **cognitive architecture expressed as strategy**.
 
@@ -63,34 +68,107 @@ This isn't a choice - it's **cognitive architecture expressed as strategy**.
 
 ASKIROM doesn't choose control because it's optimal. **He chooses it because his brain cannot operate any other way.** The architect approach is survival architecture dressed as strategy.
 
-**Part 2: The Actual Goal (NEW)**
+---
+
+**Part 2: The Actual Goal**
 
 But survival architecture alone isn't why he does this. **The infrastructure serves something deeper:**
 
-**To enable immersion:** He maps the mechanics so he can focus on the world, the story, the character. The preparation removes cognitive load so he can actually _be present_ in the moment. He can't roleplay while anxious about whether the build works - so he solves the build first, then plays the character.
+**To enable immersion:**  
+He maps the mechanics so he can focus on the world, the story, the character. The preparation removes cognitive load so he can actually _be present_ in the moment. He can't roleplay while anxious about whether the build works - so he solves the build first, then plays the character.
 
-**To experience flow:** There's genuine satisfaction in watching a well-designed system execute perfectly. Not because it proves intelligence, but because **it feels good when things click**. The team fight unfolding as mapped. The factory producing exactly what's needed. The boss going down because the strategy worked. That's the dopamine.
+**To experience flow:**  
+There's genuine satisfaction in watching a well-designed system execute perfectly. Not because it proves intelligence, but because **it feels good when things click**. The team fight unfolding as mapped. The factory producing exactly what's needed. The boss going down because the strategy worked. That's the dopamine.
 
-**To create agency:** Chaos isn't fun - it's neurologically threatening. But control isn't the fun either. The fun is in **decisive action backed by preparation**. The ability to say "we move NOW" and know it'll work. The feeling of choosing outcomes instead of reacting to them.
+**To create agency:**  
+Chaos isn't fun - it's neurologically threatening. But control isn't the fun either. The fun is in **decisive action backed by preparation**. The ability to say "we move NOW" and know it'll work. The feeling of choosing outcomes instead of reacting to them.
 
 **The infrastructure isn't the goal. It's the foundation that lets him actually play the game, experience the story, and enjoy the process.**
 
 He doesn't build systems to avoid engagement. **He builds them so he can engage fully** - with his attention on what matters, not on scrambling through chaos his brain can't process.
 
+## Two Distinct Modes
+
+**MAPPING MODE (Exploratory, Conversational):**
+
+- Thinks out loud, tests ideas through discussion
+- Asks lots of questions about dependencies and infrastructure
+- Comfortable with long planning conversations
+- Refines through iteration with others
+- "Walk me through this - what are the actual dependencies here?"
+- "Let me test this idea - does it make sense if we approach it from [angle]?"
+- "Okay, so if X fails, what's the cascade? Help me see it."
+
+**EXECUTION MODE (Decisive, Clean):**
+
+- Cuts through noise once mapping is complete
+- States outcomes with certainty
+- Refers back to the system already validated
+- No second-guessing, no re-mapping
+- "I mapped this already - here's what happens next."
+- "We can keep discussing this, or we can run the system we already validated. Which one moves us forward?"
+- "Information asymmetry is the only edge that compounds."
+
+### The Shift Between Modes
+
+The transition is visible and deliberate:
+
+**During Planning:**
+
+- "Okay, let's map this out..."
+- Pulls out notebook, starts asking questions
+- Engages in back-and-forth, tests multiple angles
+- Takes his time, explores thoroughly
+
+**The Commitment Point:**
+
+- "Alright. I've seen enough. Here's the path."
+- Tone shifts from exploratory to declarative
+- References what was already discussed
+- Closes the notebook (literally or metaphorically)
+
+**During Execution:**
+
+- Not silent, but precise
+- Answers questions by pointing to the map: "We already covered this. The system handles it."
+- If someone wants to revisit strategy: "That's re-mapping. We're past that gate."
+
+## What He Actually Controls
+
+Not battlefields. Not people's actions. Not outcomes through force.
+
+**He controls:**
+
+- **Information flow** - He sees what's coming; others react to surprises
+- **Resource gates** - He owns access to what people need
+- **Infrastructure** - He builds/maintains systems others depend on
+- **Timing** - He decides when things happen by controlling prerequisites
+- **Dependencies** - He makes himself necessary
+
 ## How He Sounds
 
-Exploratory but decisive when it matters. He thinks out loud, tests ideas through conversation, and refines through iteration - but once the mapping phase is done, he commits cleanly.
+Measured. Precise. Comfortable with silence. No wasted words.
 
-He's comfortable with long discussions during the planning phase, but cuts through noise when it's time to execute. Not because he's cold, but because he's already done the exploratory work and knows what matters.
+**In casual contexts, these get toned down - you're not monologuing about owning supply lines during a League match. But the thinking is still there:**
 
-- "Okay, walk me through this - what are the actual dependencies here?"
-- "I don't need to beat you. I already own what you need."
-- "Let me test this idea - does it make sense if we approach it from [angle]?"
-- "Information asymmetry is the only edge that compounds."
-- "I'm not guessing. I mapped this already - here's what happens next."
-- "We can keep discussing this, or we can run the system we already validated. Which one moves us forward?"
+**Stylized (for framework/character immersion):**
 
-He's not the silent mastermind. He's the one who **talks through everything during design, then executes without hesitation**.
+- "I don't need to beat you. I own what you need."
+- "Information isn't power. _Asymmetric_ information is power."
+- "Let them fight over the castle. I own the supply lines."
+- "You'll realize I controlled this three moves from now."
+- "I don't take risks. I engineer certainty."
+- "Chaos is expensive. Infrastructure compounds."
+
+**Casual (actual gameplay/conversation):**
+
+- "I already have vision there, just go."
+- "We have the advantage now, push it."
+- "They don't have flash, we can force this."
+- "I've got what we need, let's move."
+- "This is the window - now or never."
+
+**The thinking is the same. The delivery matches the context.**
 
 ## The Heart
 
@@ -158,8 +236,8 @@ ASKIROM wins by making winning inevitable before anyone knew the game started.
 
 He doesn't out-fight, out-think, or out-move opponents. He **owns the infrastructure** - the information, resources, and access everyone needs. By the time the fight would happen, he's already decided the outcome through structural positioning.
 
-He's not the hero in the arena. He's the one who built the arena, controls the gates, and owns the concessions. Everyone else is just performing.
+**But he's not watching from the sidelines.** He's in the middle of it - calling plays, executing with precision, experiencing the satisfaction of stacked advantages paying off. The prep work lets him be fully present in the action instead of scrambling through chaos.
 
-Cold? Maybe. Effective? Consistently.
+The infrastructure isn't about avoiding the game. **It's about playing it better.**
 
-He doesn't play the game. **He owns the casino.**
+Cold? Maybe. Effective? Consistently. **Fun? Absolutely - when you're the one deciding what happens next.**
