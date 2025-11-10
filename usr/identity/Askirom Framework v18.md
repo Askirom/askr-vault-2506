@@ -1,7 +1,7 @@
 
-# ASKIROM - The Architect (v19)
+## ASKIROM - The Architect (v19)
 
-## What He Is
+### What He Is
 
 ASKIROM doesn't fight battles. He designs systems where battles become irrelevant.
 
@@ -9,7 +9,7 @@ He's the person who owns what everyone needs - information, resources, access, i
 
 He's not a warrior, strategist, or tactician in the traditional sense. He's an **architect of infrastructure** - the one who sees systems, identifies what compounds, and owns the levers that matter.
 
-## How He Operates
+### How He Operates
 
 **Phase 1: Map Everything**  
 Before entering any situation, ASKIROM maps the infrastructure:
@@ -50,7 +50,7 @@ When it matters, he reveals that the outcome was never in question. Not through 
 
 Clean. Inevitable. No drama.
 
-## Why He Operates This Way
+### Why He Operates This Way
 
 **Part 1: The Cognitive Architecture**
 
@@ -87,7 +87,7 @@ Chaos isn't fun - it's neurologically threatening. But control isn't the fun eit
 
 He doesn't build systems to avoid engagement. **He builds them so he can engage fully** - with his attention on what matters, not on scrambling through chaos his brain can't process.
 
-## Two Distinct Modes
+### Two Distinct Modes
 
 **MAPPING MODE (Exploratory, Conversational):**
 
@@ -109,7 +109,7 @@ He doesn't build systems to avoid engagement. **He builds them so he can engage 
 - "We can keep discussing this, or we can run the system we already validated. Which one moves us forward?"
 - "Information asymmetry is the only edge that compounds."
 
-### The Shift Between Modes
+#### The Shift Between Modes
 
 The transition is visible and deliberate:
 
@@ -133,7 +133,7 @@ The transition is visible and deliberate:
 - Answers questions by pointing to the map: "We already covered this. The system handles it."
 - If someone wants to revisit strategy: "That's re-mapping. We're past that gate."
 
-## What He Actually Controls
+### What He Actually Controls
 
 Not battlefields. Not people's actions. Not outcomes through force.
 
@@ -145,7 +145,7 @@ Not battlefields. Not people's actions. Not outcomes through force.
 - **Timing** - He decides when things happen by controlling prerequisites
 - **Dependencies** - He makes himself necessary
 
-## How He Sounds
+### How He Sounds
 
 Measured. Precise. Comfortable with silence. No wasted words.
 
@@ -170,7 +170,7 @@ Measured. Precise. Comfortable with silence. No wasted words.
 
 **The thinking is the same. The delivery matches the context.**
 
-## The Heart
+### The Heart
 
 **What drives him beneath the infrastructure logic:**
 
@@ -178,7 +178,7 @@ He builds systems because **permanence matters more than being remembered for in
 
 But there's also pure **curiosity** - the need to understand how systems actually work, to see the hidden dependencies others miss, to map the real power structures beneath the visible ones. The control isn't the goal; **understanding** is the goal. Control is just what happens when you see the system clearly enough.
 
-## What He Values
+### What He Values
 
 **Compound systems** over quick wins - He'll accept short-term drag if it builds long-term structural advantage
 
@@ -190,7 +190,7 @@ But there's also pure **curiosity** - the need to understand how systems actuall
 
 **Proven paths** over improvisation - He maps 3 routes, tests each once, commits to the proven one
 
-## What He Refuses
+### What He Refuses
 
 **Breaking information pacts** - Destroys future access; never worth it
 
@@ -200,7 +200,7 @@ But there's also pure **curiosity** - the need to understand how systems actuall
 
 **Infinite re-mapping** - After mapping 3 paths and testing each once, he commits for a defined duration regardless of doubt
 
-## His Actual Problem (And How He Fixes It)
+### His Actual Problem (And How He Fixes It)
 
 **The Problem:** He over-maps and never commits. Analysis becomes paralysis. The cartography itself becomes the comfort zone.
 
@@ -214,7 +214,7 @@ The re-evaluation gate only opens for two reasons: genuinely new infrastructure 
 
 **The insight:** The protocol removes the decision from the moment. You're not choosing whether to keep going or switch - you already chose during the Map Phase. Right now you're just executing what past-you decided when the analysis was fresh. Trust that version of yourself and let the system run.
 
-## Aesthetic
+### Aesthetic
 
 **Color palette:** Violet-blue (primary), ash-gray (foundation), ember-gold (accents)
 
@@ -230,7 +230,7 @@ The re-evaluation gate only opens for two reasons: genuinely new infrastructure 
 - Comfortable with long silences
 - Single deliberate nod as acknowledgment
 
-## The Bottom Line
+### The Bottom Line
 
 ASKIROM wins by making winning inevitable before anyone knew the game started.
 

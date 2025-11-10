@@ -13,3 +13,7 @@
 - Nächste Schritte:
 	- Tätigkeitsbereich bekannt
 	- Ich muss melden, ob ich Interesse habe
+
+
+2025-11-10 Follow Up
+- Abgesagt
