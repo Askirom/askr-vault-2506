@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "2025-11-10 Bewerbungsgespräch HiSolutions"
             }
+          },
+          {
+            "id": "9c01b6294a5b2356",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,7 +279,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c36dac49a6dd788b",
+  "active": "9c01b6294a5b2356",
   "lastOpenFiles": [
     "tmp/Rödl und Partner Interview.md",
     "tmp/20250727154247-planet-crafter-notes.md",
