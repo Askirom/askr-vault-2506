@@ -1,1 +1,5 @@
-- 
+- True Mastery
+- Business Autonomy
+- Fair Community
+- berufliche Perspektive
+	- 
