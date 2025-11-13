@@ -3,4 +3,8 @@
 - Fair Community
 - berufliche Perspektive
 
-- 
+- Auslastung 80 - 90 %
+- Vertrauensarbeitszeit
+
+- weiter besprechen
+	- 
