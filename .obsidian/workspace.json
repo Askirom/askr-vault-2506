@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-11-13.md",
+                "file": "tmp/2025-11-13 Cassini Bewerbergespräch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
+              "title": "2025-11-13 Cassini Bewerbergespräch"
             }
           }
         ],
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -268,8 +269,9 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
-    "tmp/2025-11-10 Bewerbungsgespräch HiSolutions.md",
     "var/daily/2025-11-13.md",
+    "tmp/2025-11-13 Cassini Bewerbergespräch.md",
+    "tmp/2025-11-10 Bewerbungsgespräch HiSolutions.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
     "usr/identity/askirom-prompt.md",
@@ -293,7 +295,6 @@
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-100 Informationssicherheitsleitlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-000 Dokumentenorganisation.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
-    "etc/Workout 2025-11.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets",
