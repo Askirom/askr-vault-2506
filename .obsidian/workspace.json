@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp/2025-11-13 Cassini Bewerbergespräch.md",
+                "file": "var/daily/2025-11-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-13 Cassini Bewerbergespräch"
+              "title": "2025-11-16"
             }
           }
         ],
@@ -269,6 +269,8 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
+    "tmp/2025-11-13 Cassini Bewerbergespräch.md",
+    "var/daily/2025-11-16.md",
     "var/daily/Adventskalender.md",
     "var/daily/Untitled.md",
     "srv/HIVE",
@@ -279,7 +281,6 @@
     "srv/PERSONAL/Unconfirmed 421277.crdownload",
     "srv/PERSONAL",
     "var/daily/2025-11-13.md",
-    "tmp/2025-11-13 Cassini Bewerbergespräch.md",
     "tmp/2025-11-10 Bewerbungsgespräch HiSolutions.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-201 IT-Nutzung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-205 Mobile Device Management.md",
@@ -299,7 +300,6 @@
     "arc/Askirom v14.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210 Sicherheitsvorfälle.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets",
