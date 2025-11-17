@@ -1,3 +1,6 @@
 - Calibrationhouse hat Zugriff auf alle Daten
 - interne Verrechnung
 - Wordpress nicht mehr Umbraco
+- Kontaktformular über GravityForms
+- YouTube soll eingebunden werden
+- 
