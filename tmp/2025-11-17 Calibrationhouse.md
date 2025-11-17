@@ -1,0 +1,3 @@
+- Calibrationhouse hat Zugriff auf alle Daten
+- interne Verrechnung
+- 

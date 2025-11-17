@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/daily/2025-11-16.md",
+                "file": "tmp/2025-11-17 Calibrationhouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-16"
+              "title": "2025-11-17 Calibrationhouse"
             }
           }
         ],
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957,
-    "collapsed": true
+    "width": 310.5086555480957
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -269,8 +268,10 @@
   },
   "active": "c36dac49a6dd788b",
   "lastOpenFiles": [
-    "tmp/2025-11-13 Cassini Bewerbergespräch.md",
+    "var/daily/2025-11-17.md",
+    "tmp/2025-11-17 Calibrationhouse.md",
     "var/daily/2025-11-16.md",
+    "tmp/2025-11-13 Cassini Bewerbergespräch.md",
     "var/daily/Adventskalender.md",
     "var/daily/Untitled.md",
     "srv/HIVE",
@@ -298,8 +299,6 @@
     "srv/EKIBA/EKIBA-25-001-iso27001/Betriebshandbücher Tabelle.md",
     "var/daily/2025-11-04.md",
     "arc/Askirom v14.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210 Sicherheitsvorfälle.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Ressources/vds-10000.pdf",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets",
