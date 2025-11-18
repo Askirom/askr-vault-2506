@@ -13,3 +13,5 @@
 ## BV_mobiles Arbeiten_2023_unterzeichnet.pdf
 - § 5 Behandelt Datenschutz und InfoSec
 - § 5 (2) verpflichtet zur Datensicherung, gibt hier die VEDES vor wie und wo dies passieren soll? 
+- mir fehlt hier noch die Anforderungen an den privaten Router: wie ist dieser zu sichern? 
+- 
