@@ -13,4 +13,9 @@
 
 # 2025-11-19 Status
 - Art. 26 DSGVO wurde erstellt
-- DSI 
+- DSI Webseite
+- IZYCHECK Newsletter
+	- Mails über Dynamics 365
+	- Automatischer OptOut ist noch schwierig
+	- Eine Automatisierung muss aber noch gemacht werden
+- 
