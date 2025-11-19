@@ -18,4 +18,4 @@
 	- Mails über Dynamics 365
 	- Automatischer OptOut ist noch schwierig
 	- Eine Automatisierung muss aber noch gemacht werden
-- 
+- Betriebsrat
