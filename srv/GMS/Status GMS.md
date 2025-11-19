@@ -1,4 +1,4 @@
-# 2025-02-06 Status
+## 2025-02-06 Status
 
 - GMS haben keinen Zugriff auf CRM
 - Dienstleisterliste 
@@ -9,10 +9,10 @@
 - GM Werbeplattform
 	- Toolsnutzung
 
-# Status Webshop
+## Status Webshop
 - Termin mit Herrn Thomas Klaus vereinbart am 12.02.2025
 
-# 2025-11-19 Status
+## 2025-11-19 Status
 - Art. 26 DSGVO wurde erstellt
 - DSI Webseite
 - DSI Social Media
