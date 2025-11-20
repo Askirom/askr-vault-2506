@@ -1,5 +1,3 @@
-Gern — hier die Stichpunkt-Liste (jede Zeile: Feld -> kurzer Hinweis):
-
 - ID 
 - Titel
 - Kurzbeschreibung -> 1–2 Sätze: Verfahrensbeschreibung

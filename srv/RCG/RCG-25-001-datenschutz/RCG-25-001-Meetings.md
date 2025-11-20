@@ -193,5 +193,5 @@ Hinweis: Microsoft dokumentiert für Azure Direct Models explizit, dass Eingaben
 Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 
 
-## 2025-11-20 RCG 
+## 2025-11-20 RCG
 - Dokumentation in dem Dokument "Löschverzeichnis-RCG" unter DSMS_in_Arbeit/02_Verzeichnisse

@@ -1,6 +1,3 @@
-
-
-
 ## Meldewesen — IT / DaviP (Meeting-Zusammenfassung)
 
 ### 2 — Admin-Zugriff & Rollen

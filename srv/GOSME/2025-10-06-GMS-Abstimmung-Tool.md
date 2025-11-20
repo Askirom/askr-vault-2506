@@ -1,3 +1,2 @@
-- Microsoft Diktiersoftware
-	- in Word
+
 -  
