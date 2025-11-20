@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
-                "mode": "preview",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-303 Schulungs- und Sensibilisierungsmaßnahmen.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-212 Datensicherung"
+              "title": "IS-303 Schulungs- und Sensibilisierungsmaßnahmen"
             }
           },
           {
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-212 Datensicherung.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-212 Datensicherung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -282,8 +282,16 @@
   },
   "active": "b76e2d00fa1b38a4",
   "lastOpenFiles": [
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-210 Sicherheitsvorfälle.md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-208 Speicherorte.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-302 Beendigung oder Wechsel der Tätigkeit.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-303 Schulungs- und Sensibilisierungsmaßnahmen.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-301 Aufnahme der Tätigkeit.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-000 Dokumentenorganisation.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-100 Informationssicherheitsleitlinie.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-212 Datensicherung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-210 Sicherheitsvorfälle.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-208 Speicherorte.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/Betriebshandbuch.md",
     "srv/EKIBA/EKIBA-25-002-dsaudit/2025-10-23 Abstimmung Meldewesen.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/EKIBA-25-001-Meetings.md",
@@ -302,12 +310,6 @@
     "var/meeting/GOSME-meetings.md",
     "var/meeting/EKIBA-meetings.md",
     "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
-    "srv/VEDES/Kommentare zu Richtlinien VEDES.md",
-    "srv/VEDES/IS-207 IT-Outsourcing 1.md",
-    "srv/VEDES/VEDES-25-001-vds10000.md",
-    "srv/VEDES/IS-000 Dokumentenorganisation.md",
-    "srv/GMS/Status GMS.md",
-    "srv/ASKIROM/RLE CV.md",
     "srv/GMS",
     "srv/ASKIROM/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/ASKIROM/IHK-DSB-2019.pdf",
@@ -316,8 +318,6 @@
     "srv/HIVE",
     "HIVE",
     "srv/PERSONAL/Vertragsunterlagen-HiSolutions.zip",
-    "srv/PERSONAL/Unconfirmed 421277.crdownload",
-    "srv/PERSONAL",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "usr/identity/Signature-RLE 2024.png",
     "usr/identity/Signature-RLE 2024_transparent.png",
