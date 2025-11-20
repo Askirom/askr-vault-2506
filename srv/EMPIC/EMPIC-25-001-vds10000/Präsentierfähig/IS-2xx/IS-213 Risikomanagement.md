@@ -1,22 +1,22 @@
-### **1. Ziel und Zweck**
+## **1. Ziel Und Zweck**
 
 Zweck dieser Richtlinie ist es, eine einheitliche Vorgehensweise zur Identifikation, Bewertung und Behandlung von Informationssicherheitsrisiken festzulegen. Ziel ist es, Gefährdungen für die Unternehmenswerte (Assets) frühzeitig zu erkennen und Risiken auf ein akzeptables Maß zu reduzieren.
 
-### **2. Geltungsbereich**
+## **2. Geltungsbereich**
 
 Diese Richtlinie gilt für alle Assets (Werte), Prozesse und Informationen im Geltungsbereich des ISMS.
 
-### **3. Zuständigkeiten**
+## **3. Zuständigkeiten**
 
 - **Topmanagement:** Trägt die Gesamtverantwortung und entscheidet über die Akzeptanz von Restrisiken.
 - **ISB:** Führt die Risikoanalyse durch und pflegt die Risikomatrix.
 - **Asset Owner:** Unterstützen bei der Einschätzung der Eintrittswahrscheinlichkeiten und Schadenshöhen.
 
-### **4. Methodik der Risikoanalyse**
+## **4. Methodik Der Risikoanalyse**
 
 Die Risikoanalyse erfolgt asset-basiert unter Verwendung der **Elementaren Gefährdungen des BSI**.
 
-#### **4.1 Bewertungsskalen**
+### **4.1 Bewertungsskalen**
 
 Die Bewertung erfolgt anhand einer **4-stufigen Skala** für Eintrittswahrscheinlichkeit und Auswirkung.
 
@@ -40,7 +40,7 @@ Die Bewertung erfolgt anhand einer **4-stufigen Skala** für Eintrittswahrschein
 
 _Hinweis: Der Schutzbedarf (Kritikalität) eines Assets (1=Niedrig, 2=Mittel, 3=Hoch) dient als Indikator für die Einstufung der Auswirkung._
 
-#### **4.2 Risikoberechnung**
+### **4.2 Risikoberechnung**
 
 Das Risiko (R) berechnet sich aus der Multiplikation von Eintrittswahrscheinlichkeit und Auswirkung:
 
@@ -48,7 +48,7 @@ $$Risiko (R) = Eintrittswahrscheinlichkeit (EW) \times Auswirkung (A)$$
 
 Der Wertebereich liegt zwischen 1 und 16.
 
-#### **4.3 Risikomatrix und Einstufung**
+### **4.3 Risikomatrix Und Einstufung**
 
 Basierend auf dem errechneten Risikowert ergeben sich folgende Einstufungen und Handlungsbedarfe:
 
@@ -59,7 +59,7 @@ Basierend auf dem errechneten Risikowert ergeben sich folgende Einstufungen und 
 |**12**|**Nicht akzeptabel** (Orange)|**Handeln:** Zeitnahe Maßnahmen zur Risikoreduktion erforderlich. Risiko muss auf Stufe "Mittel" oder "Niedrig" gesenkt werden.|
 |**16**|**Inakzeptabel** (Rot)|**Sofortmaßnahmen zwingend erforderlich.** Ggf. muss die zugrundeliegende Aktivität gestoppt werden. Akzeptanz nur durch Top-Management mit Begründung möglich.|
 
-### **5. Risikoumgang (Risikobehandlung)**
+## **5. Risikoumgang (Risikobehandlung)**
 
 Für jedes identifizierte Risiko muss eine Strategie gewählt werden:
 1. **Modifizieren (Risikoreduktion):** Ergreifen von Maßnahmen (technisch/organisatorisch), um die Eintrittswahrscheinlichkeit oder die Auswirkung zu senken.
@@ -67,11 +67,11 @@ Für jedes identifizierte Risiko muss eine Strategie gewählt werden:
 3. **Teilen (Risikotransfer):** Verlagerung des Risikos an Dritte (z. B. Versicherung, Outsourcing).
 4. **Beibehalten (Risikoakzeptanz):** Bewusste Entscheidung, das Risiko ohne weitere Maßnahmen zu tragen (nur zulässig gemäß Matrixvorgaben).
 
-### **6. Dokumentation**
+## **6. Dokumentation**
 
 Die Ergebnisse werden in der zentralen Risikoliste dokumentiert. Die Analyse wird mindestens jährlich sowie bei wesentlichen Änderungen (Infrastruktur, Bedrohungslage) aktualisiert.
 
-### **7. Mitgeltende Unterlagen**
+## **7. Mitgeltende Unterlagen**
 
 - Asset-Inventar
 - BSI Elementare Gefährdungen
