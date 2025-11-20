@@ -14,9 +14,10 @@
 
 - Dienstag Mittwoch für VVT Termin 
 
-## 2025-11-20 DSIs und Joint Controller
+## 2025-11-20 DSIs Und Joint Controller
 - DSI Bewerber + öffentliche Informationen
 - Initiativbewerbungen + umantis beides soll abgedeckt sein
 - Art. 26 Update ist eingepflegt in der 
+
 
 

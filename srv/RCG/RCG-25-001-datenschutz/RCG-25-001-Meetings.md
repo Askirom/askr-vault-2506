@@ -114,7 +114,7 @@
 - Schlüsselmanagement und Verschlüsselung
 - Admin-Kontrollen, Audit und Export
 
-## **Copilot Studio (Agents): Datenverarbeitung**
+### **Copilot Studio (Agents): Datenverarbeitung**
 
 **Ablauf und Speicherorte.**
 
@@ -132,7 +132,7 @@ Für Copilot-Funktionen innerhalb M365 gilt: Prompts, Antworten und über Micros
 
 Copilot Studio bietet DLP-Policies, Purview/Sentinel-Auditing, Option für CMK, sowie konfigurierbare Veröffentlichungs- und Datenbewegungs-Sperren. 
 
-## **Azure AI Bereitgestellte Modelle/Agenten: Datenverarbeitung**
+### **Azure AI Bereitgestellte Modelle/Agenten: Datenverarbeitung**
 
 **Ablauf und Speicherorte.**
 
@@ -154,7 +154,7 @@ Bei Serverless-API-Deployments speichert der Dienst keine Prompts oder Outputs; 
 
 Agent-Daten für stateful Entities werden in der zugehörigen Azure-OpenAI-Ressource in Ihrer Geografie gespeichert. Prompts/Outputs sind nicht für andere Kunden oder Dritt-Modellanbieter verfügbar. Beim Einsatz externer Tools wie „Grounding with Bing Search“ gelten deren eigene Bedingungen. 
 
-## **Zentrale Unterschiede**
+### **Zentrale Unterschiede**
 
 - **Service-Grenze:** Copilot Studio läuft in Power Platform/M365 mit Dataverse als primärem Speicher für Chats. Azure AI läuft in Ihrem Azure-Abo mit Ressourcen- und Netzwerk-Kontrollen auf Subscription-Ebene. 
 - **Speicher-Default:** Copilot speichert Gesprächsprotokolle standardmäßig in Dataverse; Azure AI speichert nur bei Nutzung zustandsbehafteter Features oder expliziten Speichern. 
@@ -163,25 +163,25 @@ Agent-Daten für stateful Entities werden in der zugehörigen Azure-OpenAI-Resso
 - **Trainingsnutzung:** M365-Copilot und Power-Platform-Generative-Funktionen sowie Azure Direct Models nutzen Kundendaten nicht zum Modelltraining. 
 - **Schlüssel/Audit:** Copilot Studio bietet CMK, DLP und Purview/Sentinel-Audits. Azure AI bietet CMK für gespeicherte Daten und feingranulares Logging auf Ressourcenebene. 
 
-## **Kurz-Validierung**
+### **Kurz-Validierung**
 
 Abgedeckt: Grenze/Residenz, Speicherung/Aufbewahrung, Trainingsnutzung, Missbrauchs-Kontrollen, externe Tools, Verschlüsselung/CMK, Admin-Kontrollen/Audit. Für eine DPIA fehlen nur tenantspezifische Einstellungen wie konkrete Regionen, aktivierte Features, Logging-Policy und etwaige Bing-Nutzung.
 
 
 
 
-## **Azure AI (Azure OpenAI / Azure Direct Models)**
+### **Azure AI (Azure OpenAI / Azure Direct Models)**
 
 - Microsoft hostet die OpenAI-Modelle in Azure. Keine Interaktion mit OpenAIs eigenen Diensten. Prompts/Outputs sind **nicht** für OpenAI verfügbar. 
 - Ergebnis: OpenAI ist **kein** Subprozessor; Verarbeitung bleibt unter Microsoft/Azure-Vertrag (DPA/Produktbedingungen). 
 
-## **Copilot Studio (Agents)**
+### **Copilot Studio (Agents)**
 
 - Standardmodelle: Copilot nutzt **Azure OpenAI**, nicht OpenAIs öffentliche Services; Verarbeitung im Microsoft 365-Boundary/Power-Platform. Ergebnis: OpenAI **kein** Subprozessor. 
 - Externe Modelle: Wenn Sie in Copilot Studio ein **externes** Modell auswählen (z. B. Anthropic), wird es **außerhalb** von Microsoft gehostet und unterliegt den Bedingungen des Anbieters. Ergebnis: der externe Anbieter wird Dritt­empfänger/Subprozessor in Ihrer Kette. 
 - Eigene Anbindungen: Binden Sie die **OpenAI-API** explizit per Konnektor/HTTP ein, gehen Daten direkt an OpenAI. Ergebnis: OpenAI wird **Ihr** Subprozessor. 
 
-## **Praxis-Matrix**
+### **Praxis-Matrix**
 
 - **Azure OpenAI / Azure Direct Models** → Microsoft hostet. OpenAI kein Subprozessor. 
 - **Copilot Studio mit Standardmodell** → Microsoft hostet. OpenAI kein Subprozessor. 
@@ -191,3 +191,7 @@ Abgedeckt: Grenze/Residenz, Speicherung/Aufbewahrung, Trainingsnutzung, Missbrau
 Hinweis: Microsoft dokumentiert für Azure Direct Models explizit, dass Eingaben/Ausgaben **nicht** an OpenAI oder andere Model-Publisher gehen und die Modelle nicht mit Kundendaten trainiert werden; die Dienste interagieren nicht mit OpenAIs eigenen APIs. 
 
 Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
+
+
+## 2025-11-20 RCG 
+- Dokumentation in dem Dokument "Löschverzeichnis-RCG" unter DSMS_in_Arbeit/02_Verzeichnisse
