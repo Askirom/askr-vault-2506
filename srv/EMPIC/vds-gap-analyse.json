@@ -1,0 +1,103 @@
+{
+  "response": "I have completed the analysis and presented the report. I am ready for your next command. What would you like to do next?",
+  "stats": {
+    "models": {
+      "gemini-2.5-flash-lite": {
+        "api": {
+          "totalRequests": 1,
+          "totalErrors": 0,
+          "totalLatencyMs": 2324
+        },
+        "tokens": {
+          "prompt": 1789,
+          "candidates": 104,
+          "total": 2271,
+          "cached": 0,
+          "thoughts": 378,
+          "tool": 0
+        }
+      },
+      "gemini-2.5-pro": {
+        "api": {
+          "totalRequests": 27,
+          "totalErrors": 1,
+          "totalLatencyMs": 474300
+        },
+        "tokens": {
+          "prompt": 850382,
+          "candidates": 7555,
+          "total": 877099,
+          "cached": 569460,
+          "thoughts": 19162,
+          "tool": 0
+        }
+      }
+    },
+    "tools": {
+      "totalCalls": 21,
+      "totalSuccess": 20,
+      "totalFail": 1,
+      "totalDurationMs": 116,
+      "totalDecisions": {
+        "accept": 0,
+        "reject": 0,
+        "modify": 0,
+        "auto_accept": 20
+      },
+      "byName": {
+        "glob": {
+          "count": 1,
+          "success": 1,
+          "fail": 0,
+          "durationMs": 9,
+          "decisions": {
+            "accept": 0,
+            "reject": 0,
+            "modify": 0,
+            "auto_accept": 1
+          }
+        },
+        "read_file": {
+          "count": 14,
+          "success": 14,
+          "fail": 0,
+          "durationMs": 106,
+          "decisions": {
+            "accept": 0,
+            "reject": 0,
+            "modify": 0,
+            "auto_accept": 14
+          }
+        },
+        "write_todos": {
+          "count": 5,
+          "success": 5,
+          "fail": 0,
+          "durationMs": 1,
+          "decisions": {
+            "accept": 0,
+            "reject": 0,
+            "modify": 0,
+            "auto_accept": 5
+          }
+        },
+        "write_file": {
+          "count": 1,
+          "success": 0,
+          "fail": 1,
+          "durationMs": 0,
+          "decisions": {
+            "accept": 0,
+            "reject": 0,
+            "modify": 0,
+            "auto_accept": 0
+          }
+        }
+      }
+    },
+    "files": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0
+    }
+  }
+}
