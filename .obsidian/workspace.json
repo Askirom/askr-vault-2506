@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-314 Verwaltung von Zugängen und Zugriffsrechten.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-213 Risikomanagement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-314 Verwaltung von Zugängen und Zugriffsrechten"
+              "title": "IS-213 Risikomanagement"
             }
           },
           {
@@ -282,9 +282,12 @@
   },
   "active": "b76e2d00fa1b38a4",
   "lastOpenFiles": [
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-212 Datensicherung.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-213 Risikomanagement.md",
+    "srv/SECUD/Jahresbericht 2025.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-314 Verwaltung von Zugängen und Zugriffsrechten.md",
     "srv/EMPIC/vds-gap-analyse.json",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-313 Verlust mobiler IT-Systeme (Administratoren).md",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-314 Verwaltung von Zugängen und Zugriffsrechten.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-312 Sicherheitsupdates.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-311 Ausmusterung und Wiederverwendung von IT-Systemen.md",
     "srv/GOSME/GOSME-25-001-privacy/Art26-Software-Ergänzung.md",
@@ -296,7 +299,6 @@
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-100 Informationssicherheitsleitlinie.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx",
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-212 Datensicherung.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-210 Sicherheitsvorfälle.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-208 Speicherorte.md",
     "srv/EKIBA/EKIBA-25-001-iso27001/Betriebshandbuch.md",
@@ -309,7 +311,6 @@
     "srv/EKIBA/EKIBA-25-001-iso27001/Anwender- und Administrationsrichtlinie.md",
     "srv/GOSME/GOSME-25-001-privacy/GOSME-25-001-Meetings.md",
     "srv/GOSME/GOSME-25-001-privacy/Stellungnahme-ICT-Governance-Richtlinie.md",
-    "srv/GOSME/GOSME-25-002-betriebsrat360/E-Mail an betriebsrat360atifb.de.md",
     "srv/GMS",
     "srv/ASKIROM/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/ASKIROM/IHK-DSB-2019.pdf",
@@ -317,7 +318,6 @@
     "srv/ASKIROM/ISO27001-ISO-Zertifikat.pdf",
     "srv/HIVE",
     "HIVE",
-    "srv/PERSONAL/Vertragsunterlagen-HiSolutions.zip",
     "srv/EKIBA/EKIBA-25-002-dsaudit/assets/Pasted image 20251030142101.png",
     "usr/identity/Signature-RLE 2024.png",
     "usr/identity/Signature-RLE 2024_transparent.png",
