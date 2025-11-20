@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-303 Schulungs- und Sensibilisierungsmaßnahmen.md",
+                "file": "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-311.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-303 Schulungs- und Sensibilisierungsmaßnahmen"
+              "title": "IS-311"
             }
           },
           {
@@ -282,8 +282,10 @@
   },
   "active": "b76e2d00fa1b38a4",
   "lastOpenFiles": [
-    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-302 Beendigung oder Wechsel der Tätigkeit.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-310  Inbetriebnahme und Änderung von IT-Systemen**.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-311.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-303 Schulungs- und Sensibilisierungsmaßnahmen.md",
+    "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-302 Beendigung oder Wechsel der Tätigkeit.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx/IS-301 Aufnahme der Tätigkeit.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-2xx/IS-000 Dokumentenorganisation.md",
     "srv/EMPIC/EMPIC-25-001-vds10000/Präsentierfähig/IS-3xx",
@@ -308,8 +310,6 @@
     "srv/GOSME/GOSME-25-001-privacy/GOSME-25-001 Meetings.md",
     "srv/GOSME/GOSME-25-001-privacy/2025-10-30-GM-Einführung Intune.md",
     "var/meeting/GOSME-meetings.md",
-    "var/meeting/EKIBA-meetings.md",
-    "srv/RCG/RCG-25-001-datenschutz/RCG-25-001-Meetings.md",
     "srv/GMS",
     "srv/ASKIROM/Bericht über deine digitalen Kompetenzen.pdf",
     "srv/ASKIROM/IHK-DSB-2019.pdf",
