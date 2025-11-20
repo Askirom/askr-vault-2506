@@ -12,6 +12,11 @@
 - Löschfrist 1 Jahr nach Wahlperiode
 - alle Themen und Fragen laufen über Betriebsrat-Postfach
 
-- Dienstag Mittwoch für VVT Termin
+- Dienstag Mittwoch für VVT Termin 
+
+## 2025-11-20 DSIs und Joint Controller
+- DSI Bewerber + öffentliche Informationen
+- Initiativbewerbungen + umantis beides soll abgedeckt sein
+- 
 
 
