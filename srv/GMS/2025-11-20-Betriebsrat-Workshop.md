@@ -71,3 +71,11 @@
 - [ ] **DSB-Check:** Ich prüfe den Status der Admin-Rechte auf dem BR-Ordner (Datagroup/Konzern).
 - [ ] **BR-Check:** Alte Unterlagen (Bewerbungen > 6 Monate) mal sichten und ggf. schreddern.
 - [ ] **Kontakt:** Austausch alle [X] Monate vereinbart.
+
+### Brainstorming Verarbeitungen 
+- BEM
+- Bewerberprozess
+- Personalverwaltungen -> Versetzungen, Änderungen der Arbeitszeit, Gehaltsanpassungen
+- BR-Laufwerk
+- Schwerbehindertenvertretung -> potenziell außerhalb des BR
+- Sitzungsverwaltung
