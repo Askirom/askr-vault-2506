@@ -1,13 +1,13 @@
 ## 1. Intro & Rollenklärung (15 Min)
-* **Ziel:** Arbeitsbasis schaffen. Abbau von Berührungsängsten.
+* **Ziel:** Arbeitsbasis schaffen. Abbau von Berührungsängsten
 * **Meine Rolle als Externer:**
-    * Ich bin bestellt durch die GF, aber fachlich weisungsfrei.
-    * Ich bin *nicht* der verlängerte Arm der Konzernmutter (GMC-I Instruments).
-    * Mein Job: Prüfung der Rechtmäßigkeit (DSGVO).
+    * Ich bin bestellt durch die GF, aber fachlich weisungsfrei
+    * Ich bin *nicht* der verlängerte Arm der Konzernmutter (GMC-I Instruments)
+    * Mein Job: Prüfung der Rechtmäßigkeit (DSGVO)
 * **Rolle des BR:**
-    * Ihr prüft Leistungs- & Verhaltenskontrolle (§ 87 BetrVG).
-    * Ihr seid Teil der verantwortlichen Stelle (§ 79a BetrVG), handelt aber eigenverantwortlich.
-* **Schnittmenge:** Wir wollen beide verhindern, dass Mitarbeiterdaten missbraucht werden (z.B. durch unbemerkte Überwachung).
+    * Ihr prüft Leistungs- & Verhaltenskontrolle (§ 87 BetrVG)
+    * Ihr seid Teil der verantwortlichen Stelle (§ 79a BetrVG), handelt aber eigenverantwortlich
+* **Schnittmenge:** Wir wollen beide verhindern, dass Mitarbeiterdaten missbraucht werden (z.B. durch unbemerkte Überwachung)
 
 ## 2. Block A: Die "Fremdsteuerung" Der IT (30 Min)
 *Thema: Wir nutzen Systeme, die wir nicht selbst administrieren.*
