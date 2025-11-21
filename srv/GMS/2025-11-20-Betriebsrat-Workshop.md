@@ -57,6 +57,10 @@
 - **Notizen**:
 	- Betriebsrat-Netzlaufwerk gemanaged durch Datagroup
 	- Papierkorb hat keine Löschautomatik im Postfach 
+	- umantis ist noch in der technischen Lösung -> noch nicht Betriebsrat relevant
+	- 
+
+
 ## 5. Q&A Und Nächste Schritte (10 Min)
 
 ### Offene Fragerunde
