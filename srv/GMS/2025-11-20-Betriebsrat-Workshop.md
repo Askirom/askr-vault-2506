@@ -18,12 +18,14 @@
     * Wie läuft Fernwartung ab? Können die Admins der DataGroup sich auf BR-Geräte aufschalten oder müsst ihr klicken/bestätigen?
     * Habt ihr das Gefühl, dass Tickets/Probleme vertraulich behandelt werden?
 - **Notizen**:
-	- 
+	- Wer richtet die Laptops für Betriebsrat ein? -> wahrscheinlich interne IT
+	- Datagroup gibt Rechte auf das Betriebsratpostfach und Laufwerk (Netzlaufwerke)
 ### 2. Konzern-Vorgaben (GMC-I Instruments)
 * **Situation:** M365, CRM und HR-Tools kommen zentral von der Mutter.
 * **Fragen:** Gibt es lokale Besonderheiten? Wie seit ihr bei dem Bewerbertool umantis eingebunden?
 * **Notizen:**
-    * 
+    * umantis -> Zugangsdaten wurden bereitgestellt an BR aber es gab noch keine Aktivitäten darin
+    * Procheck -> Servicesystem
 
 ## 3. Block B: Fokus Werkstatt & Kalibrierung (25 Min)
 
@@ -38,19 +40,23 @@
     * **Ziel:** Einigkeit darüber, dass Daten für QM okay sind, aber nicht für Personalgespräche genutzt werden dürfen.
 	    * So ist auch meines Wissens noch der Stand
 * **Notizen**
-	* 
+	* keine Zahlen werden laut BR ausgewertet (wurden nicht einbezogen)
+	* Auslastung wird nach Team und Auftragsvorrat bewertet
+	* es gibt keine Vorgabezeiten und es wird nicht getrackt, wie lange eine Reparatur braucht
 
 
 ## 4. Block C: Datenschutz Im BR-Büro (Interne Hygiene) (10 Min)
 
 * **Sensible Daten:** Ihr verarbeitet Gesundheitsdaten (BEM), Kündigungsgründe, Beschwerden.
 * **Der wunde Punkt:**
-    * Wo speichert ihr digitale Akten? (Laufwerk auf dem Server?).
+    * Wo speichert ihr digitale Akten? (Laufwerk auf dem Server?)
     * **Kritisch:** Haben Admins (Datagroup/Mutterkonzern) darauf Zugriff?
 * **Papier & Kommunikation:**
     * Habt ihr abschließbare Schränke, zu denen *nur* ihr Zugang habt?
     * Bitte keine WhatsApp-Gruppen für BR-Themen nutzen (Signal/Threema Work sind okay).
-
+- **Notizen**:
+	- Betriebsrat-Netzlaufwerk gemanaged durch Datagroup
+	- 
 ## 5. Q&A Und Nächste Schritte (10 Min)
 
 ### Offene Fragerunde
