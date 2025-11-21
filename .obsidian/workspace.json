@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srv/SOLVE/solve-netto-anforderungen.md",
+                "file": "srv/SOLVE/2025-11-21 Abstimmung InfoSec.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "solve-netto-anforderungen"
+              "title": "2025-11-21 Abstimmung InfoSec"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -237,8 +238,8 @@
   },
   "active": "b76e2d00fa1b38a4",
   "lastOpenFiles": [
-    "srv/SOLVE/Untitled.md",
     "srv/SOLVE/solve-netto-anforderungen.md",
+    "srv/SOLVE/2025-11-21 Abstimmung InfoSec.md",
     "var/daily/2025-rolling.md",
     "srv/SOLVE",
     "srv/GMS/2025-11-20-Betriebsrat-Workshop.md",
