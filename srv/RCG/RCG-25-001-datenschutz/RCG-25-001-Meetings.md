@@ -208,4 +208,6 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 	- Schulung soll Montag starten, Info zur Schulung noch heute raus
 - Pauschale
 	- Liste was Teil der Pauschale ist und was nicht
-- 
+- Besuchermanagementtool
+	- Einwilligung für Bildmaterial in diesem Tool jetzt auch einholen
+	- 
