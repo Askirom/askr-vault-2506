@@ -9,7 +9,7 @@
     * Ihr seid Teil der verantwortlichen Stelle (§ 79a BetrVG), handelt aber eigenverantwortlich.
 * **Schnittmenge:** Wir wollen beide verhindern, dass Mitarbeiterdaten missbraucht werden (z.B. durch unbemerkte Überwachung).
 
-## 2. Block A: Die "Fremdsteuerung" der IT (30 Min)
+## 2. Block A: Die "Fremdsteuerung" Der IT (30 Min)
 *Thema: Wir nutzen Systeme, die wir nicht selbst administrieren.*
 
 ### 1. Der IT-Dienstleister (Datagroup)
@@ -41,7 +41,7 @@
 	* 
 
 
-## 4. Block C: Datenschutz im BR-Büro (Interne Hygiene) (10 Min)
+## 4. Block C: Datenschutz Im BR-Büro (Interne Hygiene) (10 Min)
 
 * **Sensible Daten:** Ihr verarbeitet Gesundheitsdaten (BEM), Kündigungsgründe, Beschwerden.
 * **Der wunde Punkt:**
@@ -51,7 +51,7 @@
     * Habt ihr abschließbare Schränke, zu denen *nur* ihr Zugang habt?
     * Bitte keine WhatsApp-Gruppen für BR-Themen nutzen (Signal/Threema Work sind okay).
 
-## 5. Q&A und Nächste Schritte (10 Min)
+## 5. Q&A Und Nächste Schritte (10 Min)
 
 ### Offene Fragerunde
 * "Was brennt euch sonst noch unter den Nägeln?"

@@ -195,3 +195,17 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 
 ## 2025-11-20 RCG
 - Dokumentation in dem Dokument "Löschverzeichnis-RCG" unter DSMS_in_Arbeit/02_Verzeichnisse
+
+## 2025-11-21 RCG JourFixe
+- Vorfall Anfang der Woche
+	- Logs der letzten 72h wurden geprüft ohne Auffälligkeit
+- DirectSend securepoint
+	- Mails werden direkt versendet
+	- Changeprozess muss eingehalten werden
+- Schulungen 2025
+	- Blick. ist nicht Teil der Schulung
+	- wird extra abgedeckt
+	- Schulung soll Montag starten, Info zur Schulung noch heute raus
+- Pauschale
+	- Liste was Teil der Pauschale ist und was nicht
+- 
