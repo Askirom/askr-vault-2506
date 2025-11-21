@@ -72,7 +72,7 @@
 - [ ] **BR-Check:** Alte Unterlagen (Bewerbungen > 6 Monate) mal sichten und ggf. schreddern.
 - [ ] **Kontakt:** Austausch alle [X] Monate vereinbart.
 
-### Brainstorming Verarbeitungen 
+### Brainstorming Verarbeitungen
 - BEM
 - Bewerberprozess
 - Personalverwaltungen -> Versetzungen, Änderungen der Arbeitszeit, Gehaltsanpassungen
