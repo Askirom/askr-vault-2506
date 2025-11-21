@@ -56,7 +56,7 @@
     * Bitte keine WhatsApp-Gruppen für BR-Themen nutzen (Signal/Threema Work sind okay).
 - **Notizen**:
 	- Betriebsrat-Netzlaufwerk gemanaged durch Datagroup
-	- 
+	- Papierkorb hat keine Löschautomatik im Postfach 
 ## 5. Q&A Und Nächste Schritte (10 Min)
 
 ### Offene Fragerunde
