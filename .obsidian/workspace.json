@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log_2025-11.md",
+                "file": "10_Projects/TREU/03_Work/TREU-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Log_2025-11"
+              "title": "TREU-25-001-Meetings"
             }
           }
         ]
@@ -235,8 +235,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "Log_2025-11.md",
     "10_Projects/GOSME/02_Input/Data Privacy Framework.md",
     "10_Projects/EMPIC/03_Work/2025-11-24.md",
     "99_Archive/daily/Stadt Pappenheim.md",
@@ -258,7 +259,6 @@
     "10_Projects/SOLVE/02_Input/solve-netto-anforderungen.md",
     "40_Admin/Workout 2025-11.md",
     "99_Archive/rolodex.md",
-    "Log_2025-11.md",
     "var/actions-dashboard.md",
     "40_Admin/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "10_Projects/PERSONAL/03_Work/2025-11-17 Calibrationhouse.md",
