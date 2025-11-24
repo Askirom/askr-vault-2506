@@ -5,7 +5,7 @@
 - https://www.stmfh.bayern.de/digitalisierung/ki/
 - https://www.bmas.de/DE/Service/Publikationen/Broschueren/a862-leitlinien-ki-einsatz-behoerdliche-praxis-arbeits-sozialverwaltung.html
 
-## 2025-11-24 DSI Webseiten
+# 2025-11-24 DSI Webseiten
 
 **Teilnehmer:** 
 - Robin Leitner (DSB)
@@ -25,15 +25,35 @@
 
 **Liste der Webseiten (von Fr. Stoll):**
 - [ ] treuchtlingen.de
+	- Matomo
+		- liest Apachelogs aus zur Auswertung
+		- Anonymisierung wird durch Matomo übernommen
 - [ ] umweltstation.treuchltingen.de
+	- reine Infoseite 
+	- Typo3 Seite
 - [ ] museum.treuchtlingen.de
+	- Typo3 Seite
+	- reine Infoseite
 - [ ] mitgestalten.treuchtlingen.de
+	- Typo3 Seite
+	- reine Infoseite
+	- mit Links auf andere Seite
 - [ ] grundschule.treuchtlingen.de
+	- 
 - [ ] treuchtlingen.vision
 - [ ] digitalisierung.treuchtlingen.de
 - [ ] info.treuchtlingen.de
 - [ ] feuerwehr.treuchtlingen.de
-- [ ] toursmus-treuchtlingen.de
+- [ ] tourismus-treuchtlingen.de
+	- Matomo
+- [ ] umfragen.treuchtlingen.de
+	- alle Umfragen gehen auf die Domain beziehungsweise spezifische Formularseite
+- Bürger Service Portal
+	- AKDB
+	- Bindung ans BayernPortal
+	- keine Alternative für Treuchtlingen
+	- DSI Verlinkung passt nicht
+	- DSI Teil fehlt
 
 **Offene Fragen an Kunden:**
 - Werden Cookies gesetzt? (Consent-Banner notwendig?)
@@ -59,12 +79,24 @@
 
 ---
 
-## ✅ Action Items / To-Dos (nach Meeting)
+## Action Items / To-Dos (nach Meeting)
 - [ ] Protokoll versenden
 - [ ] Entwürfe für DSE der Webseiten erstellen
 - [ ] Stellungnahme/Handlungsempfehlung Facebook finalisieren
 
 ---
 
-## 📎 Notizen
+## Notizen
 *Hier während des Meetings mitschreiben...*
+
+- Cookiebanner versperrt Datenschutzerklärung
+- Cookies
+	- es gibt keine
+- Richtlinie
+	- keine iframes etc.
+	- nur externe Links
+- formulare.treuchtlingen.de
+- IT klärt wo Cookies gespeichert werden 
+	- für alle Webseiten
+- MuT App
+- 
