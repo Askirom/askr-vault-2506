@@ -1,2 +1,0 @@
-- Archive transfered on 2025-09-18 to [Google Drive](https://drive.google.com/drive/folders/1Hu5YG6oEtprtzGRtE2AwLm-CCz-6xDM4?usp=drive_link)
-- 
