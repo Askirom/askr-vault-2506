@@ -54,11 +54,8 @@
 	- keine Alternative für Treuchtlingen
 	- DSI Verlinkung passt nicht
 	- DSI Teil fehlt
+- 
 
-**Offene Fragen an Kunden:**
-- Werden Cookies gesetzt? (Consent-Banner notwendig?)
-- Wie ist Matomo konfiguriert? (Serverseitig oder Clientseitig?)
-- Gibt es weitere Einbindungen außer den genannten?
 
 ### 2. Social Media & Plattformen
 *Hintergrund: Beratungswunsch bzgl. Facebook Pflichtpunkte & Urteil Köln (Mail Gräsing 31.07.).*
