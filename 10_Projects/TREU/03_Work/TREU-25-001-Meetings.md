@@ -39,6 +39,8 @@
 	- reine Infoseite
 	- mit Links auf andere Seite
 - [ ] grundschule.treuchtlingen.de
+	- Typo3 Seite
+	- reine Infoseite
 	- 
 - [ ] treuchtlingen.vision
 - [ ] digitalisierung.treuchtlingen.de
@@ -46,8 +48,15 @@
 - [ ] feuerwehr.treuchtlingen.de
 - [ ] tourismus-treuchtlingen.de
 	- Matomo
+	- Mit Alexandra Lindert muss die Tourismus-Seite bewertet werden
+	- dort wird TIM4 genutzt
+	- darin auch shop.treuchtlingen.de
+		- Cookie-Banner fehlt ablehnen
 - [ ] umfragen.treuchtlingen.de
 	- alle Umfragen gehen auf die Domain beziehungsweise spezifische Formularseite
+	- LimeSurvey
+- [ ] wann.treuchtlingen.de
+	- DSI fehlt
 - Bürger Service Portal
 	- AKDB
 	- Bindung ans BayernPortal
@@ -96,4 +105,5 @@
 - IT klärt wo Cookies gespeichert werden 
 	- für alle Webseiten
 - MuT App
+- Heinz fragt bei Fürth nach
 - 
