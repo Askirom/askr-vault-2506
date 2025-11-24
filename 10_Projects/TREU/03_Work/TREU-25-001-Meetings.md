@@ -5,20 +5,20 @@
 - https://www.stmfh.bayern.de/digitalisierung/ki/
 - https://www.bmas.de/DE/Service/Publikationen/Broschueren/a862-leitlinien-ki-einsatz-behoerdliche-praxis-arbeits-sozialverwaltung.html
 
-# 2025-11-24 DSI Webseiten
+## 2025-11-24 DSI Webseiten
 
 **Teilnehmer:** 
 - Robin Leitner (DSB)
 - Marina Stoll (Leitung Stabsstelle)
 - Heinz-M. Gräsing (IT/Verwaltung - *Anwesenheit vermutet, da Termin wegen seines Urlaubs verschoben wurde*)
-## Ziele des Termins
+### Ziele Des Termins
 1. **Statusaufnahme Webseiten:** Klärung der eingebundenen Dienste für die Aktualisierung der Datenschutzerklärungen (DSE).
 2. **Social Media Compliance:** Beratung zum Einsatz von Facebook (und anderen Plattformen) gemäß Vorgaben und aktueller Rechtsprechung.
 
 ---
 
-## Agenda & Besprechungspunkte
-### 1. Webseiten (DSE Aktualisierung)
+### Agenda & Besprechungspunkte
+#### 1. Webseiten (DSE Aktualisierung)
 *Hintergrund: DSEs sind nicht mehr aktuell (Mail Gräsing 31.07.).*
 
 **Aufgabe:** Klären, welche externen Dienste ("Dienste") auf den folgenden Domains laufen (z.B. Matomo, Maps, Fonts, Videos), um die DSE anzupassen.
@@ -66,7 +66,7 @@
 - 
 
 
-### 2. Social Media & Plattformen
+#### 2. Social Media & Plattformen
 *Hintergrund: Beratungswunsch bzgl. Facebook Pflichtpunkte & Urteil Köln (Mail Gräsing 31.07.).*
 
 **Genutzte Plattformen:**
@@ -85,14 +85,14 @@
 
 ---
 
-## Action Items / To-Dos (nach Meeting)
+### Action Items / To-Dos (nach Meeting)
 - [ ] Protokoll versenden
 - [ ] Entwürfe für DSE der Webseiten erstellen
 - [ ] Stellungnahme/Handlungsempfehlung Facebook finalisieren
 
 ---
 
-## Notizen
+### Notizen
 *Hier während des Meetings mitschreiben...*
 
 - Cookiebanner versperrt Datenschutzerklärung

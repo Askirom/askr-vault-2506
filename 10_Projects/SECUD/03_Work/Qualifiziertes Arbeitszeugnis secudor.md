@@ -1,0 +1,13 @@
+- Fachliche Leitung und Koordination des Beraterteams im Bereich Datenschutz und Informationssicherheit.
+- Qualitätssicherung der Arbeitsergebnisse sowie fachlicher Sparringspartner für Kolleginnen und Kollegen bei komplexen Fragestellungen.
+- Förderung des Know-how-Transfers und Best-Practice-Austauschs im Team (z. B. durch Templates, Guidelines und interne Workshops).
+- Strategische Weiterentwicklung des Geschäftsfeldes Datenschutz/Informationssicherheit sowie Ausbau bestehender Mandatsbeziehungen.
+- Operative Steuerung des Bereichs, inklusive Forecasting, Umsatzplanung und Ressourcenmanagement zur Sicherstellung einer optimalen Auslastung.
+- Mandatsverantwortung als zentraler Ansprechpartner und Trusted Advisor für einen breiten Kundenstamm in allen Fragen des Datenschutzes, der Informationssicherheit und Compliance.
+- Konzeption und Implementierung von Datenschutzmanagementsystemen (DSMS) bei mehr als 50 Mandanten.
+- Durchführung komplexer Transfer Impact Assessments (TIA) für internationale Datentransfers in Drittländer (u. a. USA, Albanien, Marokko).
+- Leitung von ISO/IEC 27001-Implementierungsprojekten bei mehreren Mandanten bis zur Zertifizierungsreife.
+- Begleitung und Vorbereitung externer Audits und Zertifizierungsverfahren (u. a. in der Funktion als externer Datenschutzbeauftragter).
+- Durchführung von Datenschutz-Folgenabschätzungen (DSFA/DPIA), insbesondere im SAP-Umfeld.
+- Entwicklung und Implementierung eines umfassenden Löschkonzepts innerhalb der SAP-Landschaft eines Großbank-Kunden.
+- Konzeption und Durchführung von Schulungen und Sensibilisierungsmaßnahmen zu Datenschutz und Informationssicherheit für Fachbereiche und Management.
