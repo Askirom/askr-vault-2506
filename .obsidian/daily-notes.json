@@ -1,5 +1,5 @@
 {
-  "autorun": true,
-  "folder": "var/daily",
+  "autorun": false,
+  "folder": "",
   "template": "bin/Template-Daily-Snippet"
 }

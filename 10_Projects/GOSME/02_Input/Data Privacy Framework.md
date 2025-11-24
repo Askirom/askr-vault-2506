@@ -1,4 +1,4 @@
-# Core Principles
+## Core Principles
 ### 1–NOTICE
 
 a.    An organization must inform individuals about:
@@ -83,7 +83,7 @@ a.    Individuals must have access to personal information about them that an
 
 a.    Individuals must have access to personal information about them that an organization holds and be able to correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated.
 
-# Supplemental Principles
+## Supplemental Principles
 ### 1–Sensitive Data
 
 ---
@@ -399,7 +399,7 @@ b.    Similarly, an organization may use information for certain direct marke
 
 a.    Airline passenger reservation and other travel information, such as frequent flyer or hotel reservation information and special handling needs, such as meals to meet religious requirements or physical assistance, may be transferred to organizations located outside the EU in several different circumstances.  Under the GDPR, personal data may, in the absence of an adequacy decision, be transferred to a third country if appropriate data protection safeguards are provided pursuant to Article 46 GDPR or, in specific situations, if one of the conditions of Article 49 GDPR is fulfilled (e.g., where the data subject has explicitly consented to the transfer).  U.S. organizations subscribing to the EU-U.S. DPF provide adequate protection for personal data and may therefore receive data transfers from the EU on the basis of Article 45 GDPR, without having to put in place a transfer instrument pursuant to Article 46 GDPR or meet  the conditions of Article 49 GDPR.  Since the EU-U.S. DPF includes specific rules for sensitive information, such information (which may need to be collected, for example, in connection with customers’ needs for physical assistance) may be included in transfers to participating organizations.  In all cases, however, the organization transferring the information has to respect the law in the EU Member State in which it is operating, which may inter alia impose special conditions for the handling of sensitive data.
 
-### 14–Pharmaceutical and Medical Products
+### 14–Pharmaceutical And Medical Products
 
 ---
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Projects/GOSME/02_Input/Data Privacy Framework.md",
+                "file": "Log_2025-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data Privacy Framework"
+              "title": "Log_2025-11"
             }
           }
         ]
@@ -235,10 +235,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "146a9183efe78810",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
-    "10_Projects/EMPIC/03_Work/2025-11-24.md",
     "10_Projects/GOSME/02_Input/Data Privacy Framework.md",
+    "10_Projects/EMPIC/03_Work/2025-11-24.md",
     "99_Archive/daily/Stadt Pappenheim.md",
     "99_Archive/TaskForge.md",
     "99_Archive/daily/Rücksendung Caro iPad.md",
@@ -258,7 +258,7 @@
     "10_Projects/SOLVE/02_Input/solve-netto-anforderungen.md",
     "40_Admin/Workout 2025-11.md",
     "99_Archive/rolodex.md",
-    "Log_2025.md",
+    "Log_2025-11.md",
     "var/actions-dashboard.md",
     "40_Admin/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "10_Projects/PERSONAL/03_Work/2025-11-17 Calibrationhouse.md",
