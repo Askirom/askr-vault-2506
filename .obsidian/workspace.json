@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/00_HQ.md",
+                "file": "00_Ops/2025-11_Log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00_HQ"
+              "title": "2025-11_Log"
             }
           }
         ]
@@ -237,12 +237,12 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "00_Ops/00_HQ.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/2025-11_Log.md",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Askirom Framework v18.md",
     "00_Ops",
-    "00_Ops/00_HQ.md",
     "var/daily/2025-11-24.md",
     "10_Projects/SECUD/03_Work/Qualifiziertes Arbeitszeugnis secudor.md",
     "var/daily",
