@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/2025-11_Log.md",
+                "file": "10_Projects/34DIG/_Meetings-34digital.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11_Log"
+              "title": "_Meetings-34digital"
             }
           }
         ]
@@ -237,8 +237,9 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
-    "10_Projects/CLIFO/_Client-CLIFO.md",
     "00_Ops/2025-11_Log.md",
+    "10_Projects/34DIG/_Meetings-34digital.md",
+    "10_Projects/CLIFO/_Client-CLIFO.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/01_HQ_secudor.md",
@@ -272,7 +273,6 @@
     "10_Projects/Realcore/_Client-realcore.md",
     "10_Projects/Realcore",
     "10_Projects/MORY/_Client-Mory.md",
-    "00_Ops/Clientfocus (CLIFO).md",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Signature-RLE 2024_transparent.png",
     "10_Projects/EKIBA/01_Admin/assets/Pasted image 20251030142101.png",

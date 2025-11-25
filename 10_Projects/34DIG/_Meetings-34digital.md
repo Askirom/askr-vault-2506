@@ -1,0 +1,7 @@
+- Anwenderrichtlinie liegt vor aber noch in Bearbeitung
+- TOMs -> Intune wird noch umgesetzt
+- FAQs und Richtlinien aktualisieren
+- Jour Fixe
+	- Dienstag 13:30 immer zweiter Dienstag im Monat
+- Löschkonzept
+	- Das ist noch nicht umgesetzt
