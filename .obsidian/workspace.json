@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log_2025-11.md",
+                "file": "10_Projects/SECUD/03_Work/Qualifiziertes Arbeitszeugnis secudor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Log_2025-11"
+              "title": "Qualifiziertes Arbeitszeugnis secudor"
             }
           }
         ]
@@ -237,9 +237,12 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "var/daily/2025-11-24.md",
+    "var/daily",
+    "var",
+    "Log_2025-11.md",
     "10_Projects/SECUD/03_Work/Qualifiziertes Arbeitszeugnis secudor.md",
     "10_Projects/TREU/03_Work/TREU-25-001-Meetings.md",
-    "Log_2025-11.md",
     "10_Projects/GOSME/02_Input/Data Privacy Framework.md",
     "10_Projects/EMPIC/03_Work/2025-11-24.md",
     "99_Archive/daily/Stadt Pappenheim.md",
@@ -270,11 +273,8 @@
     "10_Projects/PERSONAL/03_Work",
     "10_Projects/PERSONAL/02_Input",
     "10_Projects/PERSONAL/01_Admin",
-    "etc/templates/frontmatter.md",
     "10_Projects/POLFI/02_Input/Attachements/Schreiben Kanzlei Steinbock, 12.09.2025.pdf",
     "10_Projects/POLFI/02_Input/Attachements/Briefing an RA Michael König – Fall Lindner.pdf",
-    "10_Projects/POLFI/02_Input/Attachements/Anlage 9, Auftrag HUK mit neuen Kontaktdaten VN (darunter geschäftlfiche Telefonnummer).pdf",
-    "10_Projects/POLFI/02_Input/Attachements/Anlage 8, Schriftverkehr zwischen Frau Lindner und Fa. Ritzer, 29.08.2025.13.20.28-Ceyhun Ceylan (Ceyhun.Ceylan@ritzergmbh.com).pdf",
     "10_Projects/EKIBA/01_Admin/assets/Pasted image 20251030142101.png",
     "10_Projects/ASKIROM/01_Admin/Bewwerbungsunterlagen/photo_2025-10-06 09.32.58.jpeg",
     "10_Projects/ASKIROM/01_Admin/Bewwerbungsunterlagen/Ausweis.png",
