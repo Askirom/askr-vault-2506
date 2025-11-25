@@ -55,7 +55,7 @@ Finished projects + old cycles/logs.
 
 For every project inside `10_Projects/<Project_Name>`:
 
-- `00_Strategy.md` — Goals, scope, OODA  
+- `_Client-CLIENTNAME.md` — Goals, scope, OODA  
 - `01_Admin` — Docs, materials, resources  
 - `02_Input` — Read-only intake (notes, PDFs, data)  
 - `03_Work` — Drafts, thinking, development  
