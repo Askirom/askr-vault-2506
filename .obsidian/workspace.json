@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/00_System_Guide.md",
+                "file": "00_Ops/2025-11_Log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00_System_Guide"
+              "title": "2025-11_Log"
             }
           }
         ]
@@ -237,9 +237,9 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "00_Ops/00_System_Guide.md",
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/01_HQ_secudor.md",
-    "00_Ops/00_System_Guide.md",
     "10_Projects/ZOELL/_Client-ZOELL.md",
     "10_Projects/ZOELL",
     "10_Projects/VGALT/_Client-VGALT.md",
