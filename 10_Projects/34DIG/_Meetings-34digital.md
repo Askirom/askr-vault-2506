@@ -5,3 +5,4 @@
 	- Dienstag 13:30 immer zweiter Dienstag im Monat
 - Löschkonzept
 	- Das ist noch nicht umgesetzt
+- 
