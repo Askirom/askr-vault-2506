@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/2025-11_Log.md",
+                "file": "10_Projects/CLIFO/_Client-CLIFO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11_Log"
+              "title": "_Client-CLIFO"
             }
           }
         ]
@@ -237,6 +237,7 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "00_Ops/2025-11_Log.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/01_HQ_secudor.md",
