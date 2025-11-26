@@ -43,7 +43,7 @@
 | POLFI | [[_Client-POLFI]] | ⬜ | ⬜ |
 | POLSI | [[_Client-POLSI]] | ⬜ | ⬜ |
 | RBOMN | [[_Client-RBOMN]] | ⬜ | ⬜ |
-| Realcore | [[_Client-Realcore]] | ⬜ | ⬜ |
+| Realcore | [[_Client-realcore]] | ⬜ | ⬜ |
 | SOLN | [[_Client-SOLN]] | ⬜ | ⬜ |
 | SOLVE | [[_Client-SOLVE]] | ⬜ | ⬜ |
 | VEDES | [[_Client-VEDES]] | ⬜ | ⬜ |
