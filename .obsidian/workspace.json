@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/00_System_Guide.md",
+                "file": "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00_System_Guide"
+              "title": "2025-11-26 SoA"
             }
           }
         ]
@@ -235,13 +235,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
+    "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
+    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
+    "00_Ops/00_System_Guide.md",
     "00_Ops/01_HQ_secudor.md",
     "10_Notes/34DIG/_Meetings-34digital.md",
     "00_Ops/2025-11_Log.md",
     "10_Notes/CLIFO/_Client-CLIFO.md",
-    "00_Ops/00_System_Guide.md",
     "00_Ops/02_HQ_Askirom.md",
     "10_Notes/ZOELL/_Client-ZOELL.md",
     "10_Notes/ZOELL",
@@ -269,10 +272,7 @@
     "10_Notes/ARA/_Client-ARA.md",
     "10_Notes/34DIG/_Client-34digital.md",
     "10_Notes/34DIG",
-    "00_Ops/POLFI.md",
-    "10_Notes/Realcore/_Client-realcore.md",
     "10_Notes/Realcore",
-    "10_Notes/MORY/_Client-Mory.md",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Signature-RLE 2024_transparent.png",
     "10_Notes/EKIBA/01_Admin/assets/Pasted image 20251030142101.png",
