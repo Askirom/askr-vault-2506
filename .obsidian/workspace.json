@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
+                "file": "10_Notes/HIVE/Adventskalender Hummerl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-26 SoA"
+              "title": "Adventskalender Hummerl"
             }
           }
         ]
@@ -237,9 +237,10 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
+    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
+    "10_Notes/HIVE/Adventskalender Hummerl.md",
     "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
     "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
-    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/01_HQ_secudor.md",
     "10_Notes/34DIG/_Meetings-34digital.md",
@@ -270,7 +271,6 @@
     "10_Notes/ARCD/_Client-ARCD.md",
     "10_Notes/ARCD",
     "10_Notes/ARA/_Client-ARA.md",
-    "10_Notes/34DIG/_Client-34digital.md",
     "10_Notes/34DIG",
     "10_Notes/Realcore",
     "20_References/identity/Signature-RLE 2024.png",
