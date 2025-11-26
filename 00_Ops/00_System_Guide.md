@@ -1,180 +1,289 @@
-## PKM Ops V1.3 — Operational Manual (General Edition)
+## **PKM Ops V1.3 — Betriebsanleitung (Allgemeine Ausgabe)**
 
-**Core Idea:**  
-- `00_Ops` = the brain of the system  
-- `10_Projects` = where real work happens  
-- `20_Reference` = knowledge base  
-- `30_Tools` = reusable assets  
-- `40_Admin` = life + business ops  
-- `99_Archive` = cold storage
+  
 
-**Roles:** Director → Lead → Analyst  
-You rotate between these mindsets.
+**Kernidee:**
 
----
+- 00_Ops = das Gehirn des Systems
+- 10_Notizen = dort findet echte Arbeit statt
+- 20_Referenz = Wissensbasis
+- 30_Werkzeuge= wiederverwendbare Werkzeuge
+- 40_Admin = Lebens- und Verwaltungsabläufe
+- 99_Archiv = Langzeitspeicher
 
-## 1. Territory (Folder Map)
+  
 
-### `00_Ops` — Command Center
-System management, daily control.
-- `00_HQ.md` — Daily HQ overview  
-- `YYYY-MM-log.md` — Execution log  
-- `00_System_Guide.md` — This manual
+**Rollen:** Director → Lead → Analyst
 
-### `01_Inbox`
-Raw intake for anything unprocessed.  
-Process weekly.
-
-### `10_Projects`
-All active projects (work, personal, study, creative).
-
-### `20_Reference`
-Long-term knowledge: concepts, glossaries, notes, reading.
-
-### `30_Tools`
-Reusable assets:
-- Templates  
-- Checklists  
-- Scripts  
-- Frameworks  
-- Writing tools
-
-### `40_Admin`
-Life + business operations:
-- Finances  
-- Documents  
-- Contracts  
-- Planning
-
-### `99_Archive`
-Finished projects + old cycles/logs.
+Zwischen diesen Denkmodi wechselst du.
 
 ---
 
-## 2. Project Folder Standard
+## **1. Territorium (Ordnerstruktur)**
 
-For every project inside `10_Projects/<Project_Name>`:
+  
 
-- `_Client-CLIENTNAME.md` — Goals, scope, OODA  
-- `01_Admin` — Docs, materials, resources  
-- `02_Input` — Read-only intake (notes, PDFs, data)  
-- `03_Work` — Drafts, thinking, development  
-- `04_Output` — Final results (reports, deliverables, posts, etc.)
+### **00_Ops**
 
-Works for any domain:
-- client work  
-- learning  
-- writing  
-- side-business  
-- research  
-- fitness  
-- personal systems
+###  **— Kommandozentrale**
+
+  
+
+Systemsteuerung, tägliche Kontrolle.
+
+- 00_HQ.md — Tägliche HQ-Übersicht
+    
+- YYYY-MM-log.md — Ausführungslog
+    
+- 00_System_Guide.md — Dieses Handbuch
+    
+
+  
+
+### **01_Inbox**
+
+  
+
+Rohsammlung für alles Unverarbeitete.
+
+Wöchentliche Verarbeitung.
+
+  
+
+### **10_Projects**
+
+  
+
+Alle aktiven Projekte (Arbeit, Privat, Lernen, Kreativ).
+
+  
+
+### **20_Reference**
+
+  
+
+Langfristiges Wissen: Konzepte, Glossare, Notizen, Lektüre.
+
+  
+
+### **30_Tools**
+
+  
+
+Wiederverwendbare Elemente:
+
+- Vorlagen
+    
+- Checklisten
+    
+- Skripte
+    
+- Frameworks
+    
+- Schreibwerkzeuge
+    
+
+  
+
+### **40_Admin**
+
+  
+
+Lebens- und Geschäftsorganisation:
+
+- Finanzen
+    
+- Dokumente
+    
+- Verträge
+    
+- Planung
+    
+
+  
+
+### **99_Archive**
+
+  
+
+Abgeschlossene Projekte + alte Zyklen/Logs.
 
 ---
 
-## 3. Command Stack (Templates)
+## **2. Projektstandard**
 
-### Level 1 — Director (HQ)
+  
 
-~~~markdown
+Für jedes Projekt unter 10_Projects/<Project_Name>:
+
+- _Client-CLIENTNAME.md — Ziele, Umfang, OODA
+    
+- 01_Admin — Dokumente, Materialien, Ressourcen
+    
+- 02_Input — Nur-Lese-Input (Notizen, PDFs, Daten)
+    
+- 03_Work — Entwürfe, Denken, Ausarbeitung
+    
+- 04_Output — Finale Ergebnisse (Berichte, Deliverables, Veröffentlichungen etc.)
+    
+
+  
+
+Funktioniert für alle Bereiche:
+
+- Kundenarbeit
+    
+- Lernen
+    
+- Schreiben
+    
+- Nebenprojekte
+    
+- Forschung
+    
+- Fitness
+    
+- Persönliche Systeme
+    
+
+---
+
+## **3. Command Stack (Vorlagen)**
+
+  
+
+### **Level 1 — Director (HQ)**
+
+```
 # HEADQUARTERS
 
-**Date:** YYYY-MM-DD  
-**Energy:** High | Normal | Low
+**Datum:** YYYY-MM-DD  
+**Energie:** Hoch | Normal | Niedrig
 
-## Active Projects
-- **Project A:** 🟡 blocked on input  
-- **Project B:** 🟢 progressing  
-- **Personal:** 🔴 needs attention
+## Aktive Projekte
+- **Projekt A:** 🟡 blockiert (warte auf Input)  
+- **Projekt B:** 🟢 Fortschritt  
+- **Persönlich:** 🔴 braucht Aufmerksamkeit
 
-## Directives
-1. Main push for today  
-2. One secondary task  
-3. One maintenance task
+## Direktiven
+1. Hauptfokus für heute  
+2. Eine sekundäre Aufgabe  
+3. Eine Maintenance-Aufgabe
 
 ## Radar
-- Upcoming events  
-- Waiting on others  
-- Ideas to evaluate
-~~~
+- Anstehende Ereignisse  
+- Wartepositionen  
+- Ideen zur Bewertung
+```
 
-### Level 2 — Lead (Project Strategy)
+### **Level 2 — Lead (Projektstrategie)**
 
-~~~markdown
-# Strategy — [Project Name]
+```
+# Strategie — [Projektname]
 
-## Objectives
-- [ ] Goal 1  
-- [ ] Goal 2  
-**Phase:** Exploration | Building | Finishing
+## Ziele
+- [ ] Ziel 1  
+- [ ] Ziel 2  
+**Phase:** Exploration | Aufbau | Abschluss
 
-## Analysis (OODA)
-- **Observe:** What is true right now  
-- **Orient:** What it means  
-- **Decide:** What to do  
-- **Act:** Move to Work folder
+## Analyse (OODA)
+- **Observe:** Was gerade wahr ist  
+- **Orient:** Was das bedeutet  
+- **Decide:** Was zu tun ist  
+- **Act:** Übergang in den Work-Ordner
 
-## Next Actions
-- [ ] Action 1  
-- [ ] Action 2
-~~~
+## Nächste Schritte
+- [ ] Aktion 1  
+- [ ] Aktion 2
+```
 
-### Level 3 — Analyst (Execution Log)
+### **Level 3 — Analyst (Ausführungslog)**
 
-~~~markdown
+```
 ## YYYY-MM-DD
 
-**Focus**
-- [ ] Main task  
-- [ ] Secondary task
+**Fokus**
+- [ ] Hauptaufgabe  
+- [ ] Nebenaufgabe
 
 **Log**
-- 09:00 — Work session  
-    - What you did  
-    - Insight  
-    - Next step  
+- 09:00 — Arbeitssession  
+    - Was du getan hast  
+    - Erkenntnis  
+    - Nächster Schritt  
 - 12:00 — Admin  
-    - Short note
-~~~
+    - Kurze Notiz
+```
 
 ---
 
-## 4. Workflow (SOP)
+## **4. Workflow (SOP)**
 
-### Morning Standup
-- Open HQ  
-- Update statuses  
-- Set 1–3 directives
+  
 
-### Engagement
-- Enter project folder  
-- Read `00_Strategy`  
-- Update OODA  
-- Execute in `03_Work`
+### **Morning Standup**
 
-### Execution
-- Log context into monthly log  
-- Keep notes project-local  
-- Maintain separation: Input → Work → Output
+- HQ öffnen
+    
+- Status aktualisieren
+    
+- 1–3 Direktiven setzen
+    
 
-### Completion
-- Ensure deliverables in `04_Output`  
-- Move project to `99_Archive`  
-- Summarize cycle if needed
+  
+
+### **Engagement**
+
+- Projektordner öffnen
+    
+- 00_Strategy lesen
+    
+- OODA aktualisieren
+    
+- In 03_Work ausführen
+    
+
+  
+
+### **Execution**
+
+- Kontext im Monatslog festhalten
+    
+- Projektspezifische Notizen lokal halten
+    
+- Trennung einhalten: Input → Work → Output
+    
+
+  
+
+### **Completion**
+
+- Sicherstellen, dass Deliverables in 04_Output liegen
+    
+- Projekt nach 99_Archive verschieben
+    
+- Zyklus bei Bedarf zusammenfassen
+    
 
 ---
 
-## 5. Rules of Engagement
+## **5. Einsatzregeln**
 
-1. **No action without orientation**  
-   Always check `00_Strategy.md` first.
-
-2. **Input / Work / Output separation**  
-   Prevents contamination and confusion.
-
-3. **Stalled Rule**  
-   - 3 days = 🟡  
-   - 7 days = 🔴
-
-4. **Log reality, not intentions**  
-   The log reflects what actually happened.
+1. **Keine Aktion ohne Orientierung**
+    
+    Immer zuerst 00_Strategy.md prüfen.
+    
+2. **Trennung von Input / Work / Output**
+    
+    Verhindert Vermischung und Chaos.
+    
+3. **Stalled-Regel**
+    
+    - 3 Tage = 🟡
+        
+    - 7 Tage = 🔴
+        
+    
+4. **Log die Realität, nicht die Absicht**
+    
+    Das Log spiegelt wider, was tatsächlich passiert ist.

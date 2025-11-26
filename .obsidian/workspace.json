@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/HIVE/Adventskalender Hummerl.md",
+                "file": "00_Ops/00_System_Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adventskalender Hummerl"
+              "title": "00_System_Guide"
             }
           }
         ]
@@ -237,16 +237,17 @@
   },
   "active": "146a9183efe78810",
   "lastOpenFiles": [
-    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
+    "00_Ops/01_HQ_secudor.md",
+    "00_Ops/02_HQ_Askirom.md",
+    "00_Ops/03_HQ_HiSolutions.md",
     "10_Notes/HIVE/Adventskalender Hummerl.md",
+    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
     "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
     "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
     "00_Ops/00_System_Guide.md",
-    "00_Ops/01_HQ_secudor.md",
     "10_Notes/34DIG/_Meetings-34digital.md",
     "00_Ops/2025-11_Log.md",
     "10_Notes/CLIFO/_Client-CLIFO.md",
-    "00_Ops/02_HQ_Askirom.md",
     "10_Notes/ZOELL/_Client-ZOELL.md",
     "10_Notes/ZOELL",
     "10_Notes/VGALT/_Client-VGALT.md",
@@ -261,7 +262,6 @@
     "10_Notes/POLFI/_Client-POLFI.md",
     "10_Notes/LAALT/_Client-LAALT.md",
     "10_Notes/LAALT",
-    "00_Ops/03_HQ_HiSolutions.md",
     "10_Notes/INSTO/_Client-INSTO.md",
     "10_Notes/INSTO",
     "10_Notes/GRIMM/_Client-Grimm.md",
