@@ -1,286 +1,241 @@
-## **PKM Ops V1.3 — Betriebsanleitung (Allgemeine Ausgabe)**
+# PKM Betrieb V2.1 — Betriebsanleitung
 
-  
+**Grundprinzip:** Denken und Handeln trennen.
 
-**Kernidee:**
-
-- 00_Ops = das Gehirn des Systems
-- 10_Notizen = dort findet echte Arbeit statt
-- 20_Referenz = Wissensbasis
-- 30_Werkzeuge= wiederverwendbare Werkzeuge
-- 40_Admin = Lebens- und Verwaltungsabläufe
-- 99_Archiv = Langzeitspeicher
-
-  
-
-**Rollen:** Director → Lead → Analyst
-
-Zwischen diesen Denkmodi wechselst du.
+- **Obsidian** = Denken (Strategie + Wissen)
+- **TickTick** = Handeln (Aufgaben + Zeit)
 
 ---
 
-## **1. Territorium (Ordnerstruktur)**
+## 1. Struktur
 
-  
-
-### **00_Ops**
-
-###  **— Kommandozentrale**
-
-  
-
-Systemsteuerung, tägliche Kontrolle.
-
-- 00_HQ.md — Tägliche HQ-Übersicht
-    
-- YYYY-MM-log.md — Ausführungslog
-    
-- 00_System_Guide.md — Dieses Handbuch
-    
-
-  
-
-### **01_Inbox**
-
-  
-
-Rohsammlung für alles Unverarbeitete.
-
-Wöchentliche Verarbeitung.
-
-  
-
-### **10_Projects**
-
-  
-
-Alle aktiven Projekte (Arbeit, Privat, Lernen, Kreativ).
-
-  
-
-### **20_Reference**
-
-  
-
-Langfristiges Wissen: Konzepte, Glossare, Notizen, Lektüre.
-
-  
-
-### **30_Tools**
-
-  
-
-Wiederverwendbare Elemente:
-
-- Vorlagen
-    
-- Checklisten
-    
-- Skripte
-    
-- Frameworks
-    
-- Schreibwerkzeuge
-    
-
-  
-
-### **40_Admin**
-
-  
-
-Lebens- und Geschäftsorganisation:
-
-- Finanzen
-    
-- Dokumente
-    
-- Verträge
-    
-- Planung
-    
-
-  
-
-### **99_Archive**
-
-  
-
-Abgeschlossene Projekte + alte Zyklen/Logs.
-
----
-
-## **2. Projektstandard**
-
-  
-
-Für jedes Projekt unter 10_Projects/<Project_Name>:
-
-- _Client-CLIENTNAME.md — Ziele, Umfang, OODA
-    
-- 01_Admin — Dokumente, Materialien, Ressourcen
-    
-- 02_Input — Nur-Lese-Input (Notizen, PDFs, Daten)
-    
-- 03_Work — Entwürfe, Denken, Ausarbeitung
-    
-- 04_Output — Finale Ergebnisse (Berichte, Deliverables, Veröffentlichungen etc.)
-    
-
-  
-
-Funktioniert für alle Bereiche:
-
-- Kundenarbeit
-    
-- Lernen
-    
-- Schreiben
-    
-- Nebenprojekte
-    
-- Forschung
-    
-- Fitness
-    
-- Persönliche Systeme
-    
-
----
-
-## **3. Command Stack (Vorlagen)**
-
-  
-
-### **Level 1 — Director (HQ)**
+### Obsidian
 
 ```
-# HEADQUARTERS
+00_Zentrale/
+  HQ_Secudor.md
+  HQ_Privat.md
+  HQ_HiSolutions.md
 
-**Datum:** YYYY-MM-DD  
-**Energie:** Hoch | Normal | Niedrig
+10_Notizen/
+  CLIFO/
+  Mory/
+  Realcore/
+  [Besprechungsnotizen, Recherche, Gedanken pro Kunde]
 
-## Aktive Projekte
-- **Projekt A:** 🟡 blockiert (warte auf Input)  
-- **Projekt B:** 🟢 Fortschritt  
-- **Persönlich:** 🔴 braucht Aufmerksamkeit
+20_Referenz/
+  [Wissen, Standards, Konzepte, Gesetze]
 
-## Direktiven
-1. Hauptfokus für heute  
-2. Eine sekundäre Aufgabe  
-3. Eine Maintenance-Aufgabe
+30_Werkzeuge/
+  [Vorlagen, Checklisten, Rahmenwerke]
+```
 
-## Radar
-- Anstehende Ereignisse  
-- Wartepositionen  
+### TickTick
+
+```
+Listen = Kunden/Bereiche
+  CLIFO
+  Mory
+  Realcore
+  POLFI
+  ...
+  Verwaltung
+  Privat
+  Baby
+
+Heute-Ansicht = Tagesdirektiven
+Kalender-Ansicht = Zeitblöcke
+```
+
+### Dateisystem
+
+```
+/Kunden/[KUNDE]/
+/Privat/
+```
+
+---
+
+## 2. Was wo lebt
+
+|Inhalt|Ort|
+|---|---|
+|Strategieübersicht (HQ)|Obsidian 00_Zentrale/|
+|Aufgaben & Aktionen|TickTick|
+|Zeitplanung|TickTick Kalender|
+|Status pro Kunde|TickTick (angeheftete Aufgabe)|
+|Besprechungsnotizen|Obsidian 10_Notizen/|
+|Wissen & Standards|Obsidian 20_Referenz/|
+|Vorlagen|Obsidian 30_Werkzeuge/|
+|Dateien (Verträge, PDFs)|/Kunden/[KUNDE]/|
+|Externe Termine|Google Kalender|
+
+---
+
+## 3. Modi
+
+**Strategie** (Wöchentlich)
+
+- Öffnet relevantes HQ in Obsidian
+- Überblick über alle Bereiche
+- Setzt Wochendirektiven
+
+**Umsetzung** (Täglich)
+
+- Öffnet TickTick Heute-Ansicht
+- Arbeitet die Liste ab
+- Keine Strategie, nur Handlung
+
+---
+
+## 4. HQ-Vorlage
+
+```markdown
+# [BEREICH] HQ — [MODUS]
+
+**Stichtag:** TT.MM.JJJJ
+**Verbleibend:** X Wochen
+
+## 1. 🔴 AKUT
+- Kunde: Aufgabe
+
+## 2. 🟡 IN VORBEREITUNG
+- Kunde: Aufgabe
+
+## 3. 🟢 LAUFENDER BETRIEB
+- Kunde: Status
+
+## 4. DIREKTIVEN (KW XX)
+1. Erste Priorität
+2. Zweite Priorität
+3. Dritte Priorität
+
+## 5. RADAR
+- Kommende Termine
+- Abhängigkeiten
 - Ideen zur Bewertung
 ```
 
-### **Level 2 — Lead (Projektstrategie)**
+---
 
-```
-# Strategie — [Projektname]
+## 5. Abläufe
 
-## Ziele
-- [ ] Ziel 1  
-- [ ] Ziel 2  
-**Phase:** Exploration | Aufbau | Abschluss
+### Wöchentlich (Montag, 15 Min)
 
-## Analyse (OODA)
-- **Observe:** Was gerade wahr ist  
-- **Orient:** Was das bedeutet  
-- **Decide:** Was zu tun ist  
-- **Act:** Übergang in den Work-Ordner
+1. Obsidian: Relevantes HQ öffnen
+2. Kundenstatus aktualisieren (🔴🟡🟢)
+3. Wochendirektiven setzen
+4. TickTick: Woche planen
 
-## Nächste Schritte
-- [ ] Aktion 1  
-- [ ] Aktion 2
-```
+### Täglich (3 Min)
 
-### **Level 3 — Analyst (Ausführungslog)**
+1. TickTick Heute-Ansicht öffnen
+2. Das ist dein Tag
+3. Ausführen
 
-```
-## YYYY-MM-DD
+### Vor Kundenarbeit (30 Sek)
 
-**Fokus**
-- [ ] Hauptaufgabe  
-- [ ] Nebenaufgabe
+1. TickTick: Kundenliste öffnen
+2. Angehefteten Status lesen
+3. Noch aktuell? → Arbeiten
+4. Nicht aktuell? → Aktualisieren, dann arbeiten
 
-**Log**
-- 09:00 — Arbeitssession  
-    - Was du getan hast  
-    - Erkenntnis  
-    - Nächster Schritt  
-- 12:00 — Admin  
-    - Kurze Notiz
-```
+### Nach Besprechungen
+
+1. Obsidian: Notiz in 10_Notizen/KUNDE/ erstellen
+2. Aktionspunkte → TickTick
 
 ---
 
-## **4. Workflow (SOP)**
+## 6. Regeln
 
-  
+### Grundregeln
 
-### **Morning Standup**
-
-- HQ öffnen
-    
-- Status aktualisieren
-    
-- 1–3 Direktiven setzen
-    
-
-  
-
-### **Engagement**
-
-- Projektordner öffnen
-    
-- 00_Strategy lesen
-    
-- OODA aktualisieren
-    
-- In 03_Work ausführen
+1. **Keine Aufgaben in Obsidian** Aufgaben leben immer in TickTick.
+2. **Keine Tagesnotizen** Tot. Für immer.
+3. **Keine Projektordner in Obsidian** Keine 01-04 Struktur mehr.
+4. **Status lebt in TickTick** Angeheftete Aufgabe mit Beschreibung.
+5. **HQ ist wöchentlich, nicht täglich** TickTick Heute-Ansicht ist der Tagesstart.
+6. **Dateien leben außerhalb von Obsidian** Im Dateisystem unter /Kunden/[KUNDE]/.
     
 
-  
+### Leitplanken (gegen Drift)
 
-### **Execution**
+**7. Status-Format (3 Zeilen)**
 
-- Kontext im Monatslog festhalten
-    
-- Projektspezifische Notizen lokal halten
-    
-- Trennung einhalten: Input → Work → Output
-    
+```
+Status:
+Nächster Schritt:
+Stand: TT.MM.
+```
 
-  
+Mehr → Obsidian.
 
-### **Completion**
+**8. Listen-Logik**
 
-- Sicherstellen, dass Deliverables in 04_Output liegen
-    
-- Projekt nach 99_Archive verschieben
-    
-- Zyklus bei Bedarf zusammenfassen
-    
+```
+1 Kunde = 1 Liste
+Mehrere Projekte = Sections
+Nie neue Listen pro Projekt
+```
+
+**9. Dateipfad**
+
+```
+/Kunden/[KUNDE]/
+```
+
+Keine Ausnahmen. Keine Downloads. Keine Desktop-Ablage.
 
 ---
 
-## **5. Einsatzregeln**
+## 7. Übergang von V1.3
 
-1. **Keine Aktion ohne Orientierung**
-    
-    Immer zuerst 00_Strategy.md prüfen.
-    
-1. **Trennung von Input / Work / Output**
-    Verhindert Vermischung und Chaos.
-    
-2. **Stalled-Regel**
-    
-    - 3 Tage = 🟡    
-    - 7 Tage = 🔴
-    
-3. **Log die Realität, nicht die Absicht**
-    
-    Das Log spiegelt wider, was tatsächlich passiert ist.
+### Gestrichen:
+
+- 10_Projects/ mit Kundenordnern → TickTick Listen
+- _Client-KUNDE.md Dateien → TickTick Aufgabenbeschreibung
+- 01_Admin, 02_Input, 03_Arbeit, 04_Ergebnisse → Dateisystem
+- JJJJ-MM-log.md → Erledigte TickTick-Aufgaben sind das Protokoll
+- 01_Inbox → TickTick Eingang
+- 40_Admin → TickTick Liste oder Dateisystem
+- 99_Archive → TickTick erledigte Projekte
+- Tagesnotizen → Tot
+- Stufe 2 + Stufe 3 Vorlagen → Leben in TickTick
+
+### Bleibt:
+
+- Besprechungsnotizen (immer)
+- Wissen/Referenz (immer)
+- Vorlagen (immer)
+- HQ-Übersicht (wöchentlich statt täglich)
+
+---
+
+## 8. Philosophie
+
+```
+┌─────────────────────────────────────┐
+│           OBSIDIAN                  │
+│          (Denken)                   │
+│                                     │
+│  Strategie · Wissen · Notizen       │
+│  Wöchentlich besucht                │
+└─────────────────────────────────────┘
+              │
+              │ Direktiven fließen nach unten
+              ▼
+┌─────────────────────────────────────┐
+│           TICKTICK                  │
+│          (Handeln)                  │
+│                                     │
+│  Aufgaben · Zeit · Ausführung       │
+│  Täglich gelebt                     │
+└─────────────────────────────────────┘
+```
+
+**Keine Überlappung. Saubere Trennung.**
+
+---
+
+**Version:** 2.1 **Datum:** 27.11.2025 **Prinzip:** Denken und Handeln trennen. Obsidian für Strategie, TickTick für Ausführung. **Leitplanken:** Status-Format, Listen-Logik, Dateipfad.
