@@ -273,17 +273,14 @@ Funktioniert für alle Bereiche:
     
     Immer zuerst 00_Strategy.md prüfen.
     
-2. **Trennung von Input / Work / Output**
-    
+1. **Trennung von Input / Work / Output**
     Verhindert Vermischung und Chaos.
     
-3. **Stalled-Regel**
+2. **Stalled-Regel**
     
-    - 3 Tage = 🟡
-        
+    - 3 Tage = 🟡    
     - 7 Tage = 🔴
-        
     
-4. **Log die Realität, nicht die Absicht**
+3. **Log die Realität, nicht die Absicht**
     
     Das Log spiegelt wider, was tatsächlich passiert ist.
