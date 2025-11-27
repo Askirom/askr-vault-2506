@@ -1,6 +1,6 @@
-# 1        Allgemeines
+## 1 Allgemeines
 
-## 1.1       Zweck dieses Dokumentes
+### 1.1 Zweck Dieses Dokumentes
 
 Diese Richtlinie dient der Einführung eines strukturierten Change-Management-Prozesses in der Organisation des Evangelischen Oberkirchenrats (EOK). Ziel ist es, Änderungen an IT-Systemen und -Prozessen systematisch zu planen, zu bewerten, zu genehmigen und zu überwachen. Durch die Implementierung eines solchen Prozesses soll sichergestellt werden, dass Änderungen effizient und sicher durchgeführt werden, um die Integrität und Verfügbarkeit der IT-Dienste des EOK zu gewährleisten.
 
@@ -22,11 +22,11 @@ Diese Richtlinie dient der Einführung eines strukturierten Change-Management-Pr
 
   
 
-## 1.2       Geltungsbereich und Anwender*innen
+### 1.2 Geltungsbereich Und Anwender*innen
 
 Der Geltungsbereich dieser Richtlinie umfasst die gesamte IT-Abteilung des EOK. Die Hauptanwender dieser Richtlinie sind die Mitarbeitenden der Abteilung.
 
-## 1.3       Verantwortlichkeiten
+### 1.3 Verantwortlichkeiten
 
 Verantwortlichkeiten
 
@@ -40,19 +40,19 @@ Verantwortlichkeiten
 
 •      **Endbenutzer**: Endbenutzer sind verpflichtet, Änderungen und Anomalien zu melden, die sich auf den Betrieb der IT-Systeme auswirken könnten. Sie tragen zur Bewertung der Auswirkungen und zur Qualitätssicherung der implementierten Changes bei.
 
-## 1.4       Einhaltung
+### 1.4 Einhaltung
 
 Die Einhaltung dieser Richtlinie wird durch spezifische Key Performance Indikatoren (KPI) überprüft, genaueres ist unter der Überschrift Leistungsmessung und KPI zu finden. Bei Nichtbeachtung der Richtlinie werden entsprechende Korrekturmaßnahmen eingeleitet.
 
-## 1.5       Sonderregelungen und Abweichungen
+### 1.5 Sonderregelungen Und Abweichungen
 
 Für diese Richtlinie gibt es derzeit keine Sonderregelungen oder Abweichungen. Alle Mitarbeitenden der IT-Abteilung sind verpflichtet, die festgelegten Verfahren und Anforderungen einzuhalten. Jede Anfrage nach einer Sonderregelung oder Abweichung muss schriftlich bei der Abteilungsleitung IT eingereicht und genehmigt werden.
 
-# 2        Abgrenzung: IT-Support Serviceanfragen vs. Change-Request
+## 2 Abgrenzung: IT-Support Serviceanfragen vs. Change-Request
 
 Um Missverständnisse zu vermeiden, wird im Folgenden der Unterschied zwischen einer IT-Support-Serviceanfrage und einem Change-Request präzise definiert. Ein besonderer Fokus liegt auf der klaren Trennung zwischen Serviceanfragen und Standardänderungen im Change-Management-Prozess:
 
-## 2.1       IT-Support Serviceanfragen
+### 2.1 IT-Support Serviceanfragen
 
 **Definition:**  
 Eine Serviceanfrage ist eine einfache Anfrage zur Nutzung eines vorhandenen IT-Services oder zur Unterstützung bei standardisierten Benutzerbedürfnissen. Sie betrifft keine Änderung an IT-Systemen oder -Prozessen
@@ -77,7 +77,7 @@ Eine Serviceanfrage ist eine einfache Anfrage zur Nutzung eines vorhandenen IT-S
 
 ·       Zugriff auf ein bestehendes Gruppenlaufwerk
 
-## 2.2       Change-Request
+### 2.2 Change-Request
 
 **Definition****[[JE4]](#_msocom_4)** **:**  
 Ein Change bezeichnet eine geplante und systematische Änderung an IT-Systemen oder -Prozessen, die potenzielle Auswirkungen auf die Infrastruktur, den Betrieb oder die Sicherheit haben kann.
@@ -100,9 +100,9 @@ o   System-Upgrades oder größere Hardware-Austausche
 
 o   Installation oder Aktualisierung von Standardsoftware
 
-# 3        Änderungsarten (Change-Typen)
+## 3 Änderungsarten (Change-Typen)
 
-## 3.1       Standardänderung
+### 3.1 Standardänderung
 
 •      **Beschreibung:** Standardänderungen sind vordefinierte, wiederkehrende Änderungen mit geringem Risiko, die grundsätzlich genehmigt sind. Obwohl sie oft routinemäßig erfolgen, betreffen sie aktiv die IT-Infrastruktur oder die IT-Services und unterliegen daher dem Change-Management-Prozess.
 
@@ -110,7 +110,7 @@ o   Installation oder Aktualisierung von Standardsoftware
 
 •      **Beispiele:** Routinemäßige Maßnahmen wie Verskriptung einer Anwendung in DSM oder eine Prozessanpassung in OTOBO, welche typische Aufgaben / Änderungen im Tagesgeschäft darstellen.
 
-## 3.2       Geplante Änderung
+### 3.2 Geplante Änderung
 
 •      **Beschreibung:** Geplante Änderungen sind wohlüberlegt und umfassend vorbereitet. Sie beinhalten eine detaillierte Beschreibung, Bewertung der betroffenen Systeme und einen klar definierten Genehmigungsprozess. Geplante Änderungen sind strategisch ausgerichtet, um entweder neue Funktionen zu implementieren oder bestehende Systeme zu verbessern.
 
@@ -120,7 +120,7 @@ o   Installation oder Aktualisierung von Standardsoftware
 
 •      **Beispiele**: Stromabschaltung Trafostation – Ein Ereignis, dass zu einem geplanten Zeitpunkt stattfindet (z.B. Wochenende) und mehrere Aspekte wie Benachrichtigung TelemaxX / Telekom oder die Abschaltung der Switche beinhaltet. Das Ereignis muss ebenfalls durch den Vorgesetzten im Vorfeld genehmigt werden.
 
-## 3.3       Notfalländerung
+### 3.3 Notfalländerung
 
 •      **Beschreibung:** Notfalländerungen werden eingeleitet, um dringende Probleme zu adressieren, die unmittelbare Auswirkungen auf Geschäftsoperationen oder die Sicherheit haben können. Die Prozesse sind darauf ausgelegt, schnell zu reagieren, wobei die Zeitrahmen für die Umsetzung (Start und Ende) oft tatsächlich sind, um den unmittelbaren Bedürfnissen gerecht zu werden.
 
@@ -128,7 +128,7 @@ o   Installation oder Aktualisierung von Standardsoftware
 
 •      **Genehmigung:** Keine vorherige Genehmigung erforderlich, nachträgliche Genehmigung frühestmöglich.
 
-# 4        Interne Kommunikation von Änderungen (Teams)
+## 4 Interne Kommunikation Von Änderungen (Teams)
 
 Die untenstehende Tabelle soll zur Einschätzung der Risikobewertung der Change-Request‘s dienen. Die Abteilung IT hat sich darauf geeinigt, die Kategorien Mittel und Hoch intern in Teams zu kommunizieren, da dort ein potenzielles Risiko entstehen kann, welches Auswirkungen auf den Betrieb haben kann.
 
@@ -139,7 +139,7 @@ Die untenstehende Tabelle soll zur Einschätzung der Risikobewertung der Change-
 |**Mittel (M)**|- Eine mäßige Anzahl von Mitarbeitern ist ist/kann betroffen sein und/oder kann ihre Aufgaben nicht wie vorgesehen erfüllen.<br>- Eine mäßige Anzahl von Kunden ist betroffen und/oder erfährt Einschränkungen beim Komfort.|
 |**Niedrig (N)**|- Eine minimale Anzahl von Mitarbeitern ist/kann betroffen sein und/oder kann ihre Aufgaben erfüllen, jedoch nur mit zusätzlichem Aufwand.<br>- Eine minimale Anzahl von Kunden ist betroffen und/oder erfährt Einschränkungen beim Komfort, jedoch nur in geringem Umfang.|
 
-# 5        Change-Anforderungen und -Anträge
+## 5 Change-Anforderungen Und -Anträge
 
 Alle Change-Anforderungen und -Anträge werden im internen Ticketsystem des EOK der EKIBA[[JE5]](#_msocom_5)  erfasst und verwaltet. Dieses Ticketsystem stellt sicher, dass alle notwendigen Informationen und Dokumentationen zentral gesammelt und zugänglich sind.
 
@@ -167,31 +167,31 @@ o   Test- und Validierungsverfahren
 
 •      **Aktualisierung und Nachverfolgung**: Change-Anträge müssen regelmäßig aktualisiert und der Fortschritt im Ticketsystem dokumentiert werden. Dies ermöglicht eine lückenlose Nachverfolgung des Status und der Umsetzung der Änderungen.
 
-# 6        Genehmigungsverfahren[[RL6]](#_msocom_6) 
+## 6 Genehmigungsverfahren[[RL6]](#_msocom_6)
 
 Das Genehmigungsverfahren im Change-Management-Prozess gewährleistet, dass alle Änderungen sorgfältig bewertet und genehmigt werden, bevor sie implementiert werden. Der Prozess wird im internen Ticketsystem dokumentiert und verwaltet.
 
-## 6.1       Ablauf des Genehmigungsverfahrens
+### 6.1 Ablauf Des Genehmigungsverfahrens
 
-### 6.1.1      Einreichung des Change-Antrags
+#### 6.1.1 Einreichung Des Change-Antrags
 
 •      Change-Anträge werden im internen Ticketsystem eingereicht.
 
 •      Der Antragsteller muss alle erforderlichen Felder ausfüllen, z.B. Beschreibung, Begründung, Auswirkungen, Dringlichkeit und betroffene Systeme.
 
-### 6.1.2      Vorprüfung durch die IT-Abteilung
+#### 6.1.2 Vorprüfung Durch Die IT-Abteilung
 
 •      Die IT-Abteilung prüft den Antrag auf Vollständigkeit und Korrektheit.
 
 •      Bei unvollständigen Anträgen fordert die IT-Abteilung zusätzliche Informationen an.
 
-### 6.1.3      Bewertung des Change-Antrags
+#### 6.1.3 Bewertung Des Change-Antrags
 
 ·       Die IT-Abteilung bewertet den Change-Antrag anhand von Kriterien wie Risiko, Auswirkungen und Dringlichkeit.
 
 ·       Falls notwendig, konsultiert die IT-Abteilung die Fachabteilungen, um eine fundierte Bewertung zu gewährleisten.
 
-### 6.1.4      Genehmigung durch die Abteilungs-/Bereichsleitung IT
+#### 6.1.4 Genehmigung Durch Die Abteilungs-/Bereichsleitung IT
 
 ·       Die Abteilungs-/Bereichsleitung IT überprüft den Change-Antrag und die Bewertung der IT-Abteilung.
 
@@ -199,45 +199,45 @@ Das Genehmigungsverfahren im Change-Management-Prozess gewährleistet, dass alle
 
 ·       Bei Genehmigung wird der Change-Antrag im Ticketsystem als genehmigt markiert und zur Umsetzung freigegeben.
 
-## 6.2       Dokumentation und Kommunikation
+### 6.2 Dokumentation Und Kommunikation
 
 •      Alle Genehmigungsentscheidungen und relevanten Dokumentationen werden im Ticketsystem erfasst.
 
 •      Die IT-Abteilung informiert alle betroffenen Parteien über die Genehmigung und die nächsten Schritte.
 
-## 6.3       Sonderfälle
+### 6.3 Sonderfälle
 
-### 6.3.1      Notfalländerungen
+#### 6.3.1 Notfalländerungen
 
 •      Bei Notfalländerungen erfolgt eine beschleunigte Prüfung und Genehmigung durch die Abteilungs-/Bereichsleitung IT im Nachgang.
 
 •      Diese Änderungen werden nachträglich im Ticketsystem dokumentiert und bewertet.
 
-### 6.3.2      Standardänderungen
+#### 6.3.2 Standardänderungen
 
 •      Für wiederkehrende, geringfügige Änderungen können Standardprozesse definiert werden, die eine vereinfachte Genehmigung ermöglichen.
 
 •      Diese Standardprozesse werden von der Abteilungs-/Bereichsleitung IT festgelegt und im Ticketsystem dokumentiert.
 
-# 7        Planung und Implementierung:
+## 7 Planung Und Implementierung:
 
 Die Planung und Implementierung von Changes erfolgt systematisch, um sicherzustellen, dass alle Änderungen effizient und mit minimalen Störungen durchgeführt werden. Die IT-Abteilung spielt hierbei eine zentrale Rolle und nutzt das interne Ticketsystem zur Verwaltung des gesamten Prozesses.
 
-## 7.1       Planung der Changes
+### 7.1 Planung Der Changes
 
-### 7.1.1      Erstellung eines Implementierungsplans
+#### 7.1.1 Erstellung Eines Implementierungsplans
 
 •      Nach der Genehmigung eines Changes erstellt die IT-Abteilung einen Implementierungsplan.
 
 •      Der Plan umfasst alle notwendigen Schritte zur Umsetzung des Changes, einschließlich Zeitplan, Ressourcenbedarf und beteiligte Personen.
 
-### 7.1.2      Risikobewertung und Notfallpläne
+#### 7.1.2 Risikobewertung Und Notfallpläne
 
 •      Eine Risikobewertung wird durchgeführt, um potenzielle Probleme und deren Auswirkungen zu identifizieren.
 
 •      Notfallpläne (Rollback-Pläne) werden entwickelt, um auf mögliche Fehlentwicklungen reagieren zu können.
 
-### 7.1.3      Test- und Validierungsphase
+#### 7.1.3 Test- Und Validierungsphase
 
 •      Vor der endgültigen Implementierung wird der Change in einer Testumgebung überprüft.
 
@@ -245,99 +245,99 @@ Die Planung und Implementierung von Changes erfolgt systematisch, um sicherzuste
 
 •      Falls erforderlich, wird eine Pilotgruppe zur Validierung des Changes eingesetzt.
 
-### 7.1.4      Kommunikation des Implementierungsplans
+#### 7.1.4 Kommunikation Des Implementierungsplans
 
 •      Der Implementierungsplan wird an alle betroffenen Parteien kommuniziert.
 
 •      Alle Beteiligten werden über den Zeitplan, die zu erwartenden Änderungen und mögliche Auswirkungen informiert.
 
-## 7.2       Implementierung der Changes
+### 7.2 Implementierung Der Changes
 
-### 7.2.1      Durchführung der Änderungen
+#### 7.2.1 Durchführung Der Änderungen
 
 •      Die IT-Abteilung führt die genehmigten Changes gemäß dem Implementierungsplan durch.
 
 •      Während der Implementierung werden alle Schritte und Aktivitäten im Ticketsystem dokumentiert.
 
-### 7.2.2      Überwachung und Kontrolle
+#### 7.2.2 Überwachung Und Kontrolle
 
 •      Die Implementierung wird kontinuierlich überwacht, um sicherzustellen, dass der Change planmäßig verläuft.
 
 •      Bei auftretenden Problemen wird sofort reagiert und gegebenenfalls der Notfallplan aktiviert.
 
-### 7.2.3      Abschlusstests und Validierung
+#### 7.2.3 Abschlusstests Und Validierung
 
 •      Nach Abschluss der Implementierung werden abschließende Tests durchgeführt, um die korrekte Umsetzung des Changes zu bestätigen.
 
 •      Die Ergebnisse dieser Tests werden im Ticketsystem dokumentiert.
 
-### 7.2.4      Dokumentation und Berichtswesen
+#### 7.2.4 Dokumentation Und Berichtswesen
 
 •      Alle Aktivitäten, Tests und Ergebnisse der Implementierung werden ausführlich im Ticketsystem dokumentiert.
 
-### 7.2.5      Kommunikation des Abschlusses
+#### 7.2.5 Kommunikation Des Abschlusses
 
 •      Nach erfolgreicher Implementierung werden alle betroffenen Parteien über den Abschluss des Changes und die Ergebnisse der abschließenden Tests informiert.
 
-## 7.3       Sonderfall Notfalländerung
+### 7.3 Sonderfall Notfalländerung
 
-### 7.3.1      Erkennung und Meldung
+#### 7.3.1 Erkennung Und Meldung
 
 •      Notfälle werden von Endbenutzern, der IT-Abteilung oder externen Quellen erkannt und sofort im internen Ticketsystem gemeldet.
 
 •      Die Abteilungs-/Bereichsleitung IT wird unverzüglich über den Notfall informiert.
 
-### 7.3.2      Sofortige Bewertung
+#### 7.3.2 Sofortige Bewertung
 
 •      Die Abteilungs-/Bereichsleitung IT und die IT-Abteilung bewerten den Notfall-Change sofort, um die Dringlichkeit und die erforderlichen Maßnahmen zu bestimmen.
 
 •      Eine Risikobewertung wird durchgeführt, um die potenziellen Auswirkungen zu verstehen und geeignete Maßnahmen zu planen.
 
-### 7.3.3      Genehmigung
+#### 7.3.3 Genehmigung
 
 •      Die Abteilungs-/Bereichsleitung IT genehmigt den Notfall-Change im Nachgang, um Verzögerungen zu vermeiden.
 
 •      Die Genehmigung und die Gründe für die Dringlichkeit werden im Ticketsystem dokumentiert.
 
-### 7.3.4      Implementierung
+#### 7.3.4 Implementierung
 
 •      Die IT-Abteilung führt die notwendigen Änderungen sofort durch.
 
 •      Alle Schritte und Aktivitäten werden in Echtzeit im Ticketsystem dokumentiert, um eine vollständige Nachverfolgbarkeit zu gewährleisten.
 
-### 7.3.5      Überwachung und Kontrolle
+#### 7.3.5 Überwachung Und Kontrolle
 
 •      Die Implementierung des Notfall-Changes wird kontinuierlich überwacht.
 
 •      Bei unerwarteten Problemen wird die Abteilungs-/Bereichsleitung IT sofort informiert, und zusätzliche Maßnahmen werden ergriffen.
 
-### 7.3.6      Abschlusstests und Validierung
+#### 7.3.6 Abschlusstests Und Validierung
 
 •      Nach der Implementierung werden abschließende Tests durchgeführt, um sicherzustellen, dass der Change erfolgreich war und keine weiteren Probleme verursacht.
 
 •      Die Testergebnisse werden im Ticketsystem dokumentiert.
 
-### 7.3.7      Dokumentation und Nachverfolgung
+#### 7.3.7 Dokumentation Und Nachverfolgung
 
 •      Alle Details des Notfall-Changes, einschließlich der Bewertung, Genehmigung, Implementierung und Testergebnisse, werden umfassend im Ticketsystem dokumentiert.
 
-### 7.3.8      Review und Lessons Learned
+#### 7.3.8 Review Und Lessons Learned
 
 •      Nach der Stabilisierung des Systems wird der Notfall-Change im Rahmen eines Post-Implementation Reviews (PIR) bewertet.
 
 •      Lessons Learned werden dokumentiert und genutzt, um zukünftige Notfall-Change-Prozesse zu verbessern.
 
-# 8        Schulung und Sensibilisierung:
+## 8 Schulung Und Sensibilisierung:
 
 Die Mitarbeitenden sind ein wesentlicher Faktor im Sicherheitskonzept. Daher bietet die Organisation regelmäßig Schulungen für IT-Mitarbeitende an, um das Bewusstsein für die Bedeutung des Change-Managements zu schärfen. Diese Schulungen stellen zudem sicher, dass jeder IT-Mitarbeitende die geltenden Richtlinien kennt und befolgt.
 
-# 9        Leistungsmessung und KPI
+## 9 Leistungsmessung Und KPI
 
 Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozesses werden folgende Key Performance Indicators (KPIs) erhoben und ausgewertet.
 
-## 9.1       Übersicht der KPIs
+### 9.1 Übersicht Der KPIs
 
-### 9.1.1      Change Success Rate
+#### 9.1.1 Change Success Rate
 
 ·       Beschreibung: Prozentsatz der erfolgreich implementierten Changes ohne unerwartete Probleme oder Rollbacks.
 
@@ -345,7 +345,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: >95%
 
-### 9.1.2      Change Failure Rate
+#### 9.1.2 Change Failure Rate
 
 ·       Beschreibung: Prozentsatz der Changes, die zu Störungen oder Rollbacks führten.
 
@@ -353,7 +353,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: <5%
 
-### 9.1.3      Durchschnittliche Durchlaufzeit von Changes
+#### 9.1.3 Durchschnittliche Durchlaufzeit Von Changes
 
 ·       Beschreibung: Durchschnittliche Zeit von der Einreichung bis zur vollständigen Implementierung eines Changes.
 
@@ -361,7 +361,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: <5 Arbeitstage für Standardänderungen
 
-### 9.1.4      Anteil ungeplanter (Notfall-) Changes
+#### 9.1.4 Anteil Ungeplanter (Notfall-) Changes
 
 ·       Beschreibung: Prozentsatz der Notfall-Changes im Verhältnis zur Gesamtzahl der Changes.
 
@@ -369,7 +369,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: <10%
 
-### 9.1.5      Change Backlog Trend
+#### 9.1.5 Change Backlog Trend
 
 ·       Beschreibung: Entwicklung der Anzahl offener Change-Anträge über die Zeit.
 
@@ -377,7 +377,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: Abnehmend oder stabil
 
-### 9.1.6      Einhaltung des Change-Prozesses
+#### 9.1.6 Einhaltung Des Change-Prozesses
 
 ·       Beschreibung: Prozentsatz der Changes, die alle erforderlichen Schritte des Genehmigungsprozesses durchlaufen haben.
 
@@ -385,7 +385,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: 100%
 
-### 9.1.7      Anzahl der Changes pro Zeiteinheit
+#### 9.1.7 Anzahl Der Changes pro Zeiteinheit
 
 ·       Beschreibung: Gesamtzahl der implementierten Changes in einem bestimmten Zeitraum (z.B. pro Monat).
 
@@ -393,7 +393,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: Abhängig von der Organisationsgröße und -komplexität, wird jährlich festgelegt
 
-### 9.1.8      Durchschnittliche Zeit bis zur Genehmigung
+#### 9.1.8 Durchschnittliche Zeit Bis Zur Genehmigung
 
 ·       Beschreibung: Durchschnittliche Zeit von der Einreichung eines Change-Antrags bis zur Genehmigung.
 
@@ -401,7 +401,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Zielwert: <2 Arbeitstage für Standardänderungen
 
-## 9.2       Erhebung und Auswertung
+### 9.2 Erhebung Und Auswertung
 
 ·       Die KPIs werden monatlich über das interne Ticketsystem erhoben.
 
@@ -411,7 +411,7 @@ Zur Überwachung und kontinuierlichen Verbesserung des Change-Management-Prozess
 
 ·       Die Auswertung erfolgt quartalsweise, um Trends und Entwicklungen zu identifizieren.
 
-## 9.3       Berichterstattung
+### 9.3 Berichterstattung
 
 ·       Ein KPI-Bericht wird quartalsweise von der Abteilungs-/Bereichsleitung IT erstellt.
 
@@ -427,7 +427,7 @@ o   Vorgeschlagene Maßnahmen zur Prozessoptimierung
 
 ·       Der Bericht wird an das Management und alle relevanten Stakeholder verteilt.
 
-## 9.4       Überprüfung und Anpassung
+### 9.4 Überprüfung Und Anpassung
 
 ·       Die KPIs und ihre Zielwerte werden jährlich im Rahmen eines Review-Meetings überprüft.
 
@@ -439,7 +439,7 @@ o   Vorgeschlagene Maßnahmen zur Prozessoptimierung
 
 ·       Vorschläge für neue oder geänderte KPIs können von allen Beteiligten eingebracht werden und werden im Review-Meeting diskutiert.
 
-## 9.5       Verwendung der KPIs zur Prozessverbesserung
+### 9.5 Verwendung Der KPIs Zur Prozessverbesserung
 
 ·       Die erhobenen KPIs dienen als Grundlage für die kontinuierliche Verbesserung des Change-Management-Prozesses.
 
