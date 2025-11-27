@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+                "file": "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-27 Netto Anforderungen"
+              "title": "solve-netto-anforderungen"
             }
           }
         ],
@@ -250,10 +250,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "52908fe9fb489271",
   "lastOpenFiles": [
-    "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
     "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+    "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
     "10_Notes/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/01_HQ_secudor.md",

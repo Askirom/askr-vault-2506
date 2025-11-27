@@ -1,51 +1,54 @@
-# Meeting-Notizen: Netto IT-Sicherheitsanforderungen
 
-## Ausgangslage
+## Meeting-Notizen: Netto IT-Sicherheitsvereinbarung
 
-Dokument enthält 54 Einzelvorgaben + 100.000 € Vertragsstrafe pro Verstoß. Viele Anforderungen sind für ein 8-Personen-Unternehmen überdimensioniert, teils praxisfern oder Best-Practice-widrig.
+**Ziel:** Abstimmung der Verhandlungsposition. Output = Streichungsliste, Änderungsliste, Fragenkatalog für Netto.
 
----
+### A) Komplette Streichungen
 
-## Deine Streichungsvorschläge (komplett raus)
-
-**Punkt 11** – Zugriff Dritter ohne Kenntnis ausgeschlossen → Redundant, steht schon in Punkt 10 (Subunternehmer)
-**Punkt 12** – RZ muss ISO-Standards erfüllen → Zu unspezifisch, welche ISO?
-**Punkt 19** – Netto segmentiert Netze → Beschreibt Netto-Maßnahme, keine DL-Pflicht
-**Punkt 20** – Netto implementiert Firewall → Dito, Netto-Maßnahme
-**Punkt 46** – Quellcode-Hinterlegung (Escrow) → Unverhältnismäßig, IP-Risiko
-**Punkt 47** – Webformular-Details (CAPTCHA etc.) → Zu granular, BSI-Dokument 2020 veraltet
-**Punkt 48** – Zutrittsschutz RZ → Redundant wenn kein eigenes RZ betrieben wird
-
----
-
-## Änderungsvorschläge (nicht streichen, aber entschärfen)
-
-|Punkt|Problem|Dein Vorschlag|
+|Punkt|Inhalt|Begründung|
 |---|---|---|
-|1|Generelle Meldepflicht|Nur Netto-relevante Vorfälle|
+|11|Zugriff Dritter ohne Kenntnis ausgeschlossen|Redundant zu Punkt 10|
+|12|RZ muss ISO-Standards erfüllen|Zu unspezifisch|
+|19|Netto segmentiert Netze|Beschreibt Netto-Maßnahme, keine DL-Pflicht|
+|20|Netto implementiert Firewall|Dito|
+|47|Webformular-Details|Zu granular, BSI-Dokument veraltet|
+
+### B) Änderungsvorschläge
+
+|Punkt|Aktuell|Vorschlag|
+|---|---|---|
 |1|365 Tage Logs|180 Tage, verlängerbar bei Vorfall|
-|6|Keine Azubis|Unter Aufsicht erlauben|
-|7|Keine Produktivdaten|Dokumentierte Ausnahmen für Support|
+|1|Generelle Meldepflicht|Nur Netto-relevante Vorfälle|
+|4|Jährliche schriftliche Bestätigung (Bring-Schuld)|Hol-Schuld durch Netto|
+|6|Keine Azubis/Praktikanten|Unter fachlicher Aufsicht erlauben|
 |24|17 Zeichen + jährlicher Wechsel|14 Zeichen + MFA, kein Routinewechsel|
 |24|20 Min Auto-Lock|30 Min Standard|
-|25|Admin-Tools verboten|Freigabeliste für Standard-Tools|
+|25|Admin-Tools permanent verboten|Ausnahme: von Netto-IT installierte Software|
 |28|3rd-Party automatisch aktuell|Nach Kompatibilitätsprüfung|
 |30|Kein End-of-Support|12-Monate-Migrationsfrist|
 |39|Monatliche Log-Analysen|Quartalsweise + automatisiertes Monitoring|
-|43|Regelmäßige Prüfberichte|Jährlich, Kosten separat|
+|41|Keine Produktivdaten in Test|QA-Systeme ausnehmen|
+|46|BSI-Dokument 2020|Aktuelle Referenzen verwenden|
 |49|Content-Filter + keine Privatnutzung|Nach eigenem Sicherheitskonzept|
-|52|Hochverfügbarkeit + jährlicher Test|Nur wenn HA vertraglich vereinbart|
 |53|Unverzügliche Verstoßmeldung|Zeitnah nach interner Prüfung|
+|54|Risikomanagement im Anhang|Vertragsklauseln gehören in den Hauptvertrag|
+|§3|100.000 € pro Verstoß|Staffelung nach Schwere oder Deckelung|
 
-## Vertragsstrafe (§3) – Dealbreaker
+### C) Klärungsbedarf Mit Netto
 
-100.000 € pro Verstoß bei 54 Vorgaben = existenzbedrohend.
+| Punkt | Frage                                                                                       |
+| ----- | ------------------------------------------------------------------------------------------- |
+| 1     | Physische Sicherheit: Muss Videokamera 365 Tage speichern?                                  |
+| 7     | Definition "Systemadministration" – gilt Applikationsadministration/DevOps auch?            |
+| 15    | Welcher Zugriff gemeint? Application-Gateway, API-Gateway? JumpHost nur bei Netto-Hardware? |
+| 18    | Klarstellung: Netto-Laptops werden durch Netto administriert                                |
+| 21    | Wer prüft Sicherheitssoftware? Solverest prüft nicht Netto-Software                         |
+| 24    | Definition "Stand der Technik" – welcher Standard gilt?                                     |
+| 35    | Wer macht Datensicherung im Kontext Solverest?                                              |
+| 43    | Prüfberichte: Welche Form, wer liefert was, wie oft?                                        |
+| 44    | IT-Sicherheitsrichtlinie (Sichere Entwicklung) liegt Solverest nicht vor                    |
+| 48    | Was sind "Systeme mit hohem Schutzbedarf"? Definition durch Netto?                          |
+| 49    | Begrifflichkeit: "Dienstleister" = Vertragspartner?                                         |
+| 52    | Wer stellt Hochverfügbarkeit sicher? Wer definiert was HA sein muss?                        |
+|       |                                                                                             |
 
-**Forderung**: Staffelung nach Schwere oder Deckelung auf Jahresauftragswert.
-
-## Verhandlungsstrategie
-
-1. **Mit Streichungen einsteigen** – zeigt, dass ihr das Dokument ernst nehmt
-2. **ISO 27001 als Alternative anbieten** – "Wir erfüllen den Standard, nicht 54 Einzelvorgaben"
-3. **Mehrkosten benennen** – 365-Tage-Logs, Pen-Tests, Prüfberichte kosten Geld
-4. **Vertragsstrafe als rote Linie** – ohne Anpassung kein Abschluss
