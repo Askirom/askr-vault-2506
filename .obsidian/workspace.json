@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/00_System_Guide.md",
+                "file": "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00_System_Guide"
+              "title": "2025-11-27 Netto Anforderungen"
             }
           }
         ],
@@ -250,8 +250,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "52908fe9fb489271",
+  "active": "bc5b107b537f00a7",
   "lastOpenFiles": [
+    "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
+    "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+    "10_Notes/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
+    "00_Ops/00_System_Guide.md",
     "00_Ops/01_HQ_secudor.md",
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/03_HQ_HiSolutions.md",
@@ -259,7 +263,6 @@
     "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
     "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
     "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
-    "00_Ops/00_System_Guide.md",
     "10_Notes/34DIG/_Meetings-34digital.md",
     "00_Ops/2025-11_Log.md",
     "10_Notes/CLIFO/_Client-CLIFO.md",
@@ -282,10 +285,7 @@
     "10_Notes/GRIMM/_Client-Grimm.md",
     "10_Notes/GRIMM",
     "10_Notes/GMC/_Client-GMC.md",
-    "10_Notes/EMPIC/_Client-EMPIC.md",
-    "10_Notes/ARCD/_Client-ARCD.md",
     "10_Notes/ARCD",
-    "10_Notes/ARA/_Client-ARA.md",
     "10_Notes/34DIG",
     "10_Notes/Realcore",
     "20_References/identity/Signature-RLE 2024.png",

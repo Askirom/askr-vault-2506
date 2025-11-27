@@ -1,4 +1,4 @@
-# PKM Betrieb V2.1 — Betriebsanleitung
+## PKM Betrieb V2.1 — Betriebsanleitung
 
 **Grundprinzip:** Denken und Handeln trennen.
 
@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Struktur
+### 1. Struktur
 
-### Obsidian
+#### Obsidian
 
 ```
 00_Zentrale/
@@ -30,7 +30,7 @@
   [Vorlagen, Checklisten, Rahmenwerke]
 ```
 
-### TickTick
+#### TickTick
 
 ```
 Listen = Kunden/Bereiche
@@ -47,7 +47,7 @@ Heute-Ansicht = Tagesdirektiven
 Kalender-Ansicht = Zeitblöcke
 ```
 
-### Dateisystem
+#### Dateisystem
 
 ```
 /Kunden/[KUNDE]/
@@ -56,7 +56,7 @@ Kalender-Ansicht = Zeitblöcke
 
 ---
 
-## 2. Was wo lebt
+### 2. Was Wo Lebt
 
 |Inhalt|Ort|
 |---|---|
@@ -72,7 +72,7 @@ Kalender-Ansicht = Zeitblöcke
 
 ---
 
-## 3. Modi
+### 3. Modi
 
 **Strategie** (Wöchentlich)
 
@@ -88,7 +88,7 @@ Kalender-Ansicht = Zeitblöcke
 
 ---
 
-## 4. HQ-Vorlage
+### 4. HQ-Vorlage
 
 ```markdown
 # [BEREICH] HQ — [MODUS]
@@ -118,38 +118,38 @@ Kalender-Ansicht = Zeitblöcke
 
 ---
 
-## 5. Abläufe
+### 5. Abläufe
 
-### Wöchentlich (Montag, 15 Min)
+#### Wöchentlich (Montag, 15 Min)
 
 1. Obsidian: Relevantes HQ öffnen
 2. Kundenstatus aktualisieren (🔴🟡🟢)
 3. Wochendirektiven setzen
 4. TickTick: Woche planen
 
-### Täglich (3 Min)
+#### Täglich (3 Min)
 
 1. TickTick Heute-Ansicht öffnen
 2. Das ist dein Tag
 3. Ausführen
 
-### Vor Kundenarbeit (30 Sek)
+#### Vor Kundenarbeit (30 Sek)
 
 1. TickTick: Kundenliste öffnen
 2. Angehefteten Status lesen
 3. Noch aktuell? → Arbeiten
 4. Nicht aktuell? → Aktualisieren, dann arbeiten
 
-### Nach Besprechungen
+#### Nach Besprechungen
 
 1. Obsidian: Notiz in 10_Notizen/KUNDE/ erstellen
 2. Aktionspunkte → TickTick
 
 ---
 
-## 6. Regeln
+### 6. Regeln
 
-### Grundregeln
+#### Grundregeln
 
 1. **Keine Aufgaben in Obsidian** Aufgaben leben immer in TickTick.
 2. **Keine Tagesnotizen** Tot. Für immer.
@@ -159,7 +159,7 @@ Kalender-Ansicht = Zeitblöcke
 6. **Dateien leben außerhalb von Obsidian** Im Dateisystem unter /Kunden/[KUNDE]/.
     
 
-### Leitplanken (gegen Drift)
+#### Leitplanken (gegen Drift)
 
 **7. Status-Format (3 Zeilen)**
 
@@ -189,9 +189,9 @@ Keine Ausnahmen. Keine Downloads. Keine Desktop-Ablage.
 
 ---
 
-## 7. Übergang von V1.3
+### 7. Übergang Von V1.3
 
-### Gestrichen:
+#### Gestrichen:
 
 - 10_Projects/ mit Kundenordnern → TickTick Listen
 - _Client-KUNDE.md Dateien → TickTick Aufgabenbeschreibung
@@ -203,7 +203,7 @@ Keine Ausnahmen. Keine Downloads. Keine Desktop-Ablage.
 - Tagesnotizen → Tot
 - Stufe 2 + Stufe 3 Vorlagen → Leben in TickTick
 
-### Bleibt:
+#### Bleibt:
 
 - Besprechungsnotizen (immer)
 - Wissen/Referenz (immer)
@@ -212,7 +212,7 @@ Keine Ausnahmen. Keine Downloads. Keine Desktop-Ablage.
 
 ---
 
-## 8. Philosophie
+### 8. Philosophie
 
 ```
 ┌─────────────────────────────────────┐
