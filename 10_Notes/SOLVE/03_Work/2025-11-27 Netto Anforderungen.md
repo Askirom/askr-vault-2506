@@ -35,21 +35,22 @@
 
 ### C) Klärungsbedarf Mit Netto
 
-| Punkt | Frage                                                                                                                                                 |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Physische Sicherheit: Muss Videokamera 365 Tage speichern?                                                                                            |
-| 7     | Definition "Systemadministration" – gilt Applikationsadministration/DevOps auch?                                                                      |
-| 18    | Klarstellung: Netto-Laptops werden durch Netto administriert                                                                                          |
-| 21    | Wer prüft Sicherheitssoftware? Solverest prüft nicht Netto-Software                                                                                   |
-| 35    | Wer macht Datensicherung im Kontext Solverest?                                                                                                        |
-| 43    | Prüfberichte: Welche Form, wer liefert was, wie oft?                                                                                                  |
-| 44    | IT-Sicherheitsrichtlinie (Sichere Entwicklung) liegt Solverest nicht vor                                                                              |
-| 48    | Was sind "Systeme mit hohem Schutzbedarf"? Definition durch Netto?                                                                                    |
-| 49    | Begrifflichkeit: "Dienstleister" = Vertragspartner?                                                                                                   |
-| 52    | Wer stellt Hochverfügbarkeit sicher? Wer definiert was HA sein muss?                                                                                  |
-| 5     | Sollte in Zusammenarbeit mit Netto erstellt werden beziehungsweise Netto stellt dies bereit                                                           |
-| 4     | Wie stellt sich dieser Prozess dann dar? Was sind adäquate Nachweise?                                                                                 |
-| 24    | Benutzersitzung bedeutet das Endgerät oder auch SaaS-Software?<br>Stichwort: Notion.io -> Netto nutzt dieses auch                                     |
-| alle  | Was bedeutet KdD (Kontext der Dienstleistung)? Wo sieht Netto hier die Grenzen?                                                                       |
-| 29    | Was gilt als aktuell? .NET released nahezu jährlich neue Versionen. Es braucht aber manchmal noch alte Versionen. Gilt z.B. LTS Version als aktuell?  |
+| Punkt | Frage                                                                                                                                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Physische Sicherheit: Muss Videokamera 365 Tage speichern?                                                                                           |
+| 7     | Definition "Systemadministration" – gilt Applikationsadministration/DevOps auch?                                                                     |
+| 18    | Klarstellung: Netto-Laptops werden durch Netto administriert                                                                                         |
+| 21    | Wer prüft Sicherheitssoftware? Solverest prüft nicht Netto-Software                                                                                  |
+| 35    | Wer macht Datensicherung im Kontext Solverest?                                                                                                       |
+| 43    | Prüfberichte: Welche Form, wer liefert was, wie oft?                                                                                                 |
+| 44    | IT-Sicherheitsrichtlinie (Sichere Entwicklung) liegt Solverest nicht vor                                                                             |
+| 48    | Was sind "Systeme mit hohem Schutzbedarf"? Definition durch Netto?                                                                                   |
+| 49    | Begrifflichkeit: "Dienstleister" = Vertragspartner?                                                                                                  |
+| 52    | Wer stellt Hochverfügbarkeit sicher? Wer definiert was HA sein muss?                                                                                 |
+| 5     | Sollte in Zusammenarbeit mit Netto erstellt werden beziehungsweise Netto stellt dies bereit                                                          |
+| 4     | Wie stellt sich dieser Prozess dann dar? Was sind adäquate Nachweise?                                                                                |
+| 24    | Benutzersitzung bedeutet das Endgerät oder auch SaaS-Software?<br>Stichwort: Notion.io -> Netto nutzt dieses auch                                    |
+| alle  | Was bedeutet KdD (Kontext der Dienstleistung)? Wo sieht Netto hier die Grenzen?                                                                      |
+| 29    | Was gilt als aktuell? .NET released nahezu jährlich neue Versionen. Es braucht aber manchmal noch alte Versionen. Gilt z.B. LTS Version als aktuell? |
+| 54    | Was sind Werte von Netto?                                                                                                                            |
 
