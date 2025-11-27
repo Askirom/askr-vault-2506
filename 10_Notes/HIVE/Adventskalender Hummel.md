@@ -1,6 +1,6 @@
 | **✔** | **Tür** | **Thema**               | **Inhalt**                              | **Kaufort**     | **Preis ca.** |
 | ----- | ------- | ----------------------- | --------------------------------------- | --------------- | ------------- |
-| [ ]   | 1       | Schwangerschaft         | Balea Pflegecreme sensitiv (Mini)       | dm              | 0,95 €        |
+| [ ]   | 1       | Schwangerschaft         | Balea Mama Öl                           | dm              | 0,95 €        |
 | [ ]   | 2       | Snack                   | Mini-Pralinen / Mini-Schoko             | Action          | 0,79 €        |
 | [ ]   | 3       | Stricken/Häkeln         | Strickwolle (Baumwolle o. Acryl)        | Action          | 1,00 €        |
 | [ ]   | 4       | Haare/Schmuck           | Scrunchie (Samt/Seidenoptik)            | TEDi/Action     | 1,00 €        |

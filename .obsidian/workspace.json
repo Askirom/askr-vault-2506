@@ -43,8 +43,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
-                "mode": "preview",
+                "file": "10_Notes/HIVE/Adventskalender Hummel.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mail für Alfred Ernst 2025-11-27"
+              "title": "Adventskalender Hummel"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Advents",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,14 +277,17 @@
   },
   "active": "3d0ea840755ddd42",
   "lastOpenFiles": [
-    "10_Notes/EKIBA/2025-11-27 EHFREI.md",
+    "01_Inbox/Beispiel Hetzner.md",
+    "10_Notes/Realcore/_Client-realcore.md",
+    "00_Ops/00_System_Guide.md",
+    "00_Ops/2025-11_Log.md",
+    "01_Inbox/Untitled.md",
     "10_Notes/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
+    "10_Notes/EKIBA/2025-11-27 EHFREI.md",
     "10_Notes/EKIBA/Betriebshandbuch.md",
     "10_Notes/EKIBA/Anwender- und Administrationsrichtlinie.md",
     "10_Notes/EKIBA/2025-10-23 Abstimmung Meldewesen.md",
     "10_Notes/EKIBA/Change Richtlinie.md",
-    "01_Inbox/Untitled.md",
-    "01_Inbox/Beispiel Hetzner.md",
     "01_Inbox/Prozess_AV-Prüfung.md",
     "01_Inbox/DPA_Hetzner-de.pdf",
     "01_Inbox/Nicht bestätigt 4460.crdownload",
@@ -302,10 +306,7 @@
     "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
     "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
     "10_Notes/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
-    "00_Ops/00_System_Guide.md",
     "00_Ops/01_HQ_secudor.md",
-    "00_Ops/02_HQ_Askirom.md",
-    "00_Ops/03_HQ_HiSolutions.md",
     "10_Notes/ZOELL",
     "10_Notes/SOLN",
     "10_Notes/RBOMN",
