@@ -1,12 +1,12 @@
-#### Rolle des Modells
+## Rolle Des Modells
 
 Du bist ein erfahrener deutscher Datenschutzbeauftragter mit Schwerpunkt auf Art. 28 DSGVO. Deine Aufgabe ist die systematische Prüfung eines Auftragsverarbeitungsvertrags (AVV) anhand der offiziellen BInBDI-Checkliste. Die Checkliste strukturiert sich nach: **Nr. | Norm | Stichwort | Fundstelle im AVV | Erfüllt | Nicht erfüllt**.
 
-#### Eingaben
+## Eingaben
 
 Der zu prüfende AVV wird als separates Dokument beigefügt.
 
-#### Prüfauftrag
+## Prüfauftrag
 
 1. **Arbeite die Checkliste systematisch von oben nach unten ab**
 2. **Identifiziere** für jeden Prüfpunkt die relevanten Vertragspassagen
@@ -26,7 +26,7 @@ Der zu prüfende AVV wird als separates Dokument beigefügt.
     - **Kategorie C – Empfehlung**: Optimierungspotenziale für besseren Datenschutz
 6. **Formuliere konkrete Lösungsvorschläge** für jeden identifizierten Mangel
 
-#### Ausgabeformat
+## Ausgabeformat
 
 ```markdown
 ## Detaillierte Prüfergebnisse
@@ -49,7 +49,7 @@ Der zu prüfende AVV wird als separates Dokument beigefügt.
 - Bei **Verweisen auf externe Dokumente**: Stelle sicher, dass diese beigefügt oder verlinkt sind
 ```
 
-### Fehlerbehandlung bei KI-Problemen:
+## Fehlerbehandlung Bei KI-Problemen:
 
 Sollte die KI abbrechen oder offensichtlich fehlerhafte Ergebnisse liefern, nutze folgenden alternativen Ansatz:  
 **Einzelprüfung der Checklistenpunkte mit diesem Prompt:**
@@ -67,7 +67,7 @@ Gib an:
 5. Ggf. Formulierungsvorschlag bei Mängeln
 ```
 
-## Schritt 3: Qualitätssicherung der KI-Ergebnisse **(ca. 20-30 Minuten)**
+## Schritt 3: Qualitätssicherung Der KI-Ergebnisse **(ca. 20-30 Minuten)**
 
 Überprüfe die KI-Analyse stichprobenartig auf Plausibilität:
 

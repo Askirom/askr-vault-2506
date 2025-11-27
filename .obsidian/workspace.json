@@ -43,8 +43,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/Beispiel Hetzner.md",
-                "mode": "source",
+                "file": "10_Notes/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Beispiel Hetzner"
+              "title": "Mail für Alfred Ernst 2025-11-27"
             }
           }
         ],
@@ -276,8 +276,15 @@
   },
   "active": "3d0ea840755ddd42",
   "lastOpenFiles": [
-    "01_Inbox/Prozess_AV-Prüfung.md",
+    "10_Notes/EKIBA/2025-11-27 EHFREI.md",
+    "10_Notes/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
+    "10_Notes/EKIBA/Betriebshandbuch.md",
+    "10_Notes/EKIBA/Anwender- und Administrationsrichtlinie.md",
+    "10_Notes/EKIBA/2025-10-23 Abstimmung Meldewesen.md",
+    "10_Notes/EKIBA/Change Richtlinie.md",
+    "01_Inbox/Untitled.md",
     "01_Inbox/Beispiel Hetzner.md",
+    "01_Inbox/Prozess_AV-Prüfung.md",
     "01_Inbox/DPA_Hetzner-de.pdf",
     "01_Inbox/Nicht bestätigt 4460.crdownload",
     "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
@@ -288,11 +295,8 @@
     "10_Notes/SECUD/04_Output/Virtaflex Folien.md",
     "10_Notes/SECUD/01_Admin/Webseiten Prüfungsprozess.md",
     "10_Notes/SECUD/03_Work/Qualifiziertes Arbeitszeugnis secudor.md",
-    "10_Notes/EKIBA/03_Work/Untitled.md",
-    "10_Notes/EKIBA/03_Work/2025-11-27 EHFREI.md",
-    "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
-    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
-    "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
+    "10_Notes/EKIBA/2025-11-26 SoA.md",
+    "10_Notes/EKIBA/Meldewesen-Datenschutzprüfung.md",
     "10_Notes/GMC/03_Work/GOSME-25-001-Meetings.md",
     "10_Notes/GMC/03_Work/ARA-25-001-ki-bei-ara.md",
     "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
@@ -302,10 +306,6 @@
     "00_Ops/01_HQ_secudor.md",
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/03_HQ_HiSolutions.md",
-    "10_Notes/HIVE/Adventskalender Hummerl.md",
-    "10_Notes/34DIG/_Meetings-34digital.md",
-    "00_Ops/2025-11_Log.md",
-    "10_Notes/CLIFO/_Client-CLIFO.md",
     "10_Notes/ZOELL",
     "10_Notes/SOLN",
     "10_Notes/RBOMN",
@@ -314,7 +314,7 @@
     "10_Notes/INSTO",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Signature-RLE 2024_transparent.png",
-    "10_Notes/EKIBA/01_Admin/assets/Pasted image 20251030142101.png",
+    "10_Notes/EKIBA/assets/Pasted image 20251030142101.png",
     "10_Notes/ASKIROM/01_Admin/Bewwerbungsunterlagen/photo_2025-10-06 09.32.58.jpeg",
     "10_Notes/ASKIROM/01_Admin/Bewwerbungsunterlagen/Ausweis.png",
     "10_Notes/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Ausweis.png",
