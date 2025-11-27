@@ -51,4 +51,4 @@
 - MCS ist für IZYCHECK zuständig
 - Mietgeräte bei der Service sind Mietvertrag und abgedeckt durch DSI Geschäftspartner
 - In-House Veranstaltungen sind auch aufgenommen
-- 
+- MCS und Webshop ist etwas unklar
