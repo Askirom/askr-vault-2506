@@ -15,24 +15,24 @@
 
 ### B) Änderungsvorschläge
 
-|Punkt|Aktuell|Vorschlag|
-|---|---|---|
-|1|365 Tage Logs|180 Tage, verlängerbar bei Vorfall|
-|1|Generelle Meldepflicht|Nur Netto-relevante Vorfälle|
-|4|Jährliche schriftliche Bestätigung (Bring-Schuld)|Hol-Schuld durch Netto|
-|6|Keine Azubis/Praktikanten|Unter fachlicher Aufsicht erlauben|
-|24|17 Zeichen + jährlicher Wechsel|14 Zeichen + MFA, kein Routinewechsel|
-|24|20 Min Auto-Lock|30 Min Standard|
-|25|Admin-Tools permanent verboten|Ausnahme: von Netto-IT installierte Software|
-|28|3rd-Party automatisch aktuell|Nach Kompatibilitätsprüfung|
-|30|Kein End-of-Support|12-Monate-Migrationsfrist|
-|39|Monatliche Log-Analysen|Quartalsweise + automatisiertes Monitoring|
-|41|Keine Produktivdaten in Test|QA-Systeme ausnehmen|
-|46|BSI-Dokument 2020|Aktuelle Referenzen verwenden|
-|49|Content-Filter + keine Privatnutzung|Nach eigenem Sicherheitskonzept|
-|53|Unverzügliche Verstoßmeldung|Zeitnah nach interner Prüfung|
-|54|Risikomanagement im Anhang|Vertragsklauseln gehören in den Hauptvertrag|
-|§3|100.000 € pro Verstoß|Staffelung nach Schwere oder Deckelung|
+| Punkt | Aktuell                                           | Vorschlag                                    |
+| ----- | ------------------------------------------------- | -------------------------------------------- |
+| 1     | 365 Tage Logs                                     | 180 Tage, verlängerbar bei Vorfall           |
+| 1     | Generelle Meldepflicht                            | Nur Netto-relevante Vorfälle                 |
+| 4     | Jährliche schriftliche Bestätigung (Bring-Schuld) | Hol-Schuld durch Netto                       |
+| 6     | Keine Azubis/Praktikanten                         | Unter fachlicher Aufsicht erlauben           |
+| 24    | 17 Zeichen + jährlicher Wechsel                   | 14 Zeichen + MFA, kein Routinewechsel        |
+| 24    | 20 Min Auto-Lock                                  | 30 Min Standard                              |
+| 25    | Admin-Tools permanent verboten                    | Ausnahme: von Netto-IT installierte Software |
+| 28    | 3rd-Party automatisch aktuell                     | Nach Kompatibilitätsprüfung                  |
+| 30    | Kein End-of-Support                               | 12-Monate-Migrationsfrist                    |
+| 39    | Monatliche Log-Analysen                           | Quartalsweise + automatisiertes Monitoring   |
+| 41    | Keine Produktivdaten in Test                      | QA-Systeme ausnehmen                         |
+| 46    | BSI-Dokument 2020                                 | Aktuelle Referenzen verwenden                |
+| 49    | Content-Filter + keine Privatnutzung              | Nach eigenem Sicherheitskonzept              |
+| 53    | Unverzügliche Verstoßmeldung                      | Zeitnah nach interner Prüfung                |
+| 54    | Risikomanagement im Anhang                        | Vertragsklauseln gehören in den Hauptvertrag |
+| §3    | 100.000 € pro Verstoß                             | Staffelung nach Schwere oder Deckelung       |
 
 ### C) Klärungsbedarf Mit Netto
 
