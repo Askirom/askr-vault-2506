@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/GMC/03_Work/GOSME-25-001-Meetings.md",
+                "file": "10_Notes/EKIBA/03_Work/2025-11-27 EHFREI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GOSME-25-001-Meetings"
+              "title": "2025-11-27 EHFREI"
             }
           }
         ],
@@ -250,10 +250,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "bc5b107b537f00a7",
+  "active": "52908fe9fb489271",
   "lastOpenFiles": [
-    "10_Notes/GMC/03_Work/ARA-25-001-ki-bei-ara.md",
+    "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
+    "10_Notes/EKIBA/03_Work/2025-11-27 EHFREI.md",
+    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
+    "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
     "10_Notes/GMC/03_Work/GOSME-25-001-Meetings.md",
+    "10_Notes/GMC/03_Work/ARA-25-001-ki-bei-ara.md",
     "10_Notes/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
     "10_Notes/SOLVE/02_Input/solve-netto-anforderungen.md",
     "10_Notes/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
@@ -262,9 +266,6 @@
     "00_Ops/02_HQ_Askirom.md",
     "00_Ops/03_HQ_HiSolutions.md",
     "10_Notes/HIVE/Adventskalender Hummerl.md",
-    "10_Notes/EKIBA/03_Work/2025-11-26 SoA.md",
-    "10_Notes/EKIBA/03_Work/Meldewesen-Datenschutzprüfung.md",
-    "10_Notes/EKIBA/03_Work/2025-10-23 Abstimmung Meldewesen.md",
     "10_Notes/34DIG/_Meetings-34digital.md",
     "00_Ops/2025-11_Log.md",
     "10_Notes/CLIFO/_Client-CLIFO.md",
@@ -282,7 +283,6 @@
     "10_Notes/POLFI/_Client-POLFI.md",
     "10_Notes/LAALT/_Client-LAALT.md",
     "10_Notes/LAALT",
-    "10_Notes/INSTO/_Client-INSTO.md",
     "10_Notes/INSTO",
     "10_Notes/GRIMM",
     "10_Notes/ARCD",
