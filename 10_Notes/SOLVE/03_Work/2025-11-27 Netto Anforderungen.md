@@ -5,13 +5,13 @@
 
 ### A) Komplette Streichungen
 
-|Punkt|Inhalt|Begründung|
-|---|---|---|
-|11|Zugriff Dritter ohne Kenntnis ausgeschlossen|Redundant zu Punkt 10|
-|12|RZ muss ISO-Standards erfüllen|Zu unspezifisch|
-|19|Netto segmentiert Netze|Beschreibt Netto-Maßnahme, keine DL-Pflicht|
-|20|Netto implementiert Firewall|Dito|
-|47|Webformular-Details|Zu granular, BSI-Dokument veraltet|
+| Punkt | Inhalt                                       | Begründung                                                              |
+| ----- | -------------------------------------------- | ----------------------------------------------------------------------- |
+| 11    | Zugriff Dritter ohne Kenntnis ausgeschlossen | Redundant zu Punkt 10 beziehungsweise ist eigentlich Vertragsgegenstand |
+| 12    | RZ muss ISO-Standards erfüllen               | Zu unspezifisch                                                         |
+| 19    | Netto segmentiert Netze                      | Beschreibt Netto-Maßnahme, keine DL-Pflicht                             |
+| 20    | Netto implementiert Firewall                 | Dito                                                                    |
+| 47    | Webformular-Details                          | Zu granular, BSI-Dokument veraltet                                      |
 
 ### B) Änderungsvorschläge
 
