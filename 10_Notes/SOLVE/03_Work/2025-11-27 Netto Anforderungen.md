@@ -9,17 +9,11 @@ Dokument enthält 54 Einzelvorgaben + 100.000 € Vertragsstrafe pro Verstoß. V
 ## Deine Streichungsvorschläge (komplett raus)
 
 **Punkt 11** – Zugriff Dritter ohne Kenntnis ausgeschlossen → Redundant, steht schon in Punkt 10 (Subunternehmer)
-
 **Punkt 12** – RZ muss ISO-Standards erfüllen → Zu unspezifisch, welche ISO?
-
 **Punkt 19** – Netto segmentiert Netze → Beschreibt Netto-Maßnahme, keine DL-Pflicht
-
 **Punkt 20** – Netto implementiert Firewall → Dito, Netto-Maßnahme
-
 **Punkt 46** – Quellcode-Hinterlegung (Escrow) → Unverhältnismäßig, IP-Risiko
-
 **Punkt 47** – Webformular-Details (CAPTCHA etc.) → Zu granular, BSI-Dokument 2020 veraltet
-
 **Punkt 48** – Zutrittsschutz RZ → Redundant wenn kein eigenes RZ betrieben wird
 
 ---
