@@ -50,5 +50,6 @@
 | 48    | Was sind "Systeme mit hohem Schutzbedarf"? Definition durch Netto?                          |
 | 49    | Begrifflichkeit: "Dienstleister" = Vertragspartner?                                         |
 | 52    | Wer stellt Hochverfügbarkeit sicher? Wer definiert was HA sein muss?                        |
-|       |                                                                                             |
+| 5     | Sollte in Zusammenarbeit mit Netto erstellt werden beziehungsweise Netto stellt dies bereit |
+| 4     | Wie stellt sich dieser Prozess dann dar? Was sind adäquate Nachweise?                       |
 
