@@ -43,13 +43,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
+                "file": "01_Inbox/Beispiel Hetzner.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf"
+              "title": "Beispiel Hetzner"
             }
           }
         ],
@@ -85,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blnbdi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +125,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,8 +276,13 @@
   },
   "active": "3d0ea840755ddd42",
   "lastOpenFiles": [
-    "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf.md",
+    "01_Inbox/Prozess_AV-Prüfung.md",
+    "01_Inbox/Beispiel Hetzner.md",
+    "01_Inbox/DPA_Hetzner-de.pdf",
+    "01_Inbox/Nicht bestätigt 4460.crdownload",
     "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-1.pdf.md",
+    "01_Inbox/Nicht bestätigt 615556.crdownload",
+    "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf.md",
     "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf",
     "10_Notes/SECUD/04_Output/Datenschutzerklärung Template.md",
     "10_Notes/SECUD/04_Output/Virtaflex Folien.md",
@@ -293,17 +306,12 @@
     "10_Notes/34DIG/_Meetings-34digital.md",
     "00_Ops/2025-11_Log.md",
     "10_Notes/CLIFO/_Client-CLIFO.md",
-    "10_Notes/ZOELL/_Client-ZOELL.md",
     "10_Notes/ZOELL",
-    "10_Notes/VGALT/_Client-VGALT.md",
     "10_Notes/SOLN",
     "10_Notes/RBOMN",
     "10_Notes/POLSI",
     "10_Notes/LAALT",
     "10_Notes/INSTO",
-    "10_Notes/GRIMM",
-    "10_Notes/ARCD",
-    "10_Notes/34DIG",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Signature-RLE 2024_transparent.png",
     "10_Notes/EKIBA/01_Admin/assets/Pasted image 20251030142101.png",
