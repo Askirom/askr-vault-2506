@@ -43,3 +43,12 @@
 - DSI Bewerber + öffentliche Informationen
 - Initiativbewerbungen + umantis beides soll abgedeckt sein
 - Art. 26 Update ist eingepflegt in der 
+
+## 2025-11-27 Abstimmung DSI Geschäftspartner
+- Produktrückrufe sind auch Teil von Verträgen oder rechtliche Anforderungen
+- Garantieverlängerung ist nicht Teil von 3.8 in der DSI Webseite
+- bei 4. der DSI Geschäftspartner wird in den Zwecken "Support" ergänzt
+- MCS ist für IZYCHECK zuständig
+- Mietgeräte bei der Service sind Mietvertrag und abgedeckt durch DSI Geschäftspartner
+- In-House Veranstaltungen sind auch aufgenommen
+- 
