@@ -227,4 +227,18 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Potenziell wird die Postfachzugriffsrichtlinie benötigt 
 	- weitere Infos folgen durch Adrian bei Bedarf
 	- muss noch durch Lenkungsausschuss aber inhaltlich freigegeben
+	- positiv: proaktive Meldung durch GF
+	- Grund: Mitarbeiter:in hat im CRM keine Auftragsbestätigung hinterlegt sondern nur den Hinweis "wurde per Mail erhalten" -> Man möchte deshalb in dem Postfach nach dieser Bestätigung suchen
 - Abstimmung zu TOMs RC BMT
+- TOMS RCG
+	- Wunsch des ISBs die TOMs Grundlage auf ISO 27701 aktualisieren
+	- muss intern bei secudor abgestimmt werden
+- RCC wird ein neues Produkt anbieten
+	- SaaS 
+	- RDS on Cloud (realcore Developer Suite)
+	- Daten kommen nur aus Kundensystem
+	- vom Cloudserver zieht er nur das Frontend 
+		- Produktivdaten liegen beim Kunden
+		- Berechtigungsmanagement wird vom Kunden verwendet
+	- es ist noch nicht klar, ob man das in den Scope der ISO 27001
+	- Datenschutz ist aber relevant
