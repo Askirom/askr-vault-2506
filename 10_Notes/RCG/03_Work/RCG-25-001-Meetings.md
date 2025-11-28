@@ -210,4 +210,21 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 	- Liste was Teil der Pauschale ist und was nicht
 - Besuchermanagementtool
 	- Einwilligung für Bildmaterial in diesem Tool jetzt auch einholen
-	- 
+## 2025-11-28 RCG Jour Fixe
+- Probleme bei Phishing-Simulation
+- M365 Test von Purview und Klassifizierung
+- Anforderungen der IT-Abteilung an Phishing-Simulation
+- Aufgabenmatrix-2026 bereitgestellt 
+	- Fehler bei Upload; Datei war korrupt
+- NIS2 Geschäftsleiterschulung abgestimmt und Status NIS2
+- Status englische Schulung
+- Status Betriebsrat RCIM bzgl. Schulung
+	- Termin noch offen
+	- keine Rückmeldung bisher
+- Status Blick. 
+	- Pauschale und Leistungsbeschreibung 
+	- bisher keine Rückmeldung von Blick.
+- Potenziell wird die Postfachzugriffsrichtlinie benötigt 
+	- weitere Infos folgen durch Adrian bei Bedarf
+	- muss noch durch Lenkungsausschuss aber inhaltlich freigegeben
+- Abstimmung zu TOMs RC BMT

@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/HIVE/Adventskalender Hummel.md",
+                "file": "10_Notes/RCG/03_Work/RCG-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adventskalender Hummel"
+              "title": "RCG-25-001-Meetings"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Advents",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,6 +276,7 @@
   },
   "active": "3d0ea840755ddd42",
   "lastOpenFiles": [
+    "10_Notes/HIVE/Adventskalender Hummel.md",
     "01_Inbox/nis2-regierungsentwurf_2025.pdf",
     "01_Inbox/Nicht bestätigt 908528.crdownload",
     "20_References/identity/Askirom V20.md",
@@ -312,7 +312,6 @@
     "10_Notes/SOLN",
     "10_Notes/RBOMN",
     "10_Notes/POLSI",
-    "10_Notes/LAALT",
     "20_References/identity/Signature-RLE 2024.png",
     "20_References/identity/Signature-RLE 2024_transparent.png",
     "10_Notes/EKIBA/assets/Pasted image 20251030142101.png",
