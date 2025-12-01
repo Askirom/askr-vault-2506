@@ -242,3 +242,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 		- Berechtigungsmanagement wird vom Kunden verwendet
 	- es ist noch nicht klar, ob man das in den Scope der ISO 27001
 	- Datenschutz ist aber relevant
+## 2025-12-01 Löschkonzept
+- Abstimmung RCIM ist am Donnerstag
+- Rechnung wird normal gestellt
+- 
