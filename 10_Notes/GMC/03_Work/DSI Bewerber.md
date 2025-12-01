@@ -40,7 +40,7 @@ Ihre personenbezogenen Daten werden nach den anwendbaren datenschutzrechtlichen 
 
 ### 3.1 Bewerbermanagement
 
-Die Verarbeitung Ihrer Bewerbungsdaten erfolgt auf der Grundlage von **Art. 6 Abs. 1 S. 1 lit. b DSGVO** in Verbindung mit **§ 26 Abs. 1 S. 1 BDSG** (Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses, einschließlich der Entscheidung über die Begründung eines Beschäftigungsverhältnisses). Sie erfolgt zur Prüfung Ihrer Eignung für die ausgeschriebene Stelle und zur Durchführung des Bewerbungsverfahrens.
+Die Verarbeitung Ihrer Bewerbungsdaten erfolgt auf der Grundlage von **Art. 6 Abs. 1 S. 1 lit. b DSGVO** in Verbindung mit **§ 26 Abs. 1 S. 1 BDSG** (Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses, einschließlich der Entscheidung über die Begründung eines Beschäftigungsverhältnisses). Sie erfolgt zur Prüfung Ihrer Eignung für die ausgeschriebene Stelle und zur Durchführung des Bewerbungsverfahrens. 
 
 **Folgende Kategorien/Daten werden verarbeitet:**
 
@@ -57,7 +57,7 @@ Die Daten werden von berechtigten Personen der Personalabteilung und den zustän
 
 **Aufbewahrungsfrist:**
 
-Ihre Bewerbungsdaten werden **6 Monate** nach Absage unserseits des Bewerbungsverfahrens gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+Ihre Bewerbungsdaten werden spätestens **6 Monate** nach Abschluss des Recruiting-Projekts unserseits gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ### 3.2 Bewerberpool (optional, bei Einwilligung)
 
@@ -75,13 +75,9 @@ Die Daten werden von berechtigten Personen der Personalabteilung und den zustän
 
 Bei erteilter Einwilligung werden Ihre Daten **12 Monate** im Bewerberpool gespeichert. Ihre Einwilligung können Sie jederzeit formlos mit Wirkung für die Zukunft widerrufen. Nach Widerruf oder Ablauf der Frist werden die Daten gelöscht.
 
----
-
 ## 4. Übermittlung in Drittländer
 
 Die Gossen Metrawatt GmbH übermittelt keine Daten in Drittländer außerhalb der EU, wenn die Anforderungen nach Artikel 44 ff. DSGVO hierfür nicht erfüllt sind.
-
----
 
 ## 5. Ihre Rechte
 
