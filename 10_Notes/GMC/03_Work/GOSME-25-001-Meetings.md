@@ -52,3 +52,6 @@
 - Mietgeräte bei der Service sind Mietvertrag und abgedeckt durch DSI Geschäftspartner
 - In-House Veranstaltungen sind auch aufgenommen
 - MCS und Webshop ist etwas unklar
+## 2025-12-01 DSI Bewerber
+- Service und GMC haben eigene Niederlassung
+- 

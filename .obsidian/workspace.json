@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Notes/RCG/03_Work/RCG-25-001-Meetings.md",
+                "file": "10_Notes/GMC/03_Work/DSI Bewerber.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG-25-001-Meetings"
+              "title": "DSI Bewerber"
             }
           }
         ],
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -252,6 +253,9 @@
   },
   "active": "3009474f68e3717b",
   "lastOpenFiles": [
+    "10_Notes/GMC/03_Work/GOSME-25-001-Meetings.md",
+    "10_Notes/GMC/03_Work/DSI Bewerber.md",
+    "10_Notes/RCG/03_Work/RCG-25-001-Meetings.md",
     "10_Notes/EMPIC/04_Output/IS-2xx/IS-210 Sicherheitsvorfälle.md",
     "10_Notes/EMPIC/04_Output/IS-2xx/IS-208 Speicherorte.md",
     "10_Notes/EMPIC/04_Output/IS-3xx/IS-314 Verwaltung von Zugängen und Zugriffsrechten.md",
@@ -271,7 +275,6 @@
     "01_Inbox/Beispiel Hetzner.md",
     "01_Inbox/DPA_Hetzner-de.pdf",
     "10_Notes/BVD/04_Output/2025-11-28.md",
-    "10_Notes/RCG/03_Work/RCG-25-001-Meetings.md",
     "10_Notes/HIVE/Adventskalender Hummel.md",
     "01_Inbox/nis2-regierungsentwurf_2025.pdf",
     "01_Inbox/Nicht bestätigt 908528.crdownload",
@@ -279,8 +282,6 @@
     "10_Notes/Realcore/_Client-realcore.md",
     "00_Ops/00_System_Guide.md",
     "00_Ops/2025-11_Log.md",
-    "01_Inbox/Untitled.md",
-    "10_Notes/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
     "01_Inbox/Nicht bestätigt 4460.crdownload",
     "01_Inbox/Nicht bestätigt 615556.crdownload",
     "20_References/standards/2022-blnbdi-checkliste-pruefung-avv-v1.0-ausfuellhinweise.pdf",
