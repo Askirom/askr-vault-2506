@@ -1,10 +1,4 @@
-type:: knowledge
-status:: active
-client:: EMPIC
-project:: 
-std:: 
-tags:: 
-
+# IS-200 ISMS Richtlinie
 ## Ziel Und Zweck:
 
 Als Ergänzung und Konkretisierung der Informationssicherheitsleitlinie werden in dieser Richtlinie grundlegende Arbeitsweisen des ISMS spezifiziert.   

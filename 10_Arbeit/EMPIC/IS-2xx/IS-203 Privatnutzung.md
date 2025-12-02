@@ -1,3 +1,4 @@
+# IS-203 Privatnutzung
 ## **1. Ziel Und Zweck**
 
 Diese Richtlinie definiert den verbindlichen Rahmen für die ausnahmsweise gestattete private Nutzung von IT-Ressourcen. Sie regelt die Bedingungen, unter denen Mitarbeitern der private Zugang zum Internet ermöglicht wird, und stellt die Einhaltung der Vorgaben aus der IS-Leitlinie und der DSGVO sicher.

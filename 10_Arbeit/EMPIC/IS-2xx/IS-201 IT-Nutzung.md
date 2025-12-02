@@ -1,3 +1,4 @@
+# IS-201 IT-Nutzung
 ## **1. Ziel Und Zweck**
 
 Diese Richtlinie definiert die verbindlichen Regeln für die sichere Nutzung der gesamten IT-Infrastruktur der EMPIC. Ziel ist es, die Vertraulichkeit, Integrität und Verfügbarkeit der Unternehmensinformationen zu schützen und ein sicherheitsbewusstes Verhalten aller Nutzer zu fördern. Sie setzt die Vorgaben der übergeordneten **IS-100 - Informationssicherheitsleitlinie** um.

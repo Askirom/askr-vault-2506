@@ -1,3 +1,4 @@
+# IS-202 Protokollierung
 ## **1. Ziel Und Zweck**
 
 Diese Richtlinie legt die verbindlichen Regeln für die Protokollierung von Aktivitäten und Ereignissen in der IT-Infrastruktur der EMPIC fest. Sie dient der Umsetzung der übergeordneten IS-Leitlinie und konkretisiert die Anforderungen aus **VdS 10000, Abschnitt 10.4.4**.
