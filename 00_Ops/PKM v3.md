@@ -3,7 +3,8 @@
 **Grundprinzip:** Denken und Handeln trennen. Radikal.
 
 - **Obsidian** = Denken (Wissen + Notizen)
-- **TickTick** = Handeln (Aufgaben + Status + Zeit)
+- **Todoist** = Handeln (Aufgaben + Status)
+- **Google Calendar** = Zeit (Blöcke + Termine)
 
 ---
 
@@ -32,43 +33,55 @@
    [abgeschlossene Mandate]
 ```
 
-### TickTick
+### Todoist
 
 ```
 Ordner: Secudor/
-   Liste: CLIFO
+   Projekt: CLIFO
       📥 Eingang
       🔜 Diese Woche
       🔥 Heute
       ⏸️ Blocked
-   Liste: Mory
+   Projekt: Mory
       [gleiche Sektionen]
-   Liste: [weitere Kunden]
+   Projekt: [weitere Kunden]
 
 Ordner: HiSolutions/
    [gleiche Logik]
 
 Ordner: Privat/
-   Liste: Baby
-   Liste: Finanzen
+   Projekt: Baby
+   Projekt: Finanzen
    [gleiche Sektionen]
 
-Ordner: System/
-   Liste: 📥 Inbox      ← globaler Eingang
-   Liste: 🔁 Routinen   ← wiederkehrend
+Projekt: 📥 Inbox      ← globaler Eingang
+Projekt: 🔁 Routinen   ← wiederkehrend
 ```
 
-**Sektionen = Kanban-Spalten.** Jede Kundenliste hat dieselben 4 Sektionen.
+**Sektionen = Kanban-Spalten.** Jedes Kundenprojekt hat dieselben 4 Sektionen. Board-View aktivieren für Kanban-Ansicht.
 
-**Tags = nur Kontext (4 Stück):**
+**Labels = nur Kontext (4 Stück):**
+
 ```
-#call      ← muss telefonieren
-#mail      ← muss schreiben
-#focus     ← braucht Deep Work Block
-#quick     ← <10 Min, für Lücken
+@call      ← muss telefonieren
+@mail      ← muss schreiben
+@focus     ← braucht Deep Work Block
+@quick     ← <10 Min, für Lücken
 ```
 
-**Kein Tag für:** Status, Priorität, Kunde, Projekt, Blocked.
+**Kein Label für:** Status, Priorität, Kunde, Projekt, Blocked.
+
+### Google Calendar
+
+```
+Time Blocks (nicht einzelne Tasks):
+   🔥 Deep Work      ← 2-3h Blöcke
+   📞 Calls          ← Meeting-Zeiten
+   📧 Admin          ← Mail, Kleinkram
+   ⬜ Puffer         ← Leer lassen
+```
+
+**Todoist weiß WAS.** GCal weiß WANN (Block-Typ). Du entscheidest im Moment WAS GENAU.
 
 ### Dateisystem
 
@@ -84,36 +97,36 @@ Ordner: System/
 
 ## 2. Was wo lebt
 
-| Inhalt | Ort |
-|--------|-----|
-| Strategieübersicht (HQ) | Obsidian 00_Zentrale/ |
-| Besprechungsnotizen | Obsidian 10_Arbeit/KUNDE/ |
-| Drafts, Recherche, Gedanken | Obsidian 10_Arbeit/KUNDE/ |
-| Fertiges Wissen, Standards | Obsidian 20_Wissen/ |
-| Vorlagen, Checklisten | Obsidian 20_Wissen/Vorlagen/ |
-| Abgeschlossene Mandate | Obsidian 30_Archiv/ |
-| Aufgaben & Aktionen | TickTick |
-| Status von Notizen | TickTick (Aufgabe mit obsidian://-Link) |
-| Zeitplanung | TickTick Kalender |
-| Externe Termine | Google Kalender |
-| Binärdateien | Dateisystem /Kunden/[KUNDE]/ |
+|Inhalt|Ort|
+|---|---|
+|Strategieübersicht (HQ)|Obsidian 00_Zentrale/|
+|Besprechungsnotizen|Obsidian 10_Arbeit/KUNDE/|
+|Drafts, Recherche, Gedanken|Obsidian 10_Arbeit/KUNDE/|
+|Fertiges Wissen, Standards|Obsidian 20_Wissen/|
+|Vorlagen, Checklisten|Obsidian 20_Wissen/Vorlagen/|
+|Abgeschlossene Mandate|Obsidian 30_Archiv/|
+|Aufgaben & Aktionen|Todoist|
+|Status von Notizen|Todoist (Aufgabe mit obsidian://-Link)|
+|Time Blocks|Google Calendar|
+|Externe Termine|Google Calendar|
+|Binärdateien|Dateisystem /Kunden/[KUNDE]/|
 
 ---
 
-## 3. Kernregel: Status lebt in TickTick
+## 3. Kernregel: Status lebt in Todoist
 
 Obsidian trackt keinen Status. Keine Status-Tags in Obsidian.
 
 **Wenn eine Notiz Aufmerksamkeit braucht:**
 
-1. TickTick-Aufgabe erstellen
+1. Todoist-Aufgabe erstellen
 2. `obsidian://`-Link zur Notiz einfügen
-3. Tags in TickTick setzen (#review, #wip, #blocked)
+3. Labels in Todoist setzen (@focus, @mail, etc.)
 4. Aufgabe erledigt → Link verschwindet → Notiz bleibt
 
 **Wenn eine Notiz keine Aktion braucht:**
 
-Nur in Obsidian. Kein TickTick-Eintrag.
+Nur in Obsidian. Kein Todoist-Eintrag.
 
 ---
 
@@ -124,13 +137,13 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 1. Obsidian: relevantes HQ öffnen
 2. Überblick über Bereiche
 3. Wochendirektiven setzen
-4. TickTick: Woche planen
+4. Todoist: Woche planen
 
 ### Umsetzung (Täglich)
 
-1. TickTick Heute-Ansicht öffnen
-2. Das ist dein Tag
-3. Ausführen
+1. GCal checken → Welche Blöcke heute?
+2. Todoist "Heute" Sektion → Tasks für die Blöcke
+3. Ausführen nach Block-Typ (@focus → Deep Work, @mail → Admin)
 
 ---
 
@@ -166,11 +179,11 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 
 ## 6. Abläufe
 
-### TickTick Daily Flow (Kanban)
+### Todoist Daily Flow (Kanban)
 
 ```
 1. 📥 Inbox leeren
-   → Jede Aufgabe in richtige Kundenliste → Sektion "📥 Eingang"
+   → Jede Aufgabe in richtiges Projekt → Sektion "📥 Eingang"
    
 2. Eingang → Diese Woche
    → Was muss diese Woche passieren? → Sektion "🔜 Diese Woche"
@@ -178,17 +191,22 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 3. Diese Woche → Heute
    → Morgens max 5-7 Tasks in "🔥 Heute" ziehen
    
-4. Arbeiten
-   → Tasks aus "🔥 Heute" abarbeiten
+4. GCal checken
+   → Welcher Block-Typ steht an? (Deep Work, Admin, Calls)
    
-5. Blocked?
-   → Sofort in "⏸️ Blocked" schieben, nicht in Heute lassen
+5. Arbeiten
+   → Deep Work Block? → @focus Tasks
+   → Admin Block? → @mail @quick Tasks
    
-6. Erledigt
+6. Blocked?
+   → Sofort in "⏸️ Blocked" schieben
+   
+7. Erledigt
    → Abhaken, verschwindet
 ```
 
 **WIP-Limits:**
+
 - 🔥 Heute: Max 5-7 Aufgaben
 - Gleichzeitig in Arbeit: Max 3
 
@@ -197,14 +215,15 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 1. Obsidian: relevantes HQ öffnen
 2. Kundenstatus aktualisieren (🔴🟡🟢)
 3. Wochendirektiven setzen
-4. TickTick: Woche planen
+4. Todoist: Woche planen
 
 ### Täglich (5 Min morgens)
 
-1. Inbox leeren (→ Kundenlisten)
+1. Inbox leeren (→ Projekte)
 2. "Diese Woche" prüfen → "Heute" befüllen (max 5-7)
-3. Arbeiten aus "Heute"
-4. Blocked sofort verschieben
+3. GCal: Welche Blöcke heute?
+4. Arbeiten nach Block-Typ + Labels
+5. Blocked sofort verschieben
 
 ### Nach Besprechungen
 
@@ -213,11 +232,11 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 
 ### Mandat abschließen
 
-1. Alle TickTick-Aufgaben für Kunde erledigt?
+1. Alle Todoist-Aufgaben für Kunde erledigt?
 2. 30 Tage Puffer abwarten
 3. Wiederverwendbares Wissen → 20_Wissen/ extrahieren
 4. Kundenordner 10_Arbeit/KUNDE/ → 30_Archiv/KUNDE/ verschieben
-5. TickTick-Liste archivieren oder löschen
+5. Todoist-Projekt archivieren oder löschen
 
 ---
 
@@ -225,21 +244,28 @@ Nur in Obsidian. Kein TickTick-Eintrag.
 
 ### Grundregeln
 
-1. **Keine Aufgaben in Obsidian.** Aufgaben leben in TickTick.
-2. **Kein Status in Obsidian.** Status = Sektion in TickTick.
+1. **Keine Aufgaben in Obsidian.** Aufgaben leben in Todoist.
+2. **Kein Status in Obsidian.** Status = Sektion in Todoist.
 3. **Keine Tagesnotizen.** Tot. Für immer.
 4. **Ein Kunde = Ein Ordner.** In 10_Arbeit/, später in 30_Archiv/.
-5. **HQ ist wöchentlich.** TickTick ist der Tagesstart.
+5. **HQ ist wöchentlich.** Todoist + GCal ist der Tagesstart.
 6. **Binärdateien außerhalb Obsidian.** Im Dateisystem unter /Kunden/[KUNDE]/.
 
-### TickTick-Kanban-Regeln
+### Todoist-Kanban-Regeln
 
-1. **Jede Liste = gleiches Sektionen-Schema.** 📥→🔜→🔥→⏸️
-2. **WIP-Limit respektieren.** Max 5-7 in "Heute", max 3 gleichzeitig.
-3. **Inbox Zero täglich.** Alles in Kundenlisten verteilen.
-4. **Blocked = sofort verschieben.** Nie in "Heute" verrotten lassen.
-5. **Aufgaben atomar halten.** >30 Min? Aufteilen.
-6. **Pull, nicht Push.** Nur in "Heute" ziehen wenn Kapazität frei.
+1. **Jedes Projekt = gleiches Sektionen-Schema.** 📥→🔜→🔥→⏸️
+2. **Board-View aktivieren.** Für Kanban-Ansicht.
+3. **WIP-Limit respektieren.** Max 5-7 in "Heute", max 3 gleichzeitig.
+4. **Inbox Zero täglich.** Alles in Projekte verteilen.
+5. **Blocked = sofort verschieben.** Nie in "Heute" verrotten lassen.
+6. **Aufgaben atomar halten.** >30 Min? Aufteilen.
+7. **Pull, nicht Push.** Nur in "Heute" ziehen wenn Kapazität frei.
+
+### GCal-Regeln
+
+1. **Nur Block-Typen, nicht einzelne Tasks.** Deep Work, Admin, Calls.
+2. **30% Puffer lassen.** Nicht alles verplanen.
+3. **Labels bestimmen was in welchen Block geht.** @focus → Deep Work, @mail/@quick → Admin.
 
 ### Obsidian-Tags
 
@@ -255,30 +281,30 @@ Nur inhaltliche Tags. Kein Status.
 
 Zweck: Filterung in 20_Wissen/, nicht Status-Tracking.
 
-### TickTick-Kontext-Tags
+### Todoist-Kontext-Labels
 
-Nur 4 Tags. Kein Status, kein Projekt, kein Kunde.
+Nur 4 Labels. Kein Status, kein Projekt, kein Kunde.
 
 ```
-#call      ← muss telefonieren
-#mail      ← muss schreiben
-#focus     ← braucht Deep Work Block
-#quick     ← <10 Min, für Lücken
+@call      ← muss telefonieren
+@mail      ← muss schreiben
+@focus     ← braucht Deep Work Block
+@quick     ← <10 Min, für Lücken
 ```
 
-**Status = Sektion, nicht Tag.**
+**Status = Sektion, nicht Label.**
 
 ### Wann wohin archivieren
 
-| Frage | Ziel |
-|-------|------|
-| Würde ich das bei neuem Kunden rausholen? | → 20_Wissen/ |
-| Kundenspezifisch, Projekt vorbei? | → 30_Archiv/ |
-| Beides? | Wissen extrahieren → 20, Rest → 30 |
+|Frage|Ziel|
+|---|---|
+|Würde ich das bei neuem Kunden rausholen?|→ 20_Wissen/|
+|Kundenspezifisch, Projekt vorbei?|→ 30_Archiv/|
+|Beides?|Wissen extrahieren → 20, Rest → 30|
 
 ---
 
-## 8. Verknüpfung Obsidian ↔ TickTick
+## 8. Verknüpfung Obsidian ↔ Todoist
 
 ### obsidian://-Link erstellen
 
@@ -286,11 +312,11 @@ Nur 4 Tags. Kein Status, kein Projekt, kein Kunde.
 obsidian://open?vault=VAULTNAME&file=10_Arbeit/KUNDE/notiz.md
 ```
 
-In TickTick-Aufgabe als Link einfügen.
+In Todoist-Aufgabe als Link einfügen.
 
 ### Wann verknüpfen
 
-- Notiz braucht Aktion → Link in TickTick
+- Notiz braucht Aktion → Link in Todoist
 - Notiz ist reines Wissen → kein Link
 
 ### Lifecycle
@@ -300,8 +326,8 @@ Notiz erstellt
     ↓
 Braucht Aktion? 
     ↓ Ja                    ↓ Nein
-TickTick-Aufgabe      Bleibt in Obsidian
-mit Link              (kein TickTick)
+Todoist-Aufgabe       Bleibt in Obsidian
+mit Link              (kein Todoist)
     ↓
 Aufgabe erledigt
     ↓
@@ -325,17 +351,25 @@ Notiz bleibt
               │ Links verbinden bei Bedarf
               ▼
 ┌─────────────────────────────────────┐
-│           TICKTICK                  │
+│           TODOIST                   │
 │     (Aufgaben + Status)             │
 │                                     │
 │  Trackt. Priorisiert. Erinnert.     │
 │  Alles was Aufmerksamkeit braucht.  │
 └─────────────────────────────────────┘
+              │
+              │ Labels bestimmen Block-Typ
+              ▼
+┌─────────────────────────────────────┐
+│        GOOGLE CALENDAR              │
+│         (Zeit + Blöcke)             │
+│                                     │
+│  Wann. Wie lange. Welcher Typ.      │
+│  Deep Work, Admin, Calls, Puffer.   │
+└─────────────────────────────────────┘
 ```
 
-**Obsidian ist dumm. TickTick ist schlau.**
-
-Obsidian speichert nur. TickTick entscheidet was wichtig ist.
+**Obsidian ist dumm.** Speichert nur. **Todoist ist schlau.** Entscheidet was wichtig ist. **GCal ist der Rahmen.** Sagt wann welche Art von Arbeit.
 
 ---
 
@@ -344,19 +378,19 @@ Obsidian speichert nur. TickTick entscheidet was wichtig ist.
 ### Bleibt gleich
 
 - HQ-Struktur in 00_Zentrale/
-- TickTick-Listen pro Kunde
-- Trennung Obsidian/TickTick
+- Trennung Obsidian/Task-App
 - Dateisystem für Binärdateien
 
 ### Ändert sich
 
-| V2.1 | V3 |
-|------|-----|
-| 10_Notizen/ | 10_Arbeit/ |
-| 20_Referenz/ | 20_Wissen/ |
-| 30_Werkzeuge/ | 20_Wissen/Vorlagen/ |
-| Kein Archiv | 30_Archiv/ |
-| Status unklar | Status nur in TickTick |
+|V2.1|V3|
+|---|---|
+|10_Notizen/|10_Arbeit/|
+|20_Referenz/|20_Wissen/|
+|30_Werkzeuge/|20_Wissen/Vorlagen/|
+|Kein Archiv|30_Archiv/|
+|Status unklar|Status = Sektion in Todoist|
+|Zeit in Task-App|Zeit in GCal (Blöcke)|
 
 ### Migrationsschritte
 
@@ -365,11 +399,12 @@ Obsidian speichert nur. TickTick entscheidet was wichtig ist.
 3. 30_Werkzeuge/ Inhalt → 20_Wissen/Vorlagen/ verschieben
 4. 30_Archiv/ erstellen
 5. Status-Tags in Obsidian entfernen (falls vorhanden)
-6. Aktive Notizen die Aufmerksamkeit brauchen → TickTick-Aufgaben mit Links
+6. Todoist-Projekte mit 4 Sektionen anlegen (📥→🔜→🔥→⏸️)
+7. Board-View aktivieren für Kanban
+8. 4 Labels erstellen (@call @mail @focus @quick)
+9. GCal: Time Block Kalender einrichten
+10. Aktive Notizen die Aufmerksamkeit brauchen → Todoist-Aufgaben mit Links
 
 ---
 
-**Version:** 3.0
-**Datum:** 02.12.2025
-**Prinzip:** Obsidian speichert, TickTick trackt.
-**Kernregel:** Status lebt in TickTick, nicht in Obsidian.
+**Version:** 3.0 **Datum:** 02.12.2025 **Prinzip:** Obsidian speichert, Todoist trackt, GCal strukturiert Zeit. **Kernregel:** Status lebt in Todoist (Sektionen), Zeit lebt in GCal (Blöcke).

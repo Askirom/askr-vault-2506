@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/Prozess_AV-Prüfung.md",
+                "file": "00_Ops/PKM v3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prozess_AV-Prüfung"
+              "title": "PKM v3"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957,
-    "collapsed": true
+    "width": 310.5086555480957
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -237,6 +236,7 @@
   },
   "active": "3d0ea840755ddd42",
   "lastOpenFiles": [
+    "01_Inbox/Prozess_AV-Prüfung.md",
     "99_Archiv/00_System_Guide.md",
     "99_Archiv",
     "20_Wissen/Vorlagen/Meeting.md",
@@ -281,7 +281,6 @@
     "10_Arbeit/CLIFO/04_Output/clifo-notfallplan-Checkliste an Fragen für H und C.md",
     "20_Wissen/identity/Askirom Framework v18.md",
     "10_Arbeit/RCG/03_Work/RCG-25-001-Meetings.md",
-    "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/RLE CV.md",
     "20_References/identity/Signature-RLE 2024.png",
     "99 Archive/2 Work/Work Projects/ifb - Assess D365/ifb - Assess D365 MoC.canvas",
     "99 Archive/1 Personal/Personal Projects/PERS - MoCs/PS5 Blue Prince Overview.canvas"
