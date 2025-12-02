@@ -1,4 +1,4 @@
-# PKM Betrieb V3 — Betriebsanleitung
+## PKM Betrieb V3 — Betriebsanleitung
 
 **Grundprinzip:** Denken und Handeln trennen. Radikal.
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 1. Struktur
+### 1. Struktur
 
-### Obsidian
+#### Obsidian
 
 ```
 00_Zentrale/
@@ -33,7 +33,7 @@
    [abgeschlossene Mandate]
 ```
 
-### Todoist
+#### Todoist
 
 ```
 Ordner: Secudor/
@@ -71,7 +71,7 @@ Projekt: 🔁 Routinen   ← wiederkehrend
 
 **Kein Label für:** Status, Priorität, Kunde, Projekt, Blocked.
 
-### Google Calendar
+#### Google Calendar
 
 ```
 Time Blocks (nicht einzelne Tasks):
@@ -83,7 +83,7 @@ Time Blocks (nicht einzelne Tasks):
 
 **Todoist weiß WAS.** GCal weiß WANN (Block-Typ). Du entscheidest im Moment WAS GENAU.
 
-### Dateisystem
+#### Dateisystem
 
 ```
 /Kunden/[KUNDE]/
@@ -95,7 +95,7 @@ Time Blocks (nicht einzelne Tasks):
 
 ---
 
-## 2. Was wo lebt
+### 2. Was Wo Lebt
 
 |Inhalt|Ort|
 |---|---|
@@ -113,7 +113,7 @@ Time Blocks (nicht einzelne Tasks):
 
 ---
 
-## 3. Kernregel: Status lebt in Todoist
+### 3. Kernregel: Status Lebt in Todoist
 
 Obsidian trackt keinen Status. Keine Status-Tags in Obsidian.
 
@@ -130,16 +130,16 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 
 ---
 
-## 4. Modi
+### 4. Modi
 
-### Strategie (Wöchentlich)
+#### Strategie (Wöchentlich)
 
 1. Obsidian: relevantes HQ öffnen
 2. Überblick über Bereiche
 3. Wochendirektiven setzen
 4. Todoist: Woche planen
 
-### Umsetzung (Täglich)
+#### Umsetzung (Täglich)
 
 1. GCal checken → Welche Blöcke heute?
 2. Todoist "Heute" Sektion → Tasks für die Blöcke
@@ -147,7 +147,7 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 
 ---
 
-## 5. HQ-Vorlage
+### 5. HQ-Vorlage
 
 ```markdown
 # [BEREICH] HQ — [MODUS]
@@ -177,9 +177,9 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 
 ---
 
-## 6. Abläufe
+### 6. Abläufe
 
-### Todoist Daily Flow (Kanban)
+#### Todoist Daily Flow (Kanban)
 
 ```
 1. 📥 Inbox leeren
@@ -210,14 +210,14 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 - 🔥 Heute: Max 5-7 Aufgaben
 - Gleichzeitig in Arbeit: Max 3
 
-### Wöchentlich (Montag, 15 Min)
+#### Wöchentlich (Montag, 15 Min)
 
 1. Obsidian: relevantes HQ öffnen
 2. Kundenstatus aktualisieren (🔴🟡🟢)
 3. Wochendirektiven setzen
 4. Todoist: Woche planen
 
-### Täglich (5 Min morgens)
+#### Täglich (5 Min morgens)
 
 1. Inbox leeren (→ Projekte)
 2. "Diese Woche" prüfen → "Heute" befüllen (max 5-7)
@@ -225,12 +225,12 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 4. Arbeiten nach Block-Typ + Labels
 5. Blocked sofort verschieben
 
-### Nach Besprechungen
+#### Nach Besprechungen
 
 1. Obsidian: Notiz in 10_Arbeit/KUNDE/ erstellen
 2. Aktionspunkte → TickTick-Aufgaben mit obsidian://-Link
 
-### Mandat abschließen
+#### Mandat Abschließen
 
 1. Alle Todoist-Aufgaben für Kunde erledigt?
 2. 30 Tage Puffer abwarten
@@ -240,9 +240,9 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 
 ---
 
-## 7. Regeln
+### 7. Regeln
 
-### Grundregeln
+#### Grundregeln
 
 1. **Keine Aufgaben in Obsidian.** Aufgaben leben in Todoist.
 2. **Kein Status in Obsidian.** Status = Sektion in Todoist.
@@ -251,7 +251,7 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 5. **HQ ist wöchentlich.** Todoist + GCal ist der Tagesstart.
 6. **Binärdateien außerhalb Obsidian.** Im Dateisystem unter /Kunden/[KUNDE]/.
 
-### Todoist-Kanban-Regeln
+#### Todoist-Kanban-Regeln
 
 1. **Jedes Projekt = gleiches Sektionen-Schema.** 📥→🔜→🔥→⏸️
 2. **Board-View aktivieren.** Für Kanban-Ansicht.
@@ -261,13 +261,13 @@ Nur in Obsidian. Kein Todoist-Eintrag.
 6. **Aufgaben atomar halten.** >30 Min? Aufteilen.
 7. **Pull, nicht Push.** Nur in "Heute" ziehen wenn Kapazität frei.
 
-### GCal-Regeln
+#### GCal-Regeln
 
 1. **Nur Block-Typen, nicht einzelne Tasks.** Deep Work, Admin, Calls.
 2. **30% Puffer lassen.** Nicht alles verplanen.
 3. **Labels bestimmen was in welchen Block geht.** @focus → Deep Work, @mail/@quick → Admin.
 
-### Obsidian-Tags
+#### Obsidian-Tags
 
 Nur inhaltliche Tags. Kein Status.
 
@@ -281,7 +281,7 @@ Nur inhaltliche Tags. Kein Status.
 
 Zweck: Filterung in 20_Wissen/, nicht Status-Tracking.
 
-### Todoist-Kontext-Labels
+#### Todoist-Kontext-Labels
 
 Nur 4 Labels. Kein Status, kein Projekt, kein Kunde.
 
@@ -294,7 +294,7 @@ Nur 4 Labels. Kein Status, kein Projekt, kein Kunde.
 
 **Status = Sektion, nicht Label.**
 
-### Wann wohin archivieren
+#### Wann Wohin Archivieren
 
 |Frage|Ziel|
 |---|---|
@@ -304,9 +304,9 @@ Nur 4 Labels. Kein Status, kein Projekt, kein Kunde.
 
 ---
 
-## 8. Verknüpfung Obsidian ↔ Todoist
+### 8. Verknüpfung Obsidian ↔ Todoist
 
-### obsidian://-Link erstellen
+#### obsidian://-Link Erstellen
 
 ```
 obsidian://open?vault=VAULTNAME&file=10_Arbeit/KUNDE/notiz.md
@@ -314,12 +314,12 @@ obsidian://open?vault=VAULTNAME&file=10_Arbeit/KUNDE/notiz.md
 
 In Todoist-Aufgabe als Link einfügen.
 
-### Wann verknüpfen
+#### Wann Verknüpfen
 
 - Notiz braucht Aktion → Link in Todoist
 - Notiz ist reines Wissen → kein Link
 
-### Lifecycle
+#### Lifecycle
 
 ```
 Notiz erstellt
@@ -337,7 +337,7 @@ Notiz bleibt
 
 ---
 
-## 9. Philosophie
+### 9. Philosophie
 
 ```
 ┌─────────────────────────────────────┐
@@ -373,15 +373,15 @@ Notiz bleibt
 
 ---
 
-## 10. Migration von V2.1
+### 10. Migration Von V2.1
 
-### Bleibt gleich
+#### Bleibt Gleich
 
 - HQ-Struktur in 00_Zentrale/
 - Trennung Obsidian/Task-App
 - Dateisystem für Binärdateien
 
-### Ändert sich
+#### Ändert Sich
 
 |V2.1|V3|
 |---|---|
@@ -392,7 +392,7 @@ Notiz bleibt
 |Status unklar|Status = Sektion in Todoist|
 |Zeit in Task-App|Zeit in GCal (Blöcke)|
 
-### Migrationsschritte
+#### Migrationsschritte
 
 1. 10_Notizen/ → 10_Arbeit/ umbenennen
 2. 20_Referenz/ → 20_Wissen/ umbenennen
