@@ -1,4 +1,4 @@
-# PKM Betrieb V3 — Betriebsanleitung
+## PKM Betrieb V3 — Betriebsanleitung
 
 **Grundprinzip:** Ein Command Center für alles Aktive.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Das Prinzip
+### 1. Das Prinzip
 
 ```
 ┌─────────────────────────────────────┐
@@ -45,7 +45,7 @@
 
 ---
 
-## 2. Todoist-Struktur
+### 2. Todoist-Struktur
 
 ```
 📥 Inbox                    ← Schnell-Capture, täglich leeren
@@ -65,7 +65,7 @@ Ordner: Privat/
    Projekt: Admin
 ```
 
-### Status-Tracking
+#### Status-Tracking
 
 **Keine Sektionen für Status.** Todoist regelt Status über:
 
@@ -75,7 +75,7 @@ Ordner: Privat/
 | Priorität | p1 = Akut, p2 = Normal, p3 = Nice-to-have |
 | Labels | @focus, @mail, @call, @quick (Kontext für Blöcke) |
 
-### Sektionen in Projekten
+#### Sektionen in Projekten
 
 Nutze Sektionen für **Themen oder Phasen**, nicht für Status:
 
@@ -88,7 +88,7 @@ Projekt: CLIFO
 
 Oder lass Sektionen weg wenn nicht nötig.
 
-### Dein HQ = Todoist Views
+#### Dein HQ = Todoist Views
 
 | View | Funktion | Wann |
 |------|----------|------|
@@ -99,7 +99,7 @@ Oder lass Sektionen weg wenn nicht nötig.
 
 **Du brauchst kein separates HQ-Projekt.** Die Views SIND dein HQ.
 
-### Labels (nur 4)
+#### Labels (nur 4)
 
 ```
 @focus    ← Deep Work, braucht Konzentration
@@ -108,7 +108,7 @@ Oder lass Sektionen weg wenn nicht nötig.
 @quick    ← <10 Min, für Lücken
 ```
 
-### Prioritäten
+#### Prioritäten
 
 ```
 p1 = Muss heute / dringend
@@ -118,14 +118,14 @@ p3 = Nice-to-have / irgendwann
 
 ---
 
-## 3. GCal-Struktur
+### 3. GCal-Struktur
 
 ```
 Kalender: Termine        ← Externe Meetings, Calls
 Kalender: Blöcke         ← Deine Time Blocks (optional separater Kalender)
 ```
 
-### Block-Typen
+#### Block-Typen
 
 ```
 🔥 Deep Work    (2-3h Blöcke)
@@ -134,7 +134,7 @@ Kalender: Blöcke         ← Deine Time Blocks (optional separater Kalender)
 ⬜ Puffer       (leer lassen, ~30% der Zeit)
 ```
 
-### Regeln
+#### Regeln
 
 1. **Nur Block-Typen, nicht einzelne Tasks.** 
 2. **30% Puffer lassen.** Nicht alles verplanen.
@@ -145,7 +145,7 @@ Kalender: Blöcke         ← Deine Time Blocks (optional separater Kalender)
 
 ---
 
-## 4. Obsidian-Struktur (radikal reduziert)
+### 4. Obsidian-Struktur (radikal reduziert)
 
 ```
 10_Arbeit/
@@ -165,7 +165,7 @@ Kalender: Blöcke         ← Deine Time Blocks (optional separater Kalender)
 
 **Kein 00_Zentrale/. Kein HQ.** Das lebt in Todoist.
 
-### Obsidian-Tags
+#### Obsidian-Tags
 
 Nur inhaltliche Tags für Wissensfilterung:
 
@@ -180,7 +180,7 @@ Kein Status. Keine Prioritäten.
 
 ---
 
-## 5. Was wo lebt
+### 5. Was Wo Lebt
 
 | Inhalt | Tool |
 |--------|------|
@@ -199,9 +199,9 @@ Kein Status. Keine Prioritäten.
 
 ---
 
-## 6. Workflows
+### 6. Workflows
 
-### Morgen (5 Min)
+#### Morgen (5 Min)
 
 ```
 1. Todoist "Heute" öffnen
@@ -217,7 +217,7 @@ Kein Status. Keine Prioritäten.
    → Admin? → @mail @quick Tasks
 ```
 
-### Während des Tages
+#### Während Des Tages
 
 ```
 - Task erledigt → Abhaken
@@ -226,14 +226,14 @@ Kein Status. Keine Prioritäten.
 - Notiz nötig? → Obsidian 10_Arbeit/KUNDE/
 ```
 
-### Abend (2 Min)
+#### Abend (2 Min)
 
 ```
 - "Heute" noch voll? → Realistisch für morgen planen
 - Inbox leer? → Wenn nicht, jetzt leeren
 ```
 
-### Wochenstart (15 Min)
+#### Wochenstart (15 Min)
 
 ```
 1. Todoist "Demnächst" öffnen
@@ -249,7 +249,7 @@ Kein Status. Keine Prioritäten.
    → Zu viele Meetings? → Umplanen
 ```
 
-### Bei Kundenarbeit
+#### Bei Kundenarbeit
 
 ```
 1. Todoist → Projekt "CLIFO" öffnen
@@ -264,7 +264,7 @@ Kein Status. Keine Prioritäten.
    → Action Items → Todoist Tasks mit obsidian://-Link
 ```
 
-### Mandat abschließen
+#### Mandat Abschließen
 
 ```
 1. Todoist: Alle Tasks für Kunde erledigt?
@@ -275,9 +275,9 @@ Kein Status. Keine Prioritäten.
 
 ---
 
-## 7. Verknüpfung Obsidian ↔ Todoist
+### 7. Verknüpfung Obsidian ↔ Todoist
 
-### obsidian://-Link erstellen
+#### obsidian://-Link Erstellen
 
 ```
 obsidian://open?vault=VAULTNAME&file=10_Arbeit/KUNDE/notiz.md
@@ -285,12 +285,12 @@ obsidian://open?vault=VAULTNAME&file=10_Arbeit/KUNDE/notiz.md
 
 In Todoist-Aufgabe als Link einfügen.
 
-### Wann verknüpfen
+#### Wann Verknüpfen
 
 - Notiz braucht Aktion → Link in Todoist
 - Notiz ist reines Wissen → kein Link
 
-### Lifecycle
+#### Lifecycle
 
 ```
 Notiz erstellt
@@ -308,9 +308,9 @@ Notiz bleibt
 
 ---
 
-## 8. Regeln
+### 8. Regeln
 
-### Grundregeln
+#### Grundregeln
 
 1. **Todoist ist dein HQ.** "Heute" View jeden Morgen öffnen.
 2. **Keine Aufgaben in Obsidian.** Aufgaben leben in Todoist.
@@ -319,7 +319,7 @@ Notiz bleibt
 5. **Zeit in GCal, nicht in Todoist.** Blöcke statt Task-Uhrzeiten.
 6. **Binärdateien außerhalb Obsidian.** Im Dateisystem unter /Kunden/.
 
-### Todoist-Regeln
+#### Todoist-Regeln
 
 1. **Inbox Zero täglich.** Alles in Projekte verteilen.
 2. **Fälligkeitsdatum = Commitment.** Nur setzen wenn realistisch.
@@ -327,13 +327,13 @@ Notiz bleibt
 4. **Blocked = Datum verschieben + Kommentar.** Nicht verrotten lassen.
 5. **Labels für Kontext, nicht Status.** @focus, @mail, @call, @quick.
 
-### GCal-Regeln
+#### GCal-Regeln
 
 1. **Nur Block-Typen.** Keine einzelnen Tasks im Kalender.
 2. **30% Puffer.** Nicht alles verplanen.
 3. **Deep Work zuerst.** Morgens wenn möglich.
 
-### Obsidian-Regeln
+#### Obsidian-Regeln
 
 1. **Nur Text der bleibt.** Notizen, Wissen, Archiv.
 2. **Keine Übersichten.** Das macht Todoist.
@@ -341,7 +341,7 @@ Notiz bleibt
 
 ---
 
-## 9. WIP-Limits (Logistik-Prinzip)
+### 9. WIP-Limits (Logistik-Prinzip)
 
 ```
 "Heute" View:     Max 5-7 Tasks
@@ -353,22 +353,22 @@ p1 pro Tag:       Max 3
 
 ---
 
-## 10. Migration von V2.1
+### 10. Migration Von V2.1
 
-### Was wegfällt
+#### Was Wegfällt
 
 - 00_Zentrale/ mit HQ-Files → Todoist Views
 - Wochendirektiven in Obsidian → Todoist "Demnächst"
 - Status-Tags in Obsidian → Todoist Datum + Priorität
 
-### Was bleibt
+#### Was Bleibt
 
 - Obsidian für Notizen (10_Arbeit/)
 - Obsidian für Wissen (20_Wissen/)
 - Dateisystem für Binärdateien
 - GCal für Termine
 
-### Was sich ändert
+#### Was Sich Ändert
 
 | V2.1 | V3 |
 |------|-----|
@@ -379,7 +379,7 @@ p1 pro Tag:       Max 3
 | Kein Archiv | 30_Archiv/ |
 | TickTick | Todoist |
 
-### Migrationsschritte
+#### Migrationsschritte
 
 1. Todoist: Ordner + Projekte anlegen
 2. Todoist: 4 Labels erstellen (@focus, @mail, @call, @quick)
@@ -393,7 +393,7 @@ p1 pro Tag:       Max 3
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
 **Dein Tag:**
 1. Todoist "Heute" öffnen → Das ist dein HQ
