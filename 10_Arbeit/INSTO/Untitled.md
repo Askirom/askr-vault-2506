@@ -43,7 +43,7 @@ Inhalt
 
   
 
-# 1            Verteiler
+## 1 Verteiler
 
 |   |   |   |
 |---|---|---|
@@ -52,9 +52,9 @@ Inhalt
 ||||
 ||||
 
-# 2           Zusammenfassung (Management Summary)
+## 2 Zusammenfassung (Management Summary)
 
-# 3           Untersuchungsgegenstand
+## 3 Untersuchungsgegenstand
 
 Es werden die folgenden Prüfschritte bei dem Dienstleister durchgeführt:
 
@@ -70,25 +70,25 @@ Es werden die folgenden Prüfschritte bei dem Dienstleister durchgeführt:
 
 §   Vorstellung des Berichts zu Dienstleister an Datenschutzteam
 
-# 4           Rollen & Vorgehen
+## 4 Rollen & Vorgehen
 
 **Auditor**: Robin Leitner
 
 **Verantwortlicher**: Uwe Kirchgessner
 
-## 4.1       Vorgehen
+### 4.1 Vorgehen
 
 Der Auditor hat einen Fragenkatalog an den im AV-Vertrag Ansprechpartner des Dienstleisters zu Datenschutz gesendet. Dieser Ansprechpartner wurde dem AV-Vertrag und falls dort nicht vorhanden anderer Kommunikation entnommen. Dem Dienstleister wurde dabei eine 2-wöchige Antwortfrist gegeben. Sobald der Auditor die Antwort ggf. mit Anhängen erhalten hat, sichtet er diese und bewertet den Status der einzelnen Fragen.
 
-## 4.2      Kriterien zum Bestehen
+### 4.2 Kriterien Zum Bestehen
 
 Das Audit gilt als bestanden, falls sämtliche Hauptabweichungen eine Maßnahme bis zum Re-Audit definiert haben. Falls sich der Verantwortliche für eine Maßnahme zu einer Nebenabweichungen entscheidet, so wird diese als Kriterium für das Bestehen des Re-Audits herangezogen.
 
   
 
-# 5           Auditergebnisse
+## 5 Auditergebnisse
 
-## 5.1       Hauptabweichungen
+### 5.1 Hauptabweichungen
 
 Während des Audits wurden folgende Hauptabweichungen entdeckt:
 
@@ -101,7 +101,7 @@ Während des Audits wurden folgende Hauptabweichungen entdeckt:
 |4|**ServiceNow**|**Keine Reaktion auf Audit-Anfrage**<br><br>Der Dienstleister hat auf die schriftliche Anfrage vom 15.09.2025 nicht reagiert. Eine individuelle Überprüfung gemäß Art. 28 Abs. 3 lit. h DSGVO wurde dadurch erschwert.|**Hinweis:** Das Risiko wird als gering eingestuft, da das DSA (TOMs) sehr detaillierte und zertifizierte Sicherheitsstandards (ISO 27001) zusichert.|
 |5|**ServiceNow**|**Drittlandtransfer (USA, Indien, Australien)**<br><br>Die vorliegende Unterschriftenseite der SCCs listet neben _ServiceNow, Inc. (USA)_ auch Niederlassungen in _Australien_ und _Indien_ als Datenimporteure. Dies bestätigt weltweite Zugriffsmöglichkeiten (z.B. durch Support ("Follow-the-Sun")).|**Maßnahme:** Erstellung eines **Transfer Impact Assessments (TIA)** durch den Verantwortlichen. Da SCCs vorliegen und ServiceNow in den USA zertifiziert ist (Data Privacy Framework prüfen), ist das Risiko meist vertretbar, muss aber dokumentiert werden.|
 
-## 5.2      Nebenabweichungen
+### 5.2 Nebenabweichungen
 
 |   |   |   |   |
 |---|---|---|---|
@@ -113,7 +113,7 @@ Während des Audits wurden folgende Hauptabweichungen entdeckt:
 |5|ServiceNow|**Verschlüsselung "At Rest" optional**<br><br>Laut DSA Abschnitt 3.2.9 wird die Verschlüsselung ruhender Daten "by Customer" bestimmt.|**Maßnahme:** Die IT-Abteilung muss prüfen, ob die Option "Data Encryption at Rest" in der ServiceNow-Instanz der InfraStor GmbH tatsächlich **aktiviert** ist. Dies ist oft eine Zusatzkonfiguration.|
 |6|ServiceNow|**Verweis auf Online-Liste für Subunternehmer**<br><br>Das DPA verweist für die Liste der Subunternehmer auf eine URL.|**Hinweis:** Ein PDF-Abzug der aktuellen Subunternehmer-Liste sollte einmal jährlich zu den Akten genommen werden (Monitoring-Pflicht).|
 
-# 6           Dokumentenlenkung
+## 6 Dokumentenlenkung
 
 |   |   |   |   |
 |---|---|---|---|
