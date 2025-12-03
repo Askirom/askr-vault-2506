@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,10 +266,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "94bba637f455261b",
+  "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
-    "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
     "10_Arbeit/EMPIC/2025-12-03 Meeting ISMS.md",
+    "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
     "00_Ops/Untitled.md",
     "00_Ops/PKM v3.1.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-203 Privatnutzung.md",
