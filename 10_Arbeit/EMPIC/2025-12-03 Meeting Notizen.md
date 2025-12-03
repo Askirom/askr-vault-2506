@@ -21,4 +21,5 @@
 ## IS-205
 - Patchmanagement muss entsprechend Herstellervorgaben und neues Kenntnisse über Sicherheitsvorfälle
 - wie lange kannman mit dem WSUS verzögern
-- 
+## IS 207
+- Vorlage Dienstleistervertrag zu Mindestanforderungen
