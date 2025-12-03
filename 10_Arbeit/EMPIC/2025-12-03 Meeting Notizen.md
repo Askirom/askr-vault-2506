@@ -14,3 +14,5 @@
 	- MDM Lösung Tablets
 - MDM 4.3 -> Beachten dass in der geschäftlichen MDM-Lösung keine Software installiert werden
 - 4.4 wurde aktualisiert
+- VPN Einstellungen prüfen
+	- kann dieser umgangen werden
