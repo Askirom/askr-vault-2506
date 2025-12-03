@@ -16,3 +16,7 @@
 - 4.4 wurde aktualisiert
 - VPN Einstellungen prüfen
 	- kann dieser umgangen werden
+## IS-205
+- Patchmanagement muss entsprechend Herstellervorgaben und neues Kenntnisse über Sicherheitsvorfälle
+- wie lange kannman mit dem WSUS verzögern
+- 
