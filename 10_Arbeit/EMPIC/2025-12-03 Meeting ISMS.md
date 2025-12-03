@@ -1,3 +1,4 @@
+# 2025-12-03 Meeting ISMS
 ## **09:00 – 09:30 | 1. Einleitung & Zielsetzung**
 
 - **Status Quo:** Wo stehen wir im VdS 10000 Projekt? (Kurzer Überblick: Assets sind erfasst, Risiken bewertet).
@@ -43,11 +44,7 @@ _Das "Sicherheitsnetz" des Unternehmens._
 ## **14:30 – 15:00 | 5. Abschluss & Formalitäten**
 
 - **IS-213: Physische Sicherheit**
-    
 - **Unterschriften:** Formale Freigabe der Dokumente (Datum, Version).
-    
 - **Nächste Schritte:**
-    
     - Wann werden Mitarbeiter geschult? (Verweis auf IS-303).
-        
     - Kommunikationsplan (Intranet, E-Mail).
