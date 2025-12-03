@@ -9,13 +9,15 @@
 - ISB Email sauber bearbeiten
 - Clean Desk -> ist in Ordnung
 - Aufnehmen von Social Engineering in Schulung
-- Privatnutzung ist schon woanders geregelt
+- Privatnutzung ist schon woanders geregelt -> Verweis darauf zeigen
 - Verbot für Tablets -> ja? nein? 
 	- MDM Lösung Tablets
+	- genau wie Smartphones
 - MDM 4.3 -> Beachten dass in der geschäftlichen MDM-Lösung keine Software installiert werden
 - 4.4 wurde aktualisiert
 - VPN Einstellungen prüfen
 	- kann dieser umgangen werden
+
 ## IS-205
 - Patchmanagement muss entsprechend Herstellervorgaben und neues Kenntnisse über Sicherheitsvorfälle
 - wie lange kannman mit dem WSUS verzögern
