@@ -1,3 +1,4 @@
+# IS-213 Risikomanagement
 ## **1. Ziel Und Zweck**
 
 Zweck dieser Richtlinie ist es, eine einheitliche Vorgehensweise zur Identifikation, Bewertung und Behandlung von Informationssicherheitsrisiken festzulegen. Ziel ist es, Gefährdungen für die Unternehmenswerte (Assets) frühzeitig zu erkennen und Risiken auf ein akzeptables Maß zu reduzieren.
