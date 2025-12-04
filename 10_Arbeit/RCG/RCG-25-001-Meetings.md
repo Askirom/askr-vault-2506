@@ -252,4 +252,8 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Blick. Terminanfrage weitergeleitet
 - Postfachzugriff
 	- AHO: ein Punkt der mir noch eingefallen ist: was machen wir, wenn der MA schon ausgeschieden ist und danach das Postfach danach geöffnet wird: wird dann auch noch informiert, und wenn ja, wie? das könnten wir noch spezifizieren, die RL lasse ich morgen auch freigeben dann
-	- 
+
+## 2025-12-04 Unterweisungen DS/CS für die MA RCIM
+- Urbanek
+	- Betriebsratvorsitzender
+- 

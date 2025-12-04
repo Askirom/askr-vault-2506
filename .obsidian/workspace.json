@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenTasks.md",
+                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OpenTasks"
+              "title": "RCG-25-001-Meetings"
             }
           },
           {
@@ -251,8 +251,8 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
-    "01_Inbox/Task.md",
     "OpenTasks.md",
+    "01_Inbox/Task.md",
     "01_Inbox/Prozess_AV-Prüfung.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
     "10_Arbeit/RCG/rcg-ikone-richtlinie.md",
