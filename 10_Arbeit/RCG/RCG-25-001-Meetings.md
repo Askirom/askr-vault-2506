@@ -256,4 +256,5 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 ## 2025-12-04 Unterweisungen DS/CS für die MA RCIM
 - Urbanek
 	- Betriebsratvorsitzender
+- bei RCIM wird an die Personalabteilung eskaliert
 - 
