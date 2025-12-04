@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
+                "file": "01_Inbox/Quick.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG-25-001-Meetings"
+              "title": "Quick"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
+                "file": "01_Inbox/Quick.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Webseiten Prüfungsprozess"
+              "title": "Quick"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,12 +250,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "2f2762318b8fbbe0",
+  "active": "defba3816e8cd0fa",
   "lastOpenFiles": [
-    "OpenTasks.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
+    "01_Inbox/Quick.md",
     "01_Inbox/Task.md",
-    "01_Inbox/Prozess_AV-Prüfung.md",
+    "Task-Log.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
+    "01_Inbox/Prozess_AV-Prüfung.md",
     "10_Arbeit/RCG/rcg-ikone-richtlinie.md",
     "10_Arbeit/SOLVE/03_Work/2025-12-04 Netto Meeting.md",
     "10_Arbeit/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
@@ -264,7 +267,6 @@
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung Template.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Webseitenprüfungen 2025-12.md",
-    "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "10_Arbeit/EMPIC/IS-2xx/IS-214 Physische Sicherheit.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-213 Risikomanagement.md",
@@ -277,7 +279,6 @@
     "10_Arbeit/EMPIC/IS-2xx/IS-200 ISMS Richtlinie.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-100 Informationssicherheitsleitlinie.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-000 Dokumentenorganisation.md",
-    "10_Arbeit/34DIG/_Meetings-34digital.md",
     "99_Archiv",
     "20_Wissen/Vorlagen",
     "10_Arbeit/SEPA-Basislastschrift-Mandat-FFW.pdf",
