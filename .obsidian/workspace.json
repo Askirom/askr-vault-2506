@@ -8,52 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d0ea840755ddd42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Ops/PKM v3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PKM v3"
-            }
-          },
-          {
-            "id": "94bba637f455261b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Arbeit/EMPIC/2025-12-03 Meeting ISMS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-03 Meeting ISMS"
-            }
-          },
-          {
             "id": "2f2762318b8fbbe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/EMPIC/IS-2xx/IS-214 Physische Sicherheit.md",
-                "mode": "preview",
+                "file": "10_Arbeit/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IS-214 Physische Sicherheit"
+              "title": "2025-11-27 Netto Anforderungen"
+            }
+          },
+          {
+            "id": "defba3816e8cd0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Webseiten Prüfungsprozess"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,9 +251,16 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
-    "10_Arbeit/EMPIC/IS-2xx/IS-213 Risikomanagement.md",
-    "10_Arbeit/EMPIC/IS-2xx/IS-214 Physische Sicherheit.md",
+    "10_Arbeit/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
     "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
+    "10_Arbeit/EMPIC/Entscheidungen VdS 10000.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung Template.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/Webseitenprüfungen 2025-12.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
+    "10_Arbeit/SECUD/Webseitenprüfung",
+    "10_Arbeit/EMPIC/IS-2xx/IS-214 Physische Sicherheit.md",
+    "10_Arbeit/EMPIC/IS-2xx/IS-213 Risikomanagement.md",
     "10_Arbeit/EMPIC/2025-12-03 Meeting ISMS.md",
     "00_Ops/Untitled.md",
     "00_Ops/PKM v3.1.md",
@@ -287,17 +278,11 @@
     "10_Arbeit/CLIFO/clifo-notfallplan-Checkliste an Fragen für H und C.md",
     "00_Ops/PKM v3.md",
     "00_Ops/PKM v3q..md",
-    "01_Inbox/Prozess_AV-Prüfung.md",
-    "99_Archiv/00_System_Guide.md",
     "99_Archiv",
-    "20_Wissen/Vorlagen/Meeting.md",
-    "20_Wissen/Vorlagen/Daily.md",
     "20_Wissen/Vorlagen",
-    "10_Arbeit/Workout 2025-11.md",
     "10_Arbeit/SEPA-Basislastschrift-Mandat-FFW.pdf",
     "20_Wissen/Identität/Signature-RLE 2024.png",
     "20_Wissen/Identität/Signature-RLE 2024_transparent.png",
-    "20_Wissen/Identität/Askirom V21.md",
     "20_Wissen/Identität",
     "20_Wissen/Temperatur",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
@@ -307,7 +292,6 @@
     "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Ausweis.png",
     "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/Ausweis.png",
-    "20_Wissen/standards/vds-10000.pdf",
     "20_Wissen/identity/Signature-RLE 2024.png",
     "20_Wissen/identity/Signature-RLE 2024_transparent.png",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/photo_2025-10-06 09.32.58.jpeg",
