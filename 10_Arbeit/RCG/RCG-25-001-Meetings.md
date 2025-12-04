@@ -245,4 +245,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 ## 2025-12-01 Löschkonzept
 - Abstimmung RCIM ist am Donnerstag
 - Rechnung wird normal gestellt
+- Ergebnisse in Dokument verankert
+
+## 2025-12-04 Löschkonzept
 - 

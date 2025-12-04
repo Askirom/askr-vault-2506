@@ -1,3 +1,4 @@
+# Rcg-ikone-richtlinie
 type:: knowledge
 status:: active
 client:: RCG
