@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+                "file": "10_Arbeit/SOLVE/03_Work/2025-12-04 Netto Meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-27 Netto Anforderungen"
+              "title": "2025-12-04 Netto Meeting"
             }
           },
           {
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -251,6 +252,8 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
+    "10_Arbeit/SOLVE/03_Work/2025-11-27 Netto Anforderungen.md",
+    "10_Arbeit/SOLVE/03_Work/2025-12-04 Netto Meeting.md",
     "10_Arbeit/SOLVE/03_Work/2025-11-21 Abstimmung InfoSec.md",
     "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
     "10_Arbeit/EMPIC/Entscheidungen VdS 10000.md",
@@ -276,8 +279,6 @@
     "10_Arbeit/INSTO/_Client-INSTO.md",
     "10_Arbeit/CLIFO/_Client-CLIFO.md",
     "10_Arbeit/CLIFO/clifo-notfallplan-Checkliste an Fragen für H und C.md",
-    "00_Ops/PKM v3.md",
-    "00_Ops/PKM v3q..md",
     "99_Archiv",
     "20_Wissen/Vorlagen",
     "10_Arbeit/SEPA-Basislastschrift-Mandat-FFW.pdf",
