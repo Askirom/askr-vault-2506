@@ -248,4 +248,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Ergebnisse in Dokument verankert
 
 ## 2025-12-04 Löschkonzept
-- 
+- Blick. Terminanfrage weitergeleitet
+- Postfachzugriff
+	- AHO: ein Punkt der mir noch eingefallen ist: was machen wir, wenn der MA schon ausgeschieden ist und danach das Postfach danach geöffnet wird: wird dann auch noch informiert, und wenn ja, wie? das könnten wir noch spezifizieren, die RL lasse ich morgen auch freigeben dann
+	- 
