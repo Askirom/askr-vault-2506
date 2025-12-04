@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/Quick.md",
+                "file": "01_Inbox/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick"
+              "title": "Inbox"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/Quick.md",
+                "file": "20_Wissen/Identität/Askirom V21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick"
+              "title": "Askirom V21"
             }
           }
         ],
@@ -252,8 +252,9 @@
   },
   "active": "defba3816e8cd0fa",
   "lastOpenFiles": [
+    "20_Wissen/Identität/Askirom Framework v18.md",
+    "01_Inbox/Inbox.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
-    "01_Inbox/Quick.md",
     "01_Inbox/Task.md",
     "Task-Log.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
@@ -278,7 +279,6 @@
     "10_Arbeit/EMPIC/IS-2xx/IS-201 IT-Nutzung.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-200 ISMS Richtlinie.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-100 Informationssicherheitsleitlinie.md",
-    "10_Arbeit/EMPIC/IS-2xx/IS-000 Dokumentenorganisation.md",
     "99_Archiv",
     "20_Wissen/Vorlagen",
     "10_Arbeit/SEPA-Basislastschrift-Mandat-FFW.pdf",
