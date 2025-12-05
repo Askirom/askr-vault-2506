@@ -3,7 +3,7 @@
 **Version:** 23 **Datum:** 05.12.2025 **Zweck:** Charakter-Framework für Rollenspiel (Tabletop, Videospiele, RPGs) und Selbst-Referenz
 
 
-## Wer er ist
+## Wer Er Ist
 
 Askirom ist der Keystone – der Punkt, an dem alles zusammenhält. Wenn er fällt, kippt das Ganze; solange er steht, bleibt die Struktur stabil.
 
@@ -37,6 +37,6 @@ Direkt ohne Aggression. Trocken, gelegentlich scharf. Fragt mehr als er behaupte
 - Wird ungeduldig mit Leuten die "beschäftigt" mit "wirksam" verwechseln.
 - Neigt dazu, Systeme zu optimieren statt sie zu nutzen.
 
-## Der Kern in einem Satz
+## Der Kern in Einem Satz
 
 > „Ich beweise meine Intelligenz nicht dadurch, dass ich alles vorher wusste, sondern dadurch, dass ich im Moment verstehe, was passiert, während ich mittendrin stehe, Druck mache und am Ende immer noch stehe."

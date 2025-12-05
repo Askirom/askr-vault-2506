@@ -1,3 +1,4 @@
+# 2025-11-20-Betriebsrat-Workshop
 ## 1. Intro & Rollenklärung (15 Min)
 * **Ziel:** Arbeitsbasis schaffen. Abbau von Berührungsängsten
 * **Meine Rolle als Externer:**

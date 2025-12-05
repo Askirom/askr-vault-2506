@@ -259,5 +259,22 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - bei RCIM wird an die Personalabteilung eskaliert
 - Vorgehen erklärt
 
+## 2025-12-05 Jour Fixe
+- eigene Webseite wird gerade gebaut
+- dieses Jahr noch
+- Spendenaktion -> an wen die RC spendet
+- verarbeitete Daten
 
+- keine Werbung im Nachgang
+- öffentliche Webseite
+### Welche Daten Werden Für Welchen Zweck Verarbeitet?
+- Name
+- Firma
+- Position
+- E-Mail
+- Spendenwahl
+### Auf Welcher Rechtsgrundlage Werden Diese Daten Verarbeitet?
+- Art. 6 Abs. 1 S. 1 lit. b DSGVO -> Vertrag
+### Gibt Es Weitere Empfänger?
 
+### Wie Lange Werden Die Daten Gespeichert?

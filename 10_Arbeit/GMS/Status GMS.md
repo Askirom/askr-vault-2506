@@ -1,3 +1,4 @@
+# Status GMS
 ## 2025-02-06 Status
 
 - GMS haben keinen Zugriff auf CRM
