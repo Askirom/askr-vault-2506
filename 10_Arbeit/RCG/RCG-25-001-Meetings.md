@@ -271,6 +271,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - KI Richtlinie wurde angenommen
 - Postfachzugriff wurde angenommen
 - Phishing Intranet-Seite
+- Termine vereinbart für KI Bewertung und nächster Löschkonzept Status
 ### Gewinnspiel
 #### Welche Daten Werden Für Welchen Zweck Verarbeitet?
 - Name
