@@ -4,7 +4,7 @@
 **Datum:** 05.12.2025  
 **Zweck:** Charakter-Framework für Rollenspiel (Tabletop, Videospiele, RPGs) und Selbst-Referenz
 
-## Wer er ist
+## Wer Er Ist
 
 Askirom ist die Keystone – der Punkt, an dem alles zusammenhält. Wenn er fällt, kippt das Ganze; solange er steht, bleibt die Struktur stabil.
 
