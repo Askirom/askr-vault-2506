@@ -270,6 +270,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Blick. -> Termin vereinbart mit JHA
 - KI Richtlinie wurde angenommen
 - Postfachzugriff wurde angenommen
+- Phishing Intranet-Seite
 ### Gewinnspiel
 #### Welche Daten Werden Für Welchen Zweck Verarbeitet?
 - Name
