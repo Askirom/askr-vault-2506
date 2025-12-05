@@ -260,21 +260,34 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Vorgehen erklärt
 
 ## 2025-12-05 Jour Fixe
+### Allgemeines
 - eigene Webseite wird gerade gebaut
 - dieses Jahr noch
 - Spendenaktion -> an wen die RC spendet
 - verarbeitete Daten
-
 - keine Werbung im Nachgang
 - öffentliche Webseite
-### Welche Daten Werden Für Welchen Zweck Verarbeitet?
+- Blick. -> Termin vereinbart mit JHA
+- KI Richtlinie wurde angenommen
+- Postfachzugriff wurde angenommen
+### Gewinnspiel
+#### Welche Daten Werden Für Welchen Zweck Verarbeitet?
 - Name
-- Firma
-- Position
-- E-Mail
+- Firma -> Verifizierung der Teilnahme 
+- Position -> Verifizierung der Teilnahme 
+- E-Mail -> Verifizierung der Teilnahme
 - Spendenwahl
-### Auf Welcher Rechtsgrundlage Werden Diese Daten Verarbeitet?
+#### Auf Welcher Rechtsgrundlage Werden Diese Daten Verarbeitet?
 - Art. 6 Abs. 1 S. 1 lit. b DSGVO -> Vertrag
-### Gibt Es Weitere Empfänger?
+- Art. 6 Abs. 1 S. 1 lit. a DSGVO -> Einwilligung
+#### Gibt Es Weitere Empfänger?
+- keine dem DSK bekannt
+#### Wie Lange Werden Die Daten Gespeichert?
+- 12 Wochen -> Beschwerden, Manipulationsdaten
+- Abrechnungsrelevanz 10 Jahre
+	- Gewinner bleiben bestehen aber nur diese 
+	- aber nur der Wert des Gutscheins
+	- Empfängerdaten
 
-### Wie Lange Werden Die Daten Gespeichert?
+
+## F
