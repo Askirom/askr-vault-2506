@@ -1,4 +1,4 @@
-# Askirom, the Keystone (V23)
+# Askirom, the Death Knight (V23)
 
 **Version:** 23 **Datum:** 05.12.2025 **Zweck:** Charakter-Framework für Rollenspiel (Tabletop, Videospiele, RPGs) und Selbst-Referenz
 

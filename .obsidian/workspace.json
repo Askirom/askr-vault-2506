@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
+                "file": "20_Wissen/Identität/Askirom v25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RCG-25-001-Meetings"
+              "title": "Askirom v25"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calibra",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,13 +101,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957,
-    "collapsed": true
+    "width": 310.5086555480957
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -254,8 +252,11 @@
   },
   "active": "defba3816e8cd0fa",
   "lastOpenFiles": [
-    "Untitled.md",
+    "20_Wissen/Identität/Askirom v24.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
+    "20_Wissen/Identität/Askirom v25.md",
+    "20_Wissen/Identität/PKM v4.md",
+    "Untitled.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
     "10_Arbeit/GMS/2025-11-17 Calibrationhouse.md",
     "10_Arbeit/GMS/Status GMS.md",
@@ -278,9 +279,6 @@
     "10_Arbeit/SECUD/Webseitenprüfung",
     "10_Arbeit/EMPIC/IS-2xx/IS-214 Physische Sicherheit.md",
     "10_Arbeit/EMPIC/IS-2xx/IS-213 Risikomanagement.md",
-    "10_Arbeit/EMPIC/2025-12-03 Meeting ISMS.md",
-    "00_Ops/Untitled.md",
-    "00_Ops/PKM v3.1.md",
     "99_Archiv",
     "20_Wissen/Vorlagen",
     "10_Arbeit/SEPA-Basislastschrift-Mandat-FFW.pdf",
