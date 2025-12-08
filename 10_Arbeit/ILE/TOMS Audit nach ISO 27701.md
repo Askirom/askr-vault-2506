@@ -236,3 +236,4 @@
 |Data Transfer|Sicherstellung der Integrität von personenbezogenen Daten durch digitale Signaturen zumindest bei hohem Risiko|||4|
 |Data Transfer|Bei HTTPS: Einsatz von Client-Zertifikaten zum Nachweis der Authentizität bei geschlossenem Nutzerkreis|||1|
 |Data Transfer|Verschlüsselte Nutzung von DNS-Diensten (DNSSec, DNS-over-TLS) prüfen|||2|
+
