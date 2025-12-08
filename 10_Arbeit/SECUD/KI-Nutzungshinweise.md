@@ -1,5 +1,4 @@
-**KI**
-
+# KI-Nutzungshinweise
 **1.**     **Was ist KI?**
 
 Es gilt die Definition gemäß Art. 3 des EU AI Actes:
