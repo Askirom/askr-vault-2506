@@ -1,4 +1,4 @@
-# Datenschutzinformationen zum Gewinnspiel
+# Datenschutzinformationen Zum Gewinnspiel
 
 Diese Datenschutzinformation informiert Sie über die Verarbeitung Ihrer personenbezogenen Daten im Rahmen der Teilnahme an unserem Gewinnspiel "Spendenwahl".
 
@@ -69,11 +69,13 @@ Sie haben als von der Datenverarbeitung betroffene Person jederzeit folgende Rec
 - **Widerspruchsrecht (Art. 21 DSGVO):** Sofern die Verarbeitung auf berechtigtem Interesse beruht.
 - Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DSGVO).
 
-# Aufsichtsbehörde und Beschwerderecht
+# 5 Aufsichtsbehörde Und Beschwerderecht
 
-Sofern Sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten durch die Realcore nicht rechtmäßig erfolgt, können Sie sich mit Ihrer Beschwerde an jede Datenschutz-Aufsichtsbehörde wenden. Die gem. Art. 55 DS-GVO zuständige Aufsichtsbehörde ist das
+Sofern Sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten durch die realcore nicht rechtmäßig erfolgt, können Sie sich mit Ihrer Beschwerde an jede Datenschutz-Aufsichtsbehörde wenden. Die gem. Art. 55 DS-GVO zuständige Aufsichtsbehörde ist die
 
-
-# 5 AKTUALITÄT
-
-Diese Datenschutzinformation ist aktuell gültig. Stand: 2025-12-08
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen    
+Kavalleriestr. 2-4    
+40213 Düsseldorf    
+Telefon: 0211/38424-0    
+Fax: 0211/38424-999    
+E-Mail: [**poststelle@ldi.nrw.de**](mailto:poststelle@ldi.nrw.de "mailto:poststelle@ldi.nrw.de")

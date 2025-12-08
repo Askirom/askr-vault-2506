@@ -294,3 +294,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 
 ## 2025-12-08 Löschkonzept
 
+- DSI Gewinnspiel abgeschlossen
+	- Beschwerderecht auch für die anderen DSIs ergänzen
+	- Rechte potentiell umschreiben? 
+- 
