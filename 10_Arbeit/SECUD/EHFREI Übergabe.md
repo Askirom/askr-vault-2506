@@ -1,0 +1,2 @@
+- Freiheit in Forschung und Lehre
+- 

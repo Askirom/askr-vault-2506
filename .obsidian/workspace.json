@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
+                "file": "10_Arbeit/SECUD/EHFREI Übergabe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Datenschutzerklärung calibrationhouse"
+              "title": "EHFREI Übergabe"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "TOMS Audit nach ISO 27701"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,15 +279,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d647e9c46fc88567",
+  "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
+    "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
+    "10_Arbeit/SECUD/EHFREI Übergabe.md",
+    "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
+    "10_Arbeit/ILE/TOMS Audit nach ISO 27701.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
     "10_Arbeit/ILE/KI-Nutzungshinweis.md",
-    "10_Arbeit/ILE/TOMS Audit nach ISO 27701.md",
     "10_Arbeit/SECUD/KI-Nutzungshinweise.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
-    "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
-    "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
     "20_Wissen/Identität/Askirom v25.md",
     "20_Wissen/Identität/Askirom v24.md",
     "20_Wissen/Identität/PKM v4.md",
@@ -320,7 +320,6 @@
     "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
     "10_Arbeit/EKIBA/assets/Pasted image 20251030142101.png",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
-    "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/2020-01-31-Fachinformatiker-IHK-RLE.pdf",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Ausweis.png",
     "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/Ausweis.png",
     "20_Wissen/identity/Signature-RLE 2024.png",
