@@ -69,6 +69,11 @@ Sie haben als von der Datenverarbeitung betroffene Person jederzeit folgende Rec
 - **Widerspruchsrecht (Art. 21 DSGVO):** Sofern die Verarbeitung auf berechtigtem Interesse beruht.
 - Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DSGVO).
 
+# Aufsichtsbehörde und Beschwerderecht
+
+Sofern Sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten durch die Realcore nicht rechtmäßig erfolgt, können Sie sich mit Ihrer Beschwerde an jede Datenschutz-Aufsichtsbehörde wenden. Die gem. Art. 55 DS-GVO zuständige Aufsichtsbehörde ist das
+
+
 # 5 AKTUALITÄT
 
 Diese Datenschutzinformation ist aktuell gültig. Stand: 2025-12-08
