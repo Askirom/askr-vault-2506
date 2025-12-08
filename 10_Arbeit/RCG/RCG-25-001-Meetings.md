@@ -292,4 +292,5 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 	- Empfängerdaten
 
 
-## F
+## 2025-12-08 Löschkonzept
+

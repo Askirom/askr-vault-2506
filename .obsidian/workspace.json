@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.md",
+                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25"
+              "title": "RCG-25-001-Meetings"
             }
           }
         ],
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 200
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -252,9 +252,9 @@
   },
   "active": "defba3816e8cd0fa",
   "lastOpenFiles": [
+    "20_Wissen/Identität/Askirom v25.md",
     "20_Wissen/Identität/Askirom v24.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
-    "20_Wissen/Identität/Askirom v25.md",
     "20_Wissen/Identität/PKM v4.md",
     "Untitled.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
