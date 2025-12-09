@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/EKIBA/Datenmaskierungsrichtlinie.md",
+                "file": "10_Arbeit/EKIBA/2025-12-09 Abstimmung weitere Zusammenarbeit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Datenmaskierungsrichtlinie"
+              "title": "2025-12-09 Abstimmung weitere Zusammenarbeit"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -237,8 +236,12 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
-    "10_Arbeit/EKIBA/Change Richtlinie.md",
+    "10_Arbeit/EKIBA/2025-10-23 Abstimmung Meldewesen.md",
+    "10_Arbeit/EKIBA/2025-12-09 Abstimmung weitere Zusammenarbeit.md",
+    "10_Arbeit/EKIBA/2025-11-26 SoA.md",
+    "10_Arbeit/EKIBA/2025-11-27 EHFREI.md",
     "10_Arbeit/EKIBA/Datenmaskierungsrichtlinie.md",
+    "10_Arbeit/EKIBA/Change Richtlinie.md",
     "10_Arbeit/EKIBA/KI-Nutzungshinweis.md",
     "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "99_Archiv/Askirom V23.md",
@@ -260,10 +263,6 @@
     "10_Arbeit/GMS/2025-11-20-Betriebsrat-Workshop.md",
     "01_Inbox/Inbox.md",
     "20_Wissen/Identität/Askirom V23.md",
-    "20_Wissen/Identität/Askirom Framework v18.md",
-    "10_Arbeit/SECUD/Webseitenprüfung/Webseiten Prüfungsprozess.md",
-    "01_Inbox/Task.md",
-    "Task-Log.md",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
     "20_Wissen/Vorlagen",

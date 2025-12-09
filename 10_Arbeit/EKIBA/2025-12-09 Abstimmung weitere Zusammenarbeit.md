@@ -1,0 +1,7 @@
+- EKIBA möchte keine weitere ISMS-Beratung
+- Software-Einkauf 
+	- Otobo-Prozess
+	- Lieferantenrisiken
+- Externe Dienstleister 
+	- anderer Otobo-Prozess
+	- Lieferantenrisiken

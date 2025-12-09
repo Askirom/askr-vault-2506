@@ -1,4 +1,5 @@
-## Zweck, Anwendungsbereich und Zielsetzung
+# Datenmaskierungsrichtlinie
+## Zweck, Anwendungsbereich Und Zielsetzung
 
 ### Zweck
 Die Datenmaskierungsrichtlinie definiert, wie sensible Daten vor unbefugtem Zugriff, Weitergabe oder Missbrauch geschützt werden sollen. Dabei wird sichergestellt, dass gesetzliche, regulatorische und vertragliche Anforderungen eingehalten werden.
@@ -13,9 +14,9 @@ Die Hauptziele der Datenmaskierung sind:
 - Sicherstellung der Vertraulichkeit und Integrität sensibler Daten.
 - Einhaltung gesetzlicher und regulatorischer Vorgaben wie z. B. der DSGVO.
 
-## Richtlinien und Maßnahmen
+## Richtlinien Und Maßnahmen
 
-### Definition sensibler Daten
+### Definition Sensibler Daten
 Sensible Daten, die geschützt werden müssen, umfassen personenbezogene Daten (PII), Finanzinformationen, Geschäftsgeheimnisse, Gesundheitsdaten und andere vertrauliche Informationen. Diese Daten werden klar identifiziert und gemäß ihrer Sensibilität klassifiziert.
 
 ### Datenmaskierungstechniken
@@ -24,12 +25,12 @@ Die Organisation verwendet je nach Bedarf unterschiedliche Datenmaskierungstechn
 - **Anonymisierung:** Entfernt Identifikationsmerkmale irreversibel, sodass eine Re-Identifikation nicht mehr möglich ist.
 - **Verschlüsselung:** Schützt Daten durch Verfahren, die nur mit den richtigen Schlüsseln entschlüsselt werden können.
 
-### Zugriffssteuerung und Datenminimierung
+### Zugriffssteuerung Und Datenminimierung
 Die Organisation implementiert rollenbasierte Zugriffskontrollen (RBAC), um sicherzustellen, dass nur autorisierte Benutzer Zugriff auf sensible Daten erhalten. Dabei wird stets das Prinzip der Datenminimierung eingehalten. Benutzer dürfen nur auf die Datenfelder zugreifen, die sie zur Erfüllung ihrer Aufgaben benötigen.
 
-## Integration des Datenschutz- und Informationssicherheitsbeauftragten
+## Integration Des Datenschutz- Und Informationssicherheitsbeauftragten
 
-### Prozess zur Bewertung neuer Anforderungen
+### Prozess Zur Bewertung Neuer Anforderungen
 - **Antragsstellung:** Der Fachbereich stellt einen Antrag zur Einführung oder Änderung eines Prozesses, der sensible Daten betrifft.  
 - **Prüfung:** Der Datenschutzbeauftragte (DSB) bewertet die datenschutzrechtlichen Aspekte, während der Informationssicherheitsbeauftragte (ISB) die technischen und organisatorischen Maßnahmen analysiert.  
 - **Empfehlung:** Basierend auf der Prüfung erarbeiten DSB und ISB eine Empfehlung, die an die Geschäftsleitung weitergeleitet wird.  
