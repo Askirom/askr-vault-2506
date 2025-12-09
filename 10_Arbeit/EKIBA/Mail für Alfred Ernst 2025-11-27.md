@@ -1,3 +1,4 @@
+# Mail Für Alfred Ernst 2025-11-27
 Sehr geehrter Herr Ernst,
 
 im Rahmen der laufenden ISO 27001-Implementierung bei der IT-Abteilung der EKIBA möchte ich Ihnen einen Überblick über die Aufgaben geben, die mit der Rolle des Informationssicherheitsbeauftragten (ISB) verbunden sind.
