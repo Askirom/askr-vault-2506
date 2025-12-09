@@ -66,6 +66,16 @@
               "icon": "lucide-file",
               "title": "TOMS Audit nach ISO 27701"
             }
+          },
+          {
+            "id": "de23adf355f2ce4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -281,11 +291,11 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
+    "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "99_Archiv/Askirom V23.md",
     "99_Archiv/Askirom v24.md",
     "20_Wissen/Identität/Askirom v25.1.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
-    "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
     "10_Arbeit/ILE/TOMS Audit nach ISO 27701.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
