@@ -6,5 +6,4 @@
 
 - [ ] #TSK Zugang bereitstellen für JBA auf EKIBA Ressourcen ➕ 2025-12-09
 - [ ] #TSK Dokumente bereitstellen an JBA (Richtlinien) ➕ 2025-12-09
-- Jochen vorstellen
--
+- Jochen vorstellens
