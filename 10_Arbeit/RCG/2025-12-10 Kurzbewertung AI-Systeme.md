@@ -1,14 +1,4 @@
 # 2025-12-10 Kurzbewertung AI-Systeme
-## Copilot M365
-
-## Copilot Web
-
-## ChatGPT
-
-## Claude
-
-## Gemini
-
 ## Grundlegendes
 
 - LLM-Systeme also das reine Modell ist nur begrenzt eine Verarbeitung nach DSGVO
@@ -26,11 +16,11 @@
 | **Anbieter** | Microsoft                                                                                                                   |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
-| **Tier**     |                                                                                                                             |
 
 ### Sinnhaftigkeit
 
-
+- Nutzen || Kosten + Aufwand Vergleich
+- 
 
 ### Datenschutz
 
@@ -42,11 +32,6 @@
 - Microsoft ist kein neuer Lieferant, es gibt auch in dem Anwendungszweck keine neuen Informationen, die an Microsoft gesendet werden
 - Es werden neue Risiken durch das neue Tool aufgemacht 
 
-### Ergebnis
-
-> [!note] Empfehlung ☐ Freigabe ☐ Mit Auflagen ☐ Ablehnung
-> 
-> **Begründung**:
 
 ## Copilot Web
 
@@ -55,12 +40,14 @@
 | **Anbieter** | Microsoft                                                                                                                   |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
-| **Tier**     | Consumer / Free                                                                                                             |
-|              |                                                                                                                             |
 
 ### Sinnhaftigkeit
 
 ### Datenschutz
+
+- EU Standort möglich, aber Übertragung an USA ist nicht ausschließbar
+- LLM System von OpenAI aber in Verantwortung von Microsoft -> kein neuer Empfänger von Daten 
+- Datenzugriff ist geringer als in CoPilot M365
 
 ### Infosec
 
