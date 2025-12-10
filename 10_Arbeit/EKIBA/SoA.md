@@ -1,3 +1,4 @@
+# SoA
 ## **SoA ISO/IEC 27001:2022 — EKIBA (EOK Karlsruhe + EH-Freiburg)**
 
 - Scope: IT-Dienste zur Unterstützung der Geschäftsprozesse (organisationsweit).
