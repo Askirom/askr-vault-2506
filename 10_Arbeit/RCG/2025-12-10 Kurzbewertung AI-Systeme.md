@@ -17,7 +17,7 @@
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
 
-### Sinnhaftigkeit
+### Funktionalität
 
 - Nutzen || Kosten + Aufwand Vergleich
 - 
@@ -43,7 +43,11 @@
 |**Zweck**||
 |**Tier**|☐ Free ☐ Plus ☐ Team ☐ Enterprise|
 
-### Sinnhaftigkeit
+### Funktionalität
+
+- gute Kontextgröße abhängig von Modell (ca. 196.000 Tokens -> Thinking Model,  ca. 128.000 Tokens -> Instant Model)
+- gutes Allrounder Modell
+- manchmal etwas künstlich bei der Texterstellung
 
 ### Datenschutz
 
@@ -65,7 +69,15 @@
 | ------------ | --------- |
 | **Zweck**    |           |
 
-### Sinnhaftigkeit
+### Funktionalität
+
+- gute Kontextgröße plus Kontextzusammenfassung automatisch eingebaut (ca. 200.000 Tokens; Sonnet 4.5 hat 1 Mio Tokens)
+	- Context Awareness
+- Sehr gutes Modell bei Opus 4.5 (Stand 2025-12-10)
+- Teilweise hohe Ausfallzeiten (teilweise 10 Tage im Jahr)
+- Vergleich niedrige Rate-Limits (auch weil sehr teures Modell)
+- schnelles akkurates Thinking-Modell
+- Chats haben Speicherlimits -> nicht unendlich 
 
 ### Datenschutz
 
@@ -82,22 +94,22 @@
 
 ### Kurzprofil
 
-|**Anbieter**|Google|
-|---|---|
-|**Zweck**||
-|**Tier**|☐ Free ☐ Advanced ☐ Workspace|
+| **Anbieter** | Google                        |
+| ------------ | ----------------------------- |
+| **Zweck**    |                               |
+| **Tier**     | ☐ Free ☐ Advanced ☐ Workspace |
 
-### Sinnhaftigkeit
+### Funktionalität
+
+- Sehr gutes Reasoning Modell
+- extrem hohe Rate Limits -> im Alltag fast nicht aufzubrauchen
+- Sehr großes Context Window (eine Mio. Token)
 
 ### Datenschutz
 
+- Notwendigkeit eines Google-Accounts
+
 ### Infosec
-
-### Ergebnis
-
-> [!note] Empfehlung ☐ Freigabe ☐ Mit Auflagen ☐ Ablehnung
-> 
-> **Begründung**:
 
 
 ## Übersicht
