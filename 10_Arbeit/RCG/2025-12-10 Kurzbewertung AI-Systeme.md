@@ -47,8 +47,6 @@
 > 
 > **Begründung**:
 
----
-
 ## Copilot Web
 
 ### Kurzprofil
@@ -57,33 +55,13 @@
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
 | **Tier**     | Consumer / Free                                                                                                             |
+|              |                                                                                                                             |
 
 ### Sinnhaftigkeit
 
-|Kriterium|Bewertung|
-|---|---|
-|Problemlösung||
-|Alternativen||
-|Kosten-Nutzen||
-|**Fazit**|☐ Sinnvoll ☐ Bedingt ☐ Nicht sinnvoll|
-
 ### Datenschutz
 
-|Kriterium|Status|
-|---|---|
-|Rechtsgrundlage|☐ Art. 6(1)a ☐ b ☐ f|
-|Drittland|USA|
-|Training mit Daten|☐ Ja ☐ Nein ☐ Unklar|
-|DSFA erforderlich|☐ Ja ☐ Nein|
-|AVV|☐ n/a (Consumer)|
-
 ### Infosec
-
-|Kriterium|Status|
-|---|---|
-|ISO 27001 / SOC 2|☐ Ja ☐ Nein|
-|Mandantentrennung|☐ n/a|
-|Logging|☐ Ja ☐ Nein|
 
 ### Ergebnis
 
@@ -104,30 +82,9 @@
 
 ### Sinnhaftigkeit
 
-|Kriterium|Bewertung|
-|---|---|
-|Problemlösung||
-|Alternativen||
-|Kosten-Nutzen||
-|**Fazit**|☐ Sinnvoll ☐ Bedingt ☐ Nicht sinnvoll|
-
 ### Datenschutz
 
-|Kriterium|Status|
-|---|---|
-|Rechtsgrundlage|☐ Art. 6(1)a ☐ b ☐ f|
-|Drittland|USA (DPF+SCCs)|
-|Training mit Daten|Free/Plus: Opt-out · Enterprise: Nein|
-|DSFA erforderlich|☐ Ja ☐ Nein|
-|AVV|☐ Vorhanden ☐ Geprüft|
-
 ### Infosec
-
-|Kriterium|Status|
-|---|---|
-|ISO 27001 / SOC 2|☐ Ja ☐ Nein|
-|Mandantentrennung|☐ Ja ☐ Nein|
-|Logging|☐ Ja ☐ Nein|
 
 ### Ergebnis
 
@@ -145,33 +102,13 @@
 | ------------ | -------------------------------- |
 | **Zweck**    |                                  |
 | **Tier**     | ☐ Free ☐ Pro ☐ Team ☐ Enterprise |
+|              |                                  |
 
 ### Sinnhaftigkeit
 
-|Kriterium|Bewertung|
-|---|---|
-|Problemlösung||
-|Alternativen||
-|Kosten-Nutzen||
-|**Fazit**|☐ Sinnvoll ☐ Bedingt ☐ Nicht sinnvoll|
-
 ### Datenschutz
 
-|Kriterium|Status|
-|---|---|
-|Rechtsgrundlage|☐ Art. 6(1)a ☐ b ☐ f|
-|Drittland|USA (DPF+SCCs)|
-|Training mit Daten|Nein (default)|
-|DSFA erforderlich|☐ Ja ☐ Nein|
-|AVV|☐ Vorhanden ☐ Geprüft|
-
 ### Infosec
-
-|Kriterium|Status|
-|---|---|
-|ISO 27001 / SOC 2|☐ Ja ☐ Nein|
-|Mandantentrennung|☐ Ja ☐ Nein|
-|Logging|☐ Ja ☐ Nein|
 
 ### Ergebnis
 
@@ -192,30 +129,9 @@
 
 ### Sinnhaftigkeit
 
-|Kriterium|Bewertung|
-|---|---|
-|Problemlösung||
-|Alternativen||
-|Kosten-Nutzen||
-|**Fazit**|☐ Sinnvoll ☐ Bedingt ☐ Nicht sinnvoll|
-
 ### Datenschutz
 
-|Kriterium|Status|
-|---|---|
-|Rechtsgrundlage|☐ Art. 6(1)a ☐ b ☐ f|
-|Drittland|USA (DPF+SCCs)|
-|Training mit Daten|Tier-abhängig|
-|DSFA erforderlich|☐ Ja ☐ Nein|
-|AVV|☐ Vorhanden ☐ Geprüft|
-
 ### Infosec
-
-|Kriterium|Status|
-|---|---|
-|ISO 27001 / SOC 2|☐ Ja ☐ Nein|
-|Mandantentrennung|☐ Ja ☐ Nein|
-|Logging|☐ Ja ☐ Nein|
 
 ### Ergebnis
 
@@ -223,7 +139,6 @@
 > 
 > **Begründung**:
 
----
 
 ## Übersicht
 
