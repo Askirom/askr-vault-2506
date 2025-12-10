@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "2025-12-10 Kurzbewertung AI-Systeme"
             }
+          },
+          {
+            "id": "35724cb8ffcfcb1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Arbeit/RCG/Bit Recovery.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bit Recovery"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.50271224975586,
-    "collapsed": true
+    "width": 435.50271224975586
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -170,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
+                "file": "10_Arbeit/RCG/Bit Recovery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-10 Kurzbewertung AI-Systeme"
+              "title": "Outline of Bit Recovery"
             }
           },
           {
@@ -251,10 +265,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e2204c2a02d11e2b",
+  "active": "35724cb8ffcfcb1a",
   "lastOpenFiles": [
-    "10_Arbeit/GMS/2025-11-17 Calibrationhouse.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
+    "10_Arbeit/RCG/Bit Recovery.md",
+    "10_Arbeit/GMS/2025-11-17 Calibrationhouse.md",
     "10_Arbeit/RCG/Rollenbeschreibung-DSB.md",
     "10_Arbeit/EMPIC/KI-Nutzungshinweis.md",
     "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
@@ -281,7 +296,6 @@
     "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
     "10_Arbeit/ILE/TOMS Audit nach ISO 27701.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
-    "10_Arbeit/ILE/KI-Nutzungshinweis.md",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
     "20_Wissen/Vorlagen",
