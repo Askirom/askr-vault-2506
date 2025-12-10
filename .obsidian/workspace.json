@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
+                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-03 Meeting Notizen"
+              "title": "2025-12-10 Kurzbewertung AI-Systeme"
             }
           }
         ],
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 435.50271224975586
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -252,7 +252,9 @@
   },
   "active": "e2204c2a02d11e2b",
   "lastOpenFiles": [
+    "10_Arbeit/RCG/Rollenbeschreibung-DSB.md",
     "10_Arbeit/EMPIC/KI-Nutzungshinweis.md",
+    "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
     "10_Arbeit/INSTO/2025-12-10 Übergabe INSTO, EKIBA, EHFREI, VEDES, EMPIC.md",
     "10_Arbeit/INSTO/Untitled.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
@@ -279,8 +281,6 @@
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
     "10_Arbeit/ILE/KI-Nutzungshinweis.md",
     "10_Arbeit/SECUD/KI-Nutzungshinweise.md",
-    "10_Arbeit/RCG/RCG-25-001-Meetings.md",
-    "20_Wissen/Identität/Askirom v25.md",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
     "20_Wissen/Vorlagen",
