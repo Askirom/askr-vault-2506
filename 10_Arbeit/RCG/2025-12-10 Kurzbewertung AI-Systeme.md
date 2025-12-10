@@ -1,10 +1,11 @@
+# 2025-12-10 Kurzbewertung AI-Systeme
 ## Copilot M365
 
 ## Copilot Web
 
 ## ChatGPT
 
-## Claude 
+## Claude
 
 ## Gemini
 
@@ -36,7 +37,7 @@
 - EU Standort möglich, aber Übertragung an USA ist nicht ausschließbar
 - LLM System von OpenAI aber in Verantwortung von Microsoft -> kein neuer Empfänger von Daten
 
-### InfoSec & AI Act 
+### InfoSec & AI Act
 
 - Microsoft ist kein neuer Lieferant, es gibt auch in dem Anwendungszweck keine neuen Informationen, die an Microsoft gesendet werden
 - Es werden neue Risiken durch das neue Tool aufgemacht 
