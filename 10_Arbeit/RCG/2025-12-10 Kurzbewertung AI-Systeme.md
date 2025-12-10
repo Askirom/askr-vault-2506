@@ -108,6 +108,7 @@
 ### Datenschutz
 
 - Notwendigkeit eines Google-Accounts
+	- somit komplette Integration in das komplette Google-Ecosystem
 
 ### Infosec
 
