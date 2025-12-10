@@ -25,6 +25,7 @@
 ### Datenschutz
 
 - EU Standort möglich, aber Übertragung an USA ist nicht ausschließbar
+- Funktionalität wie Memory, welche mehr Daten speichern kann
 - LLM System von OpenAI aber in Verantwortung von Microsoft -> kein neuer Empfänger von Daten
 
 ### InfoSec & AI Act
@@ -32,32 +33,6 @@
 - Microsoft ist kein neuer Lieferant, es gibt auch in dem Anwendungszweck keine neuen Informationen, die an Microsoft gesendet werden
 - Es werden neue Risiken durch das neue Tool aufgemacht 
 
-
-## Copilot Web
-
-### Kurzprofil
-
-| **Anbieter** | Microsoft                                                                                                                   |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
-
-### Sinnhaftigkeit
-
-### Datenschutz
-
-- EU Standort möglich, aber Übertragung an USA ist nicht ausschließbar
-- LLM System von OpenAI aber in Verantwortung von Microsoft -> kein neuer Empfänger von Daten 
-- Datenzugriff ist geringer als in CoPilot M365
-
-### Infosec
-
-### Ergebnis
-
-> [!note] Empfehlung ☐ Freigabe ☐ Mit Auflagen ☐ Ablehnung
-> 
-> **Begründung**:
-
----
 
 ## ChatGPT
 
@@ -72,39 +47,36 @@
 
 ### Datenschutz
 
+- Neuer Dienstleister -> neue AVV und TOMs
+- Funktionalität wie Memory, welche mehr Daten speichern kann
+- Zudem Funktion alte Chats zu durchsuchen => Speicherung des Chatverlaufs zur Wiederverwendung
+- weitere Funktionalitäten wären zu prüfen
+	- Schnittstellen etc.
+- Wo liegen die Daten bei OpenAI? EU-Server? Haben die USA Zugriff?
+
 ### Infosec
 
-### Ergebnis
-
-> [!note] Empfehlung ☐ Freigabe ☐ Mit Auflagen ☐ Ablehnung
-> 
-> **Begründung**:
-
----
 
 ## Claude
 
 ### Kurzprofil
 
-| **Anbieter** | Anthropic                        |
-| ------------ | -------------------------------- |
-| **Zweck**    |                                  |
-| **Tier**     | ☐ Free ☐ Pro ☐ Team ☐ Enterprise |
-|              |                                  |
+| **Anbieter** | Anthropic |
+| ------------ | --------- |
+| **Zweck**    |           |
 
 ### Sinnhaftigkeit
 
 ### Datenschutz
 
+- Datenspeicherort -> USA? Europa?
+- Desktop-App mit vielen Funktionalitäten wie MCP-Server, RAG-Anbindung und weiteren Schnittstellen
+- Funktionalität wie Memory, welche mehr Daten speichern kann
+- Zudem Funktion alte Chats zu durchsuchen => Speicherung des Chatverlaufs zur Wiederverwendung
+- Claude Code in der App verfügbar -> kein getrenntes Modell
+
 ### Infosec
 
-### Ergebnis
-
-> [!note] Empfehlung ☐ Freigabe ☐ Mit Auflagen ☐ Ablehnung
-> 
-> **Begründung**:
-
----
 
 ## Gemini
 
