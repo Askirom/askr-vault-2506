@@ -76,20 +76,15 @@ Sensible Daten, die gemäß dieser Richtlinie geschützt werden müssen, umfasse
 
 ## 4.1 Maskierungstechniken
 
-Die Organisation setzt je nach Anwendungsfall und Schutzbedarf unterschiedliche Techniken ein8:
+Die Organisation setzt je nach Anwendungsfall und Schutzbedarf unterschiedliche Techniken ein:
 
-- **Verschlüsselung:** Daten werden so transformiert, dass nur autorisierte Benutzer mit dem passenden Schlüssel diese lesen können (siehe _Richtlinie zur Kryptographie_).
-    
+- **Verschlüsselung:** Daten werden so transformiert, dass nur autorisierte Benutzer mit dem passenden Schlüssel diese lesen können
 - **Nullen oder Löschen von Zeichen:** Teile der Daten werden entfernt oder überschrieben, um die Einsichtnahme zu verhindern (z. B. Anzeigen nur der letzten 4 Ziffern einer IBAN).
-    
 - **Substitution:** Austausch eines Wertes gegen einen anderen, um sensible Daten zu verbergen.
-    
 - **Variation von Zahlen und Daten:** Veränderung von Werten (z. B. Geburtsdatum) um einen zufälligen Faktor, um Analysen zu ermöglichen, ohne die exakten Daten preiszugeben.
-    
 - **Hashing:** Ersetzen von Werten durch ihren Hash-Wert.
-    
 
-Die Maskierung kann statisch (in der Datenbank), dynamisch (in Echtzeit bei Zugriff) oder "on-the-fly" (im Speicher der Anwendung) erfolgen9.
+Die Maskierung kann statisch (in der Datenbank), dynamisch (in Echtzeit bei Zugriff) oder "on-the-fly" (im Speicher der Anwendung) erfolgen.
 
 ## 4.2 Pseudonymisierung und Anonymisierung
 
