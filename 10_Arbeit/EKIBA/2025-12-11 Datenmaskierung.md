@@ -40,15 +40,15 @@ Die Grundlage dieser Richtlinie bilden die etablierten Standards für Informatio
 
 # 2 Allgemeines
 
-## 2.1 Zweck dieses Dokumentes
+## 2.1 Zweck Dieses Dokumentes
 
 Diese Richtlinie definiert die Anforderungen an die Datenmaskierung, um die Offenlegung sensibler Daten, einschließlich personenbezogener Daten (PII), zu begrenzen. Sie dient dazu, sensible Daten vor unbefugtem Zugriff, Weitergabe oder Missbrauch zu schützen und die Einhaltung gesetzlicher, regulatorischer und vertraglicher Anforderungen sicherzustellen.
 
-## 2.2 Geltungsbereich und Anwender*innen
+## 2.2 Geltungsbereich Und Anwender*innen
 
 Die hier beschriebene Richtlinie gilt verbindlich für alle Organisationseinheiten innerhalb des Evangelischen Oberkirchenrats, alle IT-Systeme, Anwendungen und Datenbanken sowie für alle Mitarbeitenden und externen Dienstleister, die potenziellen Zugang zu sensiblen Daten haben.
 
-# 3 Grundsätze der Datenmaskierung
+# 3 Grundsätze Der Datenmaskierung
 
 ## 3.1 Leitsätze
 
@@ -57,7 +57,7 @@ Die hier beschriebene Richtlinie gilt verbindlich für alle Organisationseinheit
 3. **Datenminimierung:** Benutzern werden in Abfragen und Masken nur die minimal erforderlichen Daten angezeigt.
 4. **Rechtliche Konformität:** Bei der Maskierung sind gesetzliche Anforderungen (z. B. DSG-EKD) oder regulatorische Vorgaben (z. B. Maskierung von Zahlungskartendaten) zwingend zu berücksichtigen.
 
-## 3.2 Definition sensibler Daten
+## 3.2 Definition Sensibler Daten
 
 Sensible Daten, die gemäß dieser Richtlinie geschützt werden müssen, umfassen:
 
@@ -72,7 +72,7 @@ Sensible Daten, die gemäß dieser Richtlinie geschützt werden müssen, umfasse
 - Andere vertrauliche Informationen gemäß der Informationsklassifizierung der Organisation.
     
 
-# 4 Techniken und Verfahren
+# 4 Techniken Und Verfahren
 
 ## 4.1 Maskierungstechniken
 
@@ -86,7 +86,7 @@ Die Organisation setzt je nach Anwendungsfall und Schutzbedarf unterschiedliche 
 
 Die Maskierung kann statisch (in der Datenbank), dynamisch (in Echtzeit bei Zugriff) oder "on-the-fly" (im Speicher der Anwendung) erfolgen.
 
-## 4.2 Pseudonymisierung und Anonymisierung
+## 4.2 Pseudonymisierung Und Anonymisierung
 
 Wenn der Schutz sensibler Daten ein Anliegen ist, sind folgende Verfahren zu prüfen10:
 
@@ -99,7 +99,7 @@ _Hinweis: Pseudonymisierte Daten gelten weiterhin als personenbezogene Daten, an
 
 # 5 Implementierungsvorgaben
 
-## 5.1 Zugriffssteuerung und Granularität
+## 5.1 Zugriffssteuerung Und Granularität
 
 Es ist sicherzustellen, dass nicht allen Benutzern Zugang zu allen Daten gewährt wird. Die Stärke der Datenmaskierung muss sich nach der Verwendung der verarbeiteten Daten richten13.
 
@@ -108,17 +108,17 @@ Es ist sicherzustellen, dass nicht allen Benutzern Zugang zu allen Daten gewähr
 - **Rollenbasierter Zugriff:** Der Zugriff auf maskierte vs. unmaskierte Daten wird über das Berechtigungskonzept (siehe _Zugangs-Richtlinie_) gesteuert.
     
 
-## 5.2 Verbot der Re-Identifizierung
+## 5.2 Verbot Der Re-Identifizierung
 
 Es ist vertraglich oder organisatorisch zu untersagen, verarbeitete (maskierte/pseudonymisierte) Daten mit anderen Informationen abzugleichen, um die betroffene Person oder das sensible Datum zu identifizieren15.
 
-## 5.3 Verschleierung der Verschleierung
+## 5.3 Verschleierung Der Verschleierung
 
 In spezifischen Fällen (z. B. im Gesundheitswesen oder bei Seelsorge-Daten) kann es erforderlich sein, dass Benutzer nicht erkennen können, _dass_ Daten maskiert wurden (Verschleierung der Verschleierung). Dies ist umzusetzen, wenn das Wissen um das Vorhandensein verdeckter Informationen bereits ein Risiko darstellt16.
 
-# 6 Rollen und Verantwortlichkeiten
+# 6 Rollen Und Verantwortlichkeiten
 
-## 6.1 Prozess zur Anforderung
+## 6.1 Prozess Zur Anforderung
 
 Die Einführung neuer IT-Systeme oder die Änderung bestehender Prozesse, die sensible Daten verarbeiten, erfordert die Bewertung von Maskierungsmaßnahmen:
 

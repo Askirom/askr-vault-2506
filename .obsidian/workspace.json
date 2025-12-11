@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
+                "file": "10_Arbeit/GMC/2025-12-11 GMC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-11 Datenmaskierung"
+              "title": "2025-12-11 GMC"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
+                "file": "10_Arbeit/GMC/2025-12-11 GMC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-11 Datenmaskierung"
+              "title": "Outline of 2025-12-11 GMC"
             }
           },
           {
@@ -267,8 +267,10 @@
   },
   "active": "35724cb8ffcfcb1a",
   "lastOpenFiles": [
-    "10_Arbeit/RCG/RCG-25-001-Meetings.md",
+    "10_Arbeit/GMC/03_Work/GOSME-25-001-Meetings.md",
+    "10_Arbeit/GMC/2025-12-11 GMC.md",
     "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
+    "10_Arbeit/RCG/RCG-25-001-Meetings.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
     "01_Inbox/Prozess_AV-Prüfung.md",
     "20_Wissen/Identität/Askirom v25.2.md",
@@ -295,8 +297,6 @@
     "10_Arbeit/EKIBA/2025-11-27 EHFREI.md",
     "10_Arbeit/EKIBA/Datenmaskierungsrichtlinie.md",
     "10_Arbeit/EKIBA/Change Richtlinie.md",
-    "10_Arbeit/SECUD/EHFREI Übergabe.md",
-    "99_Archiv/Askirom V23.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
