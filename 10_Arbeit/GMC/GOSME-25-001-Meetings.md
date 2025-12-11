@@ -55,4 +55,28 @@
 - MCS und Webshop ist etwas unklar
 ## 2025-12-01 DSI Bewerber
 - Service und GMC haben eigene Niederlassung
+
+
+## 2025-12-11 GMC offene Tasks
+
+- GMC Austria beauftragt die Gossen Metrawatt
+	- Ist das so? 
+	- das gleiche ist für die GMC Instruments zu prüfen
+- GMC Instruments
+	- DSI Beschäftigte
+- Klären der Datenflüsse und der Beauftragung
+- DSI calibrationhouse
+	- Update nach EW 48
+- DSI Bewerber
+	- Löschen erst wenn Kampagne abgeschlossen
+	- EW 48
+	- Googlen muss aufgenommen werden
+	- Freigabe durch DSK
+GMC Instruments
+- DSI Bewerber
+- DSI Beschäftigte
+	- ABER: Beauftragt die GMC Instruments die Gossen Metrawatt
+	- werden alle Services der GM auch bei der Instruments angeboten
+- DSI Webseite mit den Verlinkungen wie bei Gossen Metrawatt
+	- Geschäftspartner ist 1zu1 zu verlinken
 - 

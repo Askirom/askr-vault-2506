@@ -1,10 +1,10 @@
-# Datenschutzinformation für Bewerberinnen und Bewerber
+# Datenschutzinformation Für Bewerberinnen Und Bewerber
 
 Für die Gossen Metrawatt GmbH ist der rechtmäßige und verantwortungsbewusste Umgang mit personenbezogenen Daten wichtig. Diese Datenschutzinformation beschreibt in Anwendung von Artikel 13 f. der Datenschutz-Grundverordnung (DSGVO), wie die Gossen Metrawatt GmbH im Rahmen des Bewerbungsverfahrens personenbezogene Daten erhebt, verwendet und übermittelt, und informiert über die Rechte der betroffenen Personen.
 
 ---
 
-## 1. Verantwortlicher und Datenschutzbeauftragter
+## 1. Verantwortlicher Und Datenschutzbeauftragter
 
 **Verantwortlicher im Sinne der datenschutzrechtlichen Bestimmungen:**
 
@@ -36,7 +36,7 @@ E-Mail: [datenschutz@gossenmetrawatt.com](mailto:datenschutz@gossenmetrawatt.com
 
 Ihre personenbezogenen Daten werden nach den anwendbaren datenschutzrechtlichen Vorgaben verarbeitet, insbesondere der DSGVO, § 26 BDSG (Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses) sowie weiteren Vorschriften des Bundesdatenschutzgesetzes.
 
-## 3. Verarbeitungszwecke und Empfänger
+## 3. Verarbeitungszwecke Und Empfänger
 
 ### 3.1 Bewerbermanagement
 
@@ -59,7 +59,7 @@ Die Daten werden von berechtigten Personen der Personalabteilung und den zustän
 
 Ihre Bewerbungsdaten werden spätestens **6 Monate** nach Abschluss des Recruiting-Projekts unserseits gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-### 3.2 Bewerberpool (optional, bei Einwilligung)
+### 3.2 Bewerberpool (optional, Bei Einwilligung)
 
 Die Verarbeitung Ihrer Daten im Bewerberpool erfolgt auf der Grundlage von **Art. 6 Abs. 1 S. 1 lit. a DSGVO** (Einwilligung). Sie erfolgt, um Sie bei künftigen passenden Stellenangeboten berücksichtigen zu können.
 

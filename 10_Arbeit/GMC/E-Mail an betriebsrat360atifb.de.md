@@ -1,3 +1,4 @@
+# E-Mail an betriebsrat360atifb.de
 Sehr geehrte Damen und Herren,
 
 im Rahmen der Prüfung Ihrer App **„Betriebsrat360“** für den Einsatz in unserem Unternehmen haben wir uns intensiv mit Ihren Datenschutzhinweisen (Stand: 15.10.2024) sowie den angeforderten Microsoft 365-Berechtigungen auseinandergesetzt. Dabei sind zwei wesentliche Punkte aufgefallen, zu denen wir um Klärung bitten.
