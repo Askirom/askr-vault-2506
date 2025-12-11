@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "01_Inbox/Prozess_AV-Prüfung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25.2"
+              "title": "Prozess_AV-Prüfung"
             }
           }
         ],
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.50271224975586,
-    "collapsed": true
+    "width": 435.50271224975586
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "01_Inbox/Prozess_AV-Prüfung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v25.2"
+              "title": "Outline of Prozess_AV-Prüfung"
             }
           },
           {
@@ -268,6 +267,9 @@
   },
   "active": "35724cb8ffcfcb1a",
   "lastOpenFiles": [
+    "20_Wissen/Identität/Askirom v25.2.md",
+    "10_Arbeit/RCG/AVV TDG/94605_V4.1_AVV Europa Gesamt AVV Telekom als Verantwortlicher Realcore draft 021225.pdf",
+    "10_Arbeit/RCG/AVV TDG",
     "01_Inbox/Quick.md",
     "10_Arbeit/RCG/Bit Recovery.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
@@ -293,9 +295,7 @@
     "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "99_Archiv/Askirom V23.md",
     "99_Archiv/Askirom v24.md",
-    "20_Wissen/Identität/Askirom v25.2.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
-    "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
@@ -304,8 +304,6 @@
     "20_Wissen/Identität/Signature-RLE 2024.png",
     "20_Wissen/Identität/Signature-RLE 2024_transparent.png",
     "20_Wissen/Identität",
-    "20_Wissen/Temperatur",
-    "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Weiterbildungszertifikat Datenschutzrecht RLE.pdf",
     "10_Arbeit/EKIBA/assets/Pasted image 20251030142101.png",
     "10_Arbeit/ASKIROM/04_Output/RobinLeitner-OnBoarding-2025-11/Ausweis.png",
     "10_Arbeit/ASKIROM/01_Admin/Bewwerbungsunterlagen/Ausweis.png",
