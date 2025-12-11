@@ -297,4 +297,25 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - DSI Gewinnspiel abgeschlossen
 	- Beschwerderecht auch für die anderen DSIs ergänzen
 	- Rechte potentiell umschreiben? 
-- 
+
+
+## 2025-12-11 Löschklassen
+
+- Bewertung Primary und secondary Asset
+- Ausfüllen der Löschklassen
+- Personaldaten/Personalakte sollte nicht nur die Löschklasse LK05 haben 
+	- da dort auch Lohnanpassungen, Vertragsänderungen (z.B. Beförderung oder Leasing) enthalten sind
+- Aktenschränke
+	- Was liegt in diesen? 
+- FleetCar Portal
+	- sind hier auch Verträge dokumentiert
+- ilert & comdesk
+	- was ist das überhaupt? 
+- Zugangstoken
+	- YubiKey
+- Zugriffstoken
+	- Zugangschips / Karten für physischen Eintritt
+- produktiver Server
+	- für Sage und XCP
+- Backup NAS
+	- was wann wo 
