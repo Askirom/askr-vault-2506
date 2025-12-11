@@ -44,12 +44,13 @@ Die Verarbeitung Ihrer Bewerbungsdaten erfolgt auf der Grundlage von **Art. 6 Ab
 
 **Folgende Kategorien/Daten werden verarbeitet:**
 
-- Titel, Name, Geburtsdatum
-- E-Mail-Adresse, Telefonnummer, Wohnort
-- Gehaltsvorstellung, frühestmögliches Eintrittsdatum
-- Bewerbungsanschreiben, Lebenslauf, Zeugnisse, Zertifikate, (optional) Lichtbilder 
+- Titel, Name, Geburtsdatum, 
+- E-Mail-Adresse, Telefonnummer, Wohnort, 
+- Gehaltsvorstellung, frühestmögliches Eintrittsdatum,
+- Unternehmensbereich, Beschäftigungsart, Bewerbungsanschreiben, Lebenslauf, Zeugnisse, Zertifikate, (optional, soweit für die Position erforderlich) Lichtbilder, Befristung, Arbeitserlaubnis,
 - Angabe „Wie sind Sie auf uns aufmerksam geworden"
 - ggf. Führungszeugnis (soweit für die Position erforderlich)
+- Daten, welche wir nicht angefragt haben, aber von Ihnen bereitgestellt werden, werden wir nicht berücksichtigen
 
 **Empfänger:**
 

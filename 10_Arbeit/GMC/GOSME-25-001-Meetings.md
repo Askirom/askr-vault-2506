@@ -57,7 +57,7 @@
 - Service und GMC haben eigene Niederlassung
 
 
-## 2025-12-11 GMC offene Tasks
+## 2025-12-11 GMC Offene Tasks
 
 - GMC Austria beauftragt die Gossen Metrawatt
 	- Ist das so? 
@@ -72,11 +72,13 @@
 	- EW 48
 	- Googlen muss aufgenommen werden
 	- Freigabe durch DSK
-GMC Instruments
+	- Umgang mit aufgedrängten Daten
+		- werden nicht berücksichtigen
+ 
+### GMC Instruments
 - DSI Bewerber
 - DSI Beschäftigte
 	- ABER: Beauftragt die GMC Instruments die Gossen Metrawatt
 	- werden alle Services der GM auch bei der Instruments angeboten
 - DSI Webseite mit den Verlinkungen wie bei Gossen Metrawatt
 	- Geschäftspartner ist 1zu1 zu verlinken
-- 
