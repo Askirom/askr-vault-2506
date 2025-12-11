@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/EKIBA/SoA.md",
+                "file": "10_Arbeit/RCG/DSR Datenmaskierung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SoA"
+              "title": "DSR Datenmaskierung"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "2025-12-11 Datenmaskierung"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,8 +115,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
+                "file": "10_Arbeit/RCG/DSR Datenmaskierung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-11 Datenmaskierung"
+              "title": "Outline of DSR Datenmaskierung"
             }
           },
           {
@@ -266,11 +264,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "35724cb8ffcfcb1a",
+  "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
+    "10_Arbeit/EKIBA/SoA.md",
+    "10_Arbeit/RCG/DSR Datenmaskierung.md",
+    "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/EKIBA/Geschäftsbericht BvD 2025.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
-    "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/EKIBA/Vorhandene Dokumente.md",
     "10_Arbeit/GELA/Drawing 2025-09-24 17.43.30.excalidraw.md",
     "10_Arbeit/GMC/DSI Bewerber.md",
@@ -293,11 +293,9 @@
     "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
     "10_Arbeit/INSTO/2025-12-10 Übergabe INSTO, EKIBA, EHFREI, VEDES, EMPIC.md",
     "10_Arbeit/INSTO/Untitled.md",
-    "10_Arbeit/EKIBA/SoA.md",
     "10_Arbeit/BVD/~$ Nürnberg Geschäftsbericht 2025.docx",
     "10_Arbeit/BVD/RG Nürnberg Geschäftsbericht 2025.docx",
     "10_Arbeit/EKIBA/Meldewesen-Datenschutzprüfung.md",
-    "10_Arbeit/EKIBA/Mail für Alfred Ernst 2025-11-27.md",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",
     "10_Arbeit/SECUD/Webseitenprüfung",
     "99_Archiv",
