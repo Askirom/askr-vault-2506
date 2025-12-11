@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.1.md",
+                "file": "20_Wissen/Identität/Askirom v25.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25.1"
+              "title": "Askirom v25.2"
             }
           }
         ],
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.50271224975586
+    "width": 435.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.1.md",
+                "file": "20_Wissen/Identität/Askirom v25.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v25.1"
+              "title": "Outline of Askirom v25.2"
             }
           },
           {
@@ -291,7 +292,7 @@
     "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "99_Archiv/Askirom V23.md",
     "99_Archiv/Askirom v24.md",
-    "20_Wissen/Identität/Askirom v25.1.md",
+    "20_Wissen/Identität/Askirom v25.2.md",
     "10_Arbeit/SECUD/Webseitenprüfung/Datenschutzerklärung calibrationhouse.md",
     "10_Arbeit/SECUD/Webseitenprüfung/RCG DSI Gewinnspiel.md",
     "10_Arbeit/ILE/TOMS Audit nach ISO 27701.md",
