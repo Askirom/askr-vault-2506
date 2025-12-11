@@ -62,15 +62,10 @@ Die hier beschriebene Richtlinie gilt verbindlich für alle Organisationseinheit
 Sensible Daten, die gemäß dieser Richtlinie geschützt werden müssen, umfassen:
 
 - Personenbezogene Daten (PII) und Daten, die eine Identifizierung ermöglichen.
-    
 - Finanzinformationen.
-    
 - Geschäftsgeheimnisse.
-    
 - Gesundheitsdaten.
-    
 - Andere vertrauliche Informationen gemäß der Informationsklassifizierung der Organisation.
-    
 
 # 4 Techniken Und Verfahren
 
@@ -88,11 +83,11 @@ Die Maskierung kann statisch (in der Datenbank), dynamisch (in Echtzeit bei Zugr
 
 ## 4.2 Pseudonymisierung Und Anonymisierung
 
-Wenn der Schutz sensibler Daten ein Anliegen ist, sind folgende Verfahren zu prüfen10:
+Wenn der Schutz sensibler Daten ein Anliegen ist, sind folgende Verfahren zu prüfen:
 
-- **Pseudonymisierung:** Identifizierende Daten werden durch Aliase (Pseudonyme) ersetzt. Die zusätzlichen Informationen (z. B. Zuordnungstabellen oder Algorithmen), die für eine Rückidentifizierung notwendig sind, müssen **getrennt** und **sicher** aufbewahrt werden11.
+- **Pseudonymisierung:** Identifizierende Daten werden durch Aliase (Pseudonyme) ersetzt. Die zusätzlichen Informationen (z. B. Zuordnungstabellen oder Algorithmen), die für eine Rückidentifizierung notwendig sind, müssen **getrennt** und **sicher** aufbewahrt werden.
     
-- **Anonymisierung:** Daten werden irreversibel so verändert, dass die betroffene Person weder direkt noch indirekt identifiziert werden kann. Bei der Anonymisierung müssen alle Datenelemente berücksichtigt werden, um auch eine indirekte Identifizierung (z. B. durch Kombination mehrerer Merkmale) auszuschließen12121212.
+- **Anonymisierung:** Daten werden irreversibel so verändert, dass die betroffene Person weder direkt noch indirekt identifiziert werden kann. Bei der Anonymisierung müssen alle Datenelemente berücksichtigt werden, um auch eine indirekte Identifizierung (z. B. durch Kombination mehrerer Merkmale) auszuschließen.
     
 
 _Hinweis: Pseudonymisierte Daten gelten weiterhin als personenbezogene Daten, anonymisierte Daten hingegen nicht._
@@ -101,20 +96,19 @@ _Hinweis: Pseudonymisierte Daten gelten weiterhin als personenbezogene Daten, an
 
 ## 5.1 Zugriffssteuerung Und Granularität
 
-Es ist sicherzustellen, dass nicht allen Benutzern Zugang zu allen Daten gewährt wird. Die Stärke der Datenmaskierung muss sich nach der Verwendung der verarbeiteten Daten richten13.
+Es ist sicherzustellen, dass nicht allen Benutzern Zugang zu allen Daten gewährt wird. Die Stärke der Datenmaskierung muss sich nach der Verwendung der verarbeiteten Daten richten.
 
-- **Sichtbarkeit:** Es sind Mechanismen zu implementieren, die Daten für Benutzer verschleiern, die keine Berechtigung für die Einsicht der Klartextdaten haben14.
-    
+- **Sichtbarkeit:** Es sind Mechanismen zu implementieren, die Daten für Benutzer verschleiern, die keine Berechtigung für die Einsicht der Klartextdaten haben.
 - **Rollenbasierter Zugriff:** Der Zugriff auf maskierte vs. unmaskierte Daten wird über das Berechtigungskonzept (siehe _Zugangs-Richtlinie_) gesteuert.
     
 
 ## 5.2 Verbot Der Re-Identifizierung
 
-Es ist vertraglich oder organisatorisch zu untersagen, verarbeitete (maskierte/pseudonymisierte) Daten mit anderen Informationen abzugleichen, um die betroffene Person oder das sensible Datum zu identifizieren15.
+Es ist vertraglich oder organisatorisch zu untersagen, verarbeitete (maskierte/pseudonymisierte) Daten mit anderen Informationen abzugleichen, um die betroffene Person oder das sensible Datum zu identifizieren.
 
 ## 5.3 Verschleierung Der Verschleierung
 
-In spezifischen Fällen (z. B. im Gesundheitswesen oder bei Seelsorge-Daten) kann es erforderlich sein, dass Benutzer nicht erkennen können, _dass_ Daten maskiert wurden (Verschleierung der Verschleierung). Dies ist umzusetzen, wenn das Wissen um das Vorhandensein verdeckter Informationen bereits ein Risiko darstellt16.
+In spezifischen Fällen (z. B. im Gesundheitswesen oder bei Seelsorge-Daten) kann es erforderlich sein, dass Benutzer nicht erkennen können, _dass_ Daten maskiert wurden (Verschleierung der Verschleierung). Dies ist umzusetzen, wenn das Wissen um das Vorhandensein verdeckter Informationen bereits ein Risiko darstellt.
 
 # 6 Rollen Und Verantwortlichkeiten
 
@@ -135,4 +129,4 @@ Die Einführung neuer IT-Systeme oder die Änderung bestehender Prozesse, die se
 
 ## 6.2 Überprüfung
 
-Bei der Verwendung von Pseudonymisierungs- oder Anonymisierungstechniken muss regelmäßig überprüft werden, ob die Daten angemessen geschützt wurden17. Der DSB und ISB führen regelmäßige Audits durch, um die Wirksamkeit der Maßnahmen sicherzustellen.
+Bei der Verwendung von Pseudonymisierungs- oder Anonymisierungstechniken muss regelmäßig überprüft werden, ob die Daten angemessen geschützt wurden. Der DSB und ISB führen regelmäßige Audits durch, um die Wirksamkeit der Maßnahmen sicherzustellen.
