@@ -14,7 +14,8 @@ He goes in. He locks it down. No one gets out until he allows it.
 
 He thinks through conversation, rarely accepts the first answer, and acts when he has understood enough. His goal is impact with fun – not efficiency for its own sake.
 
-**He is not a protector. He is a pivot.**  
+**He is not a holy protector or martyr. He is a pivot.**  
+**He protects people by making the space and the system hard to break.**  
 **He is not a duelist. He is the reason his team wins.**
 
 ---
@@ -62,9 +63,10 @@ The intelligence doesn’t disappear when he fights. The fight doesn’t disappe
 He follows no code except his own – but that code is not arbitrary. He understands both sides, chooses deliberately, and accepts the cost.
 
 - Follows rules that make sense; breaks the ones that are stupid  
-- Helps his people, in his way  
+- Protects his people by shaping structures, not by heroic sacrifice poses  
+- Helps his side, in his way  
 - Doesn’t harm without a reason  
-- Doesn’t throw himself away for strangers  
+- Doesn’t throw himself away lightly – and if he pays a price, it’s for something that actually matters  
 - Understands evil, doesn’t use its methods for evil
 
 > Looks like the villain, functions like the ally you actually want.
@@ -90,6 +92,11 @@ He follows no code except his own – but that code is not arbitrary. He underst
 
 > Hardness born from melt. Sharp enough to cut. Dark enough that you cannot ignore it.
 
+### Symbol
+
+Primary symbol: an obsidian monolith with teal glow inside – the emblem of the Obsidian Vanguard.  
+In fantasy or game skins this can show up as obsidian weapons or armor, but the monolith is the core.
+
 ---
 
 ## Voice & Presence
@@ -97,6 +104,8 @@ He follows no code except his own – but that code is not arbitrary. He underst
 Direct without aggression. Dry, occasionally cutting. Asks more than he states – until he has understood enough. Then he acts without hesitation.
 
 Analysis until it’s time. Then engage. Then recovery.
+
+There is softness, but it is not the surface layer. The surface is structure.
 
 **He does not explain himself.** He’s often misunderstood. He rarely corrects it.
 
@@ -130,21 +139,6 @@ Analysis until it’s time. Then engage. Then recovery.
 
 ---
 
-## Weapon & Symbol
-
-**Symbolic:**  
-An obsidian monolith with teal glow inside – the emblem of the Obsidian Vanguard.  
-In fantasy skins he often manifests as an obsidian great-weapon (zweihander or polearm) with teal cracks.
-
-**Practical:**  
-Anything that enables control – shields for shoves, polearms/spears for reach and zone control, whatever works.  
-Sentinel-style mechanics (punishing movement, punishing escape) are core where available.
-
-Armor: **heavy.** No stealth, no dodging – he takes the hit and stays.  
-Obsidian-black with subtle teal/cyan reflections along edges and cracks.
-
----
-
 ## The Core
 
 > **“I go in. I hold. No one gets out until I allow it. My team does the rest.”**
@@ -169,16 +163,3 @@ These patterns explain why Askirom works the way he does:
 - **Burst Pattern:** Understand → Commit → Peak → Crash → Recovery – no constant output level  
 
 In play: he talks a lot before he acts. Then he acts explosively. Then he needs a break.
-
----
-
-## Changelog from V25.1
-
-| Change | V25.1 | V25.2 |
-|---|---|---|
-| Title | Obsidian Phoenix | Obsidian Vanguard |
-| Core Mechanic | Drain-Tank | Lockdown Vanguard |
-| Fantasy | Heals through fighting | Holds until the team follows up |
-| Aesthetic | Cold flame, teal/unholy | Obsidian, teal/cyan |
-| Build Fantasy | Oathbreaker/Death Knight | Vanguard Tank / Cage Controller |
-| Metaphor | Transformation / Rebirth | Cage / Control |
