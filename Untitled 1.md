@@ -1,5 +1,7 @@
 
-|Kontroll-ID|Typ|Anforderung|
+|   |   |   |
+|---|---|---|
+  
 |4.2.1|Verpflichtend|Verantwortlichkeiten MÜSSEN eindeutig und widerspruchsfrei zugewiesen werden.|
 |4.2.2|Verpflichtend|Es MUSS für jede Verantwortlichkeit dokumentiert werden, welche Ziele erreicht werden sollen, für welche Ressourcen die Verantwortlichkeit besteht, welche Aufgaben erfüllt werden müssen, welche Berechtigungen bestehen, welche Ressourcen zur Verfügung stehen, wie die Erfüllung überprüft wird und welche Positionen die Verantwortlichen wahrnehmen.|
 |4.2.3|Verpflichtend|Bei der Verteilung der Verantwortlichkeiten MUSS das Prinzip der Funktionstrennung umgesetzt werden. Widersprüchliche Verantwortlichkeiten DÜRFEN NICHT von derselben Person oder Organisationseinheit wahrgenommen werden.|
@@ -127,7 +129,3 @@
 |A.2.4.1|Verpflichtend|Jede Risikoanalyse MUSS dokumentiert werden und Risiken anhand einheitlicher Kriterien bewerten.|
 |A.2.5.1|Verpflichtend|Identifizierte Risiken MÜSSEN zeitnah behandelt und Maßnahmen zur Vermeidung, Reduzierung oder Übertragung der Risiken umgesetzt werden.|
 |A.2.6.1|Verpflichtend|Risikoidentifikationen, -analysen und -behandlungen MÜSSEN jährlich auf Aktualität geprüft und bei Bedarf wiederholt werden.|
-
-
-|   |   |
-|---|---|
