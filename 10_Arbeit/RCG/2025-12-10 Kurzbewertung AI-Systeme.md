@@ -5,7 +5,7 @@
 	- die rechtliche Sicht ist hier noch unscharf / unklar
 	- Behörden sprechen im Moment davon, dass KIs eine Art "Blackbox" sind und somit keine Verarbeitung im Sinne der DSGVO darstellen
 	- Die Funktionen des LLM Tools (also RAG, Memory, MCP, Agentic Work, etc.) wiederum stellen eine Verarbeitung dar
-- Alle LLM-Systeme bieten neue Angriffsflächen und erzeugen somit neue Risiken aus Sicht der Informationssicherheit 
+- Alle LLM-Systeme bieten neue Angriffsflächen und erzeugen somit neue Risiken aus Sicht der Informationssicherheit und des Datenschutzes
 	- Diese Risiken sind oft für alle KI-Systeme gleich schwerwiegend was EW und SH angeht
 - Alle LLM-Systeme haben zur Folge, dass die KI-Verordnung zu beachten ist
 
@@ -20,7 +20,7 @@
 ### Funktionalität
 
 - Nutzen || Kosten + Aufwand Vergleich
-- 
+- Kontextgröße?
 
 ### Datenschutz
 
@@ -31,23 +31,21 @@
 ### InfoSec & AI Act
 
 - Microsoft ist kein neuer Lieferant, es gibt auch in dem Anwendungszweck keine neuen Informationen, die an Microsoft gesendet werden
-- Es werden neue Risiken durch das neue Tool aufgemacht 
-
 
 ## ChatGPT
 
 ### Kurzprofil
 
-|**Anbieter**|OpenAI|
-|---|---|
-|**Zweck**||
-|**Tier**|☐ Free ☐ Plus ☐ Team ☐ Enterprise|
+| **Anbieter** | OpenAI                                                                                                                      |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
 
 ### Funktionalität
 
 - gute Kontextgröße abhängig von Modell (ca. 196.000 Tokens -> Thinking Model,  ca. 128.000 Tokens -> Instant Model)
 - gutes Allrounder Modell
 - manchmal etwas künstlich bei der Texterstellung
+- großzügige Limits
 
 ### Datenschutz
 
@@ -60,18 +58,19 @@
 
 ### Infosec
 
+- Schnittstellen zu internen Systemen sind auf ihr Risiko zu prüfen
 
 ## Claude
 
 ### Kurzprofil
 
-| **Anbieter** | Anthropic |
-| ------------ | --------- |
-| **Zweck**    |           |
+| **Anbieter** | Anthropic                                                                                                                   |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Zweck**    | Textgenerierung, -zusammenfassung, -übersetzung und Recherche-Unterstützung zur Beschleunigung wissensbasierter Büroarbeit. |
 
 ### Funktionalität
 
-- gute Kontextgröße plus Kontextzusammenfassung automatisch eingebaut (ca. 200.000 Tokens; Sonnet 4.5 hat 1 Mio Tokens)
+- gute Kontextgröße plus Kontextzusammenfassung automatisch eingebaut (ca. 200.000 Tokens; Sonnet 4.5 hat 1 Mio. Tokens)
 	- Context Awareness
 - Sehr gutes Modell bei Opus 4.5 (Stand 2025-12-10)
 - Teilweise hohe Ausfallzeiten (teilweise 10 Tage im Jahr)

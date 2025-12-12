@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25.2"
+              "title": "2025-12-10 Kurzbewertung AI-Systeme"
             }
           },
           {
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5086555480957
+    "width": 204.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v25.2"
+              "title": "Outline of 2025-12-10 Kurzbewertung AI-Systeme"
             }
           },
           {
@@ -267,10 +268,14 @@
   },
   "active": "e2204c2a02d11e2b",
   "lastOpenFiles": [
-    "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
+    "10_Arbeit/RCG/rcg-pruefung-dm-av-vertrag.md",
+    "10_Arbeit/RCG/rcg-ikone-richtlinie.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
-    "20_Wissen/Identität/Askirom v25.2.md",
+    "10_Arbeit/RCG/Rollenbeschreibung-DSB.md",
     "10_Arbeit/RCG/DSR Datenmaskierung.md",
+    "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
+    "10_Arbeit/RCG/Bit Recovery.md",
+    "20_Wissen/Identität/Askirom v25.2.md",
     "20_Wissen/Identität/Vanguard playbook.md",
     "20_Wissen/Identität/Untitled 1.md",
     "10_Arbeit/EKIBA/SoA.md",
@@ -289,12 +294,8 @@
     "10_Arbeit/RCG/AVV TDG/94605_V4.1_AVV Europa Gesamt AVV Telekom als Verantwortlicher Realcore draft 021225.pdf",
     "10_Arbeit/RCG/AVV TDG",
     "01_Inbox/Quick.md",
-    "10_Arbeit/RCG/Bit Recovery.md",
     "10_Arbeit/GMS/2025-11-17 Calibrationhouse.md",
-    "10_Arbeit/RCG/Rollenbeschreibung-DSB.md",
     "10_Arbeit/EMPIC/KI-Nutzungshinweis.md",
-    "10_Arbeit/EMPIC/2025-12-03 Meeting Notizen.md",
-    "10_Arbeit/INSTO/2025-12-10 Übergabe INSTO, EKIBA, EHFREI, VEDES, EMPIC.md",
     "10_Arbeit/BVD/~$ Nürnberg Geschäftsbericht 2025.docx",
     "10_Arbeit/BVD/RG Nürnberg Geschäftsbericht 2025.docx",
     "20_Wissen/standards/NIS2-Umsetzungsgesetzregelungstext.pdf",

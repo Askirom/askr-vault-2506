@@ -1,3 +1,4 @@
+# Askirom V25.2
 	# ASKIROM, the Obsidian Vanguard (V25.2)
 	
 	**Version:** 25.2  
