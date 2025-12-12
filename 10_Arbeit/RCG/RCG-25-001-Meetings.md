@@ -319,3 +319,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 	- für Sage und XCP
 - Backup NAS
 	- was wann wo 
+
+## 2025-12-12 Jour Fixe
+
+- 

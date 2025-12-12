@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/RCG/DSR Datenmaskierung.md",
+                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DSR Datenmaskierung"
+              "title": "RCG-25-001-Meetings"
             }
           },
           {
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5086555480957
+    "width": 204.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e79c0214821501a3",
@@ -183,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/RCG/DSR Datenmaskierung.md",
+                "file": "10_Arbeit/RCG/RCG-25-001-Meetings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DSR Datenmaskierung"
+              "title": "Outline of RCG-25-001-Meetings"
             }
           },
           {
@@ -266,10 +267,11 @@
   },
   "active": "2f2762318b8fbbe0",
   "lastOpenFiles": [
+    "20_Wissen/Identität/Askirom v25.2.md",
+    "10_Arbeit/RCG/DSR Datenmaskierung.md",
     "20_Wissen/Identität/Vanguard playbook.md",
     "20_Wissen/Identität/Untitled 1.md",
     "10_Arbeit/EKIBA/SoA.md",
-    "10_Arbeit/RCG/DSR Datenmaskierung.md",
     "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/EKIBA/Geschäftsbericht BvD 2025.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
@@ -284,7 +286,6 @@
     "10_Arbeit/GMC/Stellungnahme-ICT-Governance-Richtlinie.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
     "01_Inbox/Prozess_AV-Prüfung.md",
-    "20_Wissen/Identität/Askirom v25.2.md",
     "10_Arbeit/RCG/AVV TDG/94605_V4.1_AVV Europa Gesamt AVV Telekom als Verantwortlicher Realcore draft 021225.pdf",
     "10_Arbeit/RCG/AVV TDG",
     "01_Inbox/Quick.md",
