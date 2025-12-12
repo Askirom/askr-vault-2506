@@ -127,3 +127,7 @@
 |A.2.4.1|Verpflichtend|Jede Risikoanalyse MUSS dokumentiert werden und Risiken anhand einheitlicher Kriterien bewerten.|
 |A.2.5.1|Verpflichtend|Identifizierte Risiken MÜSSEN zeitnah behandelt und Maßnahmen zur Vermeidung, Reduzierung oder Übertragung der Risiken umgesetzt werden.|
 |A.2.6.1|Verpflichtend|Risikoidentifikationen, -analysen und -behandlungen MÜSSEN jährlich auf Aktualität geprüft und bei Bedarf wiederholt werden.|
+
+
+|   |   |
+|---|---|
