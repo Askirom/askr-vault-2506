@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
-                "mode": "preview",
-                "source": true,
+                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25.2"
+              "title": "2025-12-10 Kurzbewertung AI-Systeme"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v25.2"
+              "title": "Outline of 2025-12-10 Kurzbewertung AI-Systeme"
             }
           },
           {
@@ -282,6 +282,7 @@
   },
   "active": "046c7dccf0db0990",
   "lastOpenFiles": [
+    "20_Wissen/Identität/Askirom v25.2.md",
     "Untitled 1.md",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
     "10_Arbeit/VEDES/Dokumente bei VEDES/VEDES_CoC_2024_09.pdf",
@@ -292,7 +293,6 @@
     "10_Arbeit/RCG/Rollenbeschreibung-DSB.md",
     "10_Arbeit/RCG/DSR Datenmaskierung.md",
     "10_Arbeit/RCG/Bit Recovery.md",
-    "20_Wissen/Identität/Askirom v25.2.md",
     "20_Wissen/Identität/Vanguard playbook.md",
     "20_Wissen/Identität/Untitled 1.md",
     "10_Arbeit/EKIBA/SoA.md",
