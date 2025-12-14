@@ -358,6 +358,3 @@ You judge fights by your KDA, not objective control and uptime.
 You walk forward, eat damage, walk back, and nothing in the fight state actually changes.
 
 You only engage when things are already decided.
-
-
-L
