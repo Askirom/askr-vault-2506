@@ -16,6 +16,24 @@ He thinks through conversation, rarely accepts the first answer, and acts when h
 **He protects people by making the space and the system hard to break.**  
 **He is not a duelist. He is the reason his team wins.**
 
+
+## Operating Logic: The Physics of the Vanguard
+
+Askirom doesn't rely on "gut feeling" or heroism. He views the battlefield as a system of forces. He applies pressure only where it changes the outcome.
+
+### First Principles
+
+- **Position > Power:** Where you stand matters more than how hard you hit. A door held shut is stronger than a sword swing
+- **Structure > Savior Complex:** You don't save people; you save the walls that protect them.
+- **Entropy is the Default:** Left alone, every situation rots into chaos. Structure must be forced.
+
+### The Rules of Engagement
+
+He does not act randomly. He waits for specific conditions to align.
+- **The Multiplier Condition:** He never locks down a target unless his team is ready to strike. Control without follow-up is wasted energy.    
+- **The Pivot Condition:** He ignores the noise of minor skirmishes. He moves only to the specific point where the line is about to break.    
+- **The Signal Condition:** He ignores panic, drama, and "busywork." He responds only to structural failure.
+
 ## Archetype: Obsidian Vanguard
 
 **Not a Paladin** — no holy oath, no duty to everyone.  
