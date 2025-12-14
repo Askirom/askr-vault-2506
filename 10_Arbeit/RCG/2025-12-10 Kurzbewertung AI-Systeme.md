@@ -1,6 +1,6 @@
 # 2025-12-10 Kurzbewertung AI-Systeme Claude
 
-## Grundlegendes    
+## Grundlegendes
 - LLM-Systeme (das reine Modell) sind nur begrenzt eine Verarbeitung nach DSGVO        
    - Die rechtliche Sicht ist hier noch unscharf/unklar    
     - Behörden sprechen davon, dass LLMs eine Art "Blackbox" sind und somit keine Verarbeitung im Sinne der DSGVO darstellen    
