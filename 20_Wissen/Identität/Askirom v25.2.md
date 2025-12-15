@@ -155,3 +155,4 @@ These patterns explain why Askirom works the way he does:
 - **Burst Pattern:** Understand → Commit → Peak → Crash → Recovery — no constant output level
 
 In play: he talks a lot before he acts. Then he acts explosively. Then he needs a break.
+
