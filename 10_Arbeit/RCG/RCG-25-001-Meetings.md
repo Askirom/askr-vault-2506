@@ -327,7 +327,7 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Konstrukt RCG als Verantwortlicher zu Subunternehmen aber Auftragsverarbeiter zu Kunden
 	- Termin ist abgestimmt für Dienstag 16.12.2025 13:00 - 14:00
 
-## 2025-12-16 neue AVV Konstruktion
+## 2025-12-16 Neue AVV Konstruktion
 - Schaubild bereitgestellt
 - Standard-AV Vertrag für intern ist zu aktualisieren
 - Weisungsempfänger in der Zukunft ist das Datenschutzpostfach datenschutz@realcore.de
