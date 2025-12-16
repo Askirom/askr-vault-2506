@@ -326,4 +326,5 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Postfachzugriffsrichtlinie ist freigegeben
 - Konstrukt RCG als Verantwortlicher zu Subunternehmen aber Auftragsverarbeiter zu Kunden
 	- Termin ist abgestimmt für Dienstag 16.12.2025 13:00 - 14:00
-- 
+
+## 2025-12-16 neue AVV Konstruktion
