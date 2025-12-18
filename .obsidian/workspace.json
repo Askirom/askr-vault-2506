@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/ASKIROM/Kundenliste.md",
+                "file": "10_Arbeit/GMC/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kundenliste"
+              "title": "2025-12-18"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/ASKIROM/Kundenliste.md",
+                "file": "10_Arbeit/GMC/2025-12-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kundenliste"
+              "title": "Outline of 2025-12-18"
             }
           },
           {
@@ -282,10 +282,13 @@
   },
   "active": "046c7dccf0db0990",
   "lastOpenFiles": [
+    "10_Arbeit/GMC/2025-12-11 GMC.md",
+    "10_Arbeit/GMC/2025-12-18.md",
+    "10_Arbeit/GMC/Stellungnahme-ICT-Governance-Richtlinie.md",
+    "10_Arbeit/ASKIROM/Kundenliste.md",
     "10_Arbeit/HiSolutions/~$_Leitner_DE_251219.docx",
     "10_Arbeit/HiSolutions/CV_Leitner_DE_251219.docx",
     "20_Wissen/Identität/Askirom v25.2.md",
-    "10_Arbeit/ASKIROM/Kundenliste.md",
     "10_Arbeit/HiSolutions/2025-10-CV_Robin Leitner-secudor.pdf",
     "10_Arbeit/HiSolutions/CV_Zimmermann_DE_230419.pdf",
     "10_Arbeit/HiSolutions/2026.03 Robin Leitner Zusätzliche Leistungsvergütung.pdf",
@@ -294,7 +297,6 @@
     "10_Arbeit/HiSolutions/!CV_Nachname_DE_YYMMDD.dotx",
     "10_Arbeit/HiSolutions/CV_Zimmermann_DE_230419.docx",
     "10_Arbeit/HiSolutions/Beispiel CV.pdf",
-    "10_Arbeit/HiSolutions",
     "10_Arbeit/RCG/RCG-25-001-Meetings.md",
     "10_Arbeit/SEPIRE/Angebot Martha Maria.md",
     "10_Arbeit/SECUD/Leasing Fahrzeug/Streitigkeit Leasing.md",
@@ -322,8 +324,6 @@
     "10_Arbeit/EKIBA/Vorhandene Dokumente.md",
     "10_Arbeit/GELA/Drawing 2025-09-24 17.43.30.excalidraw.md",
     "10_Arbeit/GMC/DSI Bewerber.md",
-    "10_Arbeit/GMC/GOSME-25-001-Meetings.md",
-    "10_Arbeit/GMC/2025-12-11 GMC.md",
     "20_Wissen/Identität/Signature-RLE 2024.png",
     "20_Wissen/Identität/Signature-RLE 2024_transparent.png",
     "10_Arbeit/EKIBA/assets/Pasted image 20251030142101.png",
