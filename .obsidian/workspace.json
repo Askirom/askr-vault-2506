@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Askirom v25.2"
+              "title": "2025-12-18 Bewertung DSB FAQ"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Wissen/Identität/Askirom v25.2.md",
+                "file": "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Askirom v25.2"
+              "title": "Outline of 2025-12-18 Bewertung DSB FAQ"
             }
           },
           {
@@ -282,14 +282,15 @@
   },
   "active": "046c7dccf0db0990",
   "lastOpenFiles": [
-    "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
     "10_Arbeit/GMC/2025-12-18.md",
+    "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
+    "20_Wissen/Identität/Askirom v25.2.md",
+    "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/GMC/2025-12-11 GMC.md",
     "10_Arbeit/GMC/Stellungnahme-ICT-Governance-Richtlinie.md",
     "10_Arbeit/ASKIROM/Kundenliste.md",
     "10_Arbeit/HiSolutions/~$_Leitner_DE_251219.docx",
     "10_Arbeit/HiSolutions/CV_Leitner_DE_251219.docx",
-    "20_Wissen/Identität/Askirom v25.2.md",
     "10_Arbeit/HiSolutions/2025-10-CV_Robin Leitner-secudor.pdf",
     "10_Arbeit/HiSolutions/CV_Zimmermann_DE_230419.pdf",
     "10_Arbeit/HiSolutions/2026.03 Robin Leitner Zusätzliche Leistungsvergütung.pdf",
@@ -320,7 +321,6 @@
     "20_Wissen/Identität/Vanguard playbook.md",
     "20_Wissen/Identität/Untitled 1.md",
     "10_Arbeit/EKIBA/SoA.md",
-    "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/EKIBA/Geschäftsbericht BvD 2025.md",
     "10_Arbeit/EKIBA/Vorhandene Dokumente.md",
     "10_Arbeit/GELA/Drawing 2025-09-24 17.43.30.excalidraw.md",
