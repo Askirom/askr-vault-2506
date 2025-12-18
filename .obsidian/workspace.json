@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
+                "file": "20_Wissen/Identität/Askirom v25.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-18 Bewertung DSB FAQ"
+              "title": "Askirom v25.2"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
+                "file": "20_Wissen/Identität/Askirom v25.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-18 Bewertung DSB FAQ"
+              "title": "Outline of Askirom v25.2"
             }
           },
           {
@@ -282,8 +282,8 @@
   },
   "active": "046c7dccf0db0990",
   "lastOpenFiles": [
-    "10_Arbeit/GMC/2025-12-18.md",
     "10_Arbeit/BVD/2025-12-18 Bewertung DSB FAQ.md",
+    "10_Arbeit/GMC/2025-12-18.md",
     "10_Arbeit/GMC/2025-12-11 GMC.md",
     "10_Arbeit/GMC/Stellungnahme-ICT-Governance-Richtlinie.md",
     "10_Arbeit/ASKIROM/Kundenliste.md",
