@@ -338,4 +338,3 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - RCIM -> im ISO27001 Cert-Scope
 	- Betriebsrat bisher keine Rückmeldung
 - Blick.
-	- 
