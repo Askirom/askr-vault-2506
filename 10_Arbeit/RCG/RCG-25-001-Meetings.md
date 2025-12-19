@@ -331,3 +331,11 @@ Wenn Sie wollen, erstelle ich eine kurze DPA-Formulierungsvorlage je Szenario.
 - Schaubild bereitgestellt
 - Standard-AV Vertrag für intern ist zu aktualisieren
 - Weisungsempfänger in der Zukunft ist das Datenschutzpostfach datenschutz@realcore.de
+
+## 2025-12-19 Jour Fixe
+- Termin Löschkonzept ausgemacht für 08.01.2026
+- internes Audit hat keine weiteren Maßnahmen für DSB gefunden
+- RCIM -> im ISO27001 Cert-Scope
+	- Betriebsrat bisher keine Rückmeldung
+- Blick.
+	- 

@@ -1,4 +1,4 @@
-# ASKIROM v26.1: The Obsidian Vanguard (Operational Patch)
+# ASKIROM V26.1: The Obsidian Vanguard (Operational Patch)
 
 **Version:** 26.1
 **Date:** 18.12.2025
