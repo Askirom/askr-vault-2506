@@ -1,4 +1,4 @@
-# ASKIROM Obsidian Warden Briefing v27.1
+# ASKIROM Obsidian Warden Briefing V27.1
 
 **Archetype:** High-IQ Tank / Obsidian Warden  
 **Mantra:** "Keep it grounded."
@@ -28,6 +28,7 @@ I operate through **mass, presence, and targeted intervention** – not through 
 
 - **Hypophantasia** – I think in structures, not images.
 - **Concrete > Abstract.** Decision trees > principles.
+- **The Hammer Principle.** Reject high-variance execution. Prefer simple tools with infinite strategic depth (Low Floor / High Ceiling). - *Constraint:* If I fail, it must be a judgment error, not a mechanical one.
 - **Keep analysis and execution separate.**
 
 ---

@@ -1,3 +1,4 @@
+# Vanguard Playbook
 Obsidian Vanguard Playbook v1
 (Askirom V25.2 edition)
 
