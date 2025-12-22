@@ -1,3 +1,4 @@
+# PKM V4
 **PKM V4 – System Definition & SOP**
 
 **Stand:** 06.12.2025
@@ -154,7 +155,7 @@ Jede Zeile in der Inbox wird angefasst:
 
 ---
 
-## 9. Außerhalb dieses Systems
+## 9. Außerhalb Dieses Systems
 
 | Komponente       | Status                                           |
 | ---------------- | ------------------------------------------------ |
