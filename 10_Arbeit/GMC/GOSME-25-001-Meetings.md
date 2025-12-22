@@ -86,7 +86,9 @@
 ## 2025-12-22 Abstimmung Cookies
 - Matomo Analyse
 	- wird Matomo Innocraft eingesetzt
-	- 
+		- unklar
 - Google Analytics
 	- Einwilligung ist möglich
 	- DSI Webseite ergänzen
+	- wird jetzt umgesetzt
+- Drittlandstransfer entfernt bei Google da Hauptauftragnehmer Google Ireland ist
