@@ -87,4 +87,6 @@ Once daily (evening, non-negotiable):
 ---
 
 > *Reference: ASKIROM Full v27.1 (Archive) for development history and theoretical foundation.*
-> 
+
+
+
