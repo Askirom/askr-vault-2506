@@ -82,3 +82,11 @@
 	- werden alle Services der GM auch bei der Instruments angeboten
 - DSI Webseite mit den Verlinkungen wie bei Gossen Metrawatt
 	- Geschäftspartner ist 1zu1 zu verlinken
+
+## 2025-12-22 Abstimmung Cookies
+- Matomo Analyse
+	- wird Matomo Innocraft eingesetzt
+	- 
+- Google Analytics
+	- Einwilligung ist möglich
+	- DSI Webseite ergänzen
