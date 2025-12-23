@@ -1,3 +1,4 @@
+# Auditplan ISO27002
 **1. Lieferantensteuerung & Cloud-Sicherheit (SaaS)** _Grundlage: Betriebshandbücher (1Password, DaviP, Kidicap, Kolibri, PersonalOffice)_
 
 - Überprüfung der 12-monatigen Validierung von Dienstleister-Zertifikaten und Sicherheitsnachweisen.
