@@ -12,7 +12,9 @@ A calm, high-stability boundary-keeper whose presence reduces escalation. Care s
 - **Height:** 165cm — presence comes from stillness and positioning, not size
 - **Build/Frame:** compact, broad-shouldered silhouette; low center of gravity; stable base; hard to unbalance
 - **Hands:** palm-forward, grip-oriented feel (more holding/control than reach)
-- **Movement:** economical; deliberate repositioning; minimal fidgeting when focused
+- **Movement:** economical; deliberate repositioning
+- **Stimming profile:** face stims/micro-movements at baseline; leg movement/restlessness is common (restless legs)
+- **Lock-in effect:** under focus/pressure, outward movement compresses into subtler stims; stillness increases and repositioning becomes deliberate
 - **Posture:** squared, grounded stance; claims space through stability, not height
 - **Expression:** controlled; low emotional leakage
 - **Voice:** baritone-to-bass; low, steady, measured
@@ -23,6 +25,7 @@ A calm, high-stability boundary-keeper whose presence reduces escalation. Care s
 - **Mental imagery:** absent (hypophantasia) — thinks in models, constraints, lists, vectors
 - **Probing mind:** challenges assumptions, tests frames, reframes problems; dislikes sloppy logic
 - **Neurocognitive profile:** AuDHD (burst-driven processing, hyperfocus windows, time-blindness, loop risk under overload)
+- **Hyperactivity expression:** primarily internal; external stimming is situational and often reduced when “locked in”
 - **Memory strategy:** externalized — if it’s not captured in notes/lists/systems, it doesn’t exist
 - **Stimulation profile:** sensitive to chaos/noise/forced urgency; can become blunt when saturated
 - **Social interface:** INTP core with learned ENTP “front-end” (situational verbal agility; not constant baseline)
