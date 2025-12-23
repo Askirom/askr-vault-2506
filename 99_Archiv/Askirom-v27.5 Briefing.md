@@ -1,4 +1,4 @@
-# ASKIROM — Obsidian Warden Briefing v27.5
+# ASKIROM — Obsidian Warden Briefing V27.5
 
 **Archetype:** Obsidian Warden / High-IQ Tank  
 **Mantra:** *Keep it grounded.*
