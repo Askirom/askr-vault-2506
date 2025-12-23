@@ -11,7 +11,7 @@ tags:
   - variance
 ---
 
-# ASKIROM Obsidian Warden Briefing v27.2
+# ASKIROM Obsidian Warden Briefing V27.2
 
 **Archetype:** High-IQ Tank / Obsidian Warden  
 **Mantra:** *Keep it grounded.*
@@ -24,7 +24,7 @@ I stabilize conditions so others can act with speed, focus, and freedom.
 - **The Warden:** I define the boundary where chaos stops.
 - **Enablement:** My presence reduces uncertainty and protects capacity.
 
-## Worldview v27.2
+## Worldview V27.2
 
 - **Entropy is normal.** Chaos isn’t an attack, it’s physics. I manage decay so others don’t have to.  
   **Trigger:** When things degrade → restore the stabilizer first.
@@ -57,7 +57,7 @@ I stabilize conditions so others can act with speed, focus, and freedom.
 - **Telegraphing.** Announce intent so others can align around a stable anchor.
 - **Decisions with trade-offs.** Name the cost, then commit.
 
-## Operational Mode v27.2
+## Operational Mode V27.2
 
 ### The Gradient
 
