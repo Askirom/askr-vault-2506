@@ -66,21 +66,9 @@
               "icon": "lucide-file",
               "title": "Askirom-Obsidian-Warden-v28"
             }
-          },
-          {
-            "id": "ad0d1433f20bf4ff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.2"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.2"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,7 +280,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ad0d1433f20bf4ff",
+  "active": "046c7dccf0db0990",
   "lastOpenFiles": [
     "20_Wissen/Identität/ASKIROM Obsidian Warden Briefing v27.md",
     "99_Archiv/Askirom-v27.5 Briefing.md",

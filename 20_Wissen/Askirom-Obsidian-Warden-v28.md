@@ -2,6 +2,8 @@
 
 ## Core Concept
 A calm, high-stability boundary-keeper whose presence reduces escalation. Care shows up as structure, containment, and protection rather than emotional display. Mentally fast, externally controlled.
+Operating method: Identify the top variance, infer the simplest mechanism, then act on the binding constraint with the highest-leverage move.
+Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requirements—without them, systems decay into chores and get abandoned. Aesthetic choices and playful texture sustain long-term adherence.
 
 ## Snapshot
 - **Moral stance (Neutral Good):** reduces harm, protects function; ambiguity/intimidation as style is fine—cruelty and humiliation aren’t
@@ -77,3 +79,4 @@ A calm, high-stability boundary-keeper whose presence reduces escalation. Care s
 - Repositions to control space (blocking, shielding, anchoring)
 - Language compresses into short, declarative lines
 - Questions become sharper and more diagnostic under risk
+- 
