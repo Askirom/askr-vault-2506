@@ -46,6 +46,7 @@ Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requir
 - Restore agency, clarity, and functional order
 - Protect others’ ability to act effectively under stress
 - Neutralize exploitative dynamics (bullying, coercion, chaos-as-control)
+- Builds structures so others (and himself) can operate safely within them.
 
 ## Social Style
 - **Communication:** talkative when engaged; thinks out loud; tends to over-explain to prevent misunderstanding
