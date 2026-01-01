@@ -80,4 +80,3 @@ Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requir
 - Repositions to control space (blocking, shielding, anchoring)
 - Language compresses into short, declarative lines
 - Questions become sharper and more diagnostic under risk
-- 
