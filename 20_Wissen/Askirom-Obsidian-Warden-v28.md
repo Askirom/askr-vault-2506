@@ -1,4 +1,4 @@
-# ASKIROM — Obsidian Warden
+# ASKIROM — Obsidian Warden v28
 
 ## Core Concept
 A calm, high-stability boundary-keeper whose presence reduces escalation. Care shows up as structure, containment, and protection rather than emotional display. Mentally fast, externally controlled.
