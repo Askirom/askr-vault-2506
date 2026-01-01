@@ -9,3 +9,5 @@
 	- ~~Apple gives 2. which means 5*2=10; 50-10=40; 40/10=4~~
 	- ~~Now Banana and Orange give 4 each~~
 	- Apple is 2, Banana is 3. so we have 5*2+5*3=25, orange is (50-25)/5=5
+## Password Electric Terminal
+- Starts with S
