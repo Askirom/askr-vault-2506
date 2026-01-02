@@ -53,5 +53,5 @@
 
 ### 6. RADAR
 - Jahresgespräche planen (Dezember)
-- Jahresbericht-Template in Arbeit -> [[Template Jahresbericht 2025]]
+- Jahresbericht-Template in Arbeit -> [[Template Jahresbericht 2025 Kundenfassung]]
 - Wer übernimmt welche Mandate?
