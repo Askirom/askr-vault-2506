@@ -1,3 +1,4 @@
+# Jahresbericht Zwischenspeicher
 
 ## ARA
 
@@ -15,7 +16,7 @@
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 03.02.2025 (Kenntnis 20.01.2025) | Falschversand sensibler Krankenversicherungs-Unterlagen an falschen Empfänger im AXA-Kontext infolge fehlerhafter Datenänderung in der Schadenbearbeitung | Fehlversand / System | Gesundheitsdaten (besondere Kategorien) + Adress-/Stammdaten | **Gering bis moderat** – falscher Empfänger hat Unterlagen zurückgesendet; AXA hat Korrekturen und Abhilfemaßnahmen eingeleitet; Risiko weiterer Verbreitung reduziert | nein         | Intern dokumentiert; AXA hat Daten korrigiert und falsch versandte Schreiben aus der Akte entfernt; Betroffener angeschrieben/Portokosten erstattet; Sensibilisierung der Mitarbeitenden vorgesehen; aus Sicht Beratung kein zusätzlicher Handlungsbedarf |
 | 19.07.2025                       | Interner Fehlversand von personenbezogenen Beschäftigtendaten an interne Empfänger                                                                        | Fehlversand          | Beschäftigtendaten (keine besonderen Kategorien)             | **Gering bis moderat** – ausschließlich interne Empfänger, keine externen Dritten betroffen; keine erhebliche Beeinträchtigung der Rechte und Freiheiten erwartet      | nein         | Dokumentation erstellt/zu erstellen; schriftliche Entschuldigung an Betroffene vorgesehen; Awareness-Hinweis im Team + Reminder-Mail; Prüfung technischer Prävention (z. B. Warnhinweis/Send-Delay bei Verteilern)                                        |
-## 8 review
+## 8 Review
 ## 8 TÄTIGKEITEN IM BERICTSJAHR 2025
 
 > Grundlage: laufendes Protokoll (inkl. Status Ende 2025) + Zeiterfassungs-/Leistungsprotokoll 2025.

@@ -29,27 +29,27 @@
 
 ### 5. ÜBERGABE-TRACKER
 
-| Client | Client-File | Status-Dok | Übergabe-Dok |
-|--------|-------------|------------|--------------|
-| 34digital | [[_Client-34digital]] | ⬜ | ⬜ |
-| ARA | [[_Client-ARA]] | ⬜ | ⬜ |
-| ARCD | [[_Client-ARCD]] | ⬜ | ⬜ |
-| CLIFO | [[_Client-CLIFO]] | ⬜ | ⬜ |
-| EMPIC | [[_Client-EMPIC]] | ⬜ | ⬜ |
-| GMC | [[_Client-GMC]] | ⬜ | ⬜ |
-| Grimm | [[_Client-Grimm]] | ⬜ | ⬜ |
-| INSTO | [[_Client-INSTO]] | ⬜ | ⬜ |
-| LAALT | [[_Client-LAALT]] | ⬜ | ⬜ |
-| Mory | [[_Client-Mory]] | ⬜ | ⬜ |
-| POLFI | [[_Client-POLFI]] | ⬜ | ⬜ |
-| POLSI | [[_Client-POLSI]] | ⬜ | ⬜ |
-| RBOMN | [[_Client-RBOMN]] | ⬜ | ⬜ |
-| Realcore | [[_Client-realcore]] | ⬜ | ⬜ |
-| SOLN | [[_Client-SOLN]] | ⬜ | ⬜ |
-| SOLVE | [[_Client-SOLVE]] | ⬜ | ⬜ |
-| VEDES | [[_Client-VEDES]] | ⬜ | ⬜ |
-| VGALT | [[_Client-VGALT]] | ⬜ | ⬜ |
-| ZOELLS | [[_Client-ZOELL]] | ⬜ | ⬜ |
+| Client    | Client-File           | Status-Dok | Übergabe-Dok |
+| --------- | --------------------- | ---------- | ------------ |
+| 34digital | [[_Client-34digital]] | x          | x            |
+| ARA       | [[_Client-ARA]]       | x          | ⬜            |
+| ARCD      | [[_Client-ARCD]]      | ⬜          | ⬜            |
+| CLIFO     | [[_Client-CLIFO]]     | ⬜          | ⬜            |
+| EMPIC     | [[_Client-EMPIC]]     | x          | ⬜            |
+| GMC       | [[_Client-GMC]]       | ⬜          | ⬜            |
+| Grimm     | [[_Client-Grimm]]     | ⬜          | ⬜            |
+| INSTO     | [[_Client-INSTO]]     | ⬜          | ⬜            |
+| LAALT     | [[_Client-LAALT]]     | ⬜          | ⬜            |
+| Mory      | [[_Client-Mory]]      | ⬜          | ⬜            |
+| POLFI     | [[_Client-POLFI]]     | ⬜          | ⬜            |
+| POLSI     | [[_Client-POLSI]]     | ⬜          | ⬜            |
+| RBOMN     | [[_Client-RBOMN]]     | ⬜          | ⬜            |
+| Realcore  | [[_Client-realcore]]  | ⬜          | ⬜            |
+| SOLN      | [[_Client-SOLN]]      | ⬜          | ⬜            |
+| SOLVE     | [[_Client-SOLVE]]     | ⬜          | ⬜            |
+| VEDES     | [[_Client-VEDES]]     | ⬜          | ⬜            |
+| VGALT     | [[_Client-VGALT]]     | ⬜          | ⬜            |
+| ZOELLS    | [[_Client-ZOELL]]     | ⬜          | ⬜            |
 
 ### 6. RADAR
 - Jahresgespräche planen (Dezember)

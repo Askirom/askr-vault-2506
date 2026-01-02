@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Ops/Jahresbericht Zwischenspeicher.md",
-                "mode": "preview",
+                "file": "00_Ops/01_HQ_secudor.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jahresbericht Zwischenspeicher"
+              "title": "01_HQ_secudor"
             }
           },
           {
@@ -282,8 +282,8 @@
   },
   "active": "e2204c2a02d11e2b",
   "lastOpenFiles": [
-    "00_Ops/Template Jahresbericht 2025 Kundenfassung.md",
     "00_Ops/Jahresbericht Zwischenspeicher.md",
+    "00_Ops/Template Jahresbericht 2025 Kundenfassung.md",
     "10_Arbeit/SECUD/Einladung Jahresbericht 2025.md",
     "10_Arbeit/SECUD/Jahresbericht 2025.md",
     "10_Arbeit/SECUD/Kundentermine Datenschutz.md",
