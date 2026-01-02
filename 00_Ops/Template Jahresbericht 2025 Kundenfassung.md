@@ -144,7 +144,7 @@ Dieses Kapitel dient der Einordnung zentraler Entwicklungen 2025 (EU/DE), mit Fo
 
 ### 6.1 Regulatorische Entwicklungen (EU/DE)
 
-#### 6.1.1 NIS2 (EU) und Umsetzung in Deutschland
+#### 6.1.1 NIS2 (EU) Und Umsetzung in Deutschland
 2025 war das Jahr, in dem NIS2 in Deutschland von „überfällig“ in Richtung „konkret umsetzbar“ gekippt ist – mit klarer Relevanz für Governance, Incident-Handling und Lieferkette.
 
 - **Regelungsziel:** Ausweitung des betroffenen Kreises (mehr Unternehmen/Branchen), stärkere Management-Verantwortung, Mindestanforderungen an Risikomanagement, sowie **formalisierte Meldepflichten** bei erheblichen Sicherheitsvorfällen.
@@ -153,7 +153,7 @@ Dieses Kapitel dient der Einordnung zentraler Entwicklungen 2025 (EU/DE), mit Fo
 
 Für den Bericht an den Kunden ist hier wichtig: NIS2 ist nicht „nur IT“, sondern ein Governance-Thema (Verantwortlichkeiten, Nachweise, Kontrollsysteme, Reaktionsfähigkeit).
 
-#### 6.1.2 Digital Services Act (DSA) und deutsches Digitale-Dienste-Gesetz (DDG)
+#### 6.1.2 Digital Services Act (DSA) Und Deutsches Digitale-Dienste-Gesetz (DDG)
 2025 war das Jahr, in dem der DSA in der Breite praktisch greifbar wurde – nicht nur als EU-Verordnung, sondern durch nationale Zuständigkeiten und Durchsetzung.
 
 - **Was der DSA adressiert:** Pflichten für Online-Dienste/Plattformen rund um den Umgang mit illegalen Inhalten, Transparenz, Beschwerdemechanismen und (je nach Größe) systemische Risikosteuerung.
@@ -162,7 +162,7 @@ Für den Bericht an den Kunden ist hier wichtig: NIS2 ist nicht „nur IT“, so
 
 Für Kundenberichte ist der Mehrwert: Das DDG erklärt, wer in Deutschland zuständig ist und wie Durchsetzung praktisch läuft (Kontaktpunkt, Verfahren, Sanktionen).
 
-#### 6.1.3 KI-Verordnung (AI Act): operative Pflichten starten
+#### 6.1.3 KI-Verordnung (AI Act): Operative Pflichten Starten
 2025 war das Jahr der ersten echten Stichtage des AI Act – weg von Strategiepapier hin zu Compliance-Arbeit.
 
 - **Seit 02.02.2025** gelten die ersten anwendbaren Teile, insbesondere **Verbote bestimmter KI-Praktiken** sowie Anforderungen an **AI Literacy**.
@@ -171,7 +171,7 @@ Für Kundenberichte ist der Mehrwert: Das DDG erklärt, wer in Deutschland zust�
 
 Für einen Jahresbericht reicht hier ein kurzer Status: „Stichtage 2025, wesentliche Pflichten, und was wir daraus für unsere KI-Governance ableiten“.
 
-#### 6.1.4 Data Act: was ist das – und warum betrifft das Datenschutz indirekt?
+#### 6.1.4 Data Act: Was Ist Das – Und Warum Betrifft Das Datenschutz Indirekt?
 Der **Data Act** (anwendbar ab **12.09.2025**) ist kein Datenschutzrecht, aber ein massiver „Datenökonomie“-Baustein – und wird in Projekten schnell mit DSGVO verwechselt oder vermischt.
 
 - **Kernidee:** Nutzer vernetzter Produkte und verbundener Dienste (IoT, Maschinen, Fahrzeuge etc.) sollen leichter auf Daten zugreifen und diese mit Dritten teilen können; zugleich werden Datenhalter zu fairen Bedingungen verpflichtet.
@@ -180,7 +180,7 @@ Der **Data Act** (anwendbar ab **12.09.2025**) ist kein Datenschutzrecht, aber e
 
 Für Kundenberichte ist der Mehrwert: Kurz erklären, „was das ist“, plus 2–3 Auswirkungen auf Verträge/Architektur/Steuerung.
 
-### 6.2 Schwerpunkte der Aufsichtsbehörden (2025): praxisnahe Orientierung
+### 6.2 Schwerpunkte Der Aufsichtsbehörden (2025): Praxisnahe Orientierung
 2025 war auffällig durch sehr umsetzungsorientierte Veröffentlichungen der Datenschutzkonferenz (DSK), besonders zu KI.
 
 - **DSK (Juni 2025): TOMs für KI-Systeme entlang des Lebenszyklus**
@@ -190,9 +190,9 @@ Für Kundenberichte ist der Mehrwert: Kurz erklären, „was das ist“, plus 2�
 
 Für den Jahresbericht genügt: „Welche Leitplanken sind 2025 neu konkretisiert worden und welche organisatorischen Controls leiten wir daraus ab.“
 
-### 6.3 Drei besonders relevante Urteile 2025 (EU/DE) und ihre Implikationen
+### 6.3 Drei Besonders Relevante Urteile 2025 (EU/DE) Und Ihre Implikationen
 
-#### 6.3.1 EuGH „Russmedia“ (C-492/23, 02.12.2025) – Plattformen stärker in der DSGVO-Pflicht
+#### 6.3.1 EuGH „Russmedia“ (C-492/23, 02.12.2025) – Plattformen Stärker in Der DSGVO-Pflicht
 Kernaussage: Betreiber eines Online-Marktplatzes kann **(mit-)verantwortlich** für personenbezogene Daten in Nutzeranzeigen sein – auch wenn der Inhalt „vom Nutzer“ eingestellt wurde.
 
 Implikationen:
@@ -206,14 +206,14 @@ Implikationen:
 - Abwägung nach Art. 6 Abs. 1 lit. f DSGVO bleibt möglich, aber muss sauber begründet, begrenzt und transparent sein.
 - Wichtig ist die Zwecktrennung: Betrugsprävention ist nicht automatisch „Bonitätsprofiling“. Zweck, Datenumfang, Speicher-/Löschlogik und Informationspflichten sind die Stellhebel.
 
-#### 6.3.3 EuGH „Soft Opt-In bei kostenlosen Diensten“ (C-654/23, 13.11.2025)
+#### 6.3.3 EuGH „Soft Opt-In Bei Kostenlosen Diensten“ (C-654/23, 13.11.2025)
 Kernaussage: Bestandskundenwerbung/„Soft Opt-In“ kann auch bei Nutzern kostenloser Online-Dienste relevant sein – wenn die Voraussetzungen erfüllt sind (insb. Hinweis/Widerspruchsmöglichkeit, ähnliche Produkte/Dienstleistungen etc.).
 
 Implikationen:
 - Marketing- und CRM-Setups müssen die Voraussetzungen sauber operationalisieren (Erhebungskontext, Hinweistext, Opt-out, Produktähnlichkeit, Logging).
 - Relevanz auch für B2B-/Service-Portale: „kostenlos“ heißt nicht automatisch „kein Kundenverhältnis“.
 
-### 6.4 Ableitungen für die Praxis (kurz und berichtstauglich)
+### 6.4 Ableitungen Für Die Praxis (kurz Und berichtstauglich)
 - **NIS2-Readiness:** Betroffenheit prüfen, Verantwortlichkeiten/Reporting definieren, Incident-Prozess inkl. Meldewege und Beweisführung stärken, Lieferkette strukturieren.
 - **KI-Governance:** Inventar + Freigabeprozess + TOMs entlang des Lebenszyklus; für RAG besonders Zugriffskontrollen/Scoping/Logging.
 - **Data Act:** Vertrags- und Architekturfolgen identifizieren (Zugriff/Weitergabe/Cloud Switching), Datenklassifikation und Rollenklärung DSGVO-seitig festziehen.
@@ -222,17 +222,17 @@ Implikationen:
 
 ## 7 BLICK ÜBER DEN TELLERRAND (2025)
 
-### 7.1 Datenschutz trifft Sicherheits-Realität: „Nachweisbarkeit“ wird zum Produkt
+### 7.1 Datenschutz Trifft Sicherheits-Realität: „Nachweisbarkeit“ Wird Zum Produkt
 2025 ist weniger durch neue Grundprinzipien geprägt, sondern durch den steigenden Anspruch, Datenschutz in auditierbare, belastbare Kontrollen zu übersetzen:
 - Nicht nur „wir machen das“, sondern „wir können zeigen, dass wir das kontrollieren“ (Rollen, Logs, Freigaben, messbare Wirksamkeit).
 - In Vorfällen zählt Geschwindigkeit plus saubere Dokumentation: Eindämmung, Kommunikationsdisziplin, und beweisfähige Timeline.
 
-### 7.2 Generative KI verändert Risikoformen, nicht nur Tools
+### 7.2 Generative KI Verändert Risikoformen, Nicht Nur Tools
 GenAI skaliert klassische Probleme:
 - Social Engineering und Textproduktion werden leichter; Awareness muss realistisch, kontinuierlich und prozessorientiert sein.
 - Datenabfluss passiert nicht nur „durch Hacker“, sondern durch Fehlbedienung, zu breite Wissensbasen, fehlende Rechtekonzepte und unklare Anbieterrollen.
 
-### 7.3 Datenökonomie und Regulierung: Datenschutz wird Teil größerer Governance
+### 7.3 Datenökonomie Und Regulierung: Datenschutz Wird Teil Größerer Governance
 Mit DSA/DDG, Data Act und AI Act ist Datenschutz 2025 endgültig nicht mehr „nur DSGVO“:
 - Verträge, Portabilität, Interoperabilität, Plattformpflichten und KI-Compliance greifen ineinander.
 - Der Hebel liegt häufig in Einkauf/Providersteuerung/Architektur – nicht nur in Datenschutztexten.
