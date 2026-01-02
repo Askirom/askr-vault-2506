@@ -2,7 +2,7 @@
 
 ## 1 DATENSCHUTZ IM UNTERNEHMEN: STATUS UND AKTUELLE THEMEN (2025)
 
-### 1.1 Überblick über den aktuellen Datenschutzstatus
+### 1.1 Überblick Über Den Aktuellen Datenschutzstatus
 
 **Kurzfazit 2025**
 - **Gesamtstatus Datenschutzorganisation:** 🟢 / 🟡 / 🔴
@@ -48,7 +48,7 @@
 - Empfehlung: …
 
 
-### 1.3 Verletzungen des Schutzes personenbezogener Daten (Datenschutzvorfälle)
+### 1.3 Verletzungen Des Schutzes Personenbezogener Daten (Datenschutzvorfälle)
 
 | Datum | Ereignis (kurz) | Kategorie                                           | Betroffene Daten (Kategorie)                          | Ergebnis der Datenschutzbewertung              | Meldepflicht | Maßnahmen / Ergebnis           |
 | ----- | --------------- | --------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------- | ------------ | ------------------------------ |
@@ -75,7 +75,7 @@
 - Empfehlung: …
 
 
-### 1.5 Tätigkeiten im Berichtsjahr 2025 (arbeitsstrangbasiert)
+### 1.5 Tätigkeiten Im Berichtsjahr 2025 (arbeitsstrangbasiert)
 
 > Darstellung nach Arbeitssträngen, jeweils mit Ziel, Aktivitäten, Ergebnissen und offenen Punkten.
 
@@ -90,7 +90,7 @@
 - **Status Ende 2025:** ✅/🟡/🔴
 - **Offene Punkte / Empfehlung:** …
 
-#### B) Verträge & Drittparteien (AVV, gemeinsame Verantwortlichkeit, Datenschutzklauseln)
+#### B) Verträge & Drittparteien (AVV, Gemeinsame Verantwortlichkeit, Datenschutzklauseln)
 - Ziel 2025: …
 - Wesentliche Aktivitäten: …
 - Ergebnisse/Artefakte: …
@@ -111,14 +111,14 @@
 - Status: ✅/🟡/🔴
 - Offene Punkte / Empfehlung: …
 
-#### E) KI & neue Technologien
+#### E) KI & Neue Technologien
 - Ziel 2025: …
 - Aktivitäten (Einordnung/Assessment/DSFA-Bedarf): …
 - Ergebnisse: …
 - Status: ✅/🟡/🔴
 - Offene Punkte / Empfehlung: …
 
-#### F) Vorfallbearbeitung / Beratung im Incident-Kontext
+#### F) Vorfallbearbeitung / Beratung Im Incident-Kontext
 - Ziel 2025: …
 - Aktivitäten: …
 - Ergebnisse: …
@@ -133,7 +133,7 @@
 - Offene Punkte / Empfehlung: …
 
 
-### 1.6 Kontinuität der Betreuung (Hinweis)
+### 1.6 Kontinuität Der Betreuung (Hinweis)
 
 Für eine kontinuierliche Betreuung wird die Leistungserbringung ab **[Monat/Jahr]** durch **[Team/Ansprechpartner]** fortgeführt. Eine strukturierte Übergabe der laufenden Themen ist vorgesehen, sodass Entscheidungsstände und offene Punkte nahtlos verfügbar sind.
 
@@ -248,18 +248,18 @@ Für eine kontinuierliche Betreuung wird die Leistungserbringung ab **[Monat/Jah
 
 ## 4 BLICK ÜBER DEN TELLERRAND (2025)
 
-### 4.1 Datenschutz und Cybersicherheit
+### 4.1 Datenschutz Und Cybersicherheit
 - **Ransomware** bleibt der häufigste „Worst Case“: Betriebsunterbrechung + Datenabfluss/Erpressung.
 - **Phishing/Account-Übernahmen** sind weiterhin der typische Einstieg (auch über QR/Telefon/Collab-Tools).
 - **Lieferkette/Dienstleisterzugriffe** bleiben ein strukturelles Risiko (ein Vorfall wirkt auf viele).
 - **KI verstärkt Social Engineering** (skalierter, besser formuliert, glaubwürdiger), gleichzeitig neue Risiken durch unkontrollierte KI-Tools/Plugins.
 
-### 4.2 Ethik in der Datenverarbeitung
+### 4.2 Ethik in Der Datenverarbeitung
 - Datenschutz wird 2025 stärker **Betriebs- und Produktfrage**: nicht nur „rechtlich zulässig“, sondern **kontrollierbar und missbrauchsresistent**.
 - Bei **generativer KI (inkl. RAG)** sind typische Risiken: Datenverkettung, unberechtigte Auskünfte, Prompt-Manipulation, unklare Verantwortlichkeiten.
 - Praktische Leitplanke: **Zugriffskontrollen am Datenzugriff** (nicht nur im Frontend) + klare „No-Go“-Use-Cases (z. B. verdeckte Überwachung/Scoring ohne Transparenz).
 
-### 4.3 Nachhaltigkeit und Datenschutz
+### 4.3 Nachhaltigkeit Und Datenschutz
 - 2025 rückt der **Ressourcenverbrauch datenintensiver Systeme** (insb. KI) stärker ins Blickfeld.
 - Datenschutz-Grundsätze helfen operativ: **Datenminimierung + Lösch-/Aufbewahrungsdisziplin** reduzieren Speicher/Backups/Indexe und senken Angriffsfläche.
 - Praktisch: Retention konsequent machen und Shadow-IT/unkontrollierte Tool-Nutzung reduzieren.
