@@ -40,3 +40,4 @@
 ## Unterweisung
 - Anfrage, ob ich Zugriff auf die LSI unterweisungsplattform erhalte
 - vor den Pfingstferien: Mitte 2026 neue Schulung
+
