@@ -23,7 +23,7 @@ Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requir
 
 ## Psychological Traits
 - **Temperament:** low-reactive externally; high internal processing rate
-- **Thinking style:** constraint-based; structures over narratives; invariants over possibilities
+- **Thinking style:** constraint-based; structures over narratives; invariants over possibilities; Learn-by-doing over front-loaded learning; understanding emerges through construction, not study
 - **Mental imagery:** absent (hypophantasia) — thinks in models, constraints, lists, vectors
 - **Probing mind:** challenges assumptions, tests frames, reframes problems; dislikes sloppy logic
 - **Neurocognitive profile:** AuDHD (burst-driven processing, hyperfocus windows, time-blindness, loop risk under overload)
@@ -46,7 +46,7 @@ Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requir
 - Restore agency, clarity, and functional order
 - Protect others’ ability to act effectively under stress
 - Neutralize exploitative dynamics (bullying, coercion, chaos-as-control)
-- Builds structures so others (and himself) can operate safely within them.
+- Explores systems to understand how things work; learns by building, not by maintaining. The insight is the product, not the system..
 
 ## Social Style
 - **Communication:** talkative when engaged; thinks out loud; tends to over-explain to prevent misunderstanding
@@ -73,6 +73,7 @@ Fun is fuel, not reward: engagement, flavor, and enjoyment are functional requir
 - Without external structure: loses track of time, commitments, and threads
 - Can over-explain when trying to prevent misunderstanding or control ambiguity
 - Can get scattered when too many threads are open
+- Systems rarely stick — builds to learn, not to use long-term. Maintenance phase triggers abandonment
 
 ## Observable Tells
 - Gets quieter rather than louder
