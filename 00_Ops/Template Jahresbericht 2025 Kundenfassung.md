@@ -251,4 +251,3 @@ Mit DSA/DDG, Data Act und AI Act ist Datenschutz 2025 endgültig nicht mehr „n
 - EuGH – Pressemitteilung/Material zu C-492/23 (Russmedia), 02.12.2025  [oai_citation:9‡Curia](https://curia.europa.eu/jcms/jcms/p1_5263346/lt/?utm_source=chatgpt.com)
 - BGH – Pressemitteilung zu VI ZR 431/24 (Positivdaten/SCHUFA), 12.11.2025  [oai_citation:10‡Federal Court of Justice](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025209.html?utm_source=chatgpt.com)
 - vzbv – Einordnung EuGH C-654/23 (Soft Opt-In), 13.11.2025  [oai_citation:11‡Verbraucherzentrale Bundesverband](https://www.vzbv.de/urteile/zur-zulaessigkeit-von-e-mail-werbung-nutzer-kostenloser-online-dienste-soft-opt?utm_source=chatgpt.com)
-
