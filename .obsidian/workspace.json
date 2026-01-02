@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,8 +280,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e2204c2a02d11e2b",
+  "active": "046c7dccf0db0990",
   "lastOpenFiles": [
+    "00_Ops/01_HQ_secudor.md",
     "00_Ops/Jahresbericht Zwischenspeicher.md",
     "00_Ops/Template Jahresbericht 2025 Kundenfassung.md",
     "10_Arbeit/SECUD/Einladung Jahresbericht 2025.md",
@@ -289,7 +290,6 @@
     "10_Arbeit/SECUD/Kundentermine Datenschutz.md",
     "10_Arbeit/SECUD/KI-Nutzungshinweise.md",
     "10_Arbeit/RCG/2025-12-10 Kurzbewertung AI-Systeme.md",
-    "00_Ops/01_HQ_secudor.md",
     "10_Arbeit/SECUD/EHFREI Übergabe.md",
     "10_Arbeit/EKIBA/2025-12-11 Datenmaskierung.md",
     "10_Arbeit/ASKIROM/Kundenliste.md",

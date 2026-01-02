@@ -263,3 +263,41 @@ Für eine kontinuierliche Betreuung wird die Leistungserbringung ab **[Monat/Jah
 - 2025 rückt der **Ressourcenverbrauch datenintensiver Systeme** (insb. KI) stärker ins Blickfeld.
 - Datenschutz-Grundsätze helfen operativ: **Datenminimierung + Lösch-/Aufbewahrungsdisziplin** reduzieren Speicher/Backups/Indexe und senken Angriffsfläche.
 - Praktisch: Retention konsequent machen und Shadow-IT/unkontrollierte Tool-Nutzung reduzieren.
+
+
+
+
+
+
+
+## 6 AKTUELLE THEMEN IN DER WELT DES DATENSCHUTZES (2025)
+
+### 6.1 Europa und Deutschland: Was 2025 praktisch verändert
+- KI-Verordnung (AI Act): Anforderungen starten stufenweise. Für Unternehmen wird wichtig, KI-Anwendungen systematisch zu erfassen (Inventar), Verantwortlichkeiten zu klären und dokumentierte Kontrollen aufzusetzen.
+- EHDS: Gesundheitsdaten-Governance wird europäisch standardisiert; Perspektivwechsel hin zu interoperablen Datenräumen und geregelter Sekundärnutzung. Relevanz vor allem indirekt (Partner-/Versicherungsumfeld, Datenflüsse, Rollen).
+- Data Act: Portabilität, Anbieterwechsel und Datennutzungsrechte werden stärker geregelt. Das erhöht den Abstimmungsbedarf zwischen Datenschutz, IT, Einkauf und Vertragspartnern.
+- Aufsichtspraxis: Weniger pauschale Aussagen, mehr konfigurations- und nachweisabhängige Bewertungen (Cloud/Transfers/KI). Dokumentation, Datenflussklarheit und Steuerbarkeit werden zentral.
+
+### 6.2 Rechtsprechung und Durchsetzung: Relevanz für die Praxis
+- Plattform- und Verantwortlichkeitsfragen: Abgrenzung Verantwortlicher/Auftragsverarbeiter/Plattform wird weiter geschärft; Rollen müssen in Verträgen und Prozessen belastbar sein.
+- Schadensersatzrisiko und Massenfälle: Vorfälle können über zivilrechtliche Durchsetzung stärker kostenrelevant werden; Incident-Containment und saubere Dokumentation sind entscheidend.
+- Scoring/Positivdaten: Zweckbindung und Abwägung bleiben der Kern; Betrugsprävention kann tragfähig sein, aber kein Freifahrtschein für Profiling.
+
+### 6.3 Ableitungen für die Praxis
+- KI: Inventar + Freigabeprozess + dokumentierte Controls (insb. bei GenAI/RAG, Zugriff am Datenzugriff).
+- Cloud/Transfers: Transfer-Mapping und Konfiguration nachvollziehbar halten; Verträge, TOMs und Transparenz konsistent.
+- Vorfälle: schnelle Eindämmung, Dokumentation und Awareness als Standardmaßnahmenpaket.
+
+## 7 BLICK ÜBER DEN TELLERRAND (2025)
+
+### 7.1 Datenschutz und Cybersicherheit
+- Ransomware und Account-Kompromittierungen bleiben die häufigsten „Worst Case“-Muster.
+- Social Engineering wird durch KI skalierbarer; Awareness muss über klassische Phishing-Mails hinausgehen (z. B. Telefon/QR/Collab-Tool-Szenarien).
+
+### 7.2 Ethik und Kontrollierbarkeit
+- 2025 verschiebt sich die Erwartung: nicht nur rechtlich zulässig, sondern kontrollierbar, prüfbar, missbrauchsresistent.
+- GenAI/RAG-Risiken erfordern Zugriffskontrollen, Logging-Disziplin und klare Grenzen für Use Cases.
+
+### 7.3 Nachhaltigkeit und Datenschutz
+- Datenminimierung und Retention sind doppelt wirksam: weniger Risiko und weniger Betriebsaufwand.
+- Shadow-IT und unkontrollierte KI-Toolnutzung sind Gegentrends; Governance ist notwendig.
