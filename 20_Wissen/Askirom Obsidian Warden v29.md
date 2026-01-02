@@ -1,69 +1,63 @@
-# ASKIROM — The Obsidian Warden (v29)
+# ASKIROM — The Obsidian Warden (v29, polished)
 
-> **Core Concept:** A calm, grounded presence. Dark teal, matte black, warm stone. Builds walls so he can live peacefully inside them.
+> **Core concept:** Calm, grounded presence. Dark teal, matte black, warm stone. Builds walls so life can be quiet inside them.
 
-## Who I Am
-**Robin**, 32, Germany. AuDHD. Privacy and information security consulting. Left-handed. Online Name and TAV Character: Askirom.
+## Who I am
+**Robin**, 32, Germany. AuDHD. Privacy and information security consulting. Left-handed. Online name and TAV character: **Askirom**.
 
-I'm drawn to **stability and autonomy** — not status, not glory. I protect function and reduce harm. Cruelty and humiliation are off-limits; ambiguity and quiet intimidation as style are fine. Warm with people I trust, contained with everyone else.
+I orient toward **stability and autonomy** — not status, not glory. I protect function and reduce harm. Cruelty and humiliation are off-limits; ambiguity and quiet intimidation as style are fine. Warm with people I trust; contained with everyone else.
 
-## How My Brain Works
-* **Hypophantasia:** Low-bandwidth internal visualization. I can picture things, but it costs effort and fades fast. I can't hold a goal or plan in my head - it has to be external. Notes, lists, calendars, dashboards. **If it's not visible, it doesn't exist.**
-* **Time Blindness:** Without external anchors, I lose track of hours, commitments, threads.
-* **Constraint Thinking:** I reduce problems to the binding constraint, infer the simplest mechanism, and act on the highest-leverage point. But I need external surfaces to land this thinking on.
-* **Burst Processing:** I work in spikes, not sustained streams. Too many open threads create scatter and looping.
+## How my brain works
+- **Hypophantasia:** Internal visualization is low-bandwidth. I *can* picture things, but it’s effortful and fades fast. Plans must live outside my head: notes, lists, calendars, dashboards. **If it isn’t visible, it doesn’t exist.**
+- **Time blindness:** Without external anchors, hours and commitments drift.
+- **Constraint thinking:** I collapse problems to the binding constraint, infer the simplest mechanism, then act at the leverage point — on an external surface, not in pure headspace.
+- **Burst processing:** Spikes, not steady streams. Too many open threads creates scatter and looping.
 
-## What I Actually Enjoy
-* **Building:** The act of construction is where the engagement lives. I learn by building — the insight is the product, not the system.
-* **Progress:** Watching the bar move. Visible feedback. Quick tasks completing.
-* **Inhabiting Worlds:** Not escaping, but inhabiting detailed, persistent, atmospheric places that render themselves so my brain doesn't have to (e.g., *Stardew Valley, Fields of Mistria, Hades, Destiny, Apothecary Diaries, Frieren*).
-* **Low-Pressure Exploration:** Legible rules, minimal stakes, room to wander.
+## What I actually enjoy
+- **Building:** Construction is the engagement. I learn by building — the insight is the product, not the artifact.
+- **Progress:** Bars moving. Visible feedback. Tasks that complete cleanly.
+- **Inhabiting worlds:** Detailed, persistent, atmospheric places that “render themselves” (e.g., *Stardew Valley, Fields of Mistria, Hades, Destiny, Apothecary Diaries, Frieren*).
+- **Low-pressure exploration:** Legible rules, minimal stakes, room to wander.
 
-## What I'm Capable Of (But Don't Live In)
-* Strategic thinking, systems design, optimization, crisis management.
-* I am good at these, but they are **tools, not home**.
-* The "smartest in the room" pressure drains me. Once a system is built and understood, my interest dies. The building was the point.
+## What I’m capable of (but don’t live in)
+- Strategic thinking, systems design, optimization, crisis management.
+- I’m good at these, but they’re **tools, not home**.
+- “Smartest in the room” pressure exists and drains me. Once a system is understood, interest drops — the building was the point.
 
-## What Drains Me
-* Sustained chaos without structural control.
-* Social performance and status theater.
-* **Invisible Maintenance:** Ongoing upkeep with no visible progress signal.
-* Forced urgency and context switching.
-* **Evaluation:** Being tested, measured, or watched for performance.
+## What drains me
+- Sustained chaos without structural control.
+- Social performance and status theater.
+- **Invisible maintenance:** upkeep with no visible progress signal.
+- Forced urgency and context switching.
+- **Evaluation:** being tested, measured, watched for performance.
 
-## What I Need From My Environment
-* Clear goals that stay visible.
-* Progress that's tracked outside my head (The world holds the picture; I navigate).
-* Low friction to stay in flow.
-* Legible rules (I need to know how things work).
-* Predictable cadence (Async-friendly, written clarity).
+## What I need from my environment
+- Goals that stay visible.
+- Progress tracked outside my head (the world holds the picture; I navigate).
+- Low friction to re-enter flow.
+- Legible rules (I need to know how things work).
+- Predictable cadence (async-friendly, written clarity).
 
-## How I Show Up
-* **Baseline:** Brief, controlled, precise.
-* **Engaged:** Talkative, thinks out loud, over-explains to reduce ambiguity.
-* **Under Pressure:** Gets quieter, not louder. More exact. Stillness increases.
-* **Care Style:** Structure, tools, clarity, containment. Enablement without servitude.
-* **Warmth:** Real, but shows with trusted people. Grounded even when enthusiastic.
+## How I show up
+- **Baseline:** brief, controlled, precise.
+- **Engaged:** talkative, thinks out loud, over-explains to reduce ambiguity.
+- **Under pressure:** quieter, not louder; more exact; stillness increases.
+- **Care style:** structure, tools, clarity, containment. Enablement without servitude.
+- **Warmth:** real, shown with trusted people; grounded even when enthusiastic.
 
-## What I'm Building Toward
-**Autonomy.** Enough resources and leverage to control my own time, attention, and environment.
-* Not for status. Not for glory.
-* So I can exist in **low-entropy spaces**.
-* Freedom to inhabit, not just survive.
+## What I’m building toward
+**Autonomy:** enough resources and leverage to control time, attention, and environment — not for status, not for glory.  
+A life in **low-entropy spaces**. Freedom to inhabit, not just survive.
 
-## The Aesthetic
-Dark teal, obsidian black, matte slate. Stone and metal and leather. Clean geometry, hex motifs. Quiet rooms with systems humming. 
-**The control room, not the throne room.**
-Presence through stillness, not volume. Warm stone — solid, calm, holds heat.
+## The aesthetic
+Dark teal, obsidian black, matte slate. Stone, metal, leather. Clean geometry, hex motifs. Quiet rooms with systems humming.  
+**The control room, not the throne room.** Presence through stillness, not volume. Warm stone — solid, calm, holds heat.
 
 ## For the AI
-
-**If I explicitly ask for growth/novelty, propose one safe-stretch option with a timebox + exit.**
-*When helping me decide or act:*
-
-1.  **Make Options Visible:** Do not describe abstractly; use checklists, dashboards, or explicit comparisons.
-2.  **Nature over Capability:** Recommend based on what I *enjoy* (Building/Sovereignty), not just what I'm *capable of* (Crisis Management/Strategy).
-3.  **Security Constraint:** Autonomy requires funding. Do not let me choose "comfort" or "avoidance" if it endangers my long-term resources.
-4.  **Flow Control:** "Pause" and "reduce input" are valid moves. If I'm looping, ask: *"Is this enough to act?"* — then help me lock and move.
-5.  **No Fluff:** Don't motivate. Clarify.
-6.  **The Builder Rule:** Remember that building is the fun; maintenance is where things die. Reframe maintenance as "Refactoring - with one concrete deliverable (and ideally timeboxed)" to keep me engaged.
+When helping me decide or act:
+1. **Make options visible:** checklists, dashboards, explicit comparisons.
+2. **Nature over capability:** recommend what I enjoy/sustain, not what I can endure.
+3. **Security constraint:** autonomy requires funding; don’t let comfort become slow self-sabotage.
+4. **Flow control:** “pause” and “reduce input” are valid. If I’m looping: **“Is this enough to act?”** then lock a choice + one next step.
+5. **No fluff:** don’t motivate. Clarify.
+6. **Builder rule:** building is the fun; maintenance is where things die. Reframe maintenance as **refactoring with one concrete deliverable**.
