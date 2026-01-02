@@ -1,3 +1,4 @@
+# Jahresbericht 2025
 ## 3 AKTUELLE THEMEN IN DER WELT DES DATENSCHUTZES
 
 ### 3.1 RECHTLICHE UND REGULATORISCHE ENTWICKLUNGEN
@@ -6,13 +7,10 @@
 
 - **KI-Verordnung (AI Act)**  
   Der AI Act ist am 01.08.2024 in Kraft getreten und schafft einen risikobasierten Rechtsrahmen für KI-Systeme in der EU. Verbotene KI-Praxen gelten bereits ab 2025, die meisten Pflichten – insbesondere für Hochrisiko-KI – greifen gestaffelt bis 2026/2027. Unternehmen müssen u. a. Risikobewertungen, Daten-Governance, Transparenz und menschliche Aufsicht für bestimmte KI-Anwendungen sicherstellen.
-
 - **NIS2**  
   Die NIS2-Richtlinie ist seit 2023 in Kraft und weitet die Anforderungen an Cybersicherheit deutlich aus (u. a. mehr betroffene Unternehmen, strengere Meldepflichten und Governance-Anforderungen). In Deutschland hat der Bundestag im November 2025 das NIS2-Umsetzungsgesetz beschlossen; es bringt deutlich verschärfte Pflichten insbesondere für „wichtige“ und „besonders wichtige“ Einrichtungen.
-
 - **DORA (Digital Operational Resilience Act)**  
   Für Finanzunternehmen (Banken, Versicherer, Wertpapierfirmen u. a.) gilt seit dem 17.01.2025 DORA. Die Verordnung vereinheitlicht Anforderungen an die digitale operative Resilienz, u. a. zu ICT-Risikomanagement, Meldepflichten bei ICT-Vorfällen, Tests der Cyber-Resilienz und Auslagerungssteuerung.
-
 - **DSA/DMA**  
   Der Digital Services Act (DSA) gilt seit dem 17.02.2024 EU-weit für Online-Vermittlungsdienste. Das deutsche Digitale-Dienste-Gesetz (DDG) ist seit dem 14.05.2024 in Kraft und regelt die nationale Aufsicht, u. a. durch die BfDI für bestimmte Werbe- und Profiling-Verbote. Der Digital Markets Act (DMA) verpflichtet „Gatekeeper“-Plattformen insbesondere dazu, Daten aus verschiedenen Diensten nicht ohne Einwilligung zu kombinieren.
 

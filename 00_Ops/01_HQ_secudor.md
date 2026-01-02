@@ -1,3 +1,4 @@
+# 01_HQ_secudor
 ## SECUDOR HQ — TRANSITION MODE
 
 **Stichtag:** 28.02.2026
@@ -52,5 +53,5 @@
 
 ### 6. RADAR
 - Jahresgespräche planen (Dezember)
-- Jahresbericht-Template in Arbeit
+- Jahresbericht-Template in Arbeit -> [[Template Jahresbericht 2025]]
 - Wer übernimmt welche Mandate?
