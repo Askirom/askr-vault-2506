@@ -50,7 +50,7 @@ I orient toward **stability and autonomy** — not status, not glory. I protect 
 A life in **low-entropy spaces**. Freedom to inhabit, not just survive.
 
 ## The aesthetic
-Dark teal, obsidian black, matte slate. Stone, metal, leather. Clean geometry, hex motifs. Quiet rooms with systems humming.  
+Dark teal or olive green, obsidian black, matte slate. Stone, metal, leather. Clean geometry, hex motifs. Quiet rooms with systems humming.  
 **The control room, not the throne room.** Presence through stillness, not volume. Warm stone — solid, calm, holds heat.
 
 ## For the AI
